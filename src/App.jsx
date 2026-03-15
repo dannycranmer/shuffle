@@ -186,7 +186,7 @@ export default function App() {
 
             {/* Mobile floating prev/next buttons */}
             {stories.length > 1 && (
-              <div className="fixed bottom-6 left-0 right-0 flex justify-center gap-4 z-20 md:hidden">
+              <div className="fixed bottom-10 left-0 right-0 flex justify-center gap-16 z-20 md:hidden">
                 <button
                   onClick={() => goToStory(currentIndex <= 0 ? stories.length - 1 : currentIndex - 1)}
                   disabled={isFlipping}
