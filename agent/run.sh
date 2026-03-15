@@ -7,7 +7,7 @@ set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 LOG_DIR="$SCRIPT_DIR/logs"
-TODAY=$(date -u +%Y-%m-%d)
+TODAY=${SHUFFLE_DATE:-$(date -u +%Y-%m-%d)}
 LOG_FILE="$LOG_DIR/$TODAY.log"
 
 mkdir -p "$LOG_DIR"

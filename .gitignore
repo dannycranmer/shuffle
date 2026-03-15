@@ -5,9 +5,10 @@ node_modules
 dist
 dist-ssr
 
-# Env
+# Env & secrets
 *.local
 .env
+*.pem
 
 # Agent logs
 agent/logs/
@@ -26,3 +27,6 @@ agent/logs/
 # Logs
 *.log
 npm-debug.log*
+
+# Local Netlify folder
+.netlify
