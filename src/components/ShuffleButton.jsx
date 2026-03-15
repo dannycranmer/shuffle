@@ -24,7 +24,7 @@ export default function ShuffleButton({ onShuffle, current, total }) {
           Shuffle
         </span>
       </button>
-      <span className="text-sm text-shuffle-400">
+      <span className="text-xs font-medium text-shuffle-600 bg-white/90 backdrop-blur-sm px-3 py-1 rounded-full shadow-sm">
         {current} of {total}
       </span>
     </div>
