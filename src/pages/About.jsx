@@ -174,7 +174,10 @@ export default function About() {
                 Built by{' '}
                 <a href="https://www.linkedin.com/in/dannycranmer" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
                   Danny Cranmer
-                </a>
+                </a>{' '}
+                (<a href="https://github.com/dannycranmer" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">GitHub</a>
+                {' · '}
+                <a href="https://www.linkedin.com/in/dannycranmer" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">LinkedIn</a>)
                 {' '}with{' '}
                 <a href="https://claude.ai" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
                   Claude
