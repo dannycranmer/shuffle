@@ -71,8 +71,8 @@ export default function App() {
         }
         setStories(data.stories)
         // Check for story ID in hash (from shared link)
-        const hashStoryId = window.location.hash.slice(1)
-        const linkedStory = hashStoryId && data.stories.find((s) => s.id === hashStoryId)
+        const hashFragment = window.location.hash.slice(1)
+        const linkedStory = hashFragment && data.stories.find((s) => s.id === `${currentDate}-${hashFragment}` || s.id === hashFragment)
         if (linkedStory) {
           setCurrentStory(linkedStory)
           markSeen(currentDate, linkedStory.id)
@@ -106,7 +106,8 @@ export default function App() {
       const pick = pool[Math.floor(Math.random() * pool.length)]
       markSeen(currentDate, pick.id)
       setCurrentStory(pick)
-      window.history.replaceState(null, '', `/date/${currentDate}#${pick.id}`)
+      const shortId = pick.id.replace(`${currentDate}-`, '')
+      window.history.replaceState(null, '', `/date/${currentDate}#${shortId}`)
       setIsFlipping(false)
     }, 400)
   }, [stories, currentDate, currentStory, isFlipping])
