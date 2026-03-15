@@ -12,7 +12,7 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 TODAY=${SHUFFLE_DATE:-$(date -u +%Y-%m-%d)}
 STORIES_FILE="$REPO_DIR/public/content/stories/$TODAY.json"
-SITE_URL="https://shuffle-daily-news.netlify.app"
+SITE_URL="https://shuffle-news.netlify.app"
 NUM_POSTS=3
 
 log() {

@@ -22,7 +22,7 @@ export default function About() {
             I Built a News Site That Runs Itself
           </h1>
           <p className="text-xl text-shuffle-500 mb-8">
-            No editors. No CMS. No human intervention. Just an AI agent, a cron job, and $2/day.
+            No editors. No CMS. No human intervention. Just an AI agent, a cron job, and effectively zero running costs.
           </p>
 
           <div className="text-shuffle-600 leading-relaxed space-y-6">
@@ -101,12 +101,12 @@ export default function About() {
                     <td className="py-2">Free</td>
                   </tr>
                   <tr className="border-b border-shuffle-100">
-                    <td className="py-2 pr-4">Claude API</td>
-                    <td className="py-2">~$30-90 (usage-based)</td>
+                    <td className="py-2 pr-4">Claude (via Max subscription)</td>
+                    <td className="py-2">$0 marginal (included in existing subscription)</td>
                   </tr>
                   <tr className="border-b border-shuffle-200 font-semibold">
                     <td className="py-2 pr-4">Total</td>
-                    <td className="py-2">~$1-3/day</td>
+                    <td className="py-2">Effectively free</td>
                   </tr>
                 </tbody>
               </table>
@@ -164,8 +164,9 @@ export default function About() {
             </ul>
 
             <p>
-              The entire project was built in a single session with Claude Code. The irony of using AI to
-              build an AI-powered website is not lost on me.
+              The entire project — frontend, agent, infrastructure, deployment — was built in a single
+              evening with Claude Code. From empty directory to live, self-operating website in about 3 hours.
+              The irony of using AI to build an AI-powered website is not lost on me.
             </p>
 
             <div className="border-t border-shuffle-200 mt-12 pt-8 text-sm text-shuffle-400">
