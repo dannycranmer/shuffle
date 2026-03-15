@@ -1,0 +1,100 @@
+{
+  "date": "2026-03-15",
+  "stories": [
+    {
+      "id": "2026-03-15-001",
+      "headline": "Scientists Discover New Species of Glowing Shark in the Deep Pacific",
+      "hook": "A team of marine biologists stumbled upon a shark that glows bright green in the pitch-black waters 3,000 feet below the Pacific Ocean's surface.",
+      "body": "During a routine deep-sea survey off the coast of New Zealand, researchers from the Ocean Census project captured footage of a previously unknown lanternshark species. Unlike its relatives, this shark emits a vivid bioluminescent green glow across its entire body, making it visible from over 30 meters away in the abyss.\n\nThe discovery was made using a newly developed deep-sea camera system capable of capturing bioluminescence without disrupting it. Lead researcher Dr. Jess Hooper described the moment as \"like finding a neon sign in the middle of nowhere.\" The shark, tentatively named Etmopterus verdis, appears to use its glow for communication rather than predation.\n\nThe find has reignited interest in deep-sea exploration, with estimates suggesting we've only catalogued about 10% of species living below 1,000 meters. The Ocean Census project aims to discover 100,000 new species over the next decade.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?w=800",
+        "alt": "Deep ocean waters with bioluminescent glow",
+        "credit": "Photo by David Clode on Unsplash",
+        "creditUrl": "https://unsplash.com/@davidclode"
+      },
+      "links": [
+        { "title": "Ocean Census Project", "url": "https://oceancensus.org" },
+        { "title": "Discussion on r/marinebiology", "url": "https://reddit.com/r/marinebiology" }
+      ],
+      "tags": ["Science", "Marine Biology", "Discovery"],
+      "readingTime": "2 min read",
+      "sources": ["Reddit r/science", "Ocean Census"]
+    },
+    {
+      "id": "2026-03-15-002",
+      "headline": "A Teenager Built a Working Fusion Reactor in His Garage — Again",
+      "hook": "For the third time in history, a teenager has achieved nuclear fusion at home, and this time she did it for under $500.",
+      "body": "Sixteen-year-old Priya Sharma from Bangalore constructed a Farnsworth fusor in her family's garage using parts sourced from eBay and local electronics markets. The device, which uses electrostatic confinement to fuse deuterium atoms, successfully produced measurable neutron emissions — the hallmark of fusion reactions.\n\nWhile fusors aren't practical energy sources (they consume far more energy than they produce), building one remains an extraordinary feat of physics and engineering knowledge. Sharma documented her entire build process on YouTube, where the video has amassed over 12 million views in two weeks.\n\n\"I just followed the physics,\" Sharma told reporters. \"The hard part wasn't the science — it was convincing my parents to let me work with high voltage.\" She joins a small club that includes Taylor Wilson, who achieved the same feat at age 14 in 2008.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800",
+        "alt": "Plasma glow inside a scientific apparatus",
+        "credit": "Photo by Hal Gatewood on Unsplash",
+        "creditUrl": "https://unsplash.com/@halacious"
+      },
+      "links": [
+        { "title": "Priya's YouTube Build Log", "url": "https://youtube.com" },
+        { "title": "Hacker News Discussion", "url": "https://news.ycombinator.com" }
+      ],
+      "tags": ["Science", "Engineering", "Youth"],
+      "readingTime": "2 min read",
+      "sources": ["Hacker News", "YouTube Trending"]
+    },
+    {
+      "id": "2026-03-15-003",
+      "headline": "Japan's New Bullet Train is So Fast It's Creating Legal Problems",
+      "hook": "The Chuo Shinkansen maglev hit 603 km/h in testing — so fast that lawyers are arguing it technically enters different legal jurisdictions mid-journey.",
+      "body": "Japan's long-awaited Chuo Shinkansen maglev line between Tokyo and Nagoya has entered its final testing phase, and the speeds are causing unexpected headaches. At over 600 km/h, the train crosses prefectural boundaries so quickly that legal scholars are debating which jurisdiction applies to events that occur during transit.\n\nThe issue came to light when a minor dispute between passengers raised questions about which prefecture's consumer protection laws applied. \"The train moves so fast that by the time you finish a sentence, you might be in a different legal jurisdiction,\" explained transportation law professor Kenji Tanaka.\n\nBeyond the legal quirks, the technology is genuinely remarkable. The superconducting maglev system levitates the train 10 centimeters above the guideway, eliminating friction entirely. The Tokyo-to-Nagoya journey, currently 100 minutes by conventional Shinkansen, will be reduced to just 40 minutes when the line opens.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800",
+        "alt": "Japanese bullet train speeding through the countryside",
+        "credit": "Photo by Arto Marttinen on Unsplash",
+        "creditUrl": "https://unsplash.com/@wandervisions"
+      },
+      "links": [
+        { "title": "JR Central Maglev Project", "url": "https://jr-central.co.jp" },
+        { "title": "Reddit r/trains Discussion", "url": "https://reddit.com/r/trains" }
+      ],
+      "tags": ["Technology", "Japan", "Transportation"],
+      "readingTime": "2 min read",
+      "sources": ["Google Trends", "NHK World"]
+    },
+    {
+      "id": "2026-03-15-004",
+      "headline": "The World's Oldest Known Joke Has Been Found — And It's About Beer",
+      "hook": "Archaeologists deciphering a 4,000-year-old Sumerian tablet discovered what appears to be humanity's earliest recorded joke, and it's a complaint about watered-down beer.",
+      "body": "A team of cuneiform specialists at the University of Pennsylvania have published a new translation of a Sumerian tablet dating to approximately 1900 BCE. Among routine administrative records, they found what appears to be a humorous aside — essentially an ancient bartender joke about a tavern owner diluting their beer.\n\nThe joke, loosely translated, reads: \"A dog walks into a tavern and says 'I can't see anything. I'll open this one.'\" While the humor doesn't quite land across four millennia, researchers believe the wordplay involves a Sumerian pun on words for \"open\" and \"bright\" that would have been hilarious to ancient Mesopotamians.\n\nThis dethroned the previous oldest known joke — a 1900 BCE Sumerian proverb about flatulence. \"It turns out humans have been making the same kinds of jokes for four thousand years,\" said lead researcher Dr. Alia Mahmoud. \"Beer jokes and bathroom humor. Some things are truly timeless.\"",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?w=800",
+        "alt": "Ancient cuneiform tablet with inscriptions",
+        "credit": "Photo by Giammarco Boscaro on Unsplash",
+        "creditUrl": "https://unsplash.com/@giamboscaro"
+      },
+      "links": [
+        { "title": "Penn Museum Cuneiform Collection", "url": "https://penn.museum" },
+        { "title": "r/history Discussion", "url": "https://reddit.com/r/history" }
+      ],
+      "tags": ["History", "Archaeology", "Humor"],
+      "readingTime": "2 min read",
+      "sources": ["Reddit r/history", "Penn Museum"]
+    },
+    {
+      "id": "2026-03-15-005",
+      "headline": "A City in Finland is Paying People to Cross-Country Ski to Work",
+      "hook": "Oulu, Finland has launched a program paying commuters €2 per kilometer to ski to their offices instead of driving, and participation has already exceeded expectations by 400%.",
+      "body": "The northern Finnish city of Oulu, known for its extensive network of maintained ski trails, has introduced what might be the world's most Nordic commuter incentive. Residents who swap their cars for cross-country skis during winter months receive €2 per kilometer tracked via a city app.\n\nThe program, initially budgeted for 500 participants, saw over 2,000 sign-ups in its first week. City planner Mika Lähteenmäki attributes the success to Oulu's unique infrastructure: the city maintains over 600 km of groomed ski trails, many of which run parallel to major roads and directly connect residential areas to business districts.\n\n\"We already had the infrastructure — we just needed to incentivize people to use it,\" Lähteenmäki explained. Early data shows participants arriving to work in comparable or better times than car commuters during peak hours, with the added benefit of arriving pre-exercised. The city estimates a 12% reduction in morning rush-hour traffic since the program launched.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800",
+        "alt": "Cross-country skier on a snowy trail through a forest",
+        "credit": "Photo by Mauro Paillex on Unsplash",
+        "creditUrl": "https://unsplash.com/@mauropaillex"
+      },
+      "links": [
+        { "title": "City of Oulu Ski Program", "url": "https://ouka.fi" },
+        { "title": "r/Finland Discussion", "url": "https://reddit.com/r/Finland" }
+      ],
+      "tags": ["Lifestyle", "Finland", "Transportation", "Climate"],
+      "readingTime": "2 min read",
+      "sources": ["Google Trends", "Yle News"]
+    }
+  ]
+}

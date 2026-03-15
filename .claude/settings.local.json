@@ -4,7 +4,13 @@
       "Bash(npm create:*)",
       "Bash(cp:*)",
       "Bash(npm install:*)",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Bash(gh repo:*)",
+      "Bash(npm run:*)",
+      "Bash(chmod:*)",
+      "Bash(sleep:*)",
+      "Bash(curl:*)",
+      "Bash(git add:*)"
     ]
   }
 }
