@@ -1,10 +1,17 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import TagPills from './TagPills'
 import useSwipe from '../hooks/useSwipe'
 
 export default function StoryCard({ story, isFlipping, onSwipeShuffle }) {
   const [imageError, setImageError] = useState(false)
+  const [imageLoading, setImageLoading] = useState(true)
   const { elementRef, onTouchStart, onTouchMove, onTouchEnd } = useSwipe(onSwipeShuffle)
+
+  // Reset image state when story changes
+  useEffect(() => {
+    setImageError(false)
+    setImageLoading(true)
+  }, [story?.id])
 
   if (!story) return null
 
@@ -19,12 +26,18 @@ export default function StoryCard({ story, isFlipping, onSwipeShuffle }) {
       >
         {/* Hero Image */}
         <div className="relative w-full aspect-[16/9] rounded-xl overflow-hidden mb-6 bg-gradient-to-br from-shuffle-200 to-shuffle-300">
+          {imageLoading && !imageError && (
+            <div className="absolute inset-0 flex items-center justify-center z-10">
+              <div className="animate-spin rounded-full h-8 w-8 border-2 border-shuffle-300 border-t-shuffle-600" />
+            </div>
+          )}
           {!imageError ? (
             <img
               src={story.image.url}
               alt={story.image.alt}
-              className="w-full h-full object-cover"
-              onError={() => setImageError(true)}
+              className={`w-full h-full object-cover transition-opacity duration-300 ${imageLoading ? 'opacity-0' : 'opacity-100'}`}
+              onLoad={() => setImageLoading(false)}
+              onError={() => { setImageError(true); setImageLoading(false) }}
               draggable={false}
             />
           ) : (
