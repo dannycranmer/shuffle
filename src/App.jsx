@@ -80,28 +80,33 @@ export default function App() {
       .finally(() => setLoading(false))
   }, [currentDate])
 
-  // Shuffle to a random unseen story
+  // Pick next random unseen story (no animation)
+  const pickNext = useCallback(() => {
+    if (stories.length <= 1) return
+
+    const seen = getSeenStories(currentDate)
+    let pool = stories.filter((s) => !seen.includes(s.id) && s.id !== currentStory?.id)
+
+    if (pool.length === 0) {
+      sessionStorage.removeItem(SEEN_KEY_PREFIX + currentDate)
+      pool = stories.filter((s) => s.id !== currentStory?.id)
+    }
+
+    const pick = pool[Math.floor(Math.random() * pool.length)]
+    markSeen(currentDate, pick.id)
+    setCurrentStory(pick)
+  }, [stories, currentDate, currentStory])
+
+  // Shuffle with flip animation (desktop)
   const shuffle = useCallback(() => {
     if (stories.length <= 1 || isFlipping) return
 
     setIsFlipping(true)
-
     setTimeout(() => {
-      const seen = getSeenStories(currentDate)
-      let pool = stories.filter((s) => !seen.includes(s.id) && s.id !== currentStory?.id)
-
-      // If all seen, reset and pick from all except current
-      if (pool.length === 0) {
-        sessionStorage.removeItem(SEEN_KEY_PREFIX + currentDate)
-        pool = stories.filter((s) => s.id !== currentStory?.id)
-      }
-
-      const pick = pool[Math.floor(Math.random() * pool.length)]
-      markSeen(currentDate, pick.id)
-      setCurrentStory(pick)
+      pickNext()
       setIsFlipping(false)
     }, 400)
-  }, [stories, currentDate, currentStory, isFlipping])
+  }, [stories, isFlipping, pickNext])
 
   // Keyboard shortcut: spacebar to shuffle
   useEffect(() => {
@@ -162,13 +167,18 @@ export default function App() {
 
         {!loading && !error && currentStory && (
           <>
-            <StoryCard story={currentStory} isFlipping={isFlipping} onSwipeShuffle={shuffle} />
-            <div className="mt-10 mb-8">
+            <StoryCard story={currentStory} isFlipping={isFlipping} onSwipeShuffle={pickNext} />
+            <div className="mt-10 mb-8 hidden md:block">
               <ShuffleButton
                 onShuffle={shuffle}
                 current={Math.min(seenCount, stories.length)}
                 total={stories.length}
               />
+            </div>
+            <div className="mt-4 mb-8 text-center md:hidden">
+              <span className="text-sm text-shuffle-400">
+                {Math.min(seenCount, stories.length)} of {stories.length}
+              </span>
             </div>
           </>
         )}
