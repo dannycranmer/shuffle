@@ -80,33 +80,41 @@ export default function App() {
       .finally(() => setLoading(false))
   }, [currentDate])
 
-  // Pick next random unseen story (no animation)
-  const pickNext = useCallback(() => {
-    if (stories.length <= 1) return
+  // Get current story index
+  const currentIndex = stories.findIndex((s) => s.id === currentStory?.id)
 
-    const seen = getSeenStories(currentDate)
-    let pool = stories.filter((s) => !seen.includes(s.id) && s.id !== currentStory?.id)
+  // Navigate to a specific story by index (with flip animation)
+  const goToStory = useCallback((index) => {
+    if (isFlipping || !stories[index]) return
+    setIsFlipping(true)
+    setTimeout(() => {
+      const pick = stories[index]
+      markSeen(currentDate, pick.id)
+      setCurrentStory(pick)
+      setIsFlipping(false)
+    }, 400)
+  }, [stories, currentDate, isFlipping])
 
-    if (pool.length === 0) {
-      sessionStorage.removeItem(SEEN_KEY_PREFIX + currentDate)
-      pool = stories.filter((s) => s.id !== currentStory?.id)
-    }
-
-    const pick = pool[Math.floor(Math.random() * pool.length)]
-    markSeen(currentDate, pick.id)
-    setCurrentStory(pick)
-  }, [stories, currentDate, currentStory])
-
-  // Shuffle with flip animation (desktop)
+  // Shuffle to random unseen story (with flip animation)
   const shuffle = useCallback(() => {
     if (stories.length <= 1 || isFlipping) return
 
     setIsFlipping(true)
     setTimeout(() => {
-      pickNext()
+      const seen = getSeenStories(currentDate)
+      let pool = stories.filter((s) => !seen.includes(s.id) && s.id !== currentStory?.id)
+
+      if (pool.length === 0) {
+        sessionStorage.removeItem(SEEN_KEY_PREFIX + currentDate)
+        pool = stories.filter((s) => s.id !== currentStory?.id)
+      }
+
+      const pick = pool[Math.floor(Math.random() * pool.length)]
+      markSeen(currentDate, pick.id)
+      setCurrentStory(pick)
       setIsFlipping(false)
     }, 400)
-  }, [stories, isFlipping, pickNext])
+  }, [stories, currentDate, currentStory, isFlipping])
 
   // Keyboard shortcut: spacebar to shuffle
   useEffect(() => {
@@ -137,7 +145,7 @@ export default function App() {
               shuffle
             </h1>
             <span className="text-xs text-shuffle-400 hidden md:inline">press space to shuffle</span>
-            <span className="text-xs text-shuffle-400 md:hidden">swipe to shuffle</span>
+            <span className="text-xs text-shuffle-400 md:hidden">{currentIndex + 1} of {stories.length}</span>
           </div>
           {dates.length > 0 && currentDate && (
             <DateNav dates={dates} currentDate={currentDate} onDateChange={handleDateChange} />
@@ -167,7 +175,7 @@ export default function App() {
 
         {!loading && !error && currentStory && (
           <>
-            <StoryCard story={currentStory} isFlipping={isFlipping} onSwipeShuffle={pickNext} />
+            <StoryCard story={currentStory} isFlipping={isFlipping} />
             <div className="mt-10 mb-8 hidden md:block">
               <ShuffleButton
                 onShuffle={shuffle}
@@ -175,11 +183,36 @@ export default function App() {
                 total={stories.length}
               />
             </div>
-            <div className="mt-4 mb-8 text-center md:hidden">
-              <span className="text-sm text-shuffle-400">
-                {Math.min(seenCount, stories.length)} of {stories.length}
-              </span>
-            </div>
+
+            {/* Mobile floating prev/next buttons */}
+            {stories.length > 1 && (
+              <div className="fixed bottom-6 left-0 right-0 flex justify-center gap-4 z-20 md:hidden">
+                <button
+                  onClick={() => goToStory(currentIndex <= 0 ? stories.length - 1 : currentIndex - 1)}
+                  disabled={isFlipping}
+                  className="w-12 h-12 rounded-full bg-shuffle-900 text-white shadow-lg
+                             flex items-center justify-center active:scale-95 transition-transform
+                             disabled:opacity-50"
+                  aria-label="Previous story"
+                >
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                  </svg>
+                </button>
+                <button
+                  onClick={() => goToStory(currentIndex >= stories.length - 1 ? 0 : currentIndex + 1)}
+                  disabled={isFlipping}
+                  className="w-12 h-12 rounded-full bg-shuffle-900 text-white shadow-lg
+                             flex items-center justify-center active:scale-95 transition-transform
+                             disabled:opacity-50"
+                  aria-label="Next story"
+                >
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
+                </button>
+              </div>
+            )}
           </>
         )}
       </main>

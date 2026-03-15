@@ -1,11 +1,9 @@
 import { useState, useEffect } from 'react'
 import TagPills from './TagPills'
-import useSwipe from '../hooks/useSwipe'
 
-export default function StoryCard({ story, isFlipping, onSwipeShuffle }) {
+export default function StoryCard({ story, isFlipping }) {
   const [imageError, setImageError] = useState(false)
   const [imageLoading, setImageLoading] = useState(true)
-  const { elementRef, onTouchStart, onTouchMove, onTouchEnd } = useSwipe(onSwipeShuffle)
 
   // Reset image state when story changes
   useEffect(() => {
@@ -17,13 +15,7 @@ export default function StoryCard({ story, isFlipping, onSwipeShuffle }) {
 
   return (
     <div className="flip-container">
-      <article
-        ref={elementRef}
-        className={`flip-card ${isFlipping ? 'flipping' : ''}`}
-        onTouchStart={onTouchStart}
-        onTouchMove={onTouchMove}
-        onTouchEnd={onTouchEnd}
-      >
+      <article className={`flip-card ${isFlipping ? 'flipping' : ''} md:pb-0 pb-24`}>
         {/* Hero Image */}
         <div className="relative w-full aspect-[16/9] rounded-xl overflow-hidden mb-6 bg-gradient-to-br from-shuffle-200 to-shuffle-300">
           {imageLoading && !imageError && (
