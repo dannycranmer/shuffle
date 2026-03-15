@@ -131,6 +131,15 @@ export default function App() {
 
   const seenCount = currentDate ? getSeenStories(currentDate).length : 0
 
+  // Update page title with current story
+  useEffect(() => {
+    if (currentStory) {
+      document.title = `${currentStory.headline} — Shuffle`
+    } else {
+      document.title = 'Shuffle — Daily Stories'
+    }
+  }, [currentStory])
+
   return (
     <div className="min-h-screen flex flex-col">
       {/* Header */}
