@@ -131,7 +131,8 @@ export default function App() {
             <h1 className="font-display text-2xl font-bold text-shuffle-900 tracking-tight">
               shuffle
             </h1>
-            <span className="text-xs text-shuffle-400">press space to shuffle</span>
+            <span className="text-xs text-shuffle-400 hidden md:inline">press space to shuffle</span>
+            <span className="text-xs text-shuffle-400 md:hidden">swipe to shuffle</span>
           </div>
           {dates.length > 0 && currentDate && (
             <DateNav dates={dates} currentDate={currentDate} onDateChange={handleDateChange} />
@@ -161,7 +162,7 @@ export default function App() {
 
         {!loading && !error && currentStory && (
           <>
-            <StoryCard story={currentStory} isFlipping={isFlipping} />
+            <StoryCard story={currentStory} isFlipping={isFlipping} onSwipeShuffle={shuffle} />
             <div className="mt-10 mb-8">
               <ShuffleButton
                 onShuffle={shuffle}

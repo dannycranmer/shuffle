@@ -1,14 +1,22 @@
 import { useState } from 'react'
 import TagPills from './TagPills'
+import useSwipe from '../hooks/useSwipe'
 
-export default function StoryCard({ story, isFlipping }) {
+export default function StoryCard({ story, isFlipping, onSwipeShuffle }) {
   const [imageError, setImageError] = useState(false)
+  const { elementRef, onTouchStart, onTouchMove, onTouchEnd } = useSwipe(onSwipeShuffle)
 
   if (!story) return null
 
   return (
-    <div className={`flip-container ${isFlipping ? '' : ''}`}>
-      <article className={`flip-card ${isFlipping ? 'flipping' : ''}`}>
+    <div className="flip-container">
+      <article
+        ref={elementRef}
+        className={`flip-card ${isFlipping ? 'flipping' : ''}`}
+        onTouchStart={onTouchStart}
+        onTouchMove={onTouchMove}
+        onTouchEnd={onTouchEnd}
+      >
         {/* Hero Image */}
         <div className="relative w-full aspect-[16/9] rounded-xl overflow-hidden mb-6 bg-gradient-to-br from-shuffle-200 to-shuffle-300">
           {!imageError ? (
@@ -17,6 +25,7 @@ export default function StoryCard({ story, isFlipping }) {
               alt={story.image.alt}
               className="w-full h-full object-cover"
               onError={() => setImageError(true)}
+              draggable={false}
             />
           ) : (
             <div className="w-full h-full flex items-center justify-center">
