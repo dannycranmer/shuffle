@@ -10,7 +10,15 @@
       "Bash(chmod:*)",
       "Bash(sleep:*)",
       "Bash(curl:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(which netlify:*)",
+      "Bash(npx netlify:*)",
+      "Bash(source:*)",
+      "Bash(claude config:*)",
+      "Bash(git:*)",
+      "Bash(ssh shuffle-agent:*)",
+      "Bash(ls:*)"
     ]
   }
 }
