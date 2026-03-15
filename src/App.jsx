@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react'
-import { useNavigate, useParams, useLocation } from 'react-router-dom'
+import { useNavigate, useParams, useLocation, Link } from 'react-router-dom'
 import StoryCard from './components/StoryCard'
 import DateNav from './components/DateNav'
 import ShuffleButton from './components/ShuffleButton'
@@ -146,9 +146,9 @@ export default function App() {
       <header className="border-b border-shuffle-200 bg-white/80 backdrop-blur-sm sticky top-0 z-10">
         <div className="max-w-3xl mx-auto px-4 py-4">
           <div className="flex items-center justify-between mb-2">
-            <h1 className="font-display text-2xl font-bold text-shuffle-900 tracking-tight">
+            <Link to="/" className="font-display text-2xl font-bold text-shuffle-900 tracking-tight hover:text-shuffle-700">
               shuffle
-            </h1>
+            </Link>
             <span className="text-xs text-shuffle-400 hidden md:inline">press space to shuffle</span>
             <span className="text-xs text-shuffle-400 md:hidden">{Math.min(seenCount, stories.length)} of {stories.length}</span>
           </div>
@@ -217,7 +217,10 @@ export default function App() {
             >
               Unsplash
             </a>
-            .
+            {' · '}
+            <Link to="/about" className="hover:text-shuffle-600">
+              How this site works
+            </Link>
           </p>
         </div>
       </footer>
