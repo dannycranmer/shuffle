@@ -18,7 +18,7 @@ export default function DateNav({ currentDate, dates, onDateChange }) {
       <button
         onClick={() => hasOlder && onDateChange(dates[currentIndex + 1])}
         disabled={!hasOlder}
-        className="p-2 rounded-lg hover:bg-shuffle-100 disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+        className="p-2 rounded-lg hover:bg-shuffle-100 cursor-pointer disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
         aria-label="Older stories"
       >
         <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -33,7 +33,7 @@ export default function DateNav({ currentDate, dates, onDateChange }) {
       <button
         onClick={() => hasNewer && onDateChange(dates[currentIndex - 1])}
         disabled={!hasNewer}
-        className="p-2 rounded-lg hover:bg-shuffle-100 disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+        className="p-2 rounded-lg hover:bg-shuffle-100 cursor-pointer disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
         aria-label="Newer stories"
       >
         <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
