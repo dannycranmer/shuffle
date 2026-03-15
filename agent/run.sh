@@ -34,7 +34,9 @@ log "Running Claude Code to generate stories..."
 claude --print \
   --allowedTools "Bash(read-only:*),Edit,Write,WebSearch,WebFetch" \
   --model sonnet \
-  "$(cat "$SCRIPT_DIR/prompt.md")" \
+  "IMPORTANT: The target date is $TODAY. Use this exact date for the filename (public/content/stories/$TODAY.json) and all story IDs ($TODAY-001, etc). Do NOT use any other date.
+
+$(cat "$SCRIPT_DIR/prompt.md")" \
   >> "$LOG_FILE" 2>&1
 
 # Validate the output file exists
