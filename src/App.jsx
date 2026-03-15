@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react'
-import { useNavigate, useParams } from 'react-router-dom'
+import { useNavigate, useParams, useLocation } from 'react-router-dom'
 import StoryCard from './components/StoryCard'
 import DateNav from './components/DateNav'
 import ShuffleButton from './components/ShuffleButton'
@@ -26,6 +26,7 @@ function markSeen(date, storyId) {
 export default function App() {
   const { date: dateParam } = useParams()
   const navigate = useNavigate()
+  const location = useLocation()
 
   const [dates, setDates] = useState([])
   const [currentDate, setCurrentDate] = useState(null)
@@ -69,12 +70,19 @@ export default function App() {
           return
         }
         setStories(data.stories)
-        // Show first unseen story, or first story
-        const seen = getSeenStories(currentDate)
-        const unseen = data.stories.filter((s) => !seen.includes(s.id))
-        const pick = unseen.length > 0 ? unseen[0] : data.stories[0]
-        setCurrentStory(pick)
-        markSeen(currentDate, pick.id)
+        // Check for story ID in hash (from shared link)
+        const hashStoryId = window.location.hash.slice(1)
+        const linkedStory = hashStoryId && data.stories.find((s) => s.id === hashStoryId)
+        if (linkedStory) {
+          setCurrentStory(linkedStory)
+          markSeen(currentDate, linkedStory.id)
+        } else {
+          const seen = getSeenStories(currentDate)
+          const unseen = data.stories.filter((s) => !seen.includes(s.id))
+          const pick = unseen.length > 0 ? unseen[0] : data.stories[0]
+          setCurrentStory(pick)
+          markSeen(currentDate, pick.id)
+        }
       })
       .catch(() => setError('No stories for this date.'))
       .finally(() => setLoading(false))
@@ -98,6 +106,7 @@ export default function App() {
       const pick = pool[Math.floor(Math.random() * pool.length)]
       markSeen(currentDate, pick.id)
       setCurrentStory(pick)
+      window.history.replaceState(null, '', `/date/${currentDate}#${pick.id}`)
       setIsFlipping(false)
     }, 400)
   }, [stories, currentDate, currentStory, isFlipping])
