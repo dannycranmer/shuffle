@@ -84,6 +84,7 @@ export default function App() {
   const shuffle = useCallback(() => {
     if (stories.length <= 1 || isFlipping) return
 
+    window.scrollTo({ top: 0, behavior: 'smooth' })
     setIsFlipping(true)
     setTimeout(() => {
       const seen = getSeenStories(currentDate)
