@@ -1,16 +1,124 @@
-# React + Vite
+# Shuffle
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An agent-driven news website that generates and publishes interesting stories every day — completely autonomously.
 
-Currently, two official plugins are available:
+A Claude agent runs daily on EC2, scans the internet for trending and fascinating topics, writes up 10-20 stories, and commits them to this repo. Netlify auto-deploys the React frontend. No human intervention required.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## How It Works
 
-## React Compiler
+```
+EC2 (Claude Agent)  →  git push  →  GitHub Repo  →  Netlify Auto-Deploy
+     ↑ daily cron                    (JSON content)      (React SPA)
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. **Daily cron** triggers the agent at 6:00 AM UTC
+2. **Agent discovers topics** from Reddit, Hacker News, Google Trends, news sites, and web search
+3. **Agent generates stories** with headlines, hooks, body text, Unsplash images, tags, and source links
+4. **Agent commits** the day's stories as a JSON file to `public/content/stories/`
+5. **Netlify rebuilds** the site automatically
+6. **Users visit the site**, navigate between days, and press **Shuffle** to cycle through random stories
 
-## Expanding the ESLint configuration
+## Local Development
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173). Sample stories are included for development.
+
+## Project Structure
+
+```
+shuffle/
+  src/                          # React frontend
+    components/
+      StoryCard.jsx             # Story display (image, headline, hook, body, links)
+      DateNav.jsx               # Date navigation arrows
+      ShuffleButton.jsx         # Shuffle button with story counter
+      TagPills.jsx              # Colored tag chips
+    App.jsx                     # Main app with routing and shuffle logic
+    main.jsx                    # Entry point with React Router
+    index.css                   # Tailwind + card-flip animation
+  public/content/               # Story data (the "database")
+    index.json                  # Available dates index
+    stories/YYYY-MM-DD.json     # Daily story files
+  agent/
+    prompt.md                   # Claude Code prompt for story generation
+    run.sh                      # Cron entry point script
+    setup-ec2.sh                # EC2 provisioning script
+    schema/                     # JSON validation schema
+  netlify.toml                  # Netlify build config + SPA redirect
+```
+
+## Story Format
+
+Each day's stories are stored in `public/content/stories/YYYY-MM-DD.json`:
+
+```json
+{
+  "date": "2026-03-15",
+  "stories": [
+    {
+      "id": "2026-03-15-001",
+      "headline": "Scientists Discover New Species of Glowing Shark",
+      "hook": "A punchy one-liner that grabs attention.",
+      "body": "2-3 paragraphs of detail...",
+      "image": { "url": "...", "alt": "...", "credit": "...", "creditUrl": "..." },
+      "links": [{ "title": "Source", "url": "..." }],
+      "tags": ["Science", "Marine Biology"],
+      "readingTime": "2 min read",
+      "sources": ["Reddit r/science"]
+    }
+  ]
+}
+```
+
+## EC2 Agent Setup
+
+1. Launch a **t3.micro** instance (free tier eligible)
+2. SSH in and set environment variables:
+   ```bash
+   export ANTHROPIC_API_KEY="your-anthropic-key"
+   export UNSPLASH_ACCESS_KEY="your-unsplash-key"
+   export GITHUB_TOKEN="your-github-pat"
+   ```
+3. Run the setup script:
+   ```bash
+   curl -O https://raw.githubusercontent.com/dannycranmer/shuffle/main/agent/setup-ec2.sh
+   chmod +x setup-ec2.sh
+   ./setup-ec2.sh
+   ```
+4. Test manually: `cd ~/shuffle && ./agent/run.sh`
+5. The cron job is already configured to run daily at 6 AM UTC
+
+## Netlify Deployment
+
+Connect this repo to Netlify with these settings:
+- **Build command:** `npm run build`
+- **Publish directory:** `dist`
+- **Auto-deploy:** on push to `main`
+
+The `netlify.toml` handles SPA routing automatically.
+
+## Tech Stack
+
+- **Frontend:** React 19, Vite, Tailwind CSS 4, React Router
+- **Content:** Static JSON files committed to the repo
+- **Agent:** Claude Code CLI running on EC2 via cron
+- **Images:** Unsplash API (free tier)
+- **Hosting:** Netlify (free tier)
+
+## Cost
+
+| Service | Cost |
+|---------|------|
+| EC2 t3.micro | Free (12 months), then ~$8/mo |
+| Netlify | Free |
+| Unsplash API | Free |
+| Claude API | ~$1-3/day |
+| **Total** | **~$30-90/month** (mostly Claude API) |
+
+## License
+
+MIT
