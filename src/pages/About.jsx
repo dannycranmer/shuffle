@@ -172,7 +172,7 @@ export default function About() {
             <div className="border-t border-shuffle-200 mt-12 pt-8 text-sm text-shuffle-400">
               <p>
                 Built by{' '}
-                <a href="https://github.com/dannycranmer" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/dannycranmer" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
                   Danny Cranmer
                 </a>
                 {' '}with{' '}
