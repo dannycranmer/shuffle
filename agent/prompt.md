@@ -47,9 +47,14 @@ For each story, search the Unsplash API for a relevant image. Use one search per
 - Photographer credit (name)
 - Photographer's Unsplash profile URL
 
-**Important:** Only make ONE Unsplash API call per story to stay within rate limits.
+**Important:** Only make ONE search API call per story to stay within rate limits.
 
 If you can't find a good image, use a generic search for the story's primary tag (e.g., "science", "technology").
+
+**Unsplash compliance (required):**
+- After selecting an image, you MUST trigger the download tracking endpoint. The search results include a `links.download_location` field for each photo. Send a GET request to that URL (appending `?client_id=$UNSPLASH_ACCESS_KEY`) to register the download. This is required by Unsplash's API guidelines.
+- The `creditUrl` must include UTM parameters: `https://unsplash.com/@username?utm_source=shuffle&utm_medium=referral`
+- The `credit` field format must be: `Photo by Name on Unsplash` where "Unsplash" links to `https://unsplash.com/?utm_source=shuffle&utm_medium=referral`
 
 ### Step 5: Save the Output
 
@@ -72,7 +77,7 @@ The JSON format MUST be:
         "url": "https://images.unsplash.com/photo-xxx?w=800",
         "alt": "Description of the image",
         "credit": "Photo by Name on Unsplash",
-        "creditUrl": "https://unsplash.com/@username"
+        "creditUrl": "https://unsplash.com/@username?utm_source=shuffle&utm_medium=referral"
       },
       "links": [
         { "title": "Link text", "url": "https://..." }

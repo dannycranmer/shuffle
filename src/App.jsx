@@ -210,7 +210,7 @@ export default function App() {
           <p className="mt-1">
             Photos from{' '}
             <a
-              href="https://unsplash.com"
+              href="https://unsplash.com/?utm_source=shuffle&utm_medium=referral"
               className="hover:text-shuffle-600"
               target="_blank"
               rel="noopener noreferrer"
