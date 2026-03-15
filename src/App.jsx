@@ -80,21 +80,6 @@ export default function App() {
       .finally(() => setLoading(false))
   }, [currentDate])
 
-  // Get current story index
-  const currentIndex = stories.findIndex((s) => s.id === currentStory?.id)
-
-  // Navigate to a specific story by index (with flip animation)
-  const goToStory = useCallback((index) => {
-    if (isFlipping || !stories[index]) return
-    setIsFlipping(true)
-    setTimeout(() => {
-      const pick = stories[index]
-      markSeen(currentDate, pick.id)
-      setCurrentStory(pick)
-      setIsFlipping(false)
-    }, 400)
-  }, [stories, currentDate, isFlipping])
-
   // Shuffle to random unseen story (with flip animation)
   const shuffle = useCallback(() => {
     if (stories.length <= 1 || isFlipping) return
@@ -145,7 +130,7 @@ export default function App() {
               shuffle
             </h1>
             <span className="text-xs text-shuffle-400 hidden md:inline">press space to shuffle</span>
-            <span className="text-xs text-shuffle-400 md:hidden">{currentIndex + 1} of {stories.length}</span>
+            <span className="text-xs text-shuffle-400 md:hidden">{Math.min(seenCount, stories.length)} of {stories.length}</span>
           </div>
           {dates.length > 0 && currentDate && (
             <DateNav dates={dates} currentDate={currentDate} onDateChange={handleDateChange} />
@@ -176,42 +161,12 @@ export default function App() {
         {!loading && !error && currentStory && (
           <>
             <StoryCard story={currentStory} isFlipping={isFlipping} />
-            <div className="mt-10 mb-8 hidden md:block">
+            {stories.length > 1 && (
               <ShuffleButton
                 onShuffle={shuffle}
                 current={Math.min(seenCount, stories.length)}
                 total={stories.length}
               />
-            </div>
-
-            {/* Mobile floating prev/next buttons */}
-            {stories.length > 1 && (
-              <div className="fixed bottom-10 left-0 right-0 flex justify-center gap-16 z-20 md:hidden">
-                <button
-                  onClick={() => goToStory(currentIndex <= 0 ? stories.length - 1 : currentIndex - 1)}
-                  disabled={isFlipping}
-                  className="w-12 h-12 rounded-full bg-shuffle-900 text-white shadow-lg
-                             flex items-center justify-center active:scale-95 transition-transform
-                             disabled:opacity-50"
-                  aria-label="Previous story"
-                >
-                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-                  </svg>
-                </button>
-                <button
-                  onClick={() => goToStory(currentIndex >= stories.length - 1 ? 0 : currentIndex + 1)}
-                  disabled={isFlipping}
-                  className="w-12 h-12 rounded-full bg-shuffle-900 text-white shadow-lg
-                             flex items-center justify-center active:scale-95 transition-transform
-                             disabled:opacity-50"
-                  aria-label="Next story"
-                >
-                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </button>
-              </div>
             )}
           </>
         )}

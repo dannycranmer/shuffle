@@ -1,11 +1,11 @@
 export default function ShuffleButton({ onShuffle, current, total }) {
   return (
-    <div className="flex flex-col items-center gap-3">
+    <div className="fixed bottom-10 left-0 right-0 flex flex-col items-center gap-2 z-20">
       <button
         onClick={onShuffle}
         className="group relative px-8 py-3 bg-shuffle-900 text-white rounded-full font-semibold text-lg
                    hover:bg-shuffle-800 active:scale-95 transition-all duration-150
-                   shadow-lg hover:shadow-xl"
+                   shadow-lg hover:shadow-xl cursor-pointer"
       >
         <span className="flex items-center gap-2">
           <svg
