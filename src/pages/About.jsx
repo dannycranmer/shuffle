@@ -62,13 +62,19 @@ export default function About() {
             <h2 className="font-display text-2xl font-bold text-shuffle-900 mt-10">The Architecture</h2>
 
             <div className="bg-shuffle-100 rounded-xl p-6 font-mono text-sm text-shuffle-700 overflow-x-auto">
-              <pre>{`[EC2 t3.micro]              [GitHub]                [Netlify]
-  Claude Code  ──git push──▶  JSON files  ──auto──▶  React SPA
-  (daily cron)               + React source          (static site)
-       │
-       ▼
-  [Bluesky]
-  Auto-posts top 3 stories`}</pre>
+              <pre>{`┌─────────────────┐        ┌─────────────────┐        ┌─────────────────┐
+│  EC2 t3.micro   │        │     GitHub      │        │     Netlify     │
+│                 │        │                 │        │                 │
+│  Claude Code    ├───────▶│  JSON stories   ├───────▶│   React SPA    │
+│  (daily cron)   │git push│  + source code  │  auto  │  (static site) │
+└────────┬────────┘        └─────────────────┘        └─────────────────┘
+         │
+         │ post top 3
+         ▼
+┌─────────────────┐
+│    Bluesky      │
+│  @shuffle-news  │
+└─────────────────┘`}</pre>
             </div>
 
             <p>
