@@ -101,7 +101,8 @@ export default function About() {
                 <text x="408" y="43" textAnchor="middle" fontSize="10" fill="#94a3b8">auto</text>
 
                 {/* Arrow: EC2 → Bluesky */}
-                <line x1="80" y1="90" x2="80" y2="165" stroke="#475569" strokeWidth="1.5" markerEnd="url(#arrow)" />
+                <line x1="80" y1="90" x2="80" y2="158" stroke="#475569" strokeWidth="1.5" />
+                <polygon points="73,158 87,158 80,168" fill="#475569" />
                 <text x="92" y="135" fontSize="10" fill="#94a3b8">post top 3</text>
               </svg>
             </div>
