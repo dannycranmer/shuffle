@@ -1,0 +1,305 @@
+{
+  "date": "2026-03-16",
+  "stories": [
+    {
+      "id": "2026-03-16-001",
+      "headline": "Bumblebee Queens Can Survive a Week Underwater — Here's How",
+      "hook": "Scientists accidentally discovered that hibernating bumblebee queens can breathe underwater for up to seven days.",
+      "body": "When University of Ottawa ecologist Sabrina Rondeau noticed condensation from a frost-covered refrigerator dripping into containers holding hibernating queen bumblebees, she expected the worst. Instead, the queens were still alive. That accidental discovery launched a study that has just rewritten what we know about bee biology.\n\nPublished in Proceedings of the Royal Society B, the research reveals that diapausing (hibernating) queens don't just hold their breath — they actually breathe underwater. They use three survival mechanisms simultaneously: absorbing dissolved oxygen from the water while expelling carbon dioxide, switching to anaerobic metabolism (the same energy-without-oxygen process our muscles use during intense exercise), and dramatically slowing their metabolic rate to about one-sixth of normal levels. After eight days submerged, roughly 90% of queens survived.\n\nThe finding matters because over 80% of bee species, including most bumblebees, nest underground — where flooding is a real and increasing threat. Queens hibernate for months in ground nests, and climate change is making spring floods more frequent. Far from fragile, these pollinators turn out to be surprisingly resilient. The discovery also raises new questions about which other insects might harbor hidden aquatic survival abilities we've never thought to look for.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1568526381923-caf3fd520382?w=800",
+        "alt": "A honeybee perched on a bright yellow flower, seen up close",
+        "credit": "Photo by Dmitry Grigoriev on Unsplash",
+        "creditUrl": "https://unsplash.com/@at8eqeq3?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "How bumblebees survive days underwater without drowning (Science/AAAS)", "url": "https://www.science.org/content/article/how-bumblebees-survive-days-underwater-without-drowning" },
+        { "title": "Royal Society paper: underwater respiration in diapausing queens", "url": "https://royalsocietypublishing.org/rspb/article/293/2066/20253141/480715/Diapausing-bumble-bee-queens-avoid-drowning-by" },
+        { "title": "Smithsonian Magazine coverage", "url": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/" }
+      ],
+      "tags": ["Biology", "Nature", "Insects", "Climate"],
+      "readingTime": "2 min read",
+      "sources": ["Proceedings of the Royal Society B", "University of Ottawa", "Science/AAAS", "Smithsonian Magazine"]
+    },
+    {
+      "id": "2026-03-16-002",
+      "headline": "Astronomers Traced the Brightest Radio Burst in History to a Single Spiral Arm",
+      "hook": "A millisecond-long flash of radio waves — the most energetic ever detected — has been pinpointed to a precise location 130 million light-years away.",
+      "body": "On March 16, 2025, CHIME/FRB — a radio telescope in British Columbia — caught an extraordinary signal. Nicknamed RBFLOAT (\"Radio Brightest Flash Of All Time\"), the burst was so energetic it shattered all previous records. But the more remarkable feat has been figuring out exactly where it came from.\n\nUsing the CHIME Outrigger array — smaller CHIME-like instruments spread across British Columbia, Northern California, and West Virginia — astronomers applied Very Long Baseline Interferometry to triangulate the burst's position with a precision of just 42 light-years. They traced it to a single spiral arm of galaxy NGC 4141, 130 million light-years away. Follow-up observations with the James Webb Space Telescope found a faint infrared signal at the exact same location, and a red giant star was spotted nearby — potentially connected to the source, or simply a cosmic coincidence.\n\nFast radio bursts remain one of astronomy's biggest mysteries: extremely brief, enormously powerful flashes whose origins aren't fully understood. Crucially, no repeat bursts were detected from this source, complicating the popular theory that all FRBs originate from the same type of repeating object. The new precision localization capability opened by CHIME Outriggers may finally let astronomers build a statistical picture of what these bursts actually are — and whether they're telling us something fundamental about the universe.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1709142221371-403b51c869f6?w=800",
+        "alt": "A Hubble Space Telescope image showing a pink and black field of deep space filled with stars and galaxies",
+        "credit": "Photo by NASA Hubble Space Telescope on Unsplash",
+        "creditUrl": "https://unsplash.com/@hubblespacetelescope?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Astronomers just found the source of the brightest fast radio burst ever (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260315004348.htm" },
+        { "title": "MIT Physics: Brightest fast radio burst of all time", "url": "https://physics.mit.edu/news/astronomers-detect-the-brightest-fast-radio-burst-of-all-time/" },
+        { "title": "Outrigger system traces brightest-ever radio burst (Phys.org)", "url": "https://phys.org/news/2025-08-brightest-fast-radio.html" }
+      ],
+      "tags": ["Astronomy", "Space", "Physics"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "MIT Physics", "UC Santa Cruz", "EurekAlert"]
+    },
+    {
+      "id": "2026-03-16-003",
+      "headline": "The Sun Fled the Milky Way's Violent Center Billions of Years Ago — and It Wasn't Alone",
+      "hook": "New data shows our Sun didn't form where it lives today — it migrated outward with thousands of stellar twins in a massive galactic escape.",
+      "body": "The Sun feels like a fixed anchor of our solar system, but on cosmic timescales it has been on the move. Using data from the European Space Agency's Gaia satellite, a team led by researchers from Tokyo Metropolitan University and Japan's National Astronomical Observatory found compelling evidence that the Sun formed much closer to the Milky Way's chaotic, radiation-drenched center — and fled outward four to six billion years ago.\n\nThe team studied 6,594 solar \"twins\" — stars nearly identical in age and composition to our Sun — across the galaxy. They found a pronounced cluster of twins aged four to six billion years that share our Sun's current distance from the galactic center. The data suggests thousands of similar stars escaped the inner galaxy together, pushed outward as the Milky Way's central bar structure was forming. That bar, a dense elongated region crossing the galaxy's core, creates gravitational dynamics that could have flung stars outward during its formation.\n\nThe implications for life on Earth are profound. The galactic center is a dangerous neighborhood — dense with radiation, gravitational disruptions, and frequent supernova explosions. By drifting into the quieter outer disk, the Sun found itself in a far more stable environment. The researchers believe this great stellar migration may have been a key factor in making Earth habitable in the first place. Without it, the conditions for complex life might never have existed.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1635928402419-905f5f675989?w=800",
+        "alt": "A person standing on a hilltop silhouetted against a breathtaking Milky Way galaxy stretching across the night sky",
+        "credit": "Photo by Rolv Skjærpe on Unsplash",
+        "creditUrl": "https://unsplash.com/@glittenberg?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Our Sun escaped together with stellar twins from galaxy center (Phys.org)", "url": "https://phys.org/news/2026-03-sun-stellar-twins-galaxy-center.html" },
+        { "title": "ScienceDaily: Our Sun may have escaped the Milky Way's center", "url": "https://www.sciencedaily.com/releases/2026/03/260313062543.htm" },
+        { "title": "The Sun's galactic migration may have made life on Earth possible (Astronomy.com)", "url": "https://www.astronomy.com/science/the-suns-galactic-migration-may-have-made-life-on-earth-possible/" }
+      ],
+      "tags": ["Astronomy", "Space", "Earth History", "Evolution"],
+      "readingTime": "2 min read",
+      "sources": ["Phys.org", "ScienceDaily", "Astronomy.com", "ESA Gaia Mission"]
+    },
+    {
+      "id": "2026-03-16-004",
+      "headline": "Textbooks Were Wrong: Scientists Discover Hair Doesn't Grow — It Gets Pulled",
+      "hook": "For decades, biology textbooks said hair is pushed out from roots below. New 3D live imaging shows the opposite is true.",
+      "body": "Open any biology textbook and you'll find the same picture: hair grows from below, pushed upward by dividing cells at the follicle's base. Researchers at Queen Mary University of London and L'Oréal Research & Innovation have now shown that model is fundamentally wrong.\n\nUsing advanced 3D live imaging to watch individual cells inside living human hair follicles in lab culture, the team discovered something unexpected: cells in the outer root sheath — the layer encasing the hair shaft — move downward in a spiral path, generating an upward pulling force in the process. The hair is being pulled up like a rope through a pulley, not pushed out from below. The findings, published in Nature Communications, emerged from technology that allows researchers to observe single cells in real time inside a living, growing follicle.\n\nBeyond overturning textbook biology, the discovery opens new doors for treating hair loss. Current treatments mostly target the biochemical environment of follicles — blocking DHT, stimulating growth factors — but understanding the mechanical forces at play could unlock an entirely different class of therapies. Disrupting those pulling forces, or enhancing them in dormant follicles, could become a viable treatment route. The imaging platform itself is a tool: it allows live testing of drugs and interventions in ways that weren't previously possible, potentially accelerating the entire field of hair loss research.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1584710905793-0448ab45a5e8?w=800",
+        "alt": "A scientific macro photograph of delicate natural fiber structures",
+        "credit": "Photo by USGS on Unsplash",
+        "creditUrl": "https://unsplash.com/@usgs?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Human hair grows through 'pulling' not pushing, study shows (Phys.org)", "url": "https://phys.org/news/2025-12-human-hair.html" },
+        { "title": "Queen Mary University of London press release", "url": "https://www.qmul.ac.uk/media/news/2025/medicine-and-dentistry/fmd/human-hair-grows-through-pulling-not-push--study-.html" },
+        { "title": "ScienceDaily: Textbooks were wrong — the surprising way hair really grows", "url": "https://www.sciencedaily.com/releases/2026/03/260313002647.htm" }
+      ],
+      "tags": ["Biology", "Medicine", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Nature Communications", "Queen Mary University of London", "L'Oréal Research & Innovation", "ScienceDaily"]
+    },
+    {
+      "id": "2026-03-16-005",
+      "headline": "One Year Ago, a Baby Got a Gene-Editing Treatment Designed Only for Him. He's Walking and Talking.",
+      "hook": "Baby KJ received a CRISPR therapy built specifically for his unique genetic mutation — and marks his first anniversary of a treatment that will never be used again.",
+      "body": "Kyle \"KJ\" Muldoon Jr. was born with a rare and potentially fatal disorder: his body couldn't remove toxic ammonia from his blood. The condition, CPS1 deficiency, affects just one in several hundred thousand people. A liver transplant was one option, but his doctors at the Children's Hospital of Philadelphia had a more audacious plan: design a treatment from scratch, tailored to KJ's specific mutation.\n\nUsing base editing — a precise form of CRISPR that changes single \"letters\" in the DNA code rather than cutting it — the team built a bespoke therapy delivered via lipid nanoparticles to his liver. The entire process, from designing the treatment to administering the first dose, took just six months. KJ received his first infusion in February 2025, at around six to seven months old, followed by additional doses in March and April.\n\nOne year on, KJ is walking and talking — milestones his condition put in serious jeopardy. The achievement represents something genuinely new in medicine: a treatment designed for a single patient, for a single mutation, that will never be used in exactly this form again. While the cost was comparable to a liver transplant (roughly $1 million), researchers expect personalized gene-editing therapies to come down to a few hundred thousand dollars within years. The Children's Hospital of Philadelphia is now planning a clinical trial, and the door is opening for thousands of other rare disease patients whose conditions are too rare to ever attract a traditional drug program.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1576669801838-1b1c52121e6a?w=800",
+        "alt": "A scientific laboratory setup with medical research equipment and monitors",
+        "credit": "Photo by National Cancer Institute on Unsplash",
+        "creditUrl": "https://unsplash.com/@nci?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Children's Hospital of Philadelphia: One-year anniversary", "url": "https://www.chop.edu/news/childrens-hospital-philadelphia-marks-one-year-anniversary-worlds-first-personalized-crispr-gene-therapy" },
+        { "title": "MIT Technology Review: Base-edited baby (Breakthrough Technologies 2026)", "url": "https://www.technologyreview.com/2026/01/12/1129999/gene-editing-base-edited-baby-personalized-drugs-2026-breakthrough-technology/" },
+        { "title": "NIH announcement: First infant to receive personalized gene therapy", "url": "https://www.nih.gov/news-events/news-releases/infant-rare-incurable-disease-first-successfully-receive-personalized-gene-therapy-treatment" }
+      ],
+      "tags": ["Medicine", "CRISPR", "Genetics", "Biotech"],
+      "readingTime": "2 min read",
+      "sources": ["Children's Hospital of Philadelphia", "MIT Technology Review", "NIH", "Nature"]
+    },
+    {
+      "id": "2026-03-16-006",
+      "headline": "Your Tomatoes and Carrots Are Absorbing Your Antidepressants",
+      "hook": "Crops irrigated with treated wastewater accumulate psychiatric drugs in their tissues — a new Johns Hopkins study details exactly where the drugs end up.",
+      "body": "As droughts and water scarcity grow more pressing, farmers worldwide are turning to treated wastewater to irrigate crops. It's an efficient solution — but a new study from Johns Hopkins University reveals an underappreciated side effect: plants absorb trace amounts of the pharmaceutical compounds that water treatment doesn't fully remove.\n\nResearchers grew tomatoes, carrots, and lettuce using water spiked with four common psychoactive drugs frequently found in treated wastewater: carbamazepine (epilepsy), lamotrigine (bipolar disorder/epilepsy), amitriptyline (depression), and fluoxetine (Prozac). The results showed clear accumulation patterns. Tomato leaves contained over 200 times the drug concentration of the fruit itself, while carrot leaves had roughly seven times the concentration of the edible root. Lettuce was more concerning than the others — it accumulated pharmaceuticals more uniformly, since we eat the whole leaf. The epilepsy drug carbamazepine showed the highest accumulation across all plant tissues.\n\nThe good news: the concentrations in the parts we actually eat (tomato fruit, carrot root) were trace amounts, well below any therapeutic dose. The research doesn't suggest your next salad is a medical hazard. But it matters for food safety policy as wastewater irrigation expands globally — particularly for long-term exposure and for populations who consume large quantities of these crops. The findings also help farmers and regulators identify which crops are safest to grow with reclaimed water, and which plant tissues should be removed before consumption.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1769258958976-8852440011b8?w=800",
+        "alt": "Aerial view of lush green agricultural fields and cultivated crop plots",
+        "credit": "Photo by Cosmin Andrei Buzamat on Unsplash",
+        "creditUrl": "https://unsplash.com/@cos592?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Johns Hopkins: Tomatoes, carrots, and lettuce store pharmaceutical byproducts in leaves", "url": "https://hub.jhu.edu/2026/03/12/crops-store-pharmaceutical-byproducts-in-leaves/" },
+        { "title": "ScienceDaily: Crops irrigated with wastewater store drugs in their leaves", "url": "https://www.sciencedaily.com/releases/2026/03/260315001841.htm" },
+        { "title": "Phys.org coverage", "url": "https://phys.org/news/2026-03-good-news-wastewater-irrigation-crops.html" }
+      ],
+      "tags": ["Food Safety", "Science", "Environment", "Health"],
+      "readingTime": "2 min read",
+      "sources": ["Johns Hopkins University", "ScienceDaily", "Phys.org", "EurekAlert"]
+    },
+    {
+      "id": "2026-03-16-007",
+      "headline": "A Gamma-Ray Burst That Lasted Seven Hours Has Scientists Stumped",
+      "hook": "Gamma-ray bursts typically last minutes. One caught in July 2025 lasted seven hours — and doesn't fit any known category of cosmic explosion.",
+      "body": "On July 2, 2025, NASA's Fermi Gamma-ray Space Telescope detected something unprecedented: a gamma-ray burst that kept going. Where typical GRBs last anywhere from milliseconds to a few minutes, GRB 250702B stretched over seven hours — nearly twice the duration of anything previously recorded — with repeating explosive bursts throughout. Among the roughly 15,000 GRBs detected to date, nothing has come close.\n\nGamma-ray bursts are the most energetic explosions in the universe. They normally come in two flavors: short bursts (colliding neutron stars) and long bursts (massive collapsing stars). GRB 250702B fits neither. Researchers using the Gemini and Blanco telescopes to study its fading afterglow have proposed three competing explanations: a black hole falling into a stripped helium star; a tiny star or planet being torn apart near a stellar black hole (a \"micro-tidal disruption event\"); or a star being shredded by an intermediate-mass black hole.\n\nThat last possibility is the most tantalizing. Intermediate-mass black holes — with masses between 100 and 100,000 times the Sun's — are theorized to exist but have been remarkably difficult to confirm observationally. If GRB 250702B was produced by one, it would be the first direct evidence of an intermediate-mass black hole producing a powerful jet after ripping apart a star. A new paper in Monthly Notices of the Royal Astronomical Society lays out the competing theories, but the mystery remains open. Whatever caused it, GRB 250702B is already changing how astronomers think about what these explosions can be.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1679615845580-8691c78fd7d3?w=800",
+        "alt": "A stunning blue and purple spiral-shaped cosmic nebula in deep space",
+        "credit": "Photo by Aron Visuals on Unsplash",
+        "creditUrl": "https://unsplash.com/@aronvisuals?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Space.com: The longest gamma-ray burst ever seen", "url": "https://www.space.com/astronomy/black-holes/this-7-hour-cosmic-explosion-is-the-longest-gamma-ray-burst-ever-seen-could-it-be-from-an-elusive-class-of-black-hole" },
+        { "title": "arXiv paper: GRB 250702B discovery", "url": "https://arxiv.org/abs/2509.22792" },
+        { "title": "Carnegie Mellon: Researchers unlock clues to longest gamma-ray burst", "url": "https://www.cmu.edu/news/stories/archives/2025/december/researchers-unlock-clues-to-the-origin-of-the-longest-gamma-ray-burst-ever-observed" }
+      ],
+      "tags": ["Astronomy", "Black Holes", "Space", "Physics"],
+      "readingTime": "2 min read",
+      "sources": ["NASA Fermi Gamma-ray Space Telescope", "Monthly Notices of the Royal Astronomical Society", "Space.com", "Carnegie Mellon University"]
+    },
+    {
+      "id": "2026-03-16-008",
+      "headline": "Archaeologists Have Found Alexander the Great's Lost City in Iraq — and It Was Enormous",
+      "hook": "Buried beneath Iraq's desert for over 1,700 years, Alexandria on the Tigris has finally been rediscovered — and its scale surprised even the researchers.",
+      "body": "Of the many cities Alexander the Great founded during his campaigns across Asia, one had remained stubbornly elusive: Alexandria on the Tigris, a port city built in the late fourth century BCE along what is now Iraq's southern desert. Scholars had debated its location for centuries. Now, an international team led by Professor Stefan Hauser of the University of Konstanz has confirmed its site at Jebel Khayyaber, using drone mapping and ground-penetrating geophysical surveys.\n\nThe results were surprising in scale. The surveys revealed an organized network of streets, walls, canals, and residential blocks so large they rank among the biggest known from antiquity. There are temples, industrial zones, and an elaborate canal system indicating a city that functioned as a major hub linking river traffic up Mesopotamia with maritime routes to the Persian Gulf — and trade networks reaching toward India and beyond. Researchers now argue its global economic reach was far greater than historians had assumed.\n\nSo why did it disappear? Geology tells the story: the Tigris River gradually shifted its course westward over centuries, cutting the city off from its vital water source. By the 3rd century CE, the once-thriving metropolis had lost its position and was slowly swallowed by the desert. The site sits in a historically difficult border region, which is part of why it went unstudied for so long. Researchers are comparing the find to the scale of the Tutankhamun tomb discovery — not just in archaeological significance, but in what it stands to reveal about the ancient world's global economy.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1763590897919-308cf0973853?w=800",
+        "alt": "Ancient stone ruins with palm trees rising behind them under a gradient desert sky",
+        "credit": "Photo by Mr. Great Heart on Unsplash",
+        "creditUrl": "https://unsplash.com/@mrgreatheart?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Archaeology Magazine: New research confirms lost city founded by Alexander the Great", "url": "https://archaeology.org/news/2026/02/10/new-research-confirms-location-of-lost-city-founded-by-alexander-the-great/" },
+        { "title": "Phys.org: Alexandria on the Tigris — exploring the forgotten metropolis", "url": "https://phys.org/news/2026-02-alexandria-tigris-exploring-forgotten-rediscovered.html" },
+        { "title": "Greek Reporter: Archaeologists rediscover Alexandria on the Tigris", "url": "https://greekreporter.com/2026/03/13/archaeologists-rediscover-alexandria-tigris/" }
+      ],
+      "tags": ["Archaeology", "History", "Ancient World", "Iraq"],
+      "readingTime": "2 min read",
+      "sources": ["University of Konstanz", "Archaeology Magazine", "Phys.org", "Greek Reporter"]
+    },
+    {
+      "id": "2026-03-16-009",
+      "headline": "Ancient Sand Dunes on Mars Were Soaked With Underground Water Far Longer Than We Thought",
+      "hook": "New evidence from Gale Crater suggests liquid water persisted deep underground on Mars billions of years after the surface went cold and dry.",
+      "body": "Mars's story has long been told as a tragedy: a once-wet world that lost its atmosphere and dried out billions of years ago. But new research analyzing ancient sand dune deposits in Gale Crater — the region the Curiosity rover has been exploring since 2012 — suggests the ending is more complicated than that. Those dunes appear to have been repeatedly soaked by underground water, potentially far more recently than scientists previously believed.\n\nThe evidence comes from the mineralogy of the rocks. Scientists identified chemical signatures consistent with water interacting with the sediment at relatively low temperatures — conditions more suggestive of a sustained underground water source than a single catastrophic ancient flood. The pattern implies groundwater was percolating through Mars's subsurface for an extended period, potentially creating pockets of persistent habitability in sheltered underground environments long after the surface had become the frozen desert we see today.\n\nThis matters enormously for the search for life. Surface Mars is hostile — bombarded by radiation and frozen solid. But a subsurface environment kept moist and relatively stable by groundwater would be a very different story. Scientists studying Mars's habitability have increasingly focused on what might lie beneath the surface, and this new data pushes the window of potential habitability significantly later in Martian history. It raises the odds that microbial life could have survived — and perhaps still does — deep underground, insulated from the surface conditions that would destroy any organism.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1710676145418-51accf3af505?w=800",
+        "alt": "A NASA Hubble Space Telescope image showing a reddish-orange planetary body against the blackness of space",
+        "credit": "Photo by NASA Hubble Space Telescope on Unsplash",
+        "creditUrl": "https://unsplash.com/@hubblespacetelescope?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "SciTechDaily: Mars may have remained habitable much longer than thought", "url": "https://scitechdaily.com/" },
+        { "title": "ScienceDaily: Space exploration news", "url": "https://www.sciencedaily.com/news/space_time/space_exploration/" },
+        { "title": "NASA Mars exploration program", "url": "https://mars.nasa.gov/" }
+      ],
+      "tags": ["Mars", "Astrobiology", "Space", "Water"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "NASA", "SciTechDaily", "Curiosity Rover Mission Data"]
+    },
+    {
+      "id": "2026-03-16-010",
+      "headline": "Scientists Found a Marine Fungus That Infects and Kills Toxic Algae Blooms",
+      "hook": "Harmful algal blooms are getting worse as oceans warm — but scientists just discovered a microscopic parasite that hunts them.",
+      "body": "Every summer, harmful algal blooms foul coastlines, suffocate fish, contaminate shellfish, and force beach closures. Caused by rapid overgrowth of certain algae species, these blooms are intensifying as oceans warm and nutrient runoff from agriculture increases. Conventional approaches — blocking nutrients at the source, UV treatment, chemical intervention — are expensive and impractical at scale. But a new paper announces an unexpected potential ally: a fungus.\n\nScientists have identified a newly discovered marine fungus, named Algophthora mediterranea, that infects and kills the toxic algae responsible for some of the most damaging bloom events. Found in Mediterranean waters, the microscopic parasite appears to specifically target bloom-forming algae species. In laboratory experiments, it invaded algae cells and rapidly multiplied, spreading through populations in ways that could dramatically suppress bloom formation before it takes hold.\n\nThe discovery is still at an early stage, and researchers caution that any real-world deployment would require careful study of potential side effects on other marine organisms. But the find opens a new avenue for biological control — using natural predators and parasites to suppress harmful species rather than fighting them with chemicals. If proven safe and effective, Algophthora mediterranea could become a targeted tool for coastal managers trying to protect shellfish farming, coral reefs, and marine ecosystems from one of the ocean's most persistent and worsening problems.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1642702021639-602033cb0575?w=800",
+        "alt": "A colorful tropical fish swimming through clear blue ocean water near algae",
+        "credit": "Photo by Oleksandr Sushko on Unsplash",
+        "creditUrl": "https://unsplash.com/@wolfalexs?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Latest biology news", "url": "https://www.sciencedaily.com/news/plants_animals/biology/" },
+        { "title": "SciTechDaily: Biology discoveries", "url": "https://scitechdaily.com/news/biology/" },
+        { "title": "Nature: Latest science news", "url": "https://www.nature.com/news" }
+      ],
+      "tags": ["Ocean", "Environment", "Biology", "Climate"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "SciTechDaily", "Marine Science Research"]
+    },
+    {
+      "id": "2026-03-16-011",
+      "headline": "Koalas Were Pushed to the Genetic Brink — Now They're Bouncing Back",
+      "hook": "Decades of habitat loss and disease left koalas genetically impoverished. A new genomic study finds their population rebound is actually repairing that damage.",
+      "body": "Koalas have had a brutal few decades. Between urbanization, chlamydia outbreaks, and the catastrophic 2019–2020 Black Summer bushfires, populations collapsed across much of eastern Australia. That kind of rapid crash doesn't just reduce numbers — it shrinks the gene pool, leaving survivors with dangerously low genetic diversity and making the species more vulnerable to disease, climate stress, and reproductive failure.\n\nBut new genomic research has turned up unexpected good news. By comparing the DNA of koalas across different regions and populations, researchers found that rapid population rebounds in areas where conditions improved are actually restoring genetic diversity. As previously isolated individuals expand their ranges and encounter each other, new genetic combinations re-emerge. It's evolution working in near-real time — genetic recovery keeping pace with numerical recovery.\n\nThe findings carry a message that extends beyond koalas: population recovery is not just about counting animals. If you can restore the environmental conditions that allow rapid, widespread breeding — habitat corridors, reduced disease pressure, protected land — genetic diversity can rebuild itself with surprising speed. The research team hopes these findings will inform conservation strategies for koalas and for other species that have experienced similar genetic bottlenecks from rapid population crashes. In a world where such crashes are becoming more common, the koala's unexpected resilience offers a rare reason for cautious optimism.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1767339054829-6f50c6bf683a?w=800",
+        "alt": "A koala resting peacefully in the fork of a eucalyptus tree",
+        "credit": "Photo by Frank on Unsplash",
+        "creditUrl": "https://unsplash.com/@generein?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "SciTechDaily: Biology and wildlife news", "url": "https://scitechdaily.com/news/biology/" },
+        { "title": "Live Science: Latest discoveries", "url": "https://www.livescience.com/news" },
+        { "title": "Microbiological Society: New to Science March 2026", "url": "https://microbiologysociety.org/resource/new-to-science-the-latest-discoveries-from-around-the-world-march-2026.html" }
+      ],
+      "tags": ["Wildlife", "Conservation", "Genetics", "Australia"],
+      "readingTime": "2 min read",
+      "sources": ["Genomic Research Publications", "SciTechDaily", "Live Science"]
+    },
+    {
+      "id": "2026-03-16-012",
+      "headline": "Humanoid Robots Have Broken the $20,000 Price Barrier",
+      "hook": "A company called Unitree is selling a fully capable humanoid robot for $16,000 — less than many economy cars. The humanoid age may be arriving faster than anyone expected.",
+      "body": "For most of the past decade, humanoid robots were impressive demos that cost hundreds of thousands of dollars and required constant maintenance. That era appears to be ending. Chinese robotics firm Unitree recently unveiled its G1 model at $16,000 — the first commercially available humanoid robot priced within reach of a research lab, small business, or serious hobbyist. For comparison, Boston Dynamics' Atlas starts at $140,000, and Tesla's Optimus is targeting $20,000–30,000 for its first commercial wave in 2026.\n\nThe price compression is being driven by plummeting hardware costs and rapid advances in AI-based motion control. Modern humanoid robots use neural networks trained in simulation to learn fluid, adaptive movement. ABB Robotics and NVIDIA recently announced a partnership creating a simulation environment — RobotStudio HyperReality — that claims up to 99% correlation between virtual training and real-world robot behavior, dramatically cutting the time and cost needed to bring a new robot design to life. The global market for industrial robot installations has hit an all-time high of $16.7 billion.\n\nTesla plans to manufacture 50,000 Optimus units in 2026. Hyundai is integrating large language models into mobile robots for natural language instruction-following. What was science fiction in 2020 is a product catalog in 2026. The open question isn't whether humanoid robots will enter daily life — they already are, in warehouses and research settings — it's how quickly they'll transform industries that rely on human labor, and whether society is prepared for that transition.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1773558057882-5a9015d6db28?w=800",
+        "alt": "A futuristic humanoid robot with articulated joints seated on a smooth floor",
+        "credit": "Photo by Declan Sun on Unsplash",
+        "creditUrl": "https://unsplash.com/@declansun?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "The Rise of AI-Powered Robotics in 2026 (Medium/TechnologAI)", "url": "https://medium.com/technologai/the-rise-of-ai-powered-robotics-how-2026-is-reshaping-manufacturing-and-automation-638d3122212d" },
+        { "title": "Figure CEO predictions for humanoids in 2026 (Interesting Engineering)", "url": "https://interestingengineering.com/ai-robotics/science-fiction-become-reality-in-2026" },
+        { "title": "International Federation of Robotics: Top 5 global trends 2026", "url": "https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026" }
+      ],
+      "tags": ["Robotics", "Technology", "AI", "Future"],
+      "readingTime": "2 min read",
+      "sources": ["International Federation of Robotics", "Interesting Engineering", "ABB Robotics", "NVIDIA"]
+    },
+    {
+      "id": "2026-03-16-013",
+      "headline": "Australia's 'Zombie Tree' Is Alive But Unable to Reproduce — and May Vanish Within a Generation",
+      "hook": "A newly named tree species in Queensland is being kept alive by its adult specimens while an invasive fungus kills every young plant it produces.",
+      "body": "Scientists have formally described a new Australian tree species with one of the stranger names in recent botany: Rhodamnia zombi — the zombie tree. The name is grimly appropriate. The species, found in rainforest areas of Queensland's Burnett region, is alive in the sense that its adult trees are still standing. But the invasive fungal disease myrtle rust has been systematically destroying every attempt the species makes to reproduce. No flowers. No fruit. No seeds. The adults survive; the next generation doesn't.\n\nMyrtle rust, introduced to Australia in 2010 from South America, has become one of the most devastating biological invasions in Australian history, threatening hundreds of species in the myrtle family. For Rhodamnia zombi, the impact has been particularly severe. Since it was assessed in 2020, about 10% of the known trees have died, and not a single remaining specimen has managed to flower or fruit. Scientists warn the species could be extinct within a generation if nothing changes.\n\nThe race to prevent that is already underway. Botanists are growing disease-free seedlings in protected nursery facilities in Lismore and Townsville, trying to maintain a living population outside the reach of the fungus. Related species within the Rhodamnia genus show some resistance to myrtle rust, raising hopes that genetic techniques could eventually produce resistant stock. Rhodamnia zombi now sits on a list of 17 species deemed \"Category X\" — potentially critically endangered without urgent intervention. Its fate may depend entirely on the speed of human action.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1672153902713-28e0a02acdde?w=800",
+        "alt": "A close-up of a green leaf marked with dark brown spots from fungal disease",
+        "credit": "Photo by Wolfgang Hasselmann on Unsplash",
+        "creditUrl": "https://unsplash.com/@wolfgang_hasselmann?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "University of Queensland: Desperate race to resurrect the zombie tree", "url": "https://news.uq.edu.au/2026-01-desperate-race-resurrect-newly-named-zombie-tree" },
+        { "title": "ScienceDaily: Australia's zombie tree could vanish within a generation", "url": "https://www.sciencedaily.com/releases/2026/03/260313002652.htm" },
+        { "title": "IFLScience: Why scientists hope to rescue the zombie tree", "url": "https://www.iflscience.com/it-sounds-like-a-long-shot-why-scientists-hope-to-rescue-a-zombie-tree-82330" }
+      ],
+      "tags": ["Conservation", "Biology", "Australia", "Nature"],
+      "readingTime": "2 min read",
+      "sources": ["University of Queensland", "ScienceDaily", "Newsweek", "IFLScience"]
+    },
+    {
+      "id": "2026-03-16-014",
+      "headline": "Scientists Discovered That Hedgehogs Can Hear Ultrasound — and It Might Save Their Lives",
+      "hook": "Hedgehogs are one of Europe's most road-killed animals. A new discovery about their hidden hearing abilities could help engineers design better protections.",
+      "body": "Hedgehogs aren't known for sharp senses. They navigate mostly by smell and sound, with rather poor eyesight. But researchers have just discovered they possess a hidden acoustic superpower: the ability to hear ultrasonic frequencies far beyond the range of human hearing. The discovery emerged from auditory tests on captive hedgehogs, measuring exactly which frequencies trigger responses in their inner ear and brain — and the results extended well into the ultrasonic range.\n\nUltrasound — sounds above 20 kHz — is the frequency range used by bats for echolocation and by many insects to communicate. The finding raises fascinating questions about what hedgehogs actually use this ability for. Researchers speculate it may help them detect the high-frequency sounds produced by insects (a core food source), or possibly the echolocation calls of bats (a predator). It's also possible the sensitivity evolved for reasons we haven't yet discovered.\n\nThe practical dimension is compelling. Hedgehog populations across Europe have crashed dramatically in recent decades, and roads are a leading cause of death — hedgehogs tend to freeze when caught in headlights rather than fleeing. If ultrasonic frequencies within the range produced by car tires, engines, or road surfaces trigger a specific behavioral response in hedgehogs, road engineers could potentially design warning systems, crossing structures, or acoustic deterrents that leverage this hidden sense. Giving hedgehogs an audio signal they can actually hear and respond to might prove far more effective than infrastructure designed without knowing what they could perceive.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1675614321417-f5371fbff3d0?w=800",
+        "alt": "A small hedgehog walking through a lush green grassy field",
+        "credit": "Photo by Lukas Seitz on Unsplash",
+        "creditUrl": "https://unsplash.com/@lukasseitz?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "SciTechDaily: Hedgehog biology news", "url": "https://scitechdaily.com/news/biology/" },
+        { "title": "Live Science: Animal discoveries", "url": "https://www.livescience.com/news" },
+        { "title": "Microbiological Society: New to Science March 2026", "url": "https://microbiologysociety.org/resource/new-to-science-the-latest-discoveries-from-around-the-world-march-2026.html" }
+      ],
+      "tags": ["Wildlife", "Biology", "Conservation", "Nature"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "SciTechDaily", "Live Science"]
+    },
+    {
+      "id": "2026-03-16-015",
+      "headline": "Hackers Are Hiding Malicious Code Inside Invisible Unicode Characters",
+      "hook": "A sophisticated attack called GlassWorm embeds undetectable characters in open-source packages — and it's spreading through GitHub, npm, and VS Code extensions.",
+      "body": "Code is text, and text can contain invisible characters. This simple fact is being weaponized. A campaign called GlassWorm has returned with what security researchers at Aikido Dev describe as a \"significant escalation\" — using invisible Unicode characters to embed malicious instructions inside otherwise legitimate-looking code across GitHub, npm, and the Open VSX registry (which powers VS Code extensions), three of the most widely used platforms in software development.\n\nThe technique works by inserting special Unicode characters that are invisible to the human eye when reading code, but are interpreted differently by compilers and code parsers. To a developer reviewing a pull request or inspecting a diff, the file looks perfectly clean. But the runtime sees hidden instructions alongside the normal code. These could be used to silently exfiltrate credentials, install backdoors, or quietly alter application behavior in ways that standard code review would never catch.\n\nWhat makes GlassWorm particularly insidious is its supply chain angle: rather than attacking individual developers directly, it targets the packages and extensions that millions of developers pull into their own projects. Once a compromised dependency is downloaded and executed, the hidden code runs automatically on the victim's system. Security researchers recommend keeping dependencies pinned to verified versions, using static analysis tools that flag non-standard Unicode in source files, and auditing unexpected package updates from even trusted authors. The broader lesson is sobering: in an era of sophisticated supply chain attacks, code review alone is no longer sufficient — you need tooling that can see what your eyes cannot.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1708795835241-9bd31ea9dea7?w=800",
+        "alt": "A cell tower rising above a dense green forest, representing digital network infrastructure",
+        "credit": "Photo by Shelymar Rosa Caraballo on Unsplash",
+        "creditUrl": "https://unsplash.com/@japucheba?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Aikido Dev: Glassworm returns — Unicode attack hits GitHub, npm, VSCode", "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode" },
+        { "title": "Hacker News discussion", "url": "https://news.ycombinator.com/front?day=2026-03-15" },
+        { "title": "The Hacker News: Cybersecurity coverage", "url": "https://thehackernews.com/" }
+      ],
+      "tags": ["Cybersecurity", "Technology", "Open Source", "Software"],
+      "readingTime": "2 min read",
+      "sources": ["Aikido Dev", "Hacker News", "The Hacker News", "Open VSX Registry"]
+    }
+  ]
+}
