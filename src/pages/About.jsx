@@ -156,12 +156,12 @@ export default function About() {
                     <td className="py-2">Free</td>
                   </tr>
                   <tr className="border-b border-shuffle-100">
-                    <td className="py-2 pr-4">Claude API</td>
-                    <td className="py-2">~$1-3/day</td>
+                    <td className="py-2 pr-4">Claude Code</td>
+                    <td className="py-2">$0 (uses existing Max subscription)</td>
                   </tr>
                   <tr className="border-b border-shuffle-200 font-semibold">
                     <td className="py-2 pr-4">Total</td>
-                    <td className="py-2">~$30-90/month</td>
+                    <td className="py-2">Effectively free</td>
                   </tr>
                 </tbody>
               </table>
