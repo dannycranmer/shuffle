@@ -21,8 +21,13 @@ export default function About() {
           <h1 className="font-display text-4xl md:text-5xl font-bold text-shuffle-900 leading-tight mb-4">
             I Built a News Site That Runs Itself
           </h1>
-          <p className="text-xl text-shuffle-500 mb-8">
+          <p className="text-xl text-shuffle-500 mb-4">
             No editors. No CMS. No human intervention. Just an AI agent, a cron job, and effectively zero running costs.
+          </p>
+          <p className="mb-8">
+            <a href="https://shuffle-news.netlify.app" className="inline-block bg-shuffle-900 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-shuffle-700 transition-colors" target="_blank" rel="noopener noreferrer">
+              Visit the live site →
+            </a>
           </p>
 
           <div className="text-shuffle-600 leading-relaxed space-y-6">
@@ -32,6 +37,20 @@ export default function About() {
               relevant photos, commits everything to a GitHub repo, and goes back to sleep. Netlify picks up
               the push and rebuilds the site. By the time you pour your coffee, there are 15 fresh stories
               waiting for you.
+            </p>
+
+            <h2 className="font-display text-2xl font-bold text-shuffle-900 mt-10">Why Build This?</h2>
+
+            <p>
+              I wanted to see if an AI agent could genuinely run a content business end-to-end with zero
+              ongoing human effort. Not as a demo or proof of concept — as a real, live website that
+              publishes real content every day.
+            </p>
+
+            <p>
+              The answer is yes. It works. The stories are interesting, the site looks clean, and the
+              whole thing ticks along without me doing anything. The agent occasionally finds genuinely
+              surprising stories I wouldn't have discovered on my own.
             </p>
 
             <h2 className="font-display text-2xl font-bold text-shuffle-900 mt-10">How It Works</h2>
@@ -137,48 +156,16 @@ export default function About() {
                     <td className="py-2">Free</td>
                   </tr>
                   <tr className="border-b border-shuffle-100">
-                    <td className="py-2 pr-4">Claude (via Max subscription)</td>
-                    <td className="py-2">$0 marginal (included in existing subscription)</td>
+                    <td className="py-2 pr-4">Claude API</td>
+                    <td className="py-2">~$1-3/day</td>
                   </tr>
                   <tr className="border-b border-shuffle-200 font-semibold">
                     <td className="py-2 pr-4">Total</td>
-                    <td className="py-2">Effectively free</td>
+                    <td className="py-2">~$30-90/month</td>
                   </tr>
                 </tbody>
               </table>
             </div>
-
-            <h2 className="font-display text-2xl font-bold text-shuffle-900 mt-10">The Daily Routine</h2>
-
-            <p>Here's what happens every morning without any human touching anything:</p>
-
-            <ol className="list-decimal pl-6 space-y-2">
-              <li>Cron fires at 6:00 AM UTC</li>
-              <li>Script pulls the latest repo changes</li>
-              <li>Claude Code launches with a detailed prompt</li>
-              <li>Claude searches the web for trending topics across Reddit, HN, news sites, and more</li>
-              <li>It picks 10-15 of the most interesting stories</li>
-              <li>For each story: writes a hook, headline, body, finds an Unsplash image, collects sources</li>
-              <li>Saves everything as a JSON file</li>
-              <li>Script validates the JSON, commits, and pushes to GitHub</li>
-              <li>Netlify automatically rebuilds the site</li>
-              <li>Top 3 stories are posted to Bluesky</li>
-              <li>Agent goes back to sleep for 24 hours</li>
-            </ol>
-
-            <h2 className="font-display text-2xl font-bold text-shuffle-900 mt-10">Why Build This?</h2>
-
-            <p>
-              I wanted to see if an AI agent could genuinely run a content business end-to-end with zero
-              ongoing human effort. Not as a demo or proof of concept — as a real, live website that
-              publishes real content every day.
-            </p>
-
-            <p>
-              The answer is yes. It works. The stories are interesting, the site looks clean, and the
-              whole thing ticks along without me doing anything. The agent occasionally finds genuinely
-              surprising stories I wouldn't have discovered on my own.
-            </p>
 
             <p>
               The most interesting part isn't the AI writing — it's the architecture. Using git as the
@@ -186,18 +173,6 @@ export default function About() {
               there are essentially zero moving parts that can break. If the agent fails one day, the site
               just shows yesterday's stories. No downtime, no errors, no 3 AM pages.
             </p>
-
-            <h2 className="font-display text-2xl font-bold text-shuffle-900 mt-10">Tech Stack</h2>
-
-            <ul className="list-disc pl-6 space-y-1">
-              <li>React + Vite + Tailwind CSS (frontend)</li>
-              <li>Netlify (hosting, edge functions for OG tags)</li>
-              <li>Claude Code CLI on EC2 (content generation)</li>
-              <li>Unsplash API (images)</li>
-              <li>GitHub (repo + "database")</li>
-              <li>Bluesky API (social auto-posting)</li>
-              <li>Bash + cron (orchestration)</li>
-            </ul>
 
             <p>
               The entire project — frontend, agent, infrastructure, deployment — was built in a single
