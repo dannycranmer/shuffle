@@ -61,20 +61,49 @@ export default function About() {
 
             <h2 className="font-display text-2xl font-bold text-shuffle-900 mt-10">The Architecture</h2>
 
-            <div className="bg-shuffle-100 rounded-xl p-6 font-mono text-sm text-shuffle-700 overflow-x-auto">
-              <pre>{`┌─────────────────┐        ┌─────────────────┐        ┌─────────────────┐
-│  EC2 t3.micro   │        │     GitHub      │        │     Netlify     │
-│                 │        │                 │        │                 │
-│  Claude Code    ├───────▶│  JSON stories   ├───────▶│   React SPA    │
-│  (daily cron)   │git push│  + source code  │  auto  │  (static site) │
-└────────┬────────┘        └─────────────────┘        └─────────────────┘
-         │
-         │ post top 3
-         ▼
-┌─────────────────┐
-│    Bluesky      │
-│  @shuffle-news  │
-└─────────────────┘`}</pre>
+            <div className="bg-shuffle-100 rounded-xl p-4 md:p-6 overflow-x-auto">
+              <svg viewBox="0 0 600 260" className="w-full max-w-lg mx-auto" style={{ minWidth: '320px' }}>
+                <defs>
+                  <marker id="arrow" viewBox="0 0 10 7" refX="10" refY="3.5" markerWidth="10" markerHeight="7" orient="auto-start-auto">
+                    <polygon points="0 0, 10 3.5, 0 7" fill="#475569" />
+                  </marker>
+                </defs>
+
+                {/* EC2 Box */}
+                <rect x="10" y="10" width="140" height="80" rx="8" fill="white" stroke="#cbd5e1" strokeWidth="1.5" />
+                <text x="80" y="38" textAnchor="middle" fontSize="13" fontWeight="700" fill="#1e293b">EC2 t3.micro</text>
+                <text x="80" y="56" textAnchor="middle" fontSize="11" fill="#64748b">Claude Code</text>
+                <text x="80" y="72" textAnchor="middle" fontSize="11" fill="#64748b">(daily cron)</text>
+
+                {/* GitHub Box */}
+                <rect x="230" y="10" width="140" height="80" rx="8" fill="white" stroke="#cbd5e1" strokeWidth="1.5" />
+                <text x="300" y="38" textAnchor="middle" fontSize="13" fontWeight="700" fill="#1e293b">GitHub</text>
+                <text x="300" y="56" textAnchor="middle" fontSize="11" fill="#64748b">JSON stories</text>
+                <text x="300" y="72" textAnchor="middle" fontSize="11" fill="#64748b">+ source code</text>
+
+                {/* Netlify Box */}
+                <rect x="450" y="10" width="140" height="80" rx="8" fill="white" stroke="#cbd5e1" strokeWidth="1.5" />
+                <text x="520" y="38" textAnchor="middle" fontSize="13" fontWeight="700" fill="#1e293b">Netlify</text>
+                <text x="520" y="56" textAnchor="middle" fontSize="11" fill="#64748b">React SPA</text>
+                <text x="520" y="72" textAnchor="middle" fontSize="11" fill="#64748b">(static site)</text>
+
+                {/* Bluesky Box */}
+                <rect x="10" y="170" width="140" height="80" rx="8" fill="white" stroke="#cbd5e1" strokeWidth="1.5" />
+                <text x="80" y="200" textAnchor="middle" fontSize="13" fontWeight="700" fill="#1e293b">Bluesky</text>
+                <text x="80" y="218" textAnchor="middle" fontSize="11" fill="#64748b">@shuffle-news</text>
+
+                {/* Arrow: EC2 → GitHub */}
+                <line x1="150" y1="50" x2="225" y2="50" stroke="#475569" strokeWidth="1.5" markerEnd="url(#arrow)" />
+                <text x="188" y="43" textAnchor="middle" fontSize="10" fill="#94a3b8">git push</text>
+
+                {/* Arrow: GitHub → Netlify */}
+                <line x1="370" y1="50" x2="445" y2="50" stroke="#475569" strokeWidth="1.5" markerEnd="url(#arrow)" />
+                <text x="408" y="43" textAnchor="middle" fontSize="10" fill="#94a3b8">auto</text>
+
+                {/* Arrow: EC2 → Bluesky */}
+                <line x1="80" y1="90" x2="80" y2="165" stroke="#475569" strokeWidth="1.5" markerEnd="url(#arrow)" />
+                <text x="92" y="135" fontSize="10" fill="#94a3b8">post top 3</text>
+              </svg>
             </div>
 
             <p>
