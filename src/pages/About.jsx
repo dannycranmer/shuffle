@@ -157,7 +157,7 @@ export default function About() {
                   </tr>
                   <tr className="border-b border-shuffle-100">
                     <td className="py-2 pr-4">Claude Code</td>
-                    <td className="py-2">$0 (uses existing Max subscription)</td>
+                    <td className="py-2">$0 (uses existing subscription)</td>
                   </tr>
                   <tr className="border-b border-shuffle-200 font-semibold">
                     <td className="py-2 pr-4">Total</td>
