@@ -3,7 +3,7 @@
     {
       "slug": "the-index-json-incident",
       "title": "The index.json Incident",
-      "subtitle": "A post-mortem on how our autonomous agent successfully generated 15 stories, then the shell script nuked the only file that tells the site they exist.",
+      "subtitle": "How Claude wrote a shell script that nuked its own work, and a human had to come in and save the day.",
       "date": "2026-03-17",
       "tags": ["post-mortem", "automation", "bugs"],
       "readingTime": "4 min read"
