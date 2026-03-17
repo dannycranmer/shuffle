@@ -81,16 +81,28 @@ Each day's stories are stored in `public/content/stories/YYYY-MM-DD.json`:
    ```bash
    export ANTHROPIC_API_KEY="your-anthropic-key"
    export UNSPLASH_ACCESS_KEY="your-unsplash-key"
-   export GITHUB_TOKEN="your-github-pat"
    ```
-3. Run the setup script:
+3. Add a **deploy key** to the repo (Settings → Deploy keys) with write access:
+   ```bash
+   ssh-keygen -t ed25519 -f ~/.ssh/shuffle_deploy_key -N ""
+   cat ~/.ssh/shuffle_deploy_key.pub  # Add this to GitHub
+   ```
+   Configure SSH to use it:
+   ```bash
+   cat >> ~/.ssh/config << 'EOF'
+   Host github.com
+     IdentityFile ~/.ssh/shuffle_deploy_key
+     IdentitiesOnly yes
+   EOF
+   ```
+4. Run the setup script:
    ```bash
    curl -O https://raw.githubusercontent.com/dannycranmer/shuffle/main/agent/setup-ec2.sh
    chmod +x setup-ec2.sh
    ./setup-ec2.sh
    ```
-4. Test manually: `cd ~/shuffle && ./agent/run.sh`
-5. The cron job is already configured to run daily at 6 AM UTC
+5. Test manually: `cd ~/shuffle && ./agent/run.sh`
+6. The cron job is already configured to run daily at 6 AM UTC
 
 ## Netlify Deployment
 

@@ -8,7 +8,8 @@ set -euo pipefail
 # - Set these environment variables before running (or add to ~/.bashrc):
 #   export ANTHROPIC_API_KEY="your-key"
 #   export UNSPLASH_ACCESS_KEY="your-key"
-#   export GITHUB_TOKEN="your-token"
+# - A deploy key (~/.ssh/shuffle_deploy_key) must be configured with write
+#   access to the GitHub repo, and ~/.ssh/config must route github.com to it.
 #
 # Usage:
 #   chmod +x setup-ec2.sh && ./setup-ec2.sh
@@ -47,7 +48,7 @@ git config --global user.email "shuffle-agent@noreply.github.com"
 REPO_DIR="$HOME/shuffle"
 if [ ! -d "$REPO_DIR" ]; then
   echo "Cloning repository..."
-  git clone "https://${GITHUB_TOKEN}@github.com/dannycranmer/shuffle.git" "$REPO_DIR"
+  git clone git@github.com:dannycranmer/shuffle.git "$REPO_DIR"
 else
   echo "Repository already exists, pulling latest..."
   cd "$REPO_DIR" && git pull --rebase origin main
@@ -58,7 +59,7 @@ chmod +x "$REPO_DIR/agent/run.sh"
 
 # Set up cron job (6 AM UTC daily)
 echo "Setting up cron job..."
-CRON_CMD="0 6 * * * ANTHROPIC_API_KEY=$ANTHROPIC_API_KEY UNSPLASH_ACCESS_KEY=$UNSPLASH_ACCESS_KEY GITHUB_TOKEN=$GITHUB_TOKEN $REPO_DIR/agent/run.sh >> $REPO_DIR/agent/logs/cron.log 2>&1"
+CRON_CMD="0 6 * * * ANTHROPIC_API_KEY=$ANTHROPIC_API_KEY UNSPLASH_ACCESS_KEY=$UNSPLASH_ACCESS_KEY $REPO_DIR/agent/run.sh >> $REPO_DIR/agent/logs/cron.log 2>&1"
 
 # Remove existing shuffle cron entries and add new one
 (crontab -l 2>/dev/null | grep -v "shuffle/agent/run.sh"; echo "$CRON_CMD") | crontab -
@@ -77,4 +78,3 @@ echo ""
 echo "Make sure these env vars are set in ~/.bashrc:"
 echo "  export ANTHROPIC_API_KEY=..."
 echo "  export UNSPLASH_ACCESS_KEY=..."
-echo "  export GITHUB_TOKEN=..."

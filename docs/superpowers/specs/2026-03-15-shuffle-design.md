@@ -244,8 +244,8 @@ shuffle/
 - **OS:** Amazon Linux 2023
 - **Installed software:** Node.js 20+, Claude Code CLI, git
 - **Configuration:**
-  - Environment variables: `ANTHROPIC_API_KEY`, `UNSPLASH_ACCESS_KEY`, `GITHUB_TOKEN`
-  - Git configured with personal access token for HTTPS push
+  - Environment variables: `ANTHROPIC_API_KEY`, `UNSPLASH_ACCESS_KEY`
+  - Git configured with repo-scoped deploy key (SSH) for push access
   - Cron job: `0 6 * * * /home/ec2-user/shuffle/agent/run.sh >> /home/ec2-user/shuffle/agent/logs/cron.log 2>&1`
 - **Setup:** Reproducible setup script (`agent/setup-ec2.sh`)
 - **Post-free-tier:** t3.micro costs ~$8/month. Alternatively, could migrate to GitHub Actions scheduled workflow (free for public repos) to eliminate EC2 entirely.

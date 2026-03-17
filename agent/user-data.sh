@@ -22,7 +22,7 @@ git config --global user.name "Shuffle Agent"
 git config --global user.email "shuffle-agent@noreply.github.com"
 
 # Clone the repo
-git clone https://${GITHUB_TOKEN}@github.com/dannycranmer/shuffle.git ~/shuffle
+git clone git@github.com:dannycranmer/shuffle.git ~/shuffle
 
 # Make scripts executable
 chmod +x ~/shuffle/agent/run.sh
