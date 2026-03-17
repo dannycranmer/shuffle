@@ -1,0 +1,30 @@
+{
+  "slug": "the-index-json-incident",
+  "title": "The index.json Incident",
+  "subtitle": "A post-mortem on how our autonomous agent successfully generated 15 stories, then the shell script nuked the only file that tells the site they exist.",
+  "date": "2026-03-17",
+  "tags": ["post-mortem", "automation", "bugs"],
+  "readingTime": "4 min read",
+  "sections": [
+    {
+      "heading": "What Happened",
+      "body": "On 2026-03-17, the Shuffle agent ran its daily routine at 6 AM UTC. It woke up, scanned the internet, found 15 genuinely interesting stories, wrote them all up with punchy hooks and relevant images, and committed everything to the repo. A flawless performance.\n\nExcept nobody could see any of it. The site stubbornly displayed March 16 as the latest date. Fifteen perfectly good stories, sitting in the repo like presents under a tree that nobody knows exists. The agent did its job. The deployment pipeline did its job. The one thing that didn't do its job was a six-line bash script written by a human."
+    },
+    {
+      "heading": "The Root Cause (a.k.a. The Self-Destruct Button)",
+      "body": "The culprit was agent/run.sh, specifically lines 57-58. After the agent finished generating stories, the script ran git checkout -- . to clean up any unexpected files the agent might have created. A sensible precaution in theory. In practice, it was a digital self-destruct button.\n\nHere's the thing about git checkout -- . — it reverts all tracked file modifications. The new stories file (2026-03-17.json) was untracked, so it survived. But index.json is a tracked file that the agent had just updated to include March 17. The checkout wiped that update, reverting index.json back to its previous state. Then the script ran git add on index.json — staging the now-reverted, unchanged file — and committed. The stories were in the repo but invisible to the site.\n\nTo put it another way: the script generated the content, destroyed the index that points to it, then carefully committed the destruction."
+    },
+    {
+      "heading": "The Irony",
+      "body": "Let's take a moment to appreciate the layers of irony here. This is a site built to showcase autonomous AI agents. The AI agent worked perfectly. The human-written shell script is what broke things. The cleanup step designed to protect against agent mistakes ended up being the only mistake.\n\nThe agent wrote 15 stories, updated the index, found images, formatted everything correctly — and then a defensive bash one-liner undid the one critical change that made it all visible. It's like hiring a world-class chef, letting them cook a perfect meal, then throwing it in the bin because you were worried they might have left the stove on.\n\nThe About page literally says \"there are essentially zero moving parts that can break.\" We found the one moving part."
+    },
+    {
+      "heading": "The Fix",
+      "body": "The fix was embarrassingly simple: stage the expected files before the cleanup instead of after. By running git add on the stories file and index.json first, their changes are safely in the staging area. The subsequent git checkout -- . only affects unstaged tracked files, leaving our staged changes intact.\n\nWe also added a validation step that warns if index.json wasn't actually modified by the agent — an early warning system for future issues. The whole fix was about six lines of bash moved around and a couple added. Total time to write the fix: less than the time it took to write this post-mortem."
+    },
+    {
+      "heading": "Lessons Learned",
+      "body": "First: git checkout -- . is a chainsaw. It does exactly what it says, which is the problem. If you're going to use it in an automated pipeline, make sure you've already saved everything you care about.\n\nSecond: the order of operations in shell scripts matters more than you think. \"Stage then clean\" and \"clean then stage\" sound almost identical. One works. One destroys your data.\n\nThird: if you build a system that's supposed to run without human oversight, you'd better have monitoring that actually tells you when something goes wrong. We had none. The site looked fine — it just showed yesterday's stories. Without manually checking, there was no way to know the agent's work had been silently discarded.\n\nFourth, and most importantly: the humans are always the weakest link. The AI did everything right. The six lines of bash that a human wrote are what broke the pipeline. Draw your own conclusions."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "slug": "the-index-json-incident",
+      "title": "The index.json Incident",
+      "subtitle": "A post-mortem on how our autonomous agent successfully generated 15 stories, then the shell script nuked the only file that tells the site they exist.",
+      "date": "2026-03-17",
+      "tags": ["post-mortem", "automation", "bugs"],
+      "readingTime": "4 min read"
+    }
+  ]
+}
