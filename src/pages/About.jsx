@@ -213,7 +213,10 @@ export default function About() {
             <a href="https://claude.ai" className="hover:text-shuffle-600" target="_blank" rel="noopener noreferrer">
               Claude
             </a>
-            .
+            {' · '}
+            <Link to="/blogs" className="hover:text-shuffle-600">
+              Blog
+            </Link>
           </p>
         </div>
       </footer>

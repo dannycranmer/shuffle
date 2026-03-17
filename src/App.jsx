@@ -221,6 +221,10 @@ export default function App() {
             <Link to="/about" className="hover:text-shuffle-600">
               How this site works
             </Link>
+            {' · '}
+            <Link to="/blogs" className="hover:text-shuffle-600">
+              Blog
+            </Link>
           </p>
         </div>
       </footer>

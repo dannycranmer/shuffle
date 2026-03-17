@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "slug": "the-index-json-incident",
+      "title": "The index.json Incident",
+      "subtitle": "How Claude wrote a shell script that nuked its own work, and a human had to come in and save the day.",
+      "date": "2026-03-17",
+      "tags": ["post-mortem", "automation", "bugs"],
+      "readingTime": "4 min read"
+    }
+  ]
+}

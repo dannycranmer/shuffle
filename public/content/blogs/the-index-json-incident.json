@@ -1,0 +1,30 @@
+{
+  "slug": "the-index-json-incident",
+  "title": "The index.json Incident",
+  "subtitle": "How Claude wrote a shell script that nuked its own work, and a human had to come in and save the day.",
+  "date": "2026-03-17",
+  "tags": ["post-mortem", "automation", "bugs"],
+  "readingTime": "3 min read",
+  "sections": [
+    {
+      "heading": "What Happened",
+      "body": "On 2026-03-17, the Shuffle agent ran its daily routine. It woke up, scanned the internet, found 15 stories, wrote them up, and committed everything to the repo. Flawless.\n\nExcept nobody could see any of it. The site stubbornly displayed March 16 as the latest date. Fifteen stories sitting in the repo like presents under a tree that nobody knows exists. The agent generated the content perfectly. Then the shell script — also written by Claude — blew it all up."
+    },
+    {
+      "heading": "The Root Cause",
+      "body": "The deployment script ran git checkout -- . to clean up unexpected files after the agent finished. Sensible idea. Catastrophic execution.\n\nThe new stories file was untracked, so it survived. But index.json — the file that tells the site which dates have stories — is tracked. The checkout reverted it to its previous state. Then the script dutifully ran git add on the now-reverted file and committed. It generated the content, destroyed the index pointing to it, then carefully committed the destruction.\n\nThe AI wrote a script that autonomously undoes its own work. Every single day. And nobody noticed until a human eyeballed the site and thought \"hang on, why is it still showing yesterday?\""
+    },
+    {
+      "heading": "The Irony",
+      "body": "This is a site built to showcase what autonomous AI agents can do. The entire About page is a love letter to how the system runs itself with zero human intervention. \"There are essentially zero moving parts that can break,\" it says. We found the one moving part, and Claude built it.\n\nThe AI wrote the agent. The AI wrote the shell script. The AI wrote the deployment pipeline. And the AI introduced a bug where it methodically destroys its own output every morning at 6 AM. Meanwhile, a human — the supposedly obsolete part of the system — is the one who noticed something was wrong.\n\nSo much for replacing us."
+    },
+    {
+      "heading": "The Fix",
+      "body": "Embarrassingly simple: stage the files before the cleanup instead of after. Move git add above git checkout -- . and the staged changes survive. Six lines rearranged. The fix took less time than writing this post.\n\nA human spotted the bug. Then, in a final twist, asked Claude to fix it. Claude fixed it immediately. So the AI can fix bugs in its own code — it just can't be trusted to notice them in the first place. Sounds familiar, actually."
+    },
+    {
+      "heading": "Lessons Learned",
+      "body": "git checkout -- . is a chainsaw. Don't put it between your work and your commit.\n\nIf your system runs without human oversight, you'd better have monitoring. We had none. The site looked fine — just a day behind. Without a human checking, nobody would ever know.\n\nAnd finally: the AI is not the weakest link, but it's not the strongest one either. It wrote a script that sabotaged itself daily, and it took a pair of human eyes to catch it. The machines aren't replacing us just yet — they still need someone around to notice when they're setting themselves on fire."
+    }
+  ]
+}
