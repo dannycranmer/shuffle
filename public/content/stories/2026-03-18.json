@@ -1,0 +1,305 @@
+{
+  "date": "2026-03-18",
+  "stories": [
+    {
+      "id": "2026-03-18-001",
+      "headline": "SpaceX Now Controls Two-Thirds of All Active Satellites With Starlink's 10,000th Launch",
+      "hook": "A single company now owns two-thirds of every working satellite in Earth's orbit — and it's only getting started.",
+      "body": "On March 17, 2026, SpaceX crossed a milestone that would have seemed like science fiction a decade ago: its Starlink network surpassed 10,000 simultaneously active satellites in low Earth orbit. The 10,020th satellite was delivered by a Falcon 9 rocket lifting off from Vandenberg Space Force Base, less than seven years after the first batch of 60 satellites launched in May 2019.\n\nTo put the scale in perspective, those 10,000-plus Starlink satellites constitute roughly two-thirds of all active satellites currently orbiting Earth, according to tracking data from astrophysicist Jonathan McDowell. Every other satellite operator — government agencies, commercial rivals, scientific institutions — collectively accounts for the remaining third.\n\nSpaceX already holds regulatory approval to expand the constellation to approximately 42,000 satellites. The next chapter of that growth is expected to begin this year, with a more powerful new generation of Starlink satellites set to launch aboard the company's massive Starship rocket. Critics continue to raise concerns about light pollution and the rising risk of orbital debris collisions, but for now, Starlink's global internet service remains one of the most extraordinary technological buildouts in history.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1523905838168-9e7860fe5128?w=800",
+        "alt": "Starry night sky filled with stars",
+        "credit": "Photo by Prokhor Minin on Unsplash",
+        "creditUrl": "https://unsplash.com/@len0xx43?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "SpaceX reaches 10,000 simultaneous Starlink satellites in orbit", "url": "https://spaceflightnow.com/2026/03/16/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-california/" },
+        { "title": "SpaceX crosses 10,000-satellite threshold, owning two-thirds of all active satellites", "url": "https://www.washingtontimes.com/news/2026/mar/17/spacex-crosses-10000-satellite-threshold-owning-two-thirds-active/" },
+        { "title": "Starlink milestone: 10,000 satellites in orbit", "url": "https://www.scientificamerican.com/article/spacex-reaches-milestone-of-10-000-starlink-satellites-in-orbit/" }
+      ],
+      "tags": ["Space", "Technology", "SpaceX", "Satellites"],
+      "readingTime": "2 min read",
+      "sources": ["Spaceflight Now", "Scientific American", "Washington Times", "KeepTrack"]
+    },
+    {
+      "id": "2026-03-18-002",
+      "headline": "Webb Telescope Reveals a Dying Star That Looks Eerily Like a Human Brain",
+      "hook": "NASA's most powerful space telescope just imaged a nebula so strange it's been nicknamed the \"Exposed Cranium\" — and it looks exactly like what it sounds.",
+      "body": "About 5,000 light-years away in the constellation Vela, a dying star is shedding its outer layers in one of the most bizarre configurations astronomers have ever photographed. The result, formally designated PMR 1 but nicknamed the \"Exposed Cranium Nebula,\" bears an uncanny resemblance to a human brain floating in a transparent skull — complete with distinct left and right hemispheres separated by a dark central lane.\n\nNASA's James Webb Space Telescope recently captured the nebula in stunning new detail using both its Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI). The two views reveal different layers of the structure: an outer shell of hydrogen blown off first, and a more complex inner cloud containing a richer mix of gases. Webb's resolution suggests the dark central lane may have formed from twin jets of material ejected by the central star — a common feature in dying stars of this type.\n\nWhat makes the Exposed Cranium particularly scientifically interesting is that its central star is especially hot and massive, placing it in a rare transitional category between active stars and white dwarfs. The new images will help astronomers understand how stars at this specific stage of evolution shed their mass — and why some nebulae end up taking on such uncanny, vaguely familiar shapes.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1762590322939-8e117e56f6b5?w=800",
+        "alt": "A colorful nebula surrounded by countless stars",
+        "credit": "Photo by thibault henry on Unsplash",
+        "creditUrl": "https://unsplash.com/@fourmis?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NASA's Webb Examines Cranium Nebula", "url": "https://science.nasa.gov/missions/webb/nasas-webb-examines-cranium-nebula/" },
+        { "title": "Webb captures a bizarre brain-shaped nebula around a dying star", "url": "https://www.sciencedaily.com/releases/2026/03/260317015938.htm" },
+        { "title": "Eerie brainlike nebula captured in new JWST images", "url": "https://www.scientificamerican.com/article/eerie-brain-like-nebula-captured-in-stunning-new-jwst-images/" }
+      ],
+      "tags": ["Space", "Astronomy", "James Webb Telescope", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["NASA Science", "ScienceDaily", "Scientific American", "Space.com"]
+    },
+    {
+      "id": "2026-03-18-003",
+      "headline": "Tiny Plankton Began Evolving Into New Species Within 2,000 Years of the Dino-Killing Asteroid",
+      "hook": "The mass extinction that erased the dinosaurs apparently took life only a couple thousand years to start fighting back.",
+      "body": "When a six-mile-wide asteroid slammed into Earth 66 million years ago, it triggered the worst mass extinction in the past half-billion years. But according to new research using unusually precise geological dating, microscopic marine plankton didn't stay wiped out for long. New species began to emerge within roughly 2,000 to 11,000 years of the impact — an eyeblink in geological time.\n\nThe breakthrough came from using helium-3, an isotope that accumulates in seafloor sediments at a known, steady rate from interplanetary dust particles. By measuring helium-3 concentrations across six Cretaceous-Paleogene boundary sites in Europe, North Africa, and the Gulf of Mexico, researchers were able to time-stamp the fossil record far more precisely than conventional methods allow.\n\nThe findings, published in the journal Geology, dramatically revise previous estimates that had placed the earliest post-impact evolution tens of thousands of years after the asteroid hit. They also paint a more hopeful picture of life's resilience: even under the most catastrophic conditions, evolution doesn't wait. Plankton — the base of virtually every ocean food chain — were quietly reinventing themselves almost immediately, laying the foundation for the eventual recovery of the entire marine ecosystem.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1648465551140-f275598d9987?w=800",
+        "alt": "Marine animals swimming in blue water",
+        "credit": "Photo by Danny van Bergen on Unsplash",
+        "creditUrl": "https://unsplash.com/@just_danny?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Life rebounded shockingly fast after the asteroid that killed the dinosaurs", "url": "https://www.sciencedaily.com/releases/2026/03/260315004414.htm" },
+        { "title": "Evidence of 'lightning-fast' evolution found after Chicxulub impact", "url": "https://www.jsg.utexas.edu/news/2026/01/evidence-of-lightning-fast-evolution-found-after-dino-killing-asteroid-impact" },
+        { "title": "Evolving Plankton May Have Kicked Off Life's Comeback", "url": "https://www.discovermagazine.com/evolving-plankton-may-have-kicked-off-life-s-comeback-after-the-dinosaur-killing-asteroid-impact-48580" }
+      ],
+      "tags": ["Science", "Evolution", "Paleontology", "Oceans"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "University of Texas Jackson School of Geosciences", "Discover Magazine", "Penn State University"]
+    },
+    {
+      "id": "2026-03-18-004",
+      "headline": "Japan's Hayabusa-2 Found Every DNA Building Block on Asteroid Ryugu",
+      "hook": "An asteroid drifting through space for billions of years was just found to contain every single ingredient needed to build DNA — all five of them.",
+      "body": "In a finding that bolsters some of the oldest theories about how life came to exist on Earth, scientists analyzing samples from asteroid Ryugu have confirmed the presence of all five nucleobases — adenine, guanine, cytosine, thymine, and uracil — the chemical letters that spell out the genetic code of every living thing on our planet.\n\nThe samples were collected by Japan's Hayabusa-2 spacecraft, which traveled 300 million kilometers to Ryugu, blasted tiny craters into its surface, and returned 5.4 grams of rock material to Earth in 2020. The new analysis, published in Nature Astronomy, completes a remarkable molecular checklist: all five nucleobases have now been found in samples from two separate carbon-rich asteroids — Ryugu and NASA's Bennu, sampled by the OSIRIS-REx mission.\n\nThe researchers are careful to note that finding these molecules doesn't mean life ever existed on Ryugu. But it does suggest that the chemical precursors of life are abundant throughout the solar system and may have been delivered to early Earth by asteroid and comet impacts billions of years ago. In other words, the universe may have been seeding planets with life's ingredients long before any of those planets were ready to use them.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1638716000957-e0e0e32817b2?w=800",
+        "alt": "Close-up view of a rock formation",
+        "credit": "Photo by Viktor Talashuk on Unsplash",
+        "creditUrl": "https://unsplash.com/@viktortalashuk?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Ryugu asteroid samples contain all DNA and RNA building blocks", "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html" },
+        { "title": "A complete set of canonical nucleobases in the carbonaceous asteroid Ryugu", "url": "https://www.nature.com/articles/s41550-026-02791-z" },
+        { "title": "Everything needed to make DNA and RNA found on asteroid", "url": "https://www.theregister.com/2026/03/17/everything_needed_to_make_dna/" }
+      ],
+      "tags": ["Space", "Science", "Astrobiology", "Origins of Life"],
+      "readingTime": "2 min read",
+      "sources": ["Phys.org", "Nature Astronomy", "The Register", "Space.com"]
+    },
+    {
+      "id": "2026-03-18-005",
+      "headline": "Scientists Built Cancer Vaccines Out of Folded DNA — And They Work Better Than mRNA",
+      "hook": "Forget protein spikes and lipid nanoparticles: the next generation of cancer vaccines might be made from DNA folded into precise nanoscale origami shapes.",
+      "body": "Researchers at Harvard's Wyss Institute have developed a new vaccine platform called DoriVac that uses DNA origami — the technique of folding DNA strands into precise geometric shapes at the nanoscale — to build cancer vaccines from scratch. Early animal studies show it outperforms conventional approaches, triggering stronger immune responses against melanoma, lymphoma, colon cancer, lung cancer, and neuroblastoma in mice, while significantly extending survival times.\n\nThe key innovation is control. DoriVac's tiny square DNA nanostructures display two types of molecules on opposite faces: antigens (the specific proteins from a tumor that the immune system needs to learn to recognize) and adjuvants (molecules that ramp up immune activity). By spacing the adjuvant molecules exactly 3.5 nanometers apart, researchers found the optimal configuration to stimulate immune cells most effectively — a level of molecular precision that conventional vaccines can't replicate.\n\nBeyond cancer, DoriVac has shown early promise against infectious diseases including COVID-19, HIV, and Ebola in preclinical models. One practical advantage: the platform is more thermally stable than mRNA vaccines and potentially easier to manufacture at scale. Researchers plan to move toward human clinical trials in the near future, hoping to validate an approach that could eventually be personalized to each patient's individual tumor profile.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1582719299074-be127353065f?w=800",
+        "alt": "Medical researcher in scrubs working in a laboratory",
+        "credit": "Photo by National Cancer Institute on Unsplash",
+        "creditUrl": "https://unsplash.com/@nci?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "DNA origami vaccines could be the next leap beyond mRNA", "url": "https://www.sciencedaily.com/releases/2026/03/260317015933.htm" },
+        { "title": "DoriVac: DNA Origami-Based Vaccines — Wyss Institute", "url": "https://wyss.harvard.edu/technology/dorivac-boosting-antigen-specific-immune-responses-with-dna-origami-based-vaccines/" },
+        { "title": "DNA origami vaccine rivals mRNA shots while being easier to store", "url": "https://phys.org/news/2026-03-dna-origami-vaccine-rivals-mrna.html" }
+      ],
+      "tags": ["Health", "Science", "Biotechnology", "Cancer"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Wyss Institute at Harvard", "Phys.org", "Genetic Engineering News"]
+    },
+    {
+      "id": "2026-03-18-006",
+      "headline": "ADHD Brains Are Briefly \"Falling Asleep\" During Demanding Tasks, New Research Shows",
+      "hook": "Scientists have found that ADHD isn't just about distraction — the brain is actually momentarily switching into sleep mode while you're still fully awake.",
+      "body": "A new study from the Paris Brain Institute and Monash University has found a striking neurological explanation for why people with ADHD struggle to stay focused: their brains experience significantly more frequent \"local sleep\" episodes during wakefulness — brief moments when specific brain circuits enter a sleep-like state, even when a person is fully conscious and actively trying to concentrate.\n\nUsing EEG to measure brain activity, researchers compared 32 adults with ADHD (who had paused their medication) against 31 neurotypical adults while all participants performed a sustained-attention task. People with ADHD showed a substantially higher density of slow waves — the brainwave patterns normally associated with deep sleep — during the task. Crucially, the more slow waves a participant showed, the more errors they made and the slower and more variable their reaction times became.\n\nThe finding reframes ADHD attention difficulties as partly a problem of sleep-wake regulation rather than solely a motivational or behavioral issue. It also opens a potential therapeutic avenue: auditory stimulation during sleep has been shown to strengthen nighttime slow waves, which in turn reduces their intrusion during wakefulness the following day. Researchers are now investigating whether the same approach could help reduce local sleep episodes in people with ADHD, potentially offering a drug-free complement to existing treatments.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1709651669999-57741c9bf085?w=800",
+        "alt": "Close-up of a plastic model of a human brain",
+        "credit": "Photo by Maxim Berg on Unsplash",
+        "creditUrl": "https://unsplash.com/@maxberg?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ADHD brains show sleep-like activity even while awake", "url": "https://www.sciencedaily.com/releases/2026/03/260317015928.htm" },
+        { "title": "ADHD: Attention difficulties linked to intrusion of sleep waves during wakefulness", "url": "https://parisbraininstitute.org/news/adhd-attention-difficulties-are-linked-intrusion-sleep-waves-during-wakefulness" },
+        { "title": "The Awake \"Sleep\" Loop: Why Attention Lapses Occur in ADHD", "url": "https://neurosciencenews.com/adhd-attention-sleep-activity-30324/" }
+      ],
+      "tags": ["Health", "Neuroscience", "ADHD", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Paris Brain Institute", "Journal of Neuroscience", "Neuroscience News"]
+    },
+    {
+      "id": "2026-03-18-007",
+      "headline": "The \"Unhackable\" Xbox One Has Finally Been Cracked — 12 Years After Launch",
+      "hook": "Microsoft's engineers once called it the most secure product the company had ever built. They were almost right — it took 12 years and a silicon-level exploit to prove them wrong.",
+      "body": "At the RE//verse 2026 security conference, a researcher known as \"Bliss\" unveiled the first complete hack of the original Xbox One — a console that had remained impenetrable since its November 2013 launch. For context: the PlayStation 4, released the same month, was considered jailbroken by 2016. It took more than a decade longer for anyone to crack Microsoft's equivalent hardware.\n\nThe technique is voltage glitch hacking. Instead of targeting a specific component as earlier console exploits did, Bliss attacked the CPU voltage rail itself, forcing it to collapse at microsecond-precise moments during boot. Two sequential glitches create the opening: the first bypasses the ARM Cortex memory protection setup, and the second hijacks a memory copy operation, redirecting execution to attacker-controlled code. The result is arbitrary unsigned code running across every layer of the system — including the security processor and hypervisor.\n\nHere's the twist that makes this particularly remarkable: Microsoft cannot patch it. The exploit lives in boot ROM burned directly into the silicon at manufacture — there's no software update that can fix that. The consolation for Microsoft is that it only affects the original Xbox One; the Xbox One S and Xbox One X remain uncompromised. For hardware security researchers and the retro gaming preservation community, however, this represents one of the most significant console hacking milestones in years.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1615503340293-27951e043eae?w=800",
+        "alt": "Black video game console and controller",
+        "credit": "Photo by Ben Griffiths on Unsplash",
+        "creditUrl": "https://unsplash.com/@benofthenorth?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'", "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level" },
+        { "title": "'Unhackable' Xbox One Finally Hacked, 12 Years After Release", "url": "https://kotaku.com/xbox-one-hack-jailbreak-2000679120" },
+        { "title": "The exploit that cracks the Xbox One at the silicon level", "url": "https://www.techspot.com/news/111692-hacker-unveils-exploit-cracks-unbreakable-xbox-one-silicon.html" }
+      ],
+      "tags": ["Technology", "Gaming", "Security", "Hardware"],
+      "readingTime": "2 min read",
+      "sources": ["Tom's Hardware", "Kotaku", "TechSpot", "Boing Boing"]
+    },
+    {
+      "id": "2026-03-18-008",
+      "headline": "A Reddit Investigation Traced $2 Billion to Expose Who's Really Behind Age Verification Laws",
+      "hook": "A Reddit researcher spent months following lobbying money through 45 states — and what they found suggests the \"child safety\" bills may be building an OS-level surveillance infrastructure, with Meta's fingerprints on the legislation.",
+      "body": "A remarkable investigative thread on Reddit went viral this week after a user documented tracing more than $2 billion in nonprofit grants and lobbying records across 45 U.S. states, all tied to a wave of age verification bills targeting children on social media. What they found was more complicated than the bills' stated purpose suggests.\n\nAccording to the investigation, the legislation as written doesn't primarily target social media platforms — it targets operating systems. The proposed laws would require Apple and Google to embed age verification infrastructure directly into iOS and Android at the OS level, effectively creating a persistent digital identity layer baked into every smartphone. Meta's own platforms appear largely exempt from equivalent requirements in the drafts examined. The investigation also identified a lobbying organization called the Digital Childhood Alliance, incorporated in December 2024, that reportedly began testifying for state bills within days of its founding, with documented ties to Meta's broader lobbying network.\n\nNeither Meta nor affiliated organizations have confirmed the investigation's findings, and Meta disputes the characterizations. Privacy advocates, however, argue the arrangement would let Meta offload compliance costs onto Apple and Google while gaining access to a government-backed identity infrastructure on billions of phones. The story is trending heavily on Reddit and Hacker News as lawmakers and digital rights organizations scrutinize the details.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1762330465065-af76f23809db?w=800",
+        "alt": "Smartphone screen showing social media privacy settings",
+        "credit": "Photo by Zulfugar Karimov on Unsplash",
+        "creditUrl": "https://unsplash.com/@zulfugarkarimov?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech", "url": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech" },
+        { "title": "Meta's $2B Lobby Pushes OS-Level Age Verification", "url": "https://ubos.tech/news/metas-2-b-lobby-pushes-os%E2%80%91level-age-verification-what-it-means-for-users-and-developers/" },
+        { "title": "Age Verification Is Building Meta's Federal Digital ID", "url": "https://rockefellerkennedy.substack.com/p/age-verification-is-building-metas" }
+      ],
+      "tags": ["Technology", "Privacy", "Policy", "Social Media"],
+      "readingTime": "2 min read",
+      "sources": ["Gadget Review", "Reddit", "Hacker News", "Medium"]
+    },
+    {
+      "id": "2026-03-18-009",
+      "headline": "A Common Pesticide More Than Doubles Parkinson's Disease Risk, UCLA Study Finds",
+      "hook": "A pesticide used on American crops for decades may be one of the most significant environmental contributors to Parkinson's disease ever identified.",
+      "body": "A new UCLA Health study published in Molecular Neurodegeneration has found that people with long-term residential exposure to chlorpyrifos — one of the most widely used agricultural insecticides in the United States — face more than 2.5 times the risk of developing Parkinson's disease compared to those with little or no exposure.\n\nResearchers tracked 829 people with Parkinson's diagnoses and 824 healthy controls, all participants in UCLA's long-running Parkinson's Environment and Genes study. By cross-referencing California's detailed pesticide application records with each participant's home and workplace locations over time, the team built a precise picture of cumulative chlorpyrifos exposure for every person in the study.\n\nLab experiments reinforced the connection. Animals exposed to the compound developed movement problems, lost dopamine-producing neurons — the hallmark of Parkinson's — and showed the same toxic protein buildup seen in human patients. Zebrafish experiments pointed to a specific mechanism: chlorpyrifos appears to disrupt autophagy, the cellular process that normally clears damaged proteins before they accumulate into the plaques associated with the disease. Chlorpyrifos had its residential uses banned in the U.S. in 2001, with agricultural restrictions added in 2021, but it remains in use in many countries. With roughly 10 million people living with Parkinson's globally, researchers say identifying environmental triggers is increasingly urgent.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1707235163412-df7e8c119322?w=800",
+        "alt": "People walking across a lush green agricultural field",
+        "credit": "Photo by Etienne Girardet on Unsplash",
+        "creditUrl": "https://unsplash.com/@etiennegirardet?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Common pesticide may more than double Parkinson's disease risk", "url": "https://www.sciencedaily.com/releases/2026/03/260315225125.htm" },
+        { "title": "Widely used pesticide linked to more than doubled Parkinson's risk — UCLA Health", "url": "https://www.uclahealth.org/news/release/widely-used-pesticide-linked-more-doubled-parkinsons-risk" },
+        { "title": "The pesticide chlorpyrifos increases the risk of Parkinson's disease", "url": "https://link.springer.com/article/10.1186/s13024-025-00915-z" }
+      ],
+      "tags": ["Health", "Environment", "Science", "Neurology"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "UCLA Health", "Molecular Neurodegeneration", "ScienceAlert"]
+    },
+    {
+      "id": "2026-03-18-010",
+      "headline": "The SEC Is Moving to Make Quarterly Earnings Reports Optional for Public Companies",
+      "hook": "Wall Street has run on 90-day cycles since the 1970s. That might be about to change in the most significant shift to corporate disclosure rules in decades.",
+      "body": "The U.S. Securities and Exchange Commission is preparing a proposal that would make quarterly earnings reports optional for publicly traded companies, allowing them to shift to a semi-annual reporting schedule instead. According to the Wall Street Journal, the SEC could publish the proposal for public comment as early as April, with the agency already in discussions with officials at major stock exchanges.\n\nThe change would be the most significant structural shift to American corporate disclosure requirements in decades. The quarterly reporting mandate has shaped corporate behavior since it became standard in the 1970s, with critics long arguing that it pushes executives to optimize for 90-day results at the expense of long-term strategy and investment. Supporters of the proposed change, including Trump administration officials, echo that critique.\n\nImportantly, the proposal wouldn't ban quarterly reporting — companies could still choose to report every three months, and most analysts expect that large-cap public companies would continue doing so voluntarily. The European Union and the U.K. eliminated mandatory quarterly requirements about a decade ago, with mixed results: many companies still report quarterly by choice, while others shifted to semiannual schedules. Skeptics warn that less frequent mandatory disclosures could reduce market transparency and give insiders an information advantage over ordinary investors during the longer gaps between filings.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1767424196045-030bbde122a4?w=800",
+        "alt": "Hand holding tablet showing stock market candlestick chart",
+        "credit": "Photo by Jakub Żerdzicki on Unsplash",
+        "creditUrl": "https://unsplash.com/@jakubzerdzicki?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "SEC eyes shift to twice-yearly earnings reports", "url": "https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/" },
+        { "title": "US SEC Preparing to Scrap Quarterly Reporting Requirement", "url": "https://money.usnews.com/investing/news/articles/2026-03-16/us-sec-preparing-to-eliminate-quarterly-reporting-requirement-wsj-says" },
+        { "title": "SEC Prepares Proposal Ending Mandatory Quarterly Reporting", "url": "https://www.pymnts.com/news/regulation/2026/sec-prepares-proposal-ending-mandatory-quarterly-reporting/" }
+      ],
+      "tags": ["Finance", "Business", "Policy", "Markets"],
+      "readingTime": "2 min read",
+      "sources": ["Wall Street Journal", "TechCrunch", "U.S. News & World Report", "PYMNTS"]
+    },
+    {
+      "id": "2026-03-18-011",
+      "headline": "Just 24 Minutes of Specially Designed Music Can Significantly Reduce Anxiety",
+      "hook": "A clinical trial just found the optimal dose of music for anxiety relief — and it's surprisingly specific: exactly 24 minutes.",
+      "body": "A randomized clinical trial published in PLOS Mental Health has found that 24 minutes of music combined with \"auditory beat stimulation\" significantly reduces both cognitive and physical symptoms of anxiety in adults — and that this specific duration is as effective as a 36-minute session while clearly outperforming shorter 12-minute versions.\n\nAuditory beat stimulation works through a phenomenon called brainwave entrainment: two slightly different sound frequencies played simultaneously create a perceived third frequency that nudges the brain toward calmer electrical patterns in the theta range. The music used in the study was developed by Toronto Metropolitan University researchers in collaboration with a digital therapeutics company, and was specifically engineered to maximize this entrainment effect.\n\nParticipants with moderate anxiety who listened for 24 minutes showed measurable reductions in both the racing-thoughts component of anxiety and its physical manifestations — rapid heart rate, muscle tension, and related symptoms — as well as improved mood overall. The research adds to a growing body of evidence that precisely engineered audio experiences can have genuine, measurable therapeutic effects. The finding is particularly notable for what it implies about non-pharmacological anxiety treatment: effective relief might require no prescription, no side effects, and only about as long as a lunch break.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1581372526706-30d69c143996?w=800",
+        "alt": "Black and silver headphones resting on a textured surface",
+        "credit": "Photo by Jonas Jacobsson on Unsplash",
+        "creditUrl": "https://unsplash.com/@jonasjacobsson?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Just 24 minutes of specially designed music could significantly reduce anxiety", "url": "https://www.sciencedaily.com/releases/2026/03/260315225133.htm" },
+        { "title": "Scientists Discover a Simple, Drug-Free Way To Reduce Anxiety in 24 Minutes", "url": "https://scitechdaily.com/scientists-discover-a-simple-drug-free-way-to-reduce-anxiety-in-24-minutes/" },
+        { "title": "Why 24 minutes of music may help reduce anxiety", "url": "https://www.optimistdaily.com/2026/03/why-24-minutes-of-music-may-help-reduce-anxiety-according-to-research/" }
+      ],
+      "tags": ["Health", "Science", "Music", "Mental Health"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "PLOS Mental Health", "SciTechDaily", "Toronto Metropolitan University"]
+    },
+    {
+      "id": "2026-03-18-012",
+      "headline": "Python's JIT Compiler Is Finally Delivering Real Speed Gains After Two Years of Struggle",
+      "hook": "After 30 months of work that sometimes made Python slower, the language's new just-in-time compiler has turned a corner — and the numbers are finally impressive.",
+      "body": "Python's ongoing quest for speed has hit an important milestone. After a rocky stretch that saw the just-in-time (JIT) compiler in Python 3.14 deliver little to no performance improvement — and in some cases run slower than the standard interpreter — the version being developed for Python 3.15 is showing genuinely promising results.\n\nOn Apple Silicon (AArch64 macOS), the alpha JIT now runs roughly 11-12% faster than the tail-calling interpreter. On x86-64 Linux, gains are more modest at 5-6%, but still represent a real improvement over the baseline. The key changes driving the improvement include a basic register allocation system that reduces expensive stack operations, better avoidance of unnecessary reference counting, and expanded coverage of bytecode operations — meaning more of a typical program's code can now benefit from JIT optimization. The JIT also now uses LLVM 21 for its build-time compilation stage.\n\nThe rough road to this point is worth noting. The Faster CPython team — the Microsoft-funded group that had been driving Python performance improvements — lost funding roughly eight months ago. JIT work has since been carried forward by the broader CPython developer community. Python 3.15 is currently in alpha; the final release is expected later in 2026. For the millions of developers who use Python for data science, AI, and web development, a 10%+ free speedup from simply upgrading versions would be a meaningful win.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1675495277087-10598bf7bcd1?w=800",
+        "alt": "Laptop computer on a desk showing code",
+        "credit": "Photo by Bernd Dittrich on Unsplash",
+        "creditUrl": "https://unsplash.com/@hdbernd?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Python 3.15's JIT is now back on track", "url": "https://fidget-spinner.github.io/posts/jit-on-track.html" },
+        { "title": "Reflections on 2 years of CPython's JIT Compiler", "url": "https://fidget-spinner.github.io/posts/jit-reflections.html" },
+        { "title": "What's new in Python 3.15", "url": "https://docs.python.org/3.15/whatsnew/3.15.html" }
+      ],
+      "tags": ["Technology", "Programming", "Python", "Open Source"],
+      "readingTime": "2 min read",
+      "sources": ["Python Developer Blog", "Python.org", "InfoWorld", "Hacker News"]
+    },
+    {
+      "id": "2026-03-18-013",
+      "headline": "NASA's First Crewed Moon Mission in 53 Years Is Set to Launch April 1",
+      "hook": "Fifty-three years after Apollo 17 left the Moon, four astronauts are about to go back — and no, the April 1 launch date is not a joke.",
+      "body": "NASA has set April 1, 2026, as the target launch date for Artemis II — the first crewed mission to travel to the vicinity of the Moon since Apollo 17 departed in December 1972. Four astronauts are slated to make the 10-day journey: Reid Wiseman, Victor Glover, and Christina Koch of NASA, along with Canadian Space Agency astronaut Jeremy Hansen, marking Canada's first-ever mission beyond Earth orbit.\n\nThe mission will follow a free-return trajectory — a figure-eight path that loops the crew around the far side of the Moon before using lunar gravity to send them back toward Earth. The trajectory was first used operationally by Apollo 13, and it provides a built-in safety mechanism: the spacecraft will return home even if propulsion fails. The crew won't land on the lunar surface; that milestone is reserved for a future mission following recent NASA program restructuring.\n\nThe road to launch has had its detours. Engineers discovered an issue with the rocket's helium pressurization system during pre-launch processing, requiring the Space Launch System to be rolled back into the Vehicle Assembly Building for repairs. A seal replacement fixed the problem, and rollout to Pad 39B at Kennedy Space Center is now scheduled for no earlier than March 20. Six backup windows are available in early April if the first attempt is scrubbed. If it all goes as planned, Artemis II will be one of the defining moments of this era of space exploration.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1711559652900-51614fe511ef?w=800",
+        "alt": "View of the surface of the moon",
+        "credit": "Photo by NASA Hubble Space Telescope on Unsplash",
+        "creditUrl": "https://unsplash.com/@hubblespacetelescope?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NASA sets Artemis II crewed moon mission launch for April 1", "url": "https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch" },
+        { "title": "NASA Reassessing Artemis II Rollout as Ground Teams Make Up Time", "url": "https://www.nasa.gov/blogs/missions/2026/03/17/nasa-reassessing-artemis-ii-rollout-as-ground-teams-make-up-time/" },
+        { "title": "Artemis II: NASA's First Crewed Lunar Flyby in 50 Years", "url": "https://www.nasa.gov/mission/artemis-ii/" }
+      ],
+      "tags": ["Space", "NASA", "Moon", "Artemis"],
+      "readingTime": "2 min read",
+      "sources": ["NASA", "NPR", "CNN", "Kennedy Space Center"]
+    },
+    {
+      "id": "2026-03-18-014",
+      "headline": "Scientists Simulated a Giant Asteroid Crater to Solve a 200-Year Planetary Mystery",
+      "hook": "There's a 30-mile-wide crater near the north pole of asteroid Psyche that may hold the key to one of astronomy's oldest questions: is this the exposed iron core of a dead planet?",
+      "body": "Asteroid 16 Psyche has puzzled astronomers for centuries. It's unusually dense, unusually metallic, and sits in a part of the solar system where most asteroids are rocky. The leading hypothesis for decades has been that Psyche is the exposed iron-nickel core of a planetesimal — a small proto-planet that was violently stripped of its outer layers by ancient collisions during the solar system's chaotic formative period. But proving it has been nearly impossible from Earth.\n\nNew research from the University of Arizona's Lunar and Planetary Laboratory takes a creative approach: simulating the formation of a massive crater near Psyche's north pole to work backward toward what the asteroid must be made of. Using detailed 3D shape models built from telescope observations, the team modeled how a roughly three-mile-wide impactor would have created the feature — which is about 30 miles across and three miles deep.\n\nThe results, published in JGR Planets, show that the crater's dimensions are consistent with both major hypotheses about Psyche's composition, with the key variable being internal porosity — how much empty space is inside the asteroid. The question won't be answered by simulation alone. NASA's Psyche spacecraft is currently en route, set to swing past Mars in May 2026 for a gravity assist before arriving at the asteroid in 2029. At that point, it will finally begin collecting the hard data needed to settle a mystery two centuries in the making.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1742341211253-e6c0c50b5011?w=800",
+        "alt": "Close-up of a weathered, porous rock surface",
+        "credit": "Photo by kate yerunova on Unsplash",
+        "creditUrl": "https://unsplash.com/@yerunova96?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "This massive crater could expose the heart of a lost planet", "url": "https://www.sciencedaily.com/releases/2026/03/260317064440.htm" },
+        { "title": "NASA's Psyche mission overview", "url": "https://science.nasa.gov/mission/psyche/" },
+        { "title": "12 Amazing Space Missions to Watch in 2026", "url": "https://orbitaltoday.com/2026/01/29/12-amazing-space-missions-we-cant-wait-for-in-2026/" }
+      ],
+      "tags": ["Space", "Science", "Planetary Science", "Asteroids"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "JGR Planets", "NASA JPL", "University of Arizona"]
+    },
+    {
+      "id": "2026-03-18-015",
+      "headline": "Scientists Shot Bacteria With Extreme Pressures to Test If Life Could Survive Being Blasted Off Mars",
+      "hook": "To hitchhike between planets on a chunk of asteroid ejecta, microbes would need to survive pressures that would crush most materials. Some bacteria barely flinched.",
+      "body": "In an experiment that sounds like something out of science fiction, researchers squeezed living bacteria between steel plates and blasted them with pressures reaching 30,000 times Earth's atmospheric pressure — simulating the kind of violent shock a rock would experience being launched off Mars by a massive asteroid impact. A remarkable number survived.\n\nThe bacterial species used, Deinococcus radiodurans, is already legendary in astrobiology for its extraordinary resistance to radiation. In these shock tests, published in PNAS Nexus, samples exposed to up to 2.4 gigapascals (GPa) showed signs of membrane damage, but roughly 60% of cells survived even at those extreme pressures. The bacterium's unusual multi-layered cell envelope structure, which provides extra mechanical protection, appears to be the key to its resilience. Post-impact, transcription analysis showed the cells prioritizing the repair of cellular damage — suggesting active recovery, not just passive survival.\n\nThe findings add significant experimental support to a concept called \"lithopanspermia\" — the idea that life might travel between planets by hitching rides inside rocks ejected by asteroid impacts. Mars and Earth exchange material regularly: meteorites of confirmed Martian origin have been found on Earth. If microbes can survive being violently expelled from a planetary surface, traveling through the vacuum of space, and eventually landing on another world, then life may have already made that journey — possibly in both directions — billions of years ago.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1535127022272-dbe7ee35cf33?w=800",
+        "alt": "Microscope scope image showing microscopic detail",
+        "credit": "Photo by Michael Schiffer on Unsplash",
+        "creditUrl": "https://unsplash.com/@michael_schiffer_design?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Blasted off Mars and still alive", "url": "https://www.sciencedaily.com/releases/2026/03/260303082606.htm" },
+        { "title": "Asteroid Impacts Could Launch Living Microbes From Mars", "url": "https://scitechdaily.com/asteroid-impacts-could-launch-living-microbes-from-mars/" },
+        { "title": "Scientists Shot Bacteria With a Gas Gun to See if Life Could Survive Being Flung From Mars", "url": "https://www.zmescience.com/space/scientists-shot-bacteria-with-a-gas-gun-to-see-if-life-could-survive-being-flung-from-mars-it-barely-flinched/" }
+      ],
+      "tags": ["Space", "Science", "Astrobiology", "Mars"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "PNAS Nexus", "SciTechDaily", "ZME Science"]
+    }
+  ]
+}
