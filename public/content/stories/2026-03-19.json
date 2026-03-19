@@ -1,0 +1,287 @@
+{
+  "date": "2026-03-19",
+  "stories": [
+    {
+      "id": "2026-03-19-001",
+      "headline": "Surgeons Kept a Man Alive for 48 Hours With No Lungs — Then Gave Him New Ones",
+      "hook": "A 33-year-old's lungs were completely removed after catastrophic pneumonia. He survived two days without them.",
+      "body": "When bacterial pneumonia following a severe flu infection destroyed a 33-year-old man's lungs beyond any hope of recovery, surgeons at Northwestern University faced an impossible choice. Their solution was unprecedented: remove both lungs entirely, keep the patient alive using a custom-built external oxygenation system for 48 hours, and then perform a double-lung transplant. The patient has since made a full recovery.\n\nThe external \"total artificial lung\" machine worked by circulating the patient's blood outside his body, oxygenating it mechanically — essentially doing the work of two organs that no longer existed inside his chest. The procedure required months of preparation, a specially designed circuit, and a surgical team willing to attempt something that had never been done before in this sequence. The results were published in the journal Cell Press Med.\n\nBeyond the individual miracle, the case opens a new chapter in transplant medicine. Patients with end-stage lung failure who would previously have had no options — because their deteriorating lungs couldn't support them long enough to receive a donor organ — may now have a bridging pathway. The surgeons believe this approach could eventually apply to a broader population of critically ill patients.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1555708982-8645ec9ce3cc?w=800",
+        "alt": "Selective focus photography of human anatomy lungs model",
+        "credit": "Photo by Robina Weermeijer on Unsplash",
+        "creditUrl": "https://unsplash.com/@averey?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Surgeons kept a man alive with no lungs for 48 hours", "url": "https://www.sciencealert.com/surgeons-kept-a-man-alive-with-no-lungs-for-48-hours-heres-how" },
+        { "title": "Study details in ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/03/260317064507.htm" }
+      ],
+      "tags": ["Medicine", "Surgery", "Transplant", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceAlert", "ScienceDaily", "Cell Press Med"]
+    },
+    {
+      "id": "2026-03-19-002",
+      "headline": "ADHD Brains Briefly 'Fall Asleep' During Waking Hours, Study Finds",
+      "hook": "Scientists discovered that adults with ADHD experience sleep-like brain wave bursts while fully awake — and those moments align perfectly with attention failures.",
+      "body": "A new study from Monash University has uncovered a neurological explanation for why people with ADHD struggle to sustain attention: their brains are, in brief flashes, actually going to sleep. Researchers found that adults with ADHD experience significantly more frequent bursts of slow-wave brain activity — the same pattern that occurs during deep sleep — while they are fully awake and trying to perform tasks.\n\nThese micro-sleep episodes, invisible to the person experiencing them, correlated directly with attention lapses, slower reaction times, and more errors on cognitive tasks. The more frequently these bursts occurred, the worse the person's performance. The finding suggests that ADHD's core attention difficulties may be rooted in a failure of the brain's arousal systems to consistently maintain wakefulness during demanding activities.\n\nThe researchers used high-density EEG to monitor 65 adults — 32 with ADHD, 33 without — during sustained attention tasks. The difference between the two groups was stark and measurable. The findings may help explain why stimulant medications (which raise arousal) are so effective for many people with ADHD, and could pave the way for more targeted treatments aimed at stabilizing these sleep-intrusion events.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800",
+        "alt": "Brown brain model in selective focus photography on white surface",
+        "credit": "Photo by Robina Weermeijer on Unsplash",
+        "creditUrl": "https://unsplash.com/@averey?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ADHD attention and sleep-like brain activity", "url": "https://www.sciencedaily.com/releases/2026/03/260317015928.htm" },
+        { "title": "Neuroscience News coverage", "url": "https://neurosciencenews.com/adhd-attention-sleep-activity-30324/" }
+      ],
+      "tags": ["Neuroscience", "ADHD", "Brain", "Psychology"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Neuroscience News", "Monash University"]
+    },
+    {
+      "id": "2026-03-19-003",
+      "headline": "Harvard's DNA Origami Vaccines Could Leapfrog mRNA — No Cold Chain Required",
+      "hook": "Scientists built vaccines out of self-folding DNA nanostructures. They don't need refrigeration and they outperformed mRNA in early trials.",
+      "body": "mRNA vaccines changed medicine, but they come with a logistical catch: they need to be kept extremely cold. A team at Harvard's Wyss Institute is developing what could be a successor: DoriVac, a vaccine platform built from self-assembling DNA nanostructures that fold themselves into precise three-dimensional shapes — a technique called DNA origami.\n\nWhat makes DoriVac remarkable isn't just the unusual engineering. Because the DNA scaffolds can precisely position antigens and immune-stimulating molecules at controlled nanometer distances from each other, they produce an unusually strong and targeted immune response. In mouse models and human cell cultures, DoriVac generated robust antibody and T cell responses against COVID-19, HIV, and Ebola — outperforming standard mRNA approaches in some comparisons. The results were published in Nature Biomedical Engineering.\n\nCritically, DNA nanostructures are far more thermally stable than mRNA. They don't require the ultra-cold storage that has complicated mRNA vaccine distribution in low-resource settings. If DoriVac clears human trials, it could make highly effective vaccines far more accessible globally — and the modular platform means it could potentially be adapted to new pathogens quickly, much like mRNA can.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1643780668909-580822430155?w=800",
+        "alt": "Close up of a blue and purple DNA double helix structure 3D render",
+        "credit": "Photo by Sangharsh Lohakare on Unsplash",
+        "creditUrl": "https://unsplash.com/@sangharsh_l?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "DoriVac DNA origami vaccine platform", "url": "https://www.sciencedaily.com/releases/2026/03/260317015933.htm" },
+        { "title": "Wyss Institute announcement", "url": "https://wyss.harvard.edu/news/building-protection-against-infectious-diseases-with-nanostructured-vaccines/" }
+      ],
+      "tags": ["Biotech", "Vaccines", "Science", "Medicine"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Wyss Institute", "Nature Biomedical Engineering"]
+    },
+    {
+      "id": "2026-03-19-004",
+      "headline": "Scientists Finally Made Hexagonal Diamond — and It's Harder Than Regular Diamond",
+      "hook": "After 50 years of failed attempts, researchers synthesized a form of diamond predicted to be the hardest material on Earth — and proved the prediction right.",
+      "body": "Diamond is already the hardest natural material on Earth, but for decades physicists have predicted that a rarer hexagonal form — called lonsdaleite — would be even harder. The problem was that no one had managed to create pure, millimeter-sized samples of it to test. Chinese scientists have now done exactly that, and confirmed what the models suggested: lonsdaleite clocks in at 114 GPa hardness, edging out cubic diamond.\n\nThe breakthrough came from carefully controlling the pressure and temperature applied to graphite, allowing it to transform into the hexagonal crystal structure rather than the more common cubic form. The resulting samples were also found to be more resistant to oxidation than standard diamond, making them potentially more durable in harsh industrial environments.\n\nThe applications are significant. Diamond is already used in cutting tools, drill bits, precision abrasives, and high-performance electronics. A material that's harder and more stable than diamond could push those applications further — or enable entirely new ones. The research, published in a peer-reviewed materials science journal, ends a 50-year chase for what some had started to call a theoretical material.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1571592020154-ff2f87dacc62?w=800",
+        "alt": "Sparkling diamond crystal gemstone close-up photograph",
+        "credit": "Photo by Melissa Kumaresan on Unsplash",
+        "creditUrl": "https://unsplash.com/@melissakumaresan?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Chinese scientists create hexagonal diamond harder than diamond", "url": "https://www.livescience.com/physics-mathematics/in-physics-first-chinese-scientists-create-rare-hexagonal-diamond-thats-harder-than-natural-diamond" },
+        { "title": "phys.org coverage", "url": "https://phys.org/news/2026-03-scientists-hexagonal-diamond-harder-real.html" }
+      ],
+      "tags": ["Materials Science", "Physics", "Chemistry", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Live Science", "phys.org"]
+    },
+    {
+      "id": "2026-03-19-005",
+      "headline": "JWST Can't See Through This Planet — It's Wrapped in the Thickest Haze Ever Found",
+      "hook": "The most powerful space telescope ever built is completely stumped by a puffy planet the density of cotton candy.",
+      "body": "Kepler-51d has been a puzzle since it was discovered — a planet roughly the size of Jupiter but so absurdly low in density that astronomers nicknamed the class 'super-puffs' or 'cotton candy planets.' Now, observations from the James Webb Space Telescope have only deepened the mystery: the planet is wrapped in the thickest known planetary haze ever observed, extending as wide as Earth itself, and completely blocking JWST from detecting any chemical signatures in the atmosphere.\n\nDespite being the most sensitive infrared space telescope ever built, JWST detected a completely flat transmission spectrum — meaning the haze absorbed every wavelength uniformly, leaving no spectral fingerprints. Scientists can't determine what the atmosphere is made of, how it formed, or why the planet has such an impossibly low density in the first place.\n\nThe planet orbits close to its star and existing formation models struggle to explain how it could have ended up so puffy at that location. Some researchers suggest it may be a young planet still losing mass via atmospheric escape, while others propose exotic atmospheric chemistry. For now, Kepler-51d remains one of astronomy's most confounding objects — a planet that defeats our best instruments and theories simultaneously.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1687993319555-f608d8992f9c?w=800",
+        "alt": "Artist's rendering of an exoplanet with a glowing star in the background",
+        "credit": "Photo by Andrej Sachov on Unsplash",
+        "creditUrl": "https://unsplash.com/@andrejsachov?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "JWST stumped by Kepler-51d haze", "url": "https://www.sciencedaily.com/releases/2026/03/260317064449.htm" },
+        { "title": "Penn State research announcement", "url": "https://www.psu.edu/news/eberly-college-science/story/origin-lowest-density-super-puff-planet-remains-hazy-mystery" }
+      ],
+      "tags": ["Space", "Astronomy", "James Webb Telescope", "Exoplanets"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Penn State University"]
+    },
+    {
+      "id": "2026-03-19-006",
+      "headline": "Perseverance's Radar Found a 4-Billion-Year-Old River Delta Buried Beneath Mars",
+      "hook": "NASA's Mars rover just found a hidden ancient river system even older than the one everyone knew about — suggesting Mars had flowing water far longer than we thought.",
+      "body": "Everyone knew about the ancient river delta sitting on the surface of Jezero Crater, the site NASA chose specifically because it showed signs of past water. But Perseverance's ground-penetrating radar has now found something that predates even that: a second, buried delta system deeper beneath the surface, estimated to be around 4 billion years old — hundreds of millions of years older than the already-ancient visible delta.\n\nThe RIMFAX radar instrument works by bouncing radio waves into the Martian subsurface and measuring how they reflect back off different geological layers. By mapping these reflections as the rover drove across the crater floor, scientists reconstructed the stratigraphy below — and found the unmistakable geometry of an ancient river delta system, long buried under subsequent rock and sediment layers.\n\nThe findings, published in Science Advances, suggest that Mars had liquid water — and possibly conditions conducive to life — far earlier and for far longer than current models suggest. If ancient Martian life ever existed, it would have had billions more years to develop than we previously calculated. The rock samples Perseverance is collecting from this region will eventually be returned to Earth, where scientists can study them in detail.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=800",
+        "alt": "Simulated view of Mars as seen from orbit on a black background",
+        "credit": "Photo by NASA on Unsplash",
+        "creditUrl": "https://unsplash.com/@nasa?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Perseverance finds hidden ancient river system on Mars", "url": "https://www.sciencealert.com/hidden-ancient-river-system-found-deep-under-the-surface-of-mars" },
+        { "title": "NASA/JPL announcement", "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-deciphers-ancient-history-of-martian-lake/" }
+      ],
+      "tags": ["Space", "Mars", "Astronomy", "NASA"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceAlert", "NASA/JPL", "Science Advances"]
+    },
+    {
+      "id": "2026-03-19-007",
+      "headline": "The Brightest Fast Radio Burst Ever Detected Came From 130 Million Light-Years Away — And Never Repeated",
+      "hook": "Astronomers recorded the most intense flash of cosmic radio energy ever seen. Then it went completely silent, challenging everything we thought we knew.",
+      "body": "Fast radio bursts (FRBs) are one of astronomy's greatest unsolved mysteries: brief, blindingly intense flashes of radio waves from deep space that last milliseconds and release more energy than the Sun emits in days. The leading theory about their origin depends on most of them repeating. But the CHIME/FRB Outrigger telescope array has now detected the brightest FRB ever recorded — nicknamed RBFLOAT, for Radio Brightest Flash Of All Time — and after six years of monitoring, it has never flashed again.\n\nFRB 20250316A originated in galaxy NGC 4141, about 130 million light-years away — close enough to be precisely localized, yet far enough to still be cosmically mysterious. Its intensity shattered previous records by a significant margin. The Outrigger array, an extension of Canada's CHIME telescope with stations spread across North America, allowed researchers to pinpoint its location within the galaxy far more precisely than previous instruments could manage.\n\nThe complete silence since the initial burst challenges the emerging consensus that all FRBs repeat if you wait long enough. Some astrophysicists now believe RBFLOAT may represent a fundamentally different, one-time phenomenon — perhaps the catastrophic merger of two neutron stars or some other explosive stellar event that, by its very nature, can only happen once.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1747581587390-4c0595845386?w=800",
+        "alt": "A large radio telescope dish gazing at the starry night sky",
+        "credit": "Photo by Da-shika on Unsplash",
+        "creditUrl": "https://unsplash.com/@da_shika?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Brightest fast radio burst ever detected", "url": "https://www.sciencedaily.com/releases/2026/03/260315004348.htm" },
+        { "title": "UC Santa Cruz research", "url": "https://news.ucsc.edu/2025/08/frb-rbfloat/" }
+      ],
+      "tags": ["Astronomy", "Space", "Physics", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "UC Santa Cruz", "CHIME/FRB"]
+    },
+    {
+      "id": "2026-03-19-008",
+      "headline": "Bull Sharks Have Best Friends They Actively Choose — and Both Sexes Prefer Female Companions",
+      "hook": "These notoriously aggressive predators turn out to be surprisingly social — they have specific friends they swim with, follow, and prefer over others.",
+      "body": "Bull sharks have a fearsome reputation, but six years of observation in Fiji's Beqa Lagoon has revealed a surprisingly tender side: they form consistent, preferred social relationships with other sharks. A study tracking 184 individual bull sharks found that many maintained repeated associations with specific partners — not just by chance, but through active choice. They swam in coordinated parallel, followed each other's movements, and spent more time with certain companions than random mixing would predict.\n\nResearchers from the University of Exeter, Lancaster University, and the Fiji Shark Lab analyzed thousands of dive records and used network analysis to distinguish genuine social preferences from coincidental proximity. The results were clear: bull sharks have friends. Both male and female sharks showed a preference for female companions — a finding that mirrors social patterns seen in some other fish species but was unexpected in sharks.\n\nThe discovery adds bull sharks to a growing list of animals — including dolphins, elephants, and great white sharks — that maintain long-term social bonds. Understanding these social structures matters for conservation: if removing certain key individuals from a population disrupts social networks, it could have cascading effects on group behavior and survival that simple population counts would never capture.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1607073766544-c39cd621baa7?w=800",
+        "alt": "White shark swimming underwater in the blue ocean",
+        "credit": "Photo by Gerald Schömbs on Unsplash",
+        "creditUrl": "https://unsplash.com/@geraldschombs?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Bull sharks have specific social relationships", "url": "https://phys.org/news/2026-03-bull-sharks-social-relationships-specific.html" },
+        { "title": "Washington Post coverage", "url": "https://www.washingtonpost.com/climate-environment/interactive/2026/bull-sharks-have-friends-study/" }
+      ],
+      "tags": ["Nature", "Marine Biology", "Animal Behavior", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["phys.org", "Washington Post", "University of Exeter"]
+    },
+    {
+      "id": "2026-03-19-009",
+      "headline": "Ancient DNA From the North Sea Floor Reveals a Lush Lost World That Vanished 6,000 Years Ago",
+      "hook": "Beneath the North Sea lies a drowned land called Doggerland — and ancient DNA just showed it had thriving forests and wildlife thousands of years earlier than anyone knew.",
+      "body": "Between Britain and continental Europe, beneath the shallow waters of the North Sea, lies Doggerland — a submerged landmass the size of France that was once home to some of prehistoric Europe's earliest people. For decades, occasional artifacts dredged up by fishing nets hinted at what this lost world had been like. Now, ancient DNA extracted from 252 sediment core samples taken from the seafloor has given us an unprecedented portrait.\n\nThe DNA, published in PNAS, revealed that Doggerland hosted flourishing temperate forests — oak, elm, hazel, and trees related to modern walnuts — as far back as 16,000 years ago. Roaming through those forests were boars, bears, aurochs, and deer. This is thousands of years earlier than anyone expected, at a time when much of northwest Europe was still frozen tundra. Doggerland was apparently a refugium — a warm, habitable island of life while ice dominated the continent around it.\n\nThe landmass began flooding as sea levels rose after the last ice age, and was completely submerged by around 6,000 years ago. But for tens of thousands of years it was home to some of the richest ecosystems and human cultures in prehistoric Europe. The DNA preserved in seafloor sediments is now unlocking this drowned chapter of natural history in extraordinary detail.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1550945233-716f16384ffd?w=800",
+        "alt": "Misty green ancient forest during daytime with fog drifting between trees",
+        "credit": "Photo by Cristofer Maximilian on Unsplash",
+        "creditUrl": "https://unsplash.com/@cristofer?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Ancient DNA reveals Doggerland's habitable forests", "url": "https://www.livescience.com/planet-earth/rivers-oceans/we-got-evidence-of-boars-deer-bears-aurochs-ancient-dna-reveals-sunken-realm-doggerland-had-habitable-forests-during-the-last-ice-age" },
+        { "title": "University of Bradford press release", "url": "https://www.bradford.ac.uk/news/archive/2026/north-sea-lost-worldhadhabitableforeststhousandsofyears-earlier-than-thought.php" }
+      ],
+      "tags": ["Archaeology", "History", "Paleontology", "Nature"],
+      "readingTime": "2 min read",
+      "sources": ["Live Science", "University of Bradford", "PNAS"]
+    },
+    {
+      "id": "2026-03-19-010",
+      "headline": "A Hobbyist Doubled a Specific Part of an AI's Brain — and Its Reasoning Jumped Dramatically",
+      "hook": "One researcher, two gaming GPUs, one evening: routing a 24-billion-parameter AI through three specific layers twice sent its logic scores from 0.22 to 0.76 with zero training.",
+      "body": "A hobbyist AI researcher has stumbled onto something that has the machine learning community buzzing: by routing a large language model's computations through three specific layers twice instead of once — with no training, no fine-tuning, and no changes to the model's weights — they produced a dramatic improvement in logical reasoning benchmarks. The model's score on a deduction test jumped from 0.22 to 0.76 out of 1.0.\n\nWhat's most remarkable is how precisely localized the effect was. Shifting the doubled block by even one layer in either direction caused the gains to completely vanish. This suggests that those three specific layers form a discrete \"reasoning circuit\" — a tightly organized region of the network that, when given a second pass at the data, can draw conclusions it couldn't reach in a single pass. The experiment was conducted on a 24-billion-parameter model running on consumer-grade AMD GPUs.\n\nThe finding connects to a growing body of research on \"mechanistic interpretability\" — efforts to understand what's actually happening inside AI models, layer by layer. If large language models contain identifiable, specialized circuits for different cognitive tasks, that changes how we think about AI architecture, scaling, and safety. It also suggests that existing models may have untapped capabilities that can be unlocked without any additional training.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?w=800",
+        "alt": "Abstract 3D sphere with glowing network dots and lines representing artificial intelligence",
+        "credit": "Photo by Growtika on Unsplash",
+        "creditUrl": "https://unsplash.com/@growtika?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "LLM circuit finder experiment on GitHub", "url": "https://github.com/alainnothere/llm-circuit-finder" },
+        { "title": "Hacker News discussion", "url": "https://news.ycombinator.com/item?id=43398900" }
+      ],
+      "tags": ["AI", "Machine Learning", "Technology", "Research"],
+      "readingTime": "2 min read",
+      "sources": ["GitHub", "Hacker News"]
+    },
+    {
+      "id": "2026-03-19-011",
+      "headline": "Firefox 149 Is Getting a Free Built-In VPN — No App Required",
+      "hook": "Mozilla is giving Firefox users 50 GB of free monthly VPN data, baked directly into the browser, starting next week.",
+      "body": "Mozilla is about to make Firefox meaningfully different from every other major browser: starting with version 149, launching March 24, it will include a native VPN built directly into the browser. US, French, German, and UK users will get 50 GB of free monthly data, routed through a privacy proxy that masks their IP address without requiring any external app download or subscription signup.\n\nThe VPN works at the browser level, meaning it covers only web traffic — it won't route other apps through the privacy tunnel the way a full system VPN would. Mozilla is positioning it as a privacy tool for everyday browsing rather than a replacement for comprehensive VPN services. Users who want more coverage can upgrade to a paid Mozilla VPN subscription for full-device protection.\n\nFirefox 149 also ships a genuinely useful set of other features: Split View lets users display two web pages side by side in a single window, Tab Notes allows attaching quick text notes directly to browser tabs, and a new Smart Window assistant can help summarize page content and answer questions. Together, the release marks one of Firefox's more substantive feature updates in recent years — and the built-in VPN in particular gives the browser a concrete privacy argument against Chrome.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1555998322-9e293b1342da?w=800",
+        "alt": "Black tablet computer displaying a VPN connection screen",
+        "credit": "Photo by Petter Lagson on Unsplash",
+        "creditUrl": "https://unsplash.com/@lageson?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Mozilla launching free built-in VPN on Firefox 149", "url": "https://www.techradar.com/vpn/vpn-services/mozilla-is-launching-a-free-built-in-vpn-on-firefox-149-but-with-some-conditions" },
+        { "title": "Help Net Security coverage", "url": "https://www.helpnetsecurity.com/2026/03/18/mozilla-firefox-free-built-in-vpn/" }
+      ],
+      "tags": ["Technology", "Privacy", "Browser", "Internet"],
+      "readingTime": "2 min read",
+      "sources": ["TechRadar", "Help Net Security", "Mozilla"]
+    },
+    {
+      "id": "2026-03-19-012",
+      "headline": "AI's Global Carbon Footprint Is Surprisingly Tiny — The Real Problem Is Local",
+      "hook": "Despite the energy headlines, AI data centers account for just 0.5% of global CO2 emissions. The real damage is happening in the neighborhoods around them.",
+      "body": "The discourse around AI and climate change has been dominated by alarming claims about energy consumption. A new study from the University of Waterloo and Georgia Tech offers a more precise picture — and it's more nuanced than either the doom or the dismissal. Global data centers currently account for just over 1% of worldwide electricity demand and roughly 0.5% of global CO2 emissions. Even under optimistic growth scenarios for AI expansion, that figure climbs to only about 1.4% by 2030.\n\nThat's not nothing — but it's far smaller than some estimates have suggested, and it's dwarfed by sectors like transportation, agriculture, and heavy industry. The researchers found that the global aggregate impact of AI computing on climate change is, for now, relatively modest. However, they flag a critically different problem: the local impacts around data centers are severe and concentrated.\n\nData centers consume enormous amounts of water for cooling, drive up local electricity prices, strain regional power grids, and create noise and infrastructure burdens for nearby communities — often in areas with little political power to push back. The researchers argue that climate and energy policy should focus less on global emissions accounting and more on addressing these hyper-local impacts, which are already real and growing regardless of what happens to the global average.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1695668548342-c0c1ad479aee?w=800",
+        "alt": "A rack of servers in a data center server room with blinking indicator lights",
+        "credit": "Photo by Kevin Ache on Unsplash",
+        "creditUrl": "https://unsplash.com/@kevinache?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "AI climate impact study findings", "url": "https://www.sciencedaily.com/releases/2026/03/260318033103.htm" }
+      ],
+      "tags": ["Technology", "Climate", "AI", "Energy"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "University of Waterloo", "Georgia Tech"]
+    },
+    {
+      "id": "2026-03-19-013",
+      "headline": "Austin Built a Ton of Housing. Rents Fell 19%. The Data Is In.",
+      "hook": "For years it was a theory. Now there's hard evidence: aggressive housing construction in Austin actually made rents drop — for everyone, including lower-income renters.",
+      "body": "The debate over whether building more market-rate housing lowers rents has raged for decades. Austin, Texas has now provided the clearest real-world test case yet — and the answer, according to a major Pew Charitable Trusts study, is yes. After a sustained surge of housing construction that began around 2021, inflation-adjusted rents in Austin fell 19% through 2025. That's the steepest rent decline of any large U.S. city over the same period.\n\nCritics of new market-rate construction have long argued that it mostly benefits higher-income renters and does little for those at the lower end of the market. The Austin data contradicts this: rents in older, working-class 'Class C' apartment buildings fell by 11% — a meaningful real-world improvement for people with fewer housing options. By January 2026, Austin's median rent of $1,296/month had fallen below the national average.\n\nThe Austin experiment worked, researchers say, because the city built at a scale and speed that actually outpaced demand growth — rather than the modest, incremental construction that has failed to move the needle elsewhere. The findings have reignited debates in cities across the country about zoning reform, permitting timelines, and whether the political will exists to replicate Austin's approach.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1757125505346-2d71c70e6003?w=800",
+        "alt": "Modern apartment buildings with balconies surrounded by trees",
+        "credit": "Photo by Sebastian Schuster on Unsplash",
+        "creditUrl": "https://unsplash.com/@sebastian_schuster?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Austin's housing surge drove down rents — Pew study", "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents" }
+      ],
+      "tags": ["Housing", "Economics", "Urban Policy", "Cities"],
+      "readingTime": "2 min read",
+      "sources": ["Pew Charitable Trusts"]
+    },
+    {
+      "id": "2026-03-19-014",
+      "headline": "Afroman Used Police Raid Footage in Music Videos. The Cops Sued Him. He Won.",
+      "hook": "Seven Ohio deputies sued rapper Afroman for turning their search of his home into satirical music videos. A jury just sided with the guy who got raided.",
+      "body": "In 2022, seven Adams County, Ohio sheriff's deputies raided the home of rapper Afroman — born Joseph Foreman, best known for the 2001 hit 'Because I Got High.' No charges were ever filed after the raid. What happened next was unusual: Afroman obtained the footage from the body cameras and home security systems, set it to music, and turned the raid into a series of satirical music videos — including one called 'Lemon Pound Cake,' which became a viral hit.\n\nThe deputies sued Afroman, alleging the videos constituted an invasion of privacy, appropriation of their likenesses, and other claims. They wanted damages and for the videos to be taken down. This week, an Adams County jury rejected all 13 claims brought by the deputies, finding unanimously in Afroman's favor. The verdict affirmed that satirical use of recordings made during an official police action — on the artist's own property — is protected expression.\n\nThe case attracted broad attention from civil liberties advocates, who argued it was an attempt by law enforcement to punish a citizen for publicly documenting and criticizing a controversial raid through creative means. Afroman's legal team argued throughout that the officers, while performing an official public function, had no reasonable expectation of privacy. The jury agreed.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1767972463877-b64ba4283cd0?w=800",
+        "alt": "Wooden gavel resting on a dark surface next to a law book",
+        "credit": "Photo by Sasun Bughdaryan on Unsplash",
+        "creditUrl": "https://unsplash.com/@sasun1990?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Afroman wins lawsuit against deputies", "url": "https://www.washingtonpost.com/national-security/2026/03/18/afroman-lawsuit-deputies-raid-ohio/" },
+        { "title": "Billboard coverage", "url": "https://www.billboard.com/pro/afroman-trial-verdict-rapper-wins-lawsuit-cops-music-videos/" }
+      ],
+      "tags": ["Law", "Music", "Civil Liberties", "Culture"],
+      "readingTime": "2 min read",
+      "sources": ["Washington Post", "Billboard"]
+    },
+    {
+      "id": "2026-03-19-015",
+      "headline": "A Group of Kenyan Grandmothers Formed a Soccer Team to Mentor Local Teenagers",
+      "hook": "In Nyeri, Kenya, a team of grandmothers — the oldest is 72 — is outrunning teenagers on the pitch and guiding them off it.",
+      "body": "In the Kenyan highland town of Nyeri, a group of grandmothers decided the best way to connect with local teenagers was to meet them where they are — on the soccer field. The team, whose oldest player is 72-year-old Ann Wanjugu, trains alongside the teens multiple days per week. By several accounts, the grandmothers occasionally outrun some of the younger players.\n\nThe initiative grew out of a community center opened by a former UN humanitarian worker who returned to Nyeri after more than 20 years working in Geneva. The program pairs the women's soccer team with a beauty school and mentorship sessions that happen on weekends, giving the teenagers — many of whom face significant economic hardship — both practical skills and consistent adult role models. The grandmothers bring decades of life experience and a clear lack of interest in being stereotyped as inactive or removed from youth culture.\n\nThe story has resonated internationally because it upends so many expectations at once: about age, about gender, about what community-building looks like, and about what soccer is for. Ann Wanjugu, for her part, says she joined because she wanted to stay fit and because the teenagers needed people who would show up for them. She is doing both.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1466065665758-d473db752253?w=800",
+        "alt": "Soccer goal standing on a grass field at sunset",
+        "credit": "Photo by Glen Carrie on Unsplash",
+        "creditUrl": "https://unsplash.com/@glencarrie?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Kenya grandmothers mentor teenagers through soccer", "url": "https://www.npr.org/2026/03/18/g-s1-113817/kenya-grandmothers-mentor-teenagers-soccer" }
+      ],
+      "tags": ["Culture", "Africa", "Sports", "Human Interest"],
+      "readingTime": "2 min read",
+      "sources": ["NPR"]
+    }
+  ]
+}
