@@ -1,4 +1,4 @@
-import { StrictMode, useEffect } from 'react'
+import { StrictMode, useEffect, useRef } from 'react'
 import { createRoot } from 'react-dom/client'
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import './index.css'
@@ -9,7 +9,12 @@ import BlogPost from './pages/BlogPost.jsx'
 
 function GoatCounterTracker() {
   const location = useLocation()
+  const isFirst = useRef(true)
   useEffect(() => {
+    if (isFirst.current) {
+      isFirst.current = false
+      return
+    }
     if (window.goatcounter && window.goatcounter.count) {
       window.goatcounter.count({ path: location.pathname + location.search + location.hash })
     }
