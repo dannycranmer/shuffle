@@ -18,8 +18,8 @@ export default function Footer() {
             Blog
           </Link>
           {' · '}
-          <a href="https://buymeacoffee.com/dairylea" className="hover:text-shuffle-600" target="_blank" rel="noopener noreferrer">
-            Buy Me a Coffee
+          <a href="https://buymeacoffee.com/dairylea" className="inline-flex items-center gap-1.5 bg-yellow-400 hover:bg-yellow-500 text-yellow-900 font-semibold text-sm px-3 py-1 rounded-full transition-colors" target="_blank" rel="noopener noreferrer">
+            ☕ Buy Me a Coffee
           </a>
         </p>
         <p>
