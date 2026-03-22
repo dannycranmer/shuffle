@@ -1,0 +1,289 @@
+{
+  "date": "2026-03-22",
+  "stories": [
+    {
+      "id": "2026-03-22-001",
+      "headline": "Modified Herpes Virus Turns Immune System Against Deadliest Brain Cancer",
+      "hook": "A single injection of a reprogrammed virus is doing what chemotherapy couldn't: convincing the immune system to fight glioblastoma from within.",
+      "body": "Glioblastoma has long been one of oncology's most stubborn enemies — aggressive, fast-growing, and almost universally fatal within two years. Now, a phase 1 trial from Dana-Farber Cancer Institute and Mass General Brigham offers a cautious but striking reason for hope. Researchers injected 41 patients with a genetically altered herpes simplex virus that can only replicate inside glioblastoma cells, not healthy tissue. Once inside the tumor, it killed cancer cells and, crucially, summoned T cells deep into the tumor microenvironment.\n\nWhat made the results particularly interesting was a counterintuitive twist: patients who already had pre-existing antibodies against the herpes virus — which would normally neutralize a viral therapy before it reached its target — actually fared better. The immune response triggered by the virus appeared to persist long after treatment ended, with cytotoxic T cells clustering around dying tumor cells in patients who survived longest.\n\nThe trial was designed to test safety, not survival, so the team stopped short of declaring a cure. But the survival times exceeded historical benchmarks for recurrent glioblastoma, and the biological mechanism is now being studied in larger follow-up trials. Separately, the University of Edinburgh announced a gene therapy approach using a different viral vector scheduled to begin human trials in 2026, suggesting a wave of viral strategies targeting this tumor type is now underway.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1549925245-f20a1bac6454?w=800",
+        "alt": "A black and white photo of a brain",
+        "credit": "Photo by Alina Grubnyak on Unsplash",
+        "creditUrl": "https://unsplash.com/@alinnnaaaa?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Virus therapy supercharges immune attack on brain cancer (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260319044708.htm" },
+        { "title": "Dana-Farber: Virus-Based Therapy Boosts Anti-Cancer Immune Responses", "url": "https://www.dana-farber.org/newsroom/news-releases/2026/virus-based-therapy-boosts-anti-cancer-immune-responses-to-brain-cancer" }
+      ],
+      "tags": ["Medicine", "Cancer", "Neuroscience", "Immunotherapy"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Dana-Farber Cancer Institute"]
+    },
+    {
+      "id": "2026-03-22-002",
+      "headline": "Shingles Vaccine Cuts Heart Attack Risk by Nearly Half in High-Risk Patients",
+      "hook": "A vaccine most people associate with nerve pain is turning out to be one of the most powerful cardiovascular drugs available — and it's already sitting in pharmacies.",
+      "body": "A large new study presented at the American College of Cardiology's 2026 annual meeting found that people with atherosclerotic heart disease who received a shingles vaccine were 46% less likely to suffer a major cardiac event within the following year compared to unvaccinated peers. The effect extended to a 32% reduction in heart attacks, a 25% reduction in strokes, and a 66% reduction in all-cause mortality. Researchers analyzed data from over 246,000 U.S. adults with established heart disease.\n\nThe proposed mechanism centers on shingles infections themselves: the varicella-zoster virus, which causes shingles when it reactivates, has been linked to blood clot formation around the heart and brain. By preventing reactivation, the vaccine appears to also prevent a downstream cascade of vascular inflammation and thrombosis. These findings complement earlier research showing a persistent cardiovascular protective effect lasting up to eight years after vaccination.\n\nThe authors were careful to note this was an observational study, meaning there could be confounding factors — people who get vaccinated may have better overall healthcare engagement. But the magnitude of benefit, comparable to what's observed after quitting smoking, has prompted calls for updated cardiology guidelines that explicitly recommend shingles vaccination for high-risk patients. The shingles vaccine is already widely available and recommended for adults over 50.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1576765608622-067973a79f53?w=800",
+        "alt": "A nurse administering an intramuscular vaccination in a patient's shoulder",
+        "credit": "Photo by CDC on Unsplash",
+        "creditUrl": "https://unsplash.com/@cdc?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Shingles Vaccine Drastically Cuts Risk of Serious Cardiac Events (ACC)", "url": "https://www.acc.org/About-ACC/Press-Releases/2026/03/16/19/33/Shingles-Vaccine-Drastically-Cuts-Risk-of-Serious-Cardiac-Events" },
+        { "title": "Shingles vaccine lowers heart disease risk for up to eight years (ESC)", "url": "https://www.escardio.org/The-ESC/Press-Office/Press-releases/shingles-vaccine-lowers-the-risk-of-heart-disease-for-up-to-eight-years" }
+      ],
+      "tags": ["Medicine", "Heart Health", "Vaccines", "Public Health"],
+      "readingTime": "2 min read",
+      "sources": ["American College of Cardiology", "ScienceDaily", "EurekAlert"]
+    },
+    {
+      "id": "2026-03-22-003",
+      "headline": "Ancient Australian Rocks Prove Earth's Tectonic Plates Were Moving 3.5 Billion Years Ago",
+      "hook": "Tiny magnetic crystals locked in some of Earth's oldest surviving rocks have settled a debate: our planet's surface has been restlessly shifting since nearly its very beginning.",
+      "body": "Published in the journal Science on March 19, new research from Harvard University has uncovered the oldest direct evidence of plate tectonic motion in history. The study analyzed rocks from the Pilbara Craton of Western Australia — among the most ancient well-preserved geological formations on Earth — and found tiny magnetic crystals that recorded the terrain's movement as they cooled billions of years ago. The data show that starting around 3.48 billion years ago, this section of ancient crust moved roughly 2,500 kilometers poleward over just a few million years.\n\nLead author Alec Brenner, a recent Harvard PhD, and his team used paleomagnetic analysis to reconstruct the path of these rocks across the ancient planet. The speed and direction of movement closely match what would be expected from modern-style plate tectonics, pushing back the onset of this planetary process by hundreds of millions of years beyond previous estimates.\n\nThe implications go beyond geology. Plate tectonics is widely thought to be a key ingredient for planetary habitability — it recycles carbon, regulates temperature, and builds continents that can support complex life. If Earth's plates were moving this early, it suggests the conditions for life may have taken hold sooner than scientists assumed. The finding also renews questions about what triggered tectonics: early theories pointed to a sudden onset, but evidence now increasingly suggests a gradual, early emergence.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1761519757013-098d9b40fcbc?w=800",
+        "alt": "Two large balancing rocks under a clear blue sky",
+        "credit": "Photo by Wietse Jongsma on Unsplash",
+        "creditUrl": "https://unsplash.com/@wietsej?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Tectonic shift: Earth was already moving 3.5 billion years ago (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260321012636.htm" },
+        { "title": "Study suggests tectonic plates began moving half a billion years earlier than thought (U Chicago)", "url": "https://news.uchicago.edu/story/study-suggests-tectonic-plates-began-moving-half-billion-years-earlier-thought" }
+      ],
+      "tags": ["Geology", "Earth Science", "Deep Time", "Paleontology"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Science journal", "Harvard University"]
+    },
+    {
+      "id": "2026-03-22-004",
+      "headline": "Reuters Investigation Reveals Banksy Is Bristol Artist Robin Gunningham",
+      "hook": "A 2000 NYPD arrest in Manhattan, a handwritten confession, and decades of painstaking investigation have finally done what Banksy's lawyers still insist is impossible.",
+      "body": "After more than two decades of global speculation, a major Reuters investigation published on March 13 has identified Banksy as Robin Gunningham, a 51-year-old street artist from Bristol, England. The evidence is striking: court records from a New York disorderly conduct arrest on September 18, 2000, contain a handwritten confession bearing the signature 'Robin Gunningham,' made after NYPD officers caught the artist defacing a fashion advertisement on a Manhattan rooftop. Reuters also obtained immigration records and other documentation corroborating the identity.\n\nThe investigation adds a further twist. Banksy's former manager Steve Lazarides revealed that around 2008, he arranged for Gunningham to legally change his name — to David Jones, one of the most common names among British men. 'There is no Robin Gunningham anymore,' Lazarides reportedly said. The name change appears to have been a deliberate effort to further obscure the trail after earlier identity investigations in the British press had begun closing in.\n\nBanksy's lawyers have pushed back, stating their client 'does not accept that many of the details contained within the enquiry are correct.' The artist's anonymity has long been considered central to their work — a piece of performance art as carefully constructed as any stencil. A New York police report formally noting the identification circulated this week, adding an official layer to a story that has captivated the art world for years. Whether the revelation changes how the world values or interprets the work remains to be seen.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1562071525-7d436e1ebe07?w=800",
+        "alt": "A colorful mural painted on a city wall",
+        "credit": "Photo by Stefan Lehner on Unsplash",
+        "creditUrl": "https://unsplash.com/@st_lehner?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Banksy's identity finally revealed as Robin Gunningham (Reuters / Art Threat)", "url": "https://artthreat.net/10780-49759-banksy-s-identity-finally-revealed-as-robin-gunningham-in-major-reuters-investig/" },
+        { "title": "Banksy's Identity Revealed After Years of Anonymity (National Today)", "url": "https://nationaltoday.com/us/ny/new-york/news/2026/03/18/banksy-s-identity-revealed-after-years-of-anonymity/" }
+      ],
+      "tags": ["Art", "Culture", "Mystery", "Street Art"],
+      "readingTime": "2 min read",
+      "sources": ["Reuters", "Art Threat", "Euronews"]
+    },
+    {
+      "id": "2026-03-22-005",
+      "headline": "New Oral Pill Cuts 'Bad' Cholesterol by 60% — and You Swallow It",
+      "hook": "For millions of people who resist injectable cholesterol treatments, a daily pill that matches their performance could be the breakthrough that actually gets used.",
+      "body": "A phase 3 clinical trial published in the New England Journal of Medicine has found that enlicitide, an experimental oral PCSK9 inhibitor developed by Merck, reduces LDL cholesterol by approximately 60% compared to placebo — on par with existing injectable therapies that have struggled with patient adherence due to the inconvenience of self-injection. The trial enrolled 2,909 patients with established atherosclerosis or high cardiovascular risk, and results at 24 weeks showed consistent, substantial LDL reductions across subgroups.\n\nPCSK9 inhibitors work by blocking a protein that normally degrades LDL receptors in the liver, allowing the body to clear more 'bad' cholesterol from the bloodstream. Until now, every approved PCSK9 inhibitor has required an injection every two to four weeks, limiting their uptake despite impressive efficacy. Enlicitide's oral formulation uses a specialized drug delivery mechanism to survive the digestive tract and reach systemic circulation — a longstanding challenge for peptide-based drugs.\n\nBeyond LDL, the trial also found significant reductions in apolipoprotein B and lipoprotein(a), two other cardiovascular risk markers that statins don't reliably address. A separate cardiovascular outcomes trial is already underway to determine whether enlicitide's cholesterol-lowering actually translates into fewer heart attacks and strokes. If that trial succeeds, enlicitide could reshape cholesterol treatment guidelines, giving cardiologists a powerful oral option for the millions of patients who are statin-intolerant or whose LDL remains dangerously high despite maximum statin doses.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1617881770125-6fb0d039ecde?w=800",
+        "alt": "Blue and white medication pills arranged in a heart shape",
+        "credit": "Photo by Madison Agardi on Unsplash",
+        "creditUrl": "https://unsplash.com/@magardi?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "New pill cuts 'bad' cholesterol by 60% in major trial (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260321012659.htm" },
+        { "title": "Merck CORALreef Lipids Trial Results", "url": "https://www.merck.com/news/mercks-enlicitide-decanoate-an-investigational-oral-pcsk9-inhibitor-significantly-reduced-ldl-c-in-phase-3-coralreef-lipids-trial/" }
+      ],
+      "tags": ["Medicine", "Heart Health", "Pharmaceuticals", "Clinical Trials"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "New England Journal of Medicine", "Merck"]
+    },
+    {
+      "id": "2026-03-22-006",
+      "headline": "AI Planned NASA's Perseverance Rover Drives on Mars — And It Worked",
+      "hook": "For the first time in history, a spacecraft on another planet drove a route designed entirely by artificial intelligence, with no human-plotted waypoints.",
+      "body": "In December 2025, NASA's Perseverance rover completed two consecutive drives on Mars whose routes were planned entirely by an AI system rather than human rover planners at JPL. On December 8, Perseverance drove 210 meters on an AI-generated route; two days later it drove 246 meters. The initiative was developed in collaboration with Anthropic, using vision-language models from Claude to analyze imagery and generate safe waypoints.\n\nThe system works by processing the same imagery and terrain data that human planners normally use — photos from the rover's cameras showing rocks, slopes, and wheel tracks — and generating a sequence of waypoints that balance safety with scientific interest. Before the commands were sent to Mars, engineers verified the AI's route against JPL's digital twin of the rover, checking more than 500,000 telemetry variables to ensure compatibility with the flight software.\n\nThe achievement addresses one of deep-space exploration's most persistent bottlenecks: the communication delay between Earth and Mars, which currently runs between 3 and 22 minutes one-way. Every hour spent waiting for human planners to review imagery and craft commands is an hour the rover isn't moving. AI-planned drives could eventually allow Perseverance or future rovers to cover far more ground per sol (Martian day), potentially transforming the pace of geological exploration. JPL has called the demonstration 'a meaningful step' toward fully autonomous planetary surface operations.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1639782792143-d8ce97e5d330?w=800",
+        "alt": "An artist's rendering of a Mars rover on a rocky red surface",
+        "credit": "Photo by Sufyan on Unsplash",
+        "creditUrl": "https://unsplash.com/@blenderdesigner?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NASA's Perseverance Rover Completes First AI-Planned Drive on Mars (NASA JPL)", "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/" },
+        { "title": "NASA Let AI Drive The Perseverance Rover For Two Days (Universe Today)", "url": "https://www.universetoday.com/articles/nasa-let-ai-drive-the-perseverance-rover-for-two-days" }
+      ],
+      "tags": ["Space", "AI", "NASA", "Mars"],
+      "readingTime": "2 min read",
+      "sources": ["NASA JPL", "Universe Today", "Space.com"]
+    },
+    {
+      "id": "2026-03-22-007",
+      "headline": "Harvard Engineers Built a Chip That Can Twist and Tune Light in Real Time",
+      "hook": "A device the size of a pinhead can now dial up or down light's 'handedness' on demand — opening doors for quantum sensors and communications that were previously impossible to miniaturize.",
+      "body": "Researchers at Harvard's John A. Paulson School of Engineering and Applied Sciences have built a chip-scale device that dynamically controls the chirality of light — its 'handedness,' or the direction in which its electromagnetic field spirals as it travels. The key innovation is a twisted bilayer photonic crystal: two layers of nanoscale crystal with a deliberate rotational offset, whose spacing and twist angle can be adjusted in real time using an integrated micro-electromechanical system (MEMS).\n\nChirality matters enormously in chemistry, biology, and physics. Many biological molecules come in left- and right-handed versions with wildly different properties — thalidomide's two mirror-image forms famously had opposite effects. In optics, the ability to precisely control light's handedness is critical for sensing these molecular differences, for encoding information in quantum communication systems, and for building new classes of photonic devices. Until now, achieving this dynamically in a chip-scale package had proven exceptionally difficult.\n\nThe Harvard team's device can distinguish between left- and right-circular polarized light with remarkable precision, and the response can be tuned without swapping out components — just by adjusting the mechanical parameters of the MEMS actuator. Lead researcher Fan Du, working in Eric Mazur's lab, published the findings in a recent study that suggests applications in smarter chemical sensors, secure optical communications, and quantum computing hardware. The self-contained, reconfigurable design also makes it suitable for integration into future photonic integrated circuits.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1640861774479-cd6453479851?w=800",
+        "alt": "A green laser beam shining in the dark",
+        "credit": "Photo by Chayanin lawin on Unsplash",
+        "creditUrl": "https://unsplash.com/@hitmaster001?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Harvard engineers build chip that can twist and control light in real time (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260321012702.htm" },
+        { "title": "A Dynamic Twist of Light's 'Handedness' (Harvard SEAS)", "url": "https://seas.harvard.edu/news/dynamic-twist-lights-handedness" }
+      ],
+      "tags": ["Physics", "Photonics", "Engineering", "Quantum"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Harvard SEAS", "Phys.org"]
+    },
+    {
+      "id": "2026-03-22-008",
+      "headline": "One Third of Game Developers Have Lost Their Jobs, and AI Is Getting the Blame",
+      "hook": "The 2026 GDC State of the Industry report paints a grim picture: layoffs are widening, entry-level jobs have evaporated, and for the first time, most developers view generative AI as harmful to their industry.",
+      "body": "The Game Developers Conference's annual industry survey, released ahead of GDC 2026, found that 28% of game developers have lost their jobs in the past two years — a figure that represents a historic high. The hardest-hit disciplines are visual and technical artists, who face direct competition from AI-generated assets, followed by game designers and narrative writers. Among those laid off 12 to 24 months ago, a full 36% have not returned to the industry, and 48% of all those displaced are still unemployed.\n\nFor the first time since the survey began asking the question, a majority of game developers — 52% — now say generative AI has been bad for their industry, up sharply from 30% in 2025 and just 18% in 2024. The sharpest critics are visual artists (64% unfavorable) and narrative designers (63%), while executives and business operations roles remain the only categories where positive views of AI predominate. The gap between those bearing the costs and those making adoption decisions has become one of the industry's most visible fault lines.\n\nPerhaps the most alarming finding for the long term: 74% of game development students say they are concerned about their job prospects. Many report that entry-level roles have dried up precisely as experienced developers with specialized skills flood the market after layoffs, making it nearly impossible to build a career from scratch in the field.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1551033406-611cf9a28f67?w=800",
+        "alt": "A computer screen filled with lines of code",
+        "credit": "Photo by Markus Spiske on Unsplash",
+        "creditUrl": "https://unsplash.com/@markusspiske?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "GDC 2026 State of the Game Industry (GDC)", "url": "https://gdconf.com/article/gdc-2026-state-of-the-game-industry-reveals-impact-of-layoffs-generative-ai-and-more/" },
+        { "title": "52% of Game Developers Now Say Generative AI Harms Their Industry", "url": "https://aiproductivity.ai/news/gdc-2026-game-developers-generative-ai-opposition-grows/" }
+      ],
+      "tags": ["Gaming", "AI", "Labor", "Tech Industry"],
+      "readingTime": "2 min read",
+      "sources": ["GDC State of the Industry 2026", "Business Wire", "Fast Company"]
+    },
+    {
+      "id": "2026-03-22-009",
+      "headline": "A Triassic Crocodile Relative Ran Like a Greyhound Across Prehistoric Britain",
+      "hook": "Sitting in a museum drawer since 1969, a 215-million-year-old fossil has finally been identified as a slender, fast-running predator — nothing like the sprawling crocodilians we know today.",
+      "body": "A fossil discovered in southwestern England more than five decades ago has been formally described as a new species, and it upends the popular image of early crocodile relatives as slow, stumpy-legged ambush predators. Named Galahadosuchus jonesi in honor of David Rhys Jones, a secondary school physics teacher who helped advance the research, the animal was a Late Triassic crocodylomorph — part of the lineage that eventually gave rise to modern crocodiles and alligators — but its body plan was strikingly different.\n\nUnlike its living relatives, Galahadosuchus jonesi had long, slender limbs held upright beneath its body rather than splayed out to the sides, a build optimized for speed rather than aquatic ambush. Researchers describe it as looking something like a reptilian greyhound — built to run down prey across dry land some 215 million years ago, during a time when Britain was a subtropical landmass near the equator.\n\nThe species was formally described in the journal The Anatomical Record in 2026. Its existence adds to a growing body of evidence that early crocodylomorphs occupied a remarkable diversity of ecological niches — including fast cursorial predators, herbivores, and even bipedal runners — before the mass extinction at the end of the Triassic pruned the group's diversity and set surviving lineages on the path toward the semiaquatic specialist lifestyle we see in modern species.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1765969934052-85923ca4fd5a?w=800",
+        "alt": "Skeleton of an ancient mammal with large tusks displayed in a museum",
+        "credit": "Photo by Antony Hyson Seltran on Unsplash",
+        "creditUrl": "https://unsplash.com/@hyson?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "This crocodile ran like a greyhound across prehistoric Britain 200 million years ago (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260321012715.htm" },
+        { "title": "Paleontology News (ScienceDaily)", "url": "https://www.sciencedaily.com/news/fossils_ruins/paleontology/" }
+      ],
+      "tags": ["Paleontology", "Evolution", "Fossils", "Prehistoric Life"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "The Anatomical Record"]
+    },
+    {
+      "id": "2026-03-22-010",
+      "headline": "Scientists Solve the 12,800-Year-Old Platinum Mystery in Greenland's Ice",
+      "hook": "A spike of platinum in ancient ice had fueled theories of a catastrophic comet impact at the dawn of human civilization — but it turns out the real culprit was far more terrestrial.",
+      "body": "In 2013, scientists discovered an anomalous platinum spike deep in Greenland ice cores dating to about 12,800 years ago — precisely the start of the Younger Dryas, a sudden and severe cooling period that interrupted Earth's warming out of the last Ice Age. The find ignited a heated debate: was a comet or asteroid impact responsible, potentially collapsing early civilizations and megafauna populations across North America? A new study published in 2026 has now provided a definitive answer, and it's not an impact.\n\nUsing updated ice core dating techniques, the researchers established that the platinum spike occurred approximately 45 years after the Younger Dryas cooling began — making it too late to have caused the initial chill. The elevated platinum levels also persisted for about 14 years, pointing to a sustained process rather than a single explosive event. When the team compared the ice chemistry with geological samples, the best match came from volcanic gas condensates, particularly those associated with submarine volcanic activity.\n\nThe Younger Dryas itself, the researchers maintain, was most likely caused by a massive influx of freshwater from melting North American ice sheets disrupting the Atlantic Ocean's thermohaline circulation — a mechanism that has long had strong geological support. The platinum anomaly was a red herring, a volcanic fingerprint that arrived decades into the cold snap. The debunking of the impact hypothesis doesn't close all the questions, but it does clear one of the more dramatic speculations from the scientific table.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1765132875585-67ac54c2bbc8?w=800",
+        "alt": "A pickaxe stuck in icy glacial ground with rocks",
+        "credit": "Photo by Irvin Aloise on Unsplash",
+        "creditUrl": "https://unsplash.com/@istin?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Scientists solve 12,800-year-old climate mystery hidden in Greenland ice (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260319044714.htm" },
+        { "title": "Scientists may have solved a climate change mystery using Greenland ice cores (Carbon Brief)", "url": "https://www.carbonbrief.org/scientists-may-have-solved-a-climate-change-mystery-using-greenland-ice-cores/" }
+      ],
+      "tags": ["Climate", "Geology", "Archaeology", "Science History"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Carbon Brief"]
+    },
+    {
+      "id": "2026-03-22-011",
+      "headline": "The Three Hidden Reasons Your Web App Is So Damn Slow",
+      "hook": "A thoughtful engineering post making the rounds on Hacker News argues that most JavaScript bloat comes from just three avoidable architectural habits — and one of them has 49 million weekly downloads for no good reason.",
+      "body": "In a post that's sparked spirited discussion in developer communities, engineer James Garbutt breaks down what he calls the three pillars of JavaScript bloat: legacy runtime support, atomic architecture, and outdated ponyfills. Each represents a different way that well-intentioned decisions accumulate into web apps that ship hundreds of kilobytes of code that most users never benefit from.\n\nThe first pillar is packages that exist purely to support ancient JavaScript engines or protect against now-defunct global namespace behaviors — things like the `is-string` and `hasown` packages. Modern Node.js and evergreen browsers have had these features natively for years, but the packages persist because they're deep in dependency trees nobody audits. The second pillar is atomic architecture: the philosophy of splitting code into infinitely small packages like `path-key` (which just identifies the PATH environment variable) or `arrify` (which converts values to arrays). These were once promoted as reusable building blocks but typically end up as single-use dependencies with duplicated versions.\n\nThe third and perhaps most surprising pillar is ponyfills — packages that provide fallback implementations of newer features without modifying globals. Useful for library authors, these packages outstay their welcome long after the features they polyfill reach universal browser support. `globalthis`, with 49 million weekly downloads, and `object.entries`, with 35 million, are prime examples of ponyfills that virtually no modern project needs but almost no one removes. Garbutt's prescription: reverse the burden of proof, so the minority of developers who genuinely need legacy support maintain their own solutions rather than forcing everyone else to download them.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1653387137517-fbc54d488ed8?w=800",
+        "alt": "A computer screen filled with lines of JavaScript code",
+        "credit": "Photo by Rahul Mishra on Unsplash",
+        "creditUrl": "https://unsplash.com/@rahuulmiishra?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "The Three Pillars of JavaScript Bloat (43081j.com)", "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat" }
+      ],
+      "tags": ["Web Development", "JavaScript", "Software Engineering", "Performance"],
+      "readingTime": "2 min read",
+      "sources": ["43081j.com", "Hacker News"]
+    },
+    {
+      "id": "2026-03-22-012",
+      "headline": "Cuba Opens Its Economy to the Diaspora — With Catches",
+      "hook": "As blackouts stretch to 18 hours a day and a million citizens have fled since 2021, the Cuban government is finally offering exiles something they haven't had in 65 years: the right to own a business back home.",
+      "body": "Cuba's Deputy Prime Minister Oscar Perez-Oliva Fraga told NBC News this week that Cubans living abroad will now be permitted to invest in and own private enterprises on the island, including large-scale projects in tourism, mining, energy, and infrastructure. The reforms extend to establishing investment banks, opening foreign-currency accounts at domestic banks, and obtaining licenses to operate as virtual-asset service providers. 'There are no limitations,' he said.\n\nThe announcement comes at a desperate economic moment. Cuba has been battered by a combination of intensified U.S. sanctions, a collapse of Soviet-era subsidies that never fully recovered, and the ongoing Strait of Hormuz crisis that has disrupted global oil shipments. Rolling blackouts of 18 hours or more have become routine in many provinces. More than one million Cubans — roughly 9% of the population — have emigrated since 2021, the largest exodus since Fidel Castro's 1959 revolution. The government is attempting to capture some of the remittances and capital that fled with them.\n\nSkeptics, including Cuban-American business groups, point to significant structural obstacles. Cuba's legal system offers little protection for private property or investment contracts, and U.S. sanctions mean that American companies and Cuban-Americans would need Treasury and Commerce Department authorization before participating. Analysts have described the offer as a significant policy shift in rhetoric but one whose practical impact will depend heavily on legal reforms that haven't yet materialized.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1746871836526-e7154023d010?w=800",
+        "alt": "A Cuban building with palm trees against a blue sky",
+        "credit": "Photo by Jana Vandamme on Unsplash",
+        "creditUrl": "https://unsplash.com/@javaect?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Cuba tells exiles 'doors are open' to invest (Al Jazeera)", "url": "https://www.aljazeera.com/economy/2026/3/17/cuba-tells-exiles-doors-are-open-to-invest-in-businesses-in-the-country" },
+        { "title": "Cuba will allow nationals living abroad to own businesses (NBC News)", "url": "https://www.nbcnews.com/world/cuba/cuba-allow-nationals-living-abroad-invest-businesses-island-economy-rcna263637" }
+      ],
+      "tags": ["Economics", "Cuba", "Latin America", "Geopolitics"],
+      "readingTime": "2 min read",
+      "sources": ["Al Jazeera", "NBC News", "Havana Times"]
+    },
+    {
+      "id": "2026-03-22-013",
+      "headline": "Physicists Found a 48-Dimensional Hidden World Inside Ordinary Entangled Light",
+      "hook": "A standard lab technique for generating entangled photons has been quietly harboring topological structures of staggering complexity — and the tools to see them were already in every quantum optics lab.",
+      "body": "A new study from researchers at the University of the Witwatersrand in South Africa, working with colleagues at Huzhou University, has revealed that routine quantum optics experiments produce something far stranger than anyone realized. When entangled photons are generated using spontaneous parametric downconversion (SPDC) — a standard technique in quantum optics — the light carries hidden topological structures that, depending on the orbital angular momentum of the photons, can extend up to 48 dimensions and include more than 17,000 distinct topological signatures.\n\nTopology is the mathematical study of shapes and their properties under continuous deformation — a coffee cup is topologically identical to a donut, but not to a sphere. In physics, topological properties are prized for their robustness: they don't break down in the presence of small perturbations or noise, making them attractive for error-resistant quantum information encoding. Until this study, it was assumed that producing topological quantum states required multiple distinct properties of light working together — at least two, like orbital angular momentum and polarization. The new work shows that orbital angular momentum alone is sufficient.\n\nThe practical upshot is that quantum labs around the world already possess the equipment to access these topological states — no exotic new hardware required. The discovery opens potential avenues for quantum information storage and transmission that exploits topology's built-in noise resistance, potentially making future quantum networks more robust and scalable.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1768328591729-176a94d187ef?w=800",
+        "alt": "Abstract explosion of light and color representing particle physics",
+        "credit": "Photo by Logan Voss on Unsplash",
+        "creditUrl": "https://unsplash.com/@loganvoss?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Scientists just found a hidden 48-dimensional world in quantum light (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260321012705.htm" },
+        { "title": "Scientists Discover Hidden Topological Universe Inside Entangled Light (SciTechDaily)", "url": "https://scitechdaily.com/scientists-discover-hidden-topological-universe-inside-entangled-light/" }
+      ],
+      "tags": ["Physics", "Quantum", "Optics", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "SciTechDaily", "Nature Communications"]
+    },
+    {
+      "id": "2026-03-22-014",
+      "headline": "Sri Lanka Declares Wednesdays a Holiday to Conserve Fuel Amid Middle East War",
+      "hook": "With six weeks of fuel reserves left and oil shipments disrupted by conflict in the Strait of Hormuz, Sri Lanka has made the extraordinary decision to simply cancel the middle of the work week.",
+      "body": "Sri Lanka's government announced on March 17 that it is shifting all state institutions, schools, and universities to a four-day work week, with every Wednesday declared a public holiday. The rationale is stark: the country has approximately six weeks of fuel reserves remaining, and conflict in the Middle East has severely disrupted oil shipments through the Strait of Hormuz. By cutting a working day, officials estimate significant fuel savings from reduced commuting and commercial activity across the island nation.\n\nThe government has simultaneously launched a National Fuel Pass system rationing petrol and diesel to 15 liters per motorist per week, suspended public ceremonies, and is encouraging the private sector to follow the four-day week voluntarily. Essential services including hospitals remain open seven days a week. Officials have asked citizens to use bicycles, carpool, and rely on public transport wherever possible.\n\nSri Lanka is not alone. Pakistan has implemented a similar four-day schedule for some government offices, the Philippines is shifting public sector workers, and Vietnam is promoting alternative transport. The wave of emergency conservation measures across South and Southeast Asia reflects the cascading economic consequences of a conflict that began thousands of kilometers away in the Persian Gulf. Sri Lanka, which only recently emerged from a severe debt crisis in 2022, is particularly vulnerable to external shocks — and the fuel situation is testing a fragile recovery.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1760712046719-8c7474565c5b?w=800",
+        "alt": "Empty train station with tracks and platforms in Sri Lanka",
+        "credit": "Photo by Ranmali Kirinde on Unsplash",
+        "creditUrl": "https://unsplash.com/@ranmali_k?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Sri Lanka just launched a four-day work week — and the Iran War is why (Fortune)", "url": "https://fortune.com/2026/03/18/sri-lanka-4-day-week-iran-war-workers-wednesdays-off-in-desperate-bid-to-conserve-fuel/" },
+        { "title": "Sri Lanka Moves to Four-Day Workweek as War-Driven Fuel Shortages Intensify (Allwork.space)", "url": "https://allwork.space/2026/03/sri-lanka-moves-to-four-day-workweek-as-war-driven-fuel-shortages-intensify/" }
+      ],
+      "tags": ["Geopolitics", "Energy", "Sri Lanka", "Middle East"],
+      "readingTime": "2 min read",
+      "sources": ["Fortune", "India TV News", "Business Standard"]
+    },
+    {
+      "id": "2026-03-22-015",
+      "headline": "The 2,000-Year-Old Social Media: Pompeii's Graffiti Is Now Fully Searchable Online",
+      "hook": "Romans scratched jokes, insults, love notes, and election slogans on walls across Pompeii and Herculaneum — and now every surviving scrawl is indexed, mapped, and waiting for you to search it.",
+      "body": "The Ancient Graffiti Project, a digital humanities initiative that has been quietly building for over a decade, has assembled a fully searchable database of more than 3,000 pieces of handwritten graffiti from the cities of Pompeii, Herculaneum, and Stabiae — preserved exactly as they were when Vesuvius buried them in 79 CE. The project, hosted at Washington and Lee University, is now the most comprehensive repository of Roman graffiti ever assembled, offering a direct window into daily life that official inscriptions and literary texts rarely provide.\n\nThe database allows users to search by location — clicking directly on a map of the ancient city — by language (Latin and Greek both appear), by writing style, property type, or content. The inscriptions include everything from electoral endorsements ('Vote for Vatia — he is worthy') to gladiator fan commentary, declarations of love, crude jokes, prices of goods, and the kind of boastful graffiti that could have been written yesterday. Critical editions of each text update the century-old Corpus Inscriptionum Latinarum, and each entry includes photographs, enhanced images, and bibliography.\n\nThe project sits at an intersection of archaeology, classical scholarship, and digital humanities that is increasingly reshaping how ancient worlds are studied. It offers a corrective to the top-down bias of much surviving ancient writing: here, the voices are those of ordinary people — merchants, soldiers, tavern-goers — scratching their thoughts into walls they walked past every day, never imagining that two thousand years later, anyone would be reading.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1656073228190-e50f031f71ec?w=800",
+        "alt": "Stone columns and ruins at the basilica of Pompeii under a blue sky",
+        "credit": "Photo by Matt Jones on Unsplash",
+        "creditUrl": "https://unsplash.com/@kungfuchef?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "The Ancient Graffiti Project (ancientgraffiti.org)", "url": "https://ancientgraffiti.org/Graffiti/" },
+        { "title": "About the Ancient Graffiti Project", "url": "https://ancientgraffiti.org/about/" }
+      ],
+      "tags": ["History", "Archaeology", "Digital Humanities", "Rome"],
+      "readingTime": "2 min read",
+      "sources": ["Ancient Graffiti Project", "Hacker News", "Digital Classicist Wiki"]
+    }
+  ]
+}
