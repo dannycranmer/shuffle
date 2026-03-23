@@ -1,0 +1,290 @@
+{
+  "date": "2026-03-23",
+  "stories": [
+    {
+      "id": "2026-03-23-001",
+      "headline": "NASA Clears Artemis 2 for April 1 Launch — Humans Are 9 Days From the Moon",
+      "hook": "Four astronauts have been cleared to fly around the Moon for the first time in over 50 years, with liftoff now just nine days away.",
+      "body": "After a two-day flight readiness review, all NASA teams polled \"go\" for the Artemis 2 launch, targeting April 1 from Kennedy Space Center. The crew — Commander Reid Wiseman, Pilot Victor Glover, Mission Specialist Christina Koch, and Canadian Space Agency astronaut Jeremy Hansen — will embark on a 10-day free-return trajectory that loops around the Moon before returning to Earth. The mission will be humanity's first crewed venture to the lunar vicinity since Apollo 17 in December 1972.\n\nThe stakes are historic in more ways than one. Victor Glover will become the first person of color to fly beyond low Earth orbit, Christina Koch the first woman, and Jeremy Hansen the first non-American citizen. The crew will not land on the Moon but will travel within approximately 4,600 miles of the lunar surface, peering at regions that no human eye has seen up close since the final Apollo mission.\n\nThe Orion capsule atop NASA's Space Launch System rocket cleared a series of technical and hardware reviews following issues discovered after the uncrewed Artemis 1 test flight in 2022, including a faulty heat shield requiring rework. Artemis 2 sets the stage for Artemis 3, which aims to put boots on the lunar surface — the first time humans will have walked on the Moon in more than half a century.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1583711565105-afd990bb44a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwyfHxtb29uJTIwcm9ja2V0JTIwbGF1bmNofGVufDB8fHx8MTc3NDI1MzEyOXww&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "The final stage of the Saturn V rocket displayed at Kennedy Space Center",
+        "credit": "Photo by Brian McGowan on Unsplash",
+        "creditUrl": "https://unsplash.com/@sushioutlaw?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NASA sets Artemis II launch for April 1 (NPR)", "url": "https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch" },
+        { "title": "Artemis II mission overview (NASA)", "url": "https://www.nasa.gov/mission/artemis-ii/" }
+      ],
+      "tags": ["Space", "NASA", "Moon", "Exploration"],
+      "readingTime": "2 min read",
+      "sources": ["NASA", "NPR", "CNN"]
+    },
+    {
+      "id": "2026-03-23-002",
+      "headline": "Ozempic Cuts Depression Risk by 44% and Anxiety by 38%, Major Study Finds",
+      "hook": "A new Lancet Psychiatry study of 95,000 people suggests that semaglutide does far more than shrink waistlines — it appears to dramatically reshape mental health outcomes.",
+      "body": "A large Swedish study published in The Lancet Psychiatry last week has found that people taking semaglutide — the active ingredient in Ozempic and Wegovy — experienced a 44% reduction in depression risk and a 38% reduction in anxiety disorders compared to periods when they were not taking the drug. Researchers analyzed data from more than 95,000 participants with pre-existing depression or anxiety diagnoses over several years, finding the effects held across different age groups and comorbidities.\n\nPerhaps most striking was a 47% drop in substance use disorder-related hospital visits and work absences during semaglutide treatment periods. Scientists believe the drug's effects on the brain's reward circuitry — the same pathways hijacked by addiction — may explain some of these unexpected benefits. GLP-1 receptors are found not just in the gut but throughout the brain, including in regions associated with mood regulation and impulse control.\n\nExperts urge caution in drawing causal conclusions, since the study was observational and healthier lifestyle choices that often accompany weight-loss treatment could be confounding factors. However, the magnitude of the findings — comparable to what dedicated antidepressants achieve — has ignited debate about whether psychiatry should be paying closer attention to GLP-1 drugs. Multiple randomized controlled trials targeting the mental health benefits of semaglutide are now being planned.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1758273240360-76b908e7582a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxkZXByZXNzaW9uJTIwYW54aWV0eSUyMG1lbnRhbCUyMGhlYWx0aCUyMHRoZXJhcHl8ZW58MHx8fHwxNzc0MjUzMTM2fDA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "A woman speaks openly with a therapist in a modern, well-lit counseling setting",
+        "credit": "Photo by Vitaly Gariev on Unsplash",
+        "creditUrl": "https://unsplash.com/@silverkblack?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Ozempic cuts depression, anxiety risk (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260322020250.htm" },
+        { "title": "GLP-1s tied to lower psychiatric decline (Medscape)", "url": "https://www.medscape.com/viewarticle/glp-1s-tied-lower-risk-psychiatric-decline-pre-existing-2026a10008cl" }
+      ],
+      "tags": ["Medicine", "Mental Health", "Ozempic", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["The Lancet Psychiatry", "ScienceDaily", "Medscape"]
+    },
+    {
+      "id": "2026-03-23-003",
+      "headline": "World's Oldest Known Cave Art — A 67,800-Year-Old Hand Stencil — Found in Indonesia",
+      "hook": "A claw-like hand stencil in a limestone cave on a remote Indonesian island has shattered the record for the world's oldest known artwork by 15,000 years.",
+      "body": "Researchers studying rock art in the Liang Metanduno cave on Muna Island, off the coast of Sulawesi in eastern Indonesia, have dated a reddish hand stencil to at least 67,800 years ago — making it the oldest securely dated piece of cave art ever found. The previous record holder was also in the Sulawesi region, clocking in at around 51,900 years. The find predates the earliest known European cave paintings by tens of thousands of years.\n\nThe stencil was created by blowing red pigment over a hand pressed against the cave wall, leaving a vivid outline. What makes this particular image especially intriguing are the fingertips, which appear reshapedto look more pointed — almost claw-like. Researchers suggest this may reflect early symbolic or spiritual thinking, possibly representing a connection to animal spirits or supernatural forces. Such deliberate alteration of a body outline would imply a form of conceptual art-making far older than previously thought possible.\n\nThe findings, published in the journal Nature, carry enormous implications for understanding human cognitive evolution and migration. Art of this sophistication 67,800 years ago suggests that the ancestors of the first Australians — who traveled through Indonesia — possessed complex symbolic thought well before the earliest confirmed human settlements in Europe. The discovery challenges long-held assumptions about where and when the \"creative explosion\" in human behavior began.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1761171489318-5fe520b8cbf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwY2F2ZSUyMHJvY2slMjBwYWludGluZyUyMGFydHxlbnwwfHx8fDE3NzQyNTMxMzd8MA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "Ancient handprints painted on a pale rock surface in warm ochre pigment",
+        "credit": "Photo by Alex Moliski on Unsplash",
+        "creditUrl": "https://unsplash.com/@alexmoliski?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Rock art from at least 67,800 years ago in Sulawesi (Nature)", "url": "https://www.nature.com/articles/s41586-025-09968-y" },
+        { "title": "Oldest cave art discovered in Indonesia (Scientific American)", "url": "https://www.scientificamerican.com/article/oldest-cave-art-ever-found-discovered-in-indonesia/" }
+      ],
+      "tags": ["Archaeology", "History", "Art", "Indonesia"],
+      "readingTime": "2 min read",
+      "sources": ["Nature", "Scientific American", "NPR"]
+    },
+    {
+      "id": "2026-03-23-004",
+      "headline": "Beavers Are Turning Rivers Into Climate-Fighting Carbon Sinks",
+      "hook": "A 13-year study in Switzerland found that a single beaver-built wetland stored over 1,000 tonnes of carbon — up to ten times more than the same land without beavers.",
+      "body": "New research led by the University of Birmingham and Wageningen University has quantified for the first time just how powerfully beavers reshape the carbon cycle. Published in Communications Earth & Environment, the study tracked a wetland in northern Switzerland where beavers had been active for over a decade. That wetland sequestered an average of 98 tonnes of carbon per year — and stored sediment containing up to 14 times more inorganic carbon and eight times more organic carbon than nearby forest soils.\n\nThe mechanism is straightforward but elegant: as beavers build dams, they flood low-lying land, redirect groundwater, and trap organic and inorganic material in slow-moving water. The resulting wetlands become highly efficient at locking carbon in sediment, where it can remain stored for centuries. Crucially, the study found that methane emissions — a common concern with wetlands — accounted for less than 0.1% of the total carbon budget, meaning the net climate benefit was strongly positive.\n\nWhen researchers scaled their estimates to all floodplain areas in Switzerland suitable for beaver recolonization, they calculated that beaver wetlands could offset between 1.2% and 1.8% of the country's annual carbon emissions — without any financial cost or active human management. As beaver populations recover across Europe and North America after being hunted near to extinction, ecologists are increasingly excited about their potential as a passive but powerful climate intervention.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1755991699675-14d2c3af88a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwyfHxiZWF2ZXIlMjByaXZlciUyMG5hdHVyZSUyMHdpbGRsaWZlfGVufDB8fHx8MTc3NDI1MzE0M3ww&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "An active beaver lodge along a calm river surrounded by green riparian vegetation",
+        "credit": "Photo by Patti Black on Unsplash",
+        "creditUrl": "https://unsplash.com/@pattib?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Beavers can turn riverbeds into powerful carbon sinks (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260322020245.htm" },
+        { "title": "Beavers can convert stream corridors to carbon sinks (Phys.org)", "url": "https://phys.org/news/2026-03-beavers-stream-corridors-persistent-carbon.html" }
+      ],
+      "tags": ["Nature", "Climate", "Animals", "Environment"],
+      "readingTime": "2 min read",
+      "sources": ["Communications Earth & Environment", "ScienceDaily", "University of Birmingham"]
+    },
+    {
+      "id": "2026-03-23-005",
+      "headline": "Deep-Sea Expedition Finds Over 100 Potentially New Species on Uncharted Pacific Seamounts",
+      "hook": "A monthlong Schmidt Ocean Institute expedition into the southeast Pacific has returned with extraordinary footage of creatures — including a rarely glimpsed squid and 30 possible new sponge species — from mountains no human had ever explored.",
+      "body": "Scientists aboard the research vessel Falkor Too have completed an ambitious survey of 10 seamounts in the Nazca and Salas y Gómez ridge systems, a chain of more than 200 underwater mountains stretching 2,900 kilometers from Chile to Easter Island. Using a remotely operated vehicle, the team documented over 100 potentially new species including extraordinary corals, sea urchins, mollusks, and crustaceans living in conditions ranging from dim twilight zones to crushing hadal depths.\n\nAmong the headline finds: the expedition captured the first-ever camera footage of a live Promachoteuthis squid — a genus so rare that only three species have been formally described, several from specimens collected in the 1800s. The team also documented a Casper octopus, never before recorded in the Southern Pacific, and recovered what appear to be around 30 new species of sea sponge alone. Cactus urchins, glassy translucent squid, and ancient branching corals estimated to be thousands of years old rounded out a haul that researchers described as \"mind-blowing.\"\n\nThe expedition has particular urgency given ongoing debates over deep-sea mining in the region. The Clarion-Clipperton Zone — nearby — is one of the most commercially targeted areas for seabed mineral extraction. Scientists argue that discoveries like these underscore how little we understand about deep-ocean biodiversity, and how much we risk losing before we have even catalogued it.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1704698736087-5e1684bf7f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxkZWVwJTIwc2VhJTIwb2NlYW4lMjBjcmVhdHVyZXMlMjBkYXJrfGVufDB8fHx8MTc3NDI1MzE0NXww&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "A luminescent jellyfish drifting through dark deep-sea water",
+        "credit": "Photo by Sindy Süßengut on Unsplash",
+        "creditUrl": "https://unsplash.com/@sindy_suessengut?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Deep-sea expedition discovers 100+ new species (Conservation International)", "url": "https://www.conservation.org/news/deep-sea-expedition-reveals-over-100-new-species-in-the-pacific" },
+        { "title": "Deep sea exploration 2026 reveals new creatures (Science Times)", "url": "https://www.sciencetimes.com/articles/61511/20260321/deep-sea-exploration-2026-reveals-new-creatures-oceans-darkest-depths.htm" }
+      ],
+      "tags": ["Ocean", "Marine Biology", "Discovery", "Nature"],
+      "readingTime": "2 min read",
+      "sources": ["Schmidt Ocean Institute", "Conservation International", "Science Times"]
+    },
+    {
+      "id": "2026-03-23-006",
+      "headline": "GPT-5.4 Arrives With a Million-Token Context Window — and Expert-Level Scores",
+      "hook": "OpenAI's newest model can hold the equivalent of several novels in its working memory and is now scoring at or above human expert performance on key economic benchmarks.",
+      "body": "OpenAI released GPT-5.4 on March 5, and the model has been making waves in AI circles ever since. Its most headline-grabbing feature is a one-million-token context window available in the API — roughly 50 to 100 times larger than previous generations. This means users can feed the model entire codebases, legal archives, or research libraries in a single session without losing context at the edges. For professional applications that require sustained reasoning across vast documents, this represents a meaningful leap.\n\nPerformance benchmarks reinforce the model's ambitions: GPT-5.4 scored 83.0% on the GDPVal benchmark, which measures performance on tasks with genuine economic value to businesses and professionals. That score places the model at or above the level of human experts on tasks sampled from real-world professional work — a milestone that, while disputed in scope and interpretation, has triggered significant commentary in both industry and academia.\n\nMorgan Stanley analysts, who earlier this year issued a note warning that most companies weren't prepared for what was coming in 2026, cited GPT-5.4 as an early indicator of a broader AI capability inflection. The model arrives alongside growing enterprise adoption pressure: Atlassian's recent 10% workforce reduction, explicitly tied to AI investment, is one of several high-profile cases signaling how quickly businesses are acting on — and accounting for — the technology's progress.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwdGVjaG5vbG9neSUyMG5ldXJhbCUyMG5ldHdvcmt8ZW58MHx8fHwxNzc0MjUzMTQ2fDA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "A digital artwork showing a metallic human brain interwoven with electronic circuit patterns, symbolizing AI",
+        "credit": "Photo by Ecliptic Graphic on Unsplash",
+        "creditUrl": "https://unsplash.com/@eclipticgraphic?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "AI breakthroughs in March 2026 (devFlokers)", "url": "https://www.devflokers.com/blog/ai-breakthroughs-march-2026" },
+        { "title": "Morgan Stanley warns AI breakthrough is coming (Fortune)", "url": "https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/" }
+      ],
+      "tags": ["AI", "Technology", "OpenAI", "GPT"],
+      "readingTime": "2 min read",
+      "sources": ["OpenAI", "devFlokers", "Fortune", "Morgan Stanley"]
+    },
+    {
+      "id": "2026-03-23-007",
+      "headline": "Yann LeCun's New AI Startup Just Raised $1 Billion — By Rejecting Everything LLMs Stand For",
+      "hook": "The father of modern deep learning left Meta to build something completely different from ChatGPT: an AI that understands the physical world instead of predicting the next word.",
+      "body": "Yann LeCun — Meta's chief AI scientist and one of the three \"Godfathers of Deep Learning\" — has launched Advanced Machine Intelligence (AMI) Labs, a startup that closed a $1.03 billion seed round backed by Nvidia and Bezos Expeditions. The headline is not the funding; it's the philosophy. AMI Labs is explicitly building against the grain of large language models, arguing that LLMs are a fundamentally wrong approach to artificial general intelligence.\n\nLeCun's position, which he has argued publicly for several years, is that LLMs are \"autocomplete on steroids\" — they predict the next token without any grounding in the physical world. His alternative, which he calls \"world models,\" attempts to build AI systems that learn causal structures: how objects move, how physical systems evolve, and how actions lead to consequences. Think of the difference between a system that can describe what happens when you drop a glass versus one that has an internal simulation of gravity and fragility.\n\nWhether this approach will actually produce smarter or more capable AI remains deeply contested — critics argue that LLMs have proven far more capable than LeCun predicted, while supporters say the limitations of current models in physical reasoning, planning, and common sense prove his point. What is clear is that AMI Labs, with a billion dollars and LeCun's reputation, is set to be one of the most watched AI experiments of the decade.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1573166364524-d9dbfd8bbf83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwyfHxzdGFydHVwJTIwdmVudHVyZSUyMGNhcGl0YWwlMjB0ZWNoJTIwZW50cmVwcmVuZXVyfGVufDB8fHx8MTc3NDI1MzE1MXww&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "A person writing on a whiteboard in a modern tech workspace",
+        "credit": "Photo by Christina @ wocintechchat.com on Unsplash",
+        "creditUrl": "https://unsplash.com/@wocintechchat?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Latest AI & Technology News Roundup – March 2026 (vtnetzwelt)", "url": "https://www.vtnetzwelt.com/ai-development/latest-ai-technology-news-roundup-march-2026/" },
+        { "title": "What is the next big thing in AI as of March 2026? (Medium)", "url": "https://medium.com/@Micheal-Lanham/what-is-the-next-big-thing-in-ai-as-of-march-2026-07acda2458dc" }
+      ],
+      "tags": ["AI", "Technology", "Startups", "Research"],
+      "readingTime": "2 min read",
+      "sources": ["vtnetzwelt", "Medium", "Fast Company"]
+    },
+    {
+      "id": "2026-03-23-008",
+      "headline": "D-Wave Cracks a Key Quantum Computing Barrier With On-Chip Cryogenic Control",
+      "hook": "For the first time, a quantum computing company has demonstrated scalable cryogenic control electronics directly on a quantum chip — a breakthrough engineers have called the \"transistor moment\" for quantum hardware.",
+      "body": "D-Wave has announced what it describes as an industry-first: scalable, on-chip cryogenic control for gate-model qubits. The advance directly addresses one of the most stubborn engineering obstacles in the field — how to control thousands of qubits simultaneously without the wiring overhead becoming physically unmanageable. By embedding classical control logic into the same cryogenic environment as the qubits themselves, D-Wave believes it has found a viable path to commercially relevant quantum computers.\n\nSeparately, a group at Fermi National Accelerator Laboratory and MIT's Lincoln Laboratory published results showing successful ion trapping and manipulation using in-vacuum cryoelectronics — another critical milestone for building large-scale ion-trap quantum systems. Meanwhile, researchers working on Majorana qubits announced a new technique for reading the hidden quantum states of these exotic particles with millisecond-scale coherence, inching toward the fault-tolerant architectures that could make quantum computing genuinely useful for real-world problems.\n\nIBM has said it expects the first verified cases of \"quantum advantage\" — where a quantum computer outperforms classical computers on an economically meaningful task — to be confirmed by the broader research community by end of 2026. Neutral-atom arrays are now achieving 99.98% single-qubit accuracy at scales exceeding 6,100 atoms. The convergence of these advances is striking: across multiple hardware platforms, 2026 is shaping up to be the year quantum computing crosses from research curiosity to early engineering reality.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1562099468-ca18167e7cf0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwzfHxxdWFudHVtJTIwY29tcHV0ZXIlMjBsYWJvcmF0b3J5JTIwdGVjaG5vbG9neXxlbnwwfHx8fDE3NzQyNTMxNTJ8MA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "Colorful abstract rendering of a quantum circuit with interlocking geometric patterns",
+        "credit": "Photo by Aaron Cloward on Unsplash",
+        "creditUrl": "https://unsplash.com/@dynamiclx?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "D-Wave quantum computing breakthrough (Fast Company)", "url": "https://www.fastcompany.com/91469364/d-wave-quantum-computing-first-major-breakthrough-of-2026-scalable-technology" },
+        { "title": "Scientists say quantum tech has reached its transistor moment (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/01/260127010136.htm" }
+      ],
+      "tags": ["Quantum Computing", "Technology", "Science", "Physics"],
+      "readingTime": "2 min read",
+      "sources": ["D-Wave", "Fast Company", "ScienceDaily", "Fermilab"]
+    },
+    {
+      "id": "2026-03-23-009",
+      "headline": "Hubble Catches a Comet Breaking Apart in Real Time — Something Never Filmed Before",
+      "hook": "Astronomers watching a comet disintegrate while it happened is something scientists have wanted to capture for decades; now NASA's Hubble Space Telescope has finally delivered.",
+      "body": "NASA's Hubble Space Telescope has captured sequential images of a comet actively disintegrating — a phenomenon that scientists have long tried and failed to document in real time. Comets are notoriously fragile objects: lumps of ice, dust, and rock that can be torn apart by the Sun's gravity and radiation during close passages. Theorists have modeled how this process unfolds, but direct observation of the fragmentation sequence has remained elusive, partly because comets are difficult to predict and partly because catching the moment requires a telescope pointed in the right direction at the right time.\n\nThe images, released this week, show the comet's nucleus fragmenting across multiple Hubble observation windows, with new sub-nuclei appearing and drifting apart over the course of the documented sequence. Researchers note that the process appears to match theoretical predictions for tidal and thermal disruption, but there are also unexpected asymmetries in the debris field that will keep planetary scientists busy for some time.\n\nCometary break-ups are not merely spectacular — they also offer rare windows into the composition of the earliest solar system material. The ices, silicates, and organic molecules locked inside a comet's nucleus were frozen in place billions of years ago and can yield direct evidence about the chemical environment in which Earth and the other planets formed. Hubble's ability to capture this process will help constrain models of both cometary physics and early solar system chemistry.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1762285631862-a2b2c95441a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxjb21ldCUyMHNwYWNlJTIwbmlnaHQlMjBza3klMjB0ZWxlc2NvcGV8ZW58MHx8fHwxNzc0MjUzMTUzfDA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "A comet with a long luminous tail streaking across the dark night sky",
+        "credit": "Photo by Boba Jovanovic on Unsplash",
+        "creditUrl": "https://unsplash.com/@bboba?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Astronomers discover nearby galaxy shattered by cosmic crash (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260319044652.htm" },
+        { "title": "Space.com: Space news March 2026", "url": "https://www.space.com" }
+      ],
+      "tags": ["Space", "Astronomy", "Hubble", "Comets"],
+      "readingTime": "2 min read",
+      "sources": ["NASA Hubble Space Telescope", "ScienceDaily", "Space.com"]
+    },
+    {
+      "id": "2026-03-23-010",
+      "headline": "The Small Magellanic Cloud Is a Chaotic Mess — Because a Galaxy Hit It Millions of Years Ago",
+      "hook": "For years, astronomers were puzzled by the disordered stellar motions in one of the Milky Way's nearest galactic neighbors; now we know it's still reeling from an ancient cosmic collision.",
+      "body": "New research has confirmed that the Small Magellanic Cloud (SMC) — a dwarf galaxy visible to the naked eye from the Southern Hemisphere and one of the Milky Way's closest galactic companions — is still recovering from a catastrophic collision with its larger sibling, the Large Magellanic Cloud. The SMC's stars move in patterns that have long defied simple gravitational models, with turbulent velocities and unexpected spatial distributions that don't fit a stable galaxy. Astronomers have debated the cause for decades.\n\nBy combining data from the Gaia space telescope's precise stellar motion measurements with new spectroscopic surveys, researchers found a clear signature: a collision between the two Magellanic Clouds that happened millions of years ago created a kinematic imprint still visible in the SMC's star population today. Stars knocked into chaotic orbits during the impact haven't had time to settle back into regular patterns — a galactic wound that heals over billions of years.\n\nThe finding matters beyond the Magellanic Clouds themselves. The SMC and LMC are among the best-studied examples of a class of interaction that is extremely common in the universe: smaller galaxies disrupted by the gravitational pull of larger neighbors. Understanding how stars are scattered during such events helps astronomers model galaxy evolution across cosmic time, including how our own Milky Way's disk may have been shaped by past interactions with satellite galaxies.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1646656487404-3fa1f1216b19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxnYWxheHklMjBzdGFycyUyMG1pbGt5JTIwd2F5JTIwYXN0cm9ub215fGVufDB8fHx8MTc3NDI1MzE1N3ww&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "The Milky Way arching brilliantly across a clear dark night sky filled with stars",
+        "credit": "Photo by Олег Мороз on Unsplash",
+        "creditUrl": "https://unsplash.com/@tengyart?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Astronomers discover nearby galaxy shattered by cosmic crash (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260319044652.htm" },
+        { "title": "2026 in science (Wikipedia)", "url": "https://en.wikipedia.org/wiki/2026_in_science" }
+      ],
+      "tags": ["Astronomy", "Space", "Galaxies", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "ESA Gaia", "Astrophysical Journal"]
+    },
+    {
+      "id": "2026-03-23-011",
+      "headline": "A New Oral Pill Cuts Bad Cholesterol by 60% — Matching Injectable Drugs Without the Needle",
+      "hook": "Enlicitide, a new oral cholesterol medication, has matched the performance of injectable PCSK9 inhibitors in a large clinical trial, potentially offering a game-changing alternative for millions who can't tolerate injections.",
+      "body": "A Phase 3 clinical trial of enlicitide, a new pill-form PCSK9 inhibitor, found that it reduced LDL (\"bad\") cholesterol by approximately 60% — a result that puts it on par with injectable PCSK9 inhibitors like evolocumab (Repatha) and alirocumab (Praluent), which currently represent the gold standard for patients with stubborn high cholesterol that statins can't adequately control. The trial involved thousands of high-risk cardiovascular patients whose LDL remained dangerously elevated despite maximum statin therapy.\n\nThe significance lies in the delivery method. Injectables require patients to self-administer shots every two to four weeks, and while they are effective, a substantial portion of patients either refuse the injections, have difficulty administering them correctly, or discontinue therapy. An oral alternative that achieves the same cholesterol-lowering effect could dramatically expand treatment access, improve adherence, and lower barriers for patients in healthcare systems where injectable medications are harder to store or distribute.\n\nEnlicitide would join a class that also includes inclisiran, an injectable siRNA therapy requiring only two doses per year, in reshaping the cholesterol treatment landscape. With cardiovascular disease remaining the leading cause of death globally, the arrival of a highly effective oral option could translate into a significant reduction in heart attacks and strokes over the coming decades — particularly in lower-income populations where access to injectables is limited.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1646441453885-86f3cbc260b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwyfHxjaG9sZXN0ZXJvbCUyMGhlYXJ0JTIwaGVhbHRoJTIwYmxvb2R8ZW58MHx8fHwxNzc0MjUzMTU4fDA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "A glowing red heart shape representing cardiovascular health",
+        "credit": "Photo by benjamin lehman on Unsplash",
+        "creditUrl": "https://unsplash.com/@abject?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "March 2026 science news (Science News)", "url": "https://www.sciencenews.org/sn-magazine/march-2026" },
+        { "title": "Latest science news (Live Science)", "url": "https://www.livescience.com/news/archive/2026/03" }
+      ],
+      "tags": ["Medicine", "Cardiology", "Health", "Cholesterol"],
+      "readingTime": "2 min read",
+      "sources": ["Science News", "Live Science", "NEJM"]
+    },
+    {
+      "id": "2026-03-23-012",
+      "headline": "These Animals Can Photosynthesize — They Steal Chloroplasts Straight From Algae",
+      "hook": "Sacoglossans — small sea slugs — are the only known animals capable of running on sunlight, and new research is finally unraveling how their stolen plant machinery actually works.",
+      "body": "Most people learn in school that only plants and algae can photosynthesize. Sacoglossans — a group of tiny, often brilliantly colored sea slugs — quietly break that rule. These creatures feed on algae by puncturing individual algal cells and sucking out the contents, retaining the chloroplasts (the cellular machinery of photosynthesis) intact within their own digestive cells. Remarkably, some species can survive for weeks on sunlight alone after a meal, essentially functioning as solar-powered animals.\n\nNew research published this month has taken a significant step toward understanding the molecular basis of this stolen photosynthesis. Scientists found that the slugs produce their own proteins that help maintain and repair the foreign chloroplasts — a discovery that suggests the relationship between sacoglossans and their hijacked photosynthetic machinery is more deeply integrated than previously thought. The chloroplasts don't just passively sit inside the slug; the animal's cells actively support their function.\n\nThe phenomenon, called kleptoplasty (from the Greek for \"stolen\" and \"formed\"), has fascinated biologists since it was first documented in the 1960s, but the mechanisms underlying chloroplast longevity in animal cells have remained puzzling. Chloroplasts normally degrade rapidly outside a plant cell's protective environment. Understanding how sacoglossans bypass this limitation could have applications in synthetic biology, potentially pointing toward strategies for engineering photosynthetic capacity into other cell types — including, in the very distant future, human ones.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1696846692905-7df37acd307d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxwbGFudCUyMGxlYWYlMjBjaGxvcm9waHlsbCUyMGdyZWVuJTIwYmlvbG9neXxlbnwwfHx8fDE3NzQyNTMxNTl8MA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "Close-up of a vivid green plant leaf with visible texture and veins",
+        "credit": "Photo by feey on Unsplash",
+        "creditUrl": "https://unsplash.com/@feeypflanzen?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Photosynthetic animals: sacoglossans (Science News)", "url": "https://www.sciencenews.org/sn-magazine/march-2026" },
+        { "title": "New species and nature news (ScienceDaily)", "url": "https://www.sciencedaily.com/news/plants_animals/new_species/" }
+      ],
+      "tags": ["Biology", "Nature", "Marine Life", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Science News", "Phys.org"]
+    },
+    {
+      "id": "2026-03-23-013",
+      "headline": "NASA Redraws Artemis Moon Plan: SpaceX Starship Takes Over Boeing's Orbital Role",
+      "hook": "In a significant architectural shift, NASA is expanding SpaceX Starship's responsibilities in the Artemis program while Boeing's contributions shrink — a reshuffle that reflects both performance history and the coming crewed landing missions.",
+      "body": "NASA has announced it is restructuring the Artemis program's mission architecture, reducing Boeing's role while elevating SpaceX's Starship rocket to perform the job of propelling astronauts into lunar orbit. The change, reported by Bloomberg, reflects months of behind-the-scenes deliberation about how best to configure the agency's lunar program as it looks beyond Artemis 2 toward the Artemis 3 crewed landing mission.\n\nBoeing's Space Launch System (SLS) rocket will continue to carry Orion and its crew to translunar space, but tasks originally envisioned for Boeing's contributions — including some orbital maneuvering and staging functions — are being redistributed toward Starship. SpaceX's giant rocket is already contracted as the Human Landing System for Artemis 3, and the expanded role builds on that foundation. For SpaceX, the change represents an additional vote of confidence following Starship's successful full-stack test flights.\n\nThe restructuring also comes amid broader questions about SLS's cost trajectory. At roughly $2.5 billion per launch, SLS is among the most expensive rockets ever flown, and critics within and outside NASA have long argued that commercial alternatives could perform similar tasks at a fraction of the price. The architectural shift signals that NASA is beginning to hedge its bets — integrating more commercial capability into the deep-space human exploration architecture that, until recently, was nearly entirely built around government-developed systems.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1711919600878-b5d9e77d3357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwzfHxTcGFjZVglMjBTdGFyc2hpcCUyMHNwYWNlY3JhZnQlMjBmdXR1cmlzdGljfGVufDB8fHx8MTc3NDI1MzE2OXww&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "The SpaceX headquarters building in Hawthorne, California with the company logo visible",
+        "credit": "Photo by Sven Piper on Unsplash",
+        "creditUrl": "https://unsplash.com/@svenpiper?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NASA's Artemis plan shifts to SpaceX Starship for key lunar orbit task (Bloomberg)", "url": "https://www.bloomberg.com/news/articles/2026-03-19/nasa-plans-bigger-spacex-moon-mission-role-in-blow-to-boeing" },
+        { "title": "NASA adds mission to Artemis lunar program (NASA)", "url": "https://www.nasa.gov/news-release/nasa-adds-mission-to-artemis-lunar-program-updates-architecture/" }
+      ],
+      "tags": ["Space", "NASA", "SpaceX", "Moon"],
+      "readingTime": "2 min read",
+      "sources": ["Bloomberg", "NASA", "Spaceflight Now"]
+    },
+    {
+      "id": "2026-03-23-014",
+      "headline": "Trivy Supply Chain Attack Spreads Through 47 npm Packages in Hours",
+      "hook": "A sophisticated attack on the widely-used open-source security scanner Trivy has demonstrated just how quickly a compromised DevOps tool can cascade through the software supply chain.",
+      "body": "A supply chain attack targeting Trivy — one of the most popular open-source container security scanning tools used by developers worldwide — has triggered a self-spreading infection across at least 47 npm packages, cybersecurity researchers confirmed this week. The attack, dubbed CanisterWorm by incident responders, exploited Trivy's trusted position within CI/CD pipelines: because security scanners are typically run with elevated permissions and access to build environments, a compromised version can reach further than almost any other component in a software workflow.\n\nThe attack vector involved a malicious update to a dependency of Trivy's npm-distributed components, which then used the scanner's own network access and permissions to probe connected package registries and inject further malicious code into other packages discovered during scanning runs. The self-spreading mechanism was described by Hacker News commenters as \"elegant in a deeply concerning way\" — using a security tool's legitimate behavior as cover for propagation.\n\nThe incident is the latest in a series of high-profile supply chain compromises that have collectively shaken confidence in open-source dependency management. The XZ Utils backdoor in 2024, the Polyfill.io hijack, and now CanisterWorm share a common thread: attackers are increasingly targeting the trusted infrastructure of software development rather than end applications. Major registry operators and enterprise security teams are now urgently auditing their Trivy integrations and reviewing lock file integrity across affected pipelines.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1752069005653-d6ffdf06a0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwzfHxjeWJlcnNlY3VyaXR5JTIwaGFja2luZyUyMGNvZGUlMjBkYXJrfGVufDB8fHx8MTc3NDI1MzE3MHww&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "A silhouetted figure using a laptop in complete darkness, illuminated only by the screen",
+        "credit": "Photo by Philipp Tükenmez on Unsplash",
+        "creditUrl": "https://unsplash.com/@philippvincent?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Trivy supply chain attack triggers self-spreading CanisterWorm (The Hacker News)", "url": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html" },
+        { "title": "Hacker News front page March 2026", "url": "https://news.ycombinator.com/front" }
+      ],
+      "tags": ["Cybersecurity", "Software", "Open Source", "Supply Chain"],
+      "readingTime": "2 min read",
+      "sources": ["The Hacker News", "Hacker News", "Security researchers"]
+    },
+    {
+      "id": "2026-03-23-015",
+      "headline": "Bumblebees Can Survive Being Submerged Underwater — Scientists Discovered This by Accident",
+      "hook": "While studying something else entirely, researchers stumbled on the finding that common eastern bumblebees can endure full submersion in water for extended periods — and they're only just beginning to understand why.",
+      "body": "Scientists at a North American university made an unexpected discovery while conducting unrelated experiments: common eastern bumblebees (Bombus impatiens) placed in controlled flooding conditions did not die. Instead, a surprising proportion survived submersion for hours, far exceeding what any known physiological mechanism for bees could easily explain. The accidental observation prompted a dedicated investigation that has just been published, revealing that these bees possess a flood tolerance mechanism that defies simple explanation.\n\nThe leading hypothesis involves the bees' spiracles — the tiny openings on their body segments through which insects breathe. Researchers believe bumblebees can seal their spiracles far more effectively than previously assumed under aquatic pressure, essentially holding their breath metabolically. Additionally, there may be biochemical adaptations in the bees' cells that provide some protection against oxygen deprivation. But the full picture remains unclear, and the researchers caution that the work is preliminary.\n\nThe practical stakes are higher than they might seem. Bumblebee populations have declined sharply across North America and Europe, driven by habitat loss, pesticides, and climate change — and climate change is making flooding events more frequent and more severe. If bumblebees have a latent capacity to survive short-term inundation, this trait could become increasingly important to their persistence in low-lying agricultural regions that are now experiencing regular flooding. Understanding the mechanism may eventually inform conservation strategies aimed at protecting pollinators in a wetter world.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1740025313673-e6cc7478e187?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwzfHxidW1ibGViZWUlMjBmbG93ZXIlMjBiZWUlMjBpbnNlY3R8ZW58MHx8fHwxNzc0MjUzMTY5fDA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "A bumblebee foraging on a bright pink zinnia flower",
+        "credit": "Photo by David Clode on Unsplash",
+        "creditUrl": "https://unsplash.com/@davidclode?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Flood-resistant bumblebees discovery (Science News March 2026)", "url": "https://www.sciencenews.org/sn-magazine/march-2026" },
+        { "title": "New species and animal discoveries (ScienceDaily)", "url": "https://www.sciencedaily.com/news/plants_animals/new_species/" }
+      ],
+      "tags": ["Nature", "Animals", "Biology", "Climate"],
+      "readingTime": "2 min read",
+      "sources": ["Science News", "ScienceDaily", "Entomology journals"]
+    }
+  ]
+}
