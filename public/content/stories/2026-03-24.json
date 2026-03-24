@@ -1,0 +1,306 @@
+{
+  "date": "2026-03-24",
+  "stories": [
+    {
+      "id": "2026-03-24-001",
+      "headline": "Asteroid Ryugu Contains All Five Building Blocks of DNA and RNA",
+      "hook": "A space rock collected 300 million kilometers away just handed scientists the most complete cosmic recipe for life ever found.",
+      "body": "Samples returned from asteroid Ryugu by Japan's Hayabusa-2 spacecraft now contain all five nucleobases — adenine, guanine, cytosine, thymine, and uracil — the molecular letters that encode life in DNA and RNA. A study published in Nature Astronomy confirms this makes Ryugu the most chemically complete sample of prebiotic material ever retrieved from space.\n\nThe finding builds on earlier detections of individual nucleobases in meteorites and in NASA's Bennu asteroid samples, but this is the first time the complete set has been confirmed in a pristine, contamination-controlled sample. Lead author Toshiki Koga of Yokohama National University notes that researchers also found an unusual correlation between nucleobase ratios and ammonia concentrations — a chemical relationship that doesn't match any known formation pathway, hinting at processes in the early solar system we haven't mapped yet.\n\nThe implications are profound. If asteroids routinely carry the full genetic alphabet, then the raw ingredients for life were likely scattered across the solar system — and potentially beyond — long before Earth formed. It doesn't prove life arrived from space, but it dramatically expands where those ingredients could have come from.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1547534937-98473c3c0c00?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxnYWxheHklMjBzcGFjZSUyMHN0YXJzfGVufDB8fHx8MTc3NDMzMjIyN3ww&ixlib=rb-4.1.0&w=800",
+        "alt": "photograph of the Milky Way galaxy stretching across a dark night sky",
+        "credit": "Photo by Atul Vinayak on Unsplash",
+        "creditUrl": "https://unsplash.com/@atulvi?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Nature Astronomy study", "url": "https://www.nature.com/articles/s41550-026-02791-z" },
+        { "title": "All five nucleobases found in Ryugu samples (phys.org)", "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html" },
+        { "title": "Science Alert explainer", "url": "https://www.sciencealert.com/asteroid-reveals-the-5-key-genetic-ingredients-for-life-on-earth" }
+      ],
+      "tags": ["Space", "Astrobiology", "Origins of Life", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Nature Astronomy", "phys.org", "ScienceAlert", "Chemistry World"]
+    },
+    {
+      "id": "2026-03-24-002",
+      "headline": "Hubble Accidentally Watched a Comet Shatter Into Pieces in Real Time",
+      "hook": "Astronomers went looking for one comet and stumbled on another one falling apart — a cosmic accident that's never been caught on camera before.",
+      "body": "NASA's Hubble Space Telescope has captured something astronomers have chased for decades: a comet actively breaking apart, mid-disintegration, in real time. Comet C/2025 K1 (ATLAS) wasn't even the original target — the team pivoted to it when their planned observation fell through, only to find K1 fragmenting into at least four distinct pieces, each with its own glowing coma of gas and dust.\n\nHubble took three brief exposures over three consecutive days in November 2025, and the images show the comet was already eight days into its breakup when the telescope caught it. Before it began to fall apart, K1 measured roughly five miles across — slightly larger than an average comet. The findings, published in Icarus, represent the earliest-stage comet disintegration ever observed.\n\nWhy do comets break up? The leading culprits include tidal stress, rotational spin-up from outgassing jets, and thermal fracturing as they approach the Sun. Each mechanism leaves a different fingerprint in the fragments' behavior, and this unprecedented dataset could help scientists finally tell them apart.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1639959019385-7ed4c7f421a8?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxjb21ldCUyMG5pZ2h0JTIwc2t5fGVufDB8fHx8MTc3NDMzMjIzMnww&ixlib=rb-4.1.0&w=800",
+        "alt": "a bright green luminous object streaking across a dark night sky",
+        "credit": "Photo by Shlomo Shalev on Unsplash",
+        "creditUrl": "https://unsplash.com/@shlomo99?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NASA Science announcement", "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-unexpectedly-catches-comet-breaking-up/" },
+        { "title": "EarthSky coverage", "url": "https://earthsky.org/space/comet-breaks-apart-hubble-images-k1-atlas/" },
+        { "title": "Space.com story", "url": "https://www.space.com/astronomy/comets/hubble-space-telescope-accidentally-witnesses-comet-c-2025-k1-atlas-breaking-apart" }
+      ],
+      "tags": ["Space", "Astronomy", "Hubble", "Comets"],
+      "readingTime": "2 min read",
+      "sources": ["NASA Science", "ScienceDaily", "Space.com", "EarthSky"]
+    },
+    {
+      "id": "2026-03-24-003",
+      "headline": "Bull Sharks Have Best Friends — and They Choose Them Carefully",
+      "hook": "The ocean's most notoriously aggressive shark turns out to have a social life more nuanced than most humans give it credit for.",
+      "body": "Bull sharks, often portrayed as solitary and unpredictable, actually form deliberate social bonds — including what researchers are comfortable calling friendships. A six-year study tracking 184 sharks at the Shark Reef Marine Reserve in Fiji found that these animals don't just drift together by chance; they display active social preferences, repeatedly seeking out specific individuals while avoiding others.\n\nPublished in Animal Behaviour, the study found that adult sharks were the most socially connected, often bonding with others of similar size. Male bull sharks — physically smaller than females — appeared to gain protection through social integration, buffering themselves against aggressive encounters with larger individuals. The sharks' interactions included parallel swimming and lead-follow behaviors, suggesting coordination rather than coincidence.\n\nThe findings add bull sharks to a growing list of marine animals revealed to have complex social lives, including dolphins, groupers, and now rays. For conservation, understanding that sharks form social networks matters: removing a single individual from a population isn't ecologically neutral if that animal played a connective role in a broader social structure.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1540242236971-b061dc3dc2cc?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxzaGFyayUyMHVuZGVyd2F0ZXIlMjBvY2VhbnxlbnwwfHx8fDE3NzQzMzIyMzN8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "a shark swimming through clear blue ocean water",
+        "credit": "Photo by Kurt Cotoaga on Unsplash",
+        "creditUrl": "https://unsplash.com/@kydroon?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Study in Animal Behaviour (University of Exeter)", "url": "https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/bull-sharks-have-friends/" },
+        { "title": "Washington Post coverage", "url": "https://www.washingtonpost.com/climate-environment/interactive/2026/bull-sharks-have-friends-study/" },
+        { "title": "Discover Wildlife", "url": "https://www.discoverwildlife.com/animal-facts/marine-animals/bull-sharks-make-friends-fiji" }
+      ],
+      "tags": ["Wildlife", "Marine Biology", "Science", "Nature"],
+      "readingTime": "2 min read",
+      "sources": ["University of Exeter", "ScienceDaily", "Washington Post", "Animal Behaviour journal"]
+    },
+    {
+      "id": "2026-03-24-004",
+      "headline": "Ozempic May Be Quietly Treating Depression and Anxiety Too",
+      "hook": "The blockbuster weight-loss drug keeps revealing unexpected powers — this time, a 42% drop in psychiatric care needs.",
+      "body": "GLP-1 receptor agonists like semaglutide (Ozempic, Wegovy) were developed for diabetes and later obesity. But a sweeping new analysis of nearly 100,000 patients in Sweden has found a striking side benefit: during periods when people were actively taking semaglutide, their need for psychiatric care dropped by 42% compared to periods when they weren't. Depression risk fell by 44%, anxiety disorders by 38%, and substance-use-related hospitalizations by 47%.\n\nPublished this week, the research is a within-person study — meaning it compared the same individuals on and off the drug, which helps rule out the most obvious confounders. Scientists aren't yet sure of the mechanism. Hypotheses include the drug's direct action on brain receptors involved in reward and mood, reduced inflammation, better sleep from weight loss, or simply improved quality of life feedback-looping into better mental health.\n\nThe findings come just weeks after the FDA removed suicidal behavior warnings from GLP-1 medications after large-scale reviews found no elevated risk. Researchers caution these results aren't a green light to prescribe Ozempic as an antidepressant — but the signal is strong enough that clinical trials focused on psychiatric applications are now likely to accelerate.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1630094539413-a69caf88ce7d?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxtZWRpY2F0aW9uJTIwcGlsbHMlMjBoZWFsdGh8ZW58MHx8fHwxNzc0MzMyMjMzfDA&ixlib=rb-4.1.0&w=800",
+        "alt": "orange and white blister pack of medication pills",
+        "credit": "Photo by Melany @ tuinfosalud.com on Unsplash",
+        "creditUrl": "https://unsplash.com/@melany_tuinfosalud?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: GLP-1 cuts depression risk", "url": "https://www.sciencedaily.com/releases/2026/03/260322020250.htm" },
+        { "title": "Healthline summary", "url": "https://www.healthline.com/health-news/glp-1-drugs-ozempic-wegovy-help-treat-anxiety-depression" },
+        { "title": "Karolinska Institutet research", "url": "https://news.ki.se/diabetes-drug-ozempic-linked-to-better-mental-health" }
+      ],
+      "tags": ["Health", "Medicine", "Mental Health", "Pharmacology"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Karolinska Institutet", "Healthline", "Global News"]
+    },
+    {
+      "id": "2026-03-24-005",
+      "headline": "Scientists Just Grew Chickpeas in Simulated Moon Dirt",
+      "hook": "The humble chickpea might become humanity's first space crop — if a fungus gets to come along.",
+      "body": "Researchers have successfully grown and harvested chickpeas in simulated lunar regolith, marking the first time the legume has completed a full growth cycle — including producing seeds — in a moon-like substrate. The experiment, conducted by a team including Texas A&M University researchers and published in Scientific Reports, tested various mixtures of simulated moon soil and vermicompost (worm-produced compost).\n\nThe key ingredient wasn't the soil blend — it was a fungus. Chickpeas treated with arbuscular mycorrhizal fungi (AMF) survived and fruited; untreated plants in every lunar simulant mixture failed to produce a single seed. The AMF appeared to help the plants manage the toxic heavy metals present in lunar soil. Plants could thrive in mixtures containing up to 75% simulated lunar regolith when AMF was present.\n\nChickpeas were chosen partly for their nitrogen-fixing abilities, which could improve lunar soil over multiple crop cycles, gradually making it more hospitable. Scientists caution that significant steps remain — testing for nutritional safety, adapting experiments to lunar habitats, and confirming results using actual lunar regolith — but the concept has cleared a meaningful proof-of-concept hurdle.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1653653001761-2a3c6981d78f?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxtb29uJTIwbHVuYXIlMjBzdXJmYWNlfGVufDB8fHx8MTc3NDMzMjIzNHww&ixlib=rb-4.1.0&w=800",
+        "alt": "a full moon glowing brightly against a dark night sky",
+        "credit": "Photo by Zoe Ansari on Unsplash",
+        "creditUrl": "https://unsplash.com/@zoeru?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Chickpeas on the Moon", "url": "https://www.sciencedaily.com/releases/2026/03/260312020101.htm" },
+        { "title": "Science News article", "url": "https://www.sciencenews.org/article/chickpeas-moon-dirt-seeds-space-farming" },
+        { "title": "ABC News coverage", "url": "https://abcnews.com/Technology/chickpeas-successfully-grown-harvested-simulated-moon-dirt-new/story?id=130799294" }
+      ],
+      "tags": ["Space", "Food Science", "Agriculture", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Scientific Reports", "ScienceDaily", "Science News", "ABC News"]
+    },
+    {
+      "id": "2026-03-24-006",
+      "headline": "Yann LeCun Left Meta to Bet $1 Billion That the AI Industry Has It Wrong",
+      "hook": "The godfather of deep learning just raised the largest seed round in European startup history to prove that language models are a dead end.",
+      "body": "Yann LeCun, the Turing Award-winning AI researcher who spent 12 years building Meta's AI division, has raised $1.03 billion for his new startup AMI Labs — at a $4.5 billion valuation — just four months after founding it. The Paris-based company is betting against the dominant paradigm in AI: that scaling up large language models is the path to general intelligence.\n\nInstead, AMI is building what LeCun calls \"world models\" — AI systems that learn structured representations of how the physical world works, rather than statistical patterns over text. The core architecture, JEPA (Joint Embedding Predictive Architecture), was proposed by LeCun in 2022 and processes the world more like a mammal brain than a text predictor. AMI's first commercial partner is Nabla, a digital health startup.\n\nThe funding round was co-led by Cathay Innovation, Greycroft, and Bezos Expeditions, among others. It also represents the largest seed round ever for a European AI company. Whether or not LeCun is right about LLMs' limits, AMI has instantly become one of the most closely watched labs in the world — a high-stakes test of a rival theory of intelligence backed by one of the field's founding figures.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwdGVjaG5vbG9neXxlbnwwfHx8fDE3NzQzMzIyMzh8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "a glowing computer chip with the letter A representing artificial intelligence",
+        "credit": "Photo by Igor Omilaev on Unsplash",
+        "creditUrl": "https://unsplash.com/@omilaev?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "TechCrunch: AMI Labs raises $1.03B", "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/" },
+        { "title": "The Next Web analysis", "url": "https://thenextweb.com/news/yann-lecun-ami-labs-world-models-billion" },
+        { "title": "Latent Space breakdown", "url": "https://www.latent.space/p/ainews-yann-lecuns-ami-labs-launches" }
+      ],
+      "tags": ["AI", "Technology", "Startups", "Research"],
+      "readingTime": "2 min read",
+      "sources": ["TechCrunch", "The Next Web", "SiliconANGLE", "Crunchbase News"]
+    },
+    {
+      "id": "2026-03-24-007",
+      "headline": "'Forever Chemicals' May Be Weakening Teenagers' Bones for Life",
+      "hook": "Exposure to PFAS during a critical window of childhood could be quietly robbing kids of bone density they'll never fully recover.",
+      "body": "A new study published in the Journal of the Endocrine Society has found that children with higher blood levels of PFOA — one of the most common PFAS 'forever chemicals' — during their preteen years showed significantly lower bone density by age 12, particularly in girls. The research tracked 218 adolescents from birth through age 12, measuring PFAS concentrations at multiple points.\n\nWhat makes the timing finding particularly striking: early exposure at age 3 was actually associated with higher bone density at 12, while exposure closer to ages 8–12 showed the damaging effect. This suggests there's a critical developmental window during which PFAS disrupts bone mineralization processes in ways that earlier exposure doesn't.\n\nPFAS compounds are pervasive — found in non-stick cookware, food packaging, waterproof clothing, and drinking water in many regions. They don't break down naturally in the environment or the body, which is why they've earned the nickname 'forever chemicals.' Bone density established during adolescence is a major determinant of lifetime fracture risk and osteoporosis. Researchers say the findings underscore the urgency of PFAS remediation in drinking water, particularly near industrial sites.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1543785517-8462f3b8eaa1?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxjaGVtaWNhbCUyMHBvbGx1dGlvbiUyMHdhdGVyJTIwZW52aXJvbm1lbnR8ZW58MHx8fHwxNzc0MzMyMjM5fDA&ixlib=rb-4.1.0&w=800",
+        "alt": "abstract image of water pollution with chemical discoloration",
+        "credit": "Photo by Ivan Bandura on Unsplash",
+        "creditUrl": "https://unsplash.com/@unstable_affliction?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily study coverage", "url": "https://www.sciencedaily.com/releases/2026/03/260321004440.htm" },
+        { "title": "CNN Health article", "url": "https://www.cnn.com/2026/03/17/health/pfas-low-bone-density-kids-wellness" },
+        { "title": "UNC Gillings School of Public Health", "url": "https://sph.unc.edu/sph-news/new-study-finds-pfas-exposure-may-weaken-teens-bones/" }
+      ],
+      "tags": ["Health", "Environment", "PFAS", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Journal of the Endocrine Society", "CNN Health", "ScienceDaily", "USC Keck"]
+    },
+    {
+      "id": "2026-03-24-008",
+      "headline": "Hidden Chambers Found Inside Egypt's Menkaure Pyramid May Hold Royal Statues",
+      "hook": "Radar and ultrasound just revealed two secret voids inside one of Giza's most enigmatic pyramids — one may contain a hidden entrance.",
+      "body": "German and Egyptian archaeologists have discovered two air-filled voids hidden within and beneath the Menkaure pyramid at Giza, using a non-invasive combination of radar, electrical resistivity, and ultrasound scanning. The smaller of the two structures — located on the pyramid's east face — appears to conceal a secondary entrance that no one knew existed. Images from a remotely operated camera show a void extending inward, with no footprints or signs of prior human access.\n\nThe second void sits just east of the pyramid in a mortuary temple, and researchers believe it may contain religious statues — possibly representations of ancient Egyptian gods and the pharaoh Menkaure himself. The findings extend a wave of major discoveries at Giza that have used modern scanning technology to peer inside these monuments without disturbing them.\n\nMenkaure's pyramid is the smallest of the three Giza pyramids and has historically received less attention than Khufu's or Khafre's. This discovery could significantly reframe our understanding of it. Egyptian archaeologist Zahi Hawass has separately announced that a previously unknown structure inside the Great Pyramid of Khufu will be revealed to the public in 2026 — suggesting Egypt's most famous monuments still have surprises left.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1668466320383-3b8453f0fb6e?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxlZ3lwdCUyMHB5cmFtaWQlMjBhbmNpZW50fGVufDB8fHx8MTc3NDMzMjIzOXww&ixlib=rb-4.1.0&w=800",
+        "alt": "a large rock sculpture in the desert with the Great Sphinx of Giza in the background",
+        "credit": "Photo by M abnodey on Unsplash",
+        "creditUrl": "https://unsplash.com/@abnodey?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Art Net News: Voids in Menkaure Pyramid", "url": "https://news.artnet.com/art-world/air-filled-voids-menkaure-pyramid-giza-lost-entrance-2710970" },
+        { "title": "ScienceDaily: Archaeology news", "url": "https://www.sciencedaily.com/news/fossils_ruins/archaeology/" },
+        { "title": "Heritage Daily archaeology news", "url": "https://www.heritagedaily.com/category/archaeology-news" }
+      ],
+      "tags": ["Archaeology", "Egypt", "History", "Discovery"],
+      "readingTime": "2 min read",
+      "sources": ["Art Net News", "ScienceDaily", "Archaeology Magazine"]
+    },
+    {
+      "id": "2026-03-24-009",
+      "headline": "Our Neighboring Galaxy Was Punched Through by the Milky Way's Companion",
+      "hook": "The Small Magellanic Cloud's stars move in total chaos — and now astronomers know why: it took a direct hit from a larger galaxy.",
+      "body": "For decades, the Small Magellanic Cloud (SMC) puzzled astronomers. Its stars move in unexpectedly chaotic patterns, and its gas doesn't rotate the way it should for a galaxy of its type. A new study from the University of Arizona has finally solved the mystery: roughly 100 to 200 million years ago, the SMC didn't just pass near the Large Magellanic Cloud — it punched straight through it at about 200 km/s.\n\nThe impact, with an entry point roughly 6,500 light-years from the LMC's center, shattered the SMC's internal structure. The LMC's gravity disrupted stellar orbits, while the LMC's gas exerted enormous pressure on the SMC's own gas, completely destroying its rotation. Today, only stars near the SMC's core still show organized circular motion; the rest are streaming radially outward, carried by tidal forces from the ongoing gravitational relationship between the two clouds.\n\nResearcher Gurtina Besla described the SMC as going through a \"catastrophic crash that injected a lot of energy into the system,\" calling it \"not a normal galaxy by any means.\" This reframes decades of research using the SMC as a benchmark for understanding star formation — conclusions drawn assuming a stable galaxy may need revisiting.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1597366812780-bc0f837f6ca6?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxkd2FyZiUyMGdhbGF4eSUyMG5lYnVsYSUyMGFzdHJvbm9teXxlbnwwfHx8fDE3NzQzMzIyNDB8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "swirling purple and black galaxy illustration showing cosmic structure",
+        "credit": "Photo by Benjamin Kraus on Unsplash",
+        "creditUrl": "https://unsplash.com/@highnorth?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Galaxy shattered by cosmic crash", "url": "https://www.sciencedaily.com/releases/2026/03/260319044652.htm" },
+        { "title": "Scientific American article", "url": "https://www.scientificamerican.com/article/something-extremely-weird-is-happening-to-our-galactic-neighbor-scientists/" },
+        { "title": "AAS Nova research summary", "url": "https://aasnova.org/2026/03/16/disrupted-dwarf-galaxy-investigating-the-history-of-the-small-magellanic-cloud/" }
+      ],
+      "tags": ["Astronomy", "Space", "Galaxies", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Scientific American", "phys.org", "AAS Nova"]
+    },
+    {
+      "id": "2026-03-24-010",
+      "headline": "A Platinum Spike in Greenland Ice Was Blamed on a Comet. It Wasn't.",
+      "hook": "The 12,800-year-old mystery that fueled cosmic impact theories has a far more earthly explanation — and the timing kills the comet story entirely.",
+      "body": "For years, a mysterious spike of platinum buried in Greenland ice cores dating to 12,800 years ago seemed like a smoking gun for a catastrophic cosmic impact — perhaps a comet strike that triggered the Younger Dryas, a sudden return to glacial conditions that lasted 1,200 years. The evidence was tantalizing: platinum is rare on Earth but abundant in space rocks.\n\nNew research has now put that theory to rest. Scientists found two fatal problems with the impact hypothesis. First, the platinum-to-iridium ratio in the spike doesn't match space debris — space rocks typically carry both elements in roughly known proportions, but this signal had the wrong signature. Second, updated ice core dating shows the platinum spike appeared roughly 45 years after the Younger Dryas cooling began — too late to have caused it. When researchers matched the chemical fingerprint against geological samples, the closest match was volcanic gas condensate, likely from submarine volcanic activity.\n\nThis doesn't fully explain the Younger Dryas — other mechanisms like changes in ocean circulation remain in play. But it clears away one of the more dramatic theories and highlights how easy it is to misread geochemical signals in ancient ice. The Younger Dryas remains one of the most studied and contested events in paleoclimatology.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1573835541303-fb7832c2b959?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxncmVlbmxhbmQlMjBpY2UlMjBnbGFjaWVyfGVufDB8fHx8MTc3NDMzMjI0MHww&ixlib=rb-4.1.0&w=800",
+        "alt": "a snowy mountain range reflected in the still water of a glacial lake in Greenland",
+        "credit": "Photo by Visit Greenland on Unsplash",
+        "creditUrl": "https://unsplash.com/@visitgreenland?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: 12,800-year climate mystery solved", "url": "https://www.sciencedaily.com/releases/2026/03/260319044714.htm" },
+        { "title": "phys.org: Greenland ice mystery", "url": "https://phys.org/news/2026-02-ice-greenland-strangely-scientists.html" },
+        { "title": "Columbia Climate School: Greenland ice research", "url": "https://news.climate.columbia.edu/2026/01/30/greenland-ice-cap-vanished-just-7000-years-ago/" }
+      ],
+      "tags": ["Climate", "Archaeology", "Geology", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "phys.org", "Columbia Climate School"]
+    },
+    {
+      "id": "2026-03-24-011",
+      "headline": "Scientists Engineered Bacteria to Sneak Into Tumors and Release Cancer Drugs",
+      "hook": "An FDA-approved cancer drug, delivered by living bacteria that infiltrate the tumor itself — this is not science fiction.",
+      "body": "Researchers at Shandong University have engineered a strain of probiotic E. coli to act as a tumor-seeking drug factory. The modified bacteria — a widely used probiotic strain called Escherichia coli Nissle 1917 — were programmed to carry and release Romidepsin (FK228), an FDA-approved anticancer compound, directly inside tumors. In mouse models, the bacteria successfully accumulated within tumors and released the drug on-site, with results published in PLOS Biology.\n\nThe appeal of this approach is precision: conventional chemotherapy floods the body with toxic drugs. Bacteria that preferentially colonize tumors (a phenomenon first noticed in the 19th century and called the Coley effect) could deliver drugs where they're needed while sparing healthy tissue. Romidepsin was chosen because it's already approved, reducing the regulatory path to human trials.\n\nSignificant challenges remain. The bacteria need to be controlled so they don't spread beyond the tumor. The immune system may attack them before they do their work. And mouse results translate to humans with frustrating inconsistency. But this approach represents one of several converging strategies — alongside CAR-T cells, tumor-infiltrating lymphocytes, and neoantigen vaccines — pointing toward a future of highly targeted cancer therapy.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1747454250258-1ca7fdc21ae3?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxiYWN0ZXJpYSUyMGxhYm9yYXRvcnklMjBzY2llbmNlfGVufDB8fHx8MTc3NDMzMjI0NXww&ixlib=rb-4.1.0&w=800",
+        "alt": "a petri dish with bacteria cultures growing in a laboratory setting",
+        "credit": "Photo by Araf Ibne Alam on Unsplash",
+        "creditUrl": "https://unsplash.com/@5milliseconds?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Bacteria cancer killers", "url": "https://www.sciencedaily.com/releases/2026/03/260321004445.htm" },
+        { "title": "Medical Xpress: Engineered bacteria deliver cancer drug", "url": "https://medicalxpress.com/news/2026-03-bacteria-cancer-drug-tumors-mice.html" },
+        { "title": "PLOS Biology study", "url": "https://journals.plos.org/plosbiology/" }
+      ],
+      "tags": ["Medicine", "Cancer", "Biotechnology", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["PLOS Biology", "ScienceDaily", "Medical Xpress"]
+    },
+    {
+      "id": "2026-03-24-012",
+      "headline": "Ravens Don't Follow Wolves to Find Food — They Memorize the Map",
+      "hook": "Scientists spent years tracking ravens and wolves in Yellowstone and found the birds were doing something far smarter than anyone expected.",
+      "body": "The conventional wisdom about ravens was simple: they follow wolves, and wolves lead them to carcasses. But a study tracking 69 ravens, 20 wolves, and 11 cougars across Yellowstone National Park over two and a half years found almost no evidence of ravens actually shadowing wolves. In fact, researchers recorded only one clear instance of a raven following a wolf for more than a kilometer over the entire study period.\n\nPublished in Science, the research reveals that ravens instead maintain detailed spatial memory of areas where wolf kills historically occur. They fly directly to those locations — sometimes covering up to 155 kilometers in a single day — based on learned landscape knowledge, not on tracking the wolves themselves. Once in a kill zone, they may use short-range cues like wolf howls or behavior to confirm kills are happening.\n\nThis distinction matters because it reframes ravens as active, strategic agents rather than opportunistic followers. They're not just birds that got lucky near wolves — they're conducting something closer to predictive foraging, using memorized patterns to front-run predator activity. It also raises interesting questions about how that knowledge is transmitted across generations or learned by young ravens new to an area.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1682467612877-f9b5e55ff2af?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxyYXZlbiUyMGJpcmQlMjB3aWxkbGlmZXxlbnwwfHx8fDE3NzQzMzIyNDZ8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "a black raven perched on a rooftop against an overcast sky",
+        "credit": "Photo by Daniel Shapiro on Unsplash",
+        "creditUrl": "https://unsplash.com/@dshap?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Science journal study", "url": "https://www.science.org/doi/10.1126/science.adz9467" },
+        { "title": "University of Washington news", "url": "https://www.washington.edu/news/2026/03/12/instead-of-tracking-wolves-to-prey-ravens-remember-and-revisit-common-kill-sites/" },
+        { "title": "ScienceAlert summary", "url": "https://www.sciencealert.com/ravens-dont-just-follow-wolves-they-memorize-kill-sites-across-vast-distances" }
+      ],
+      "tags": ["Wildlife", "Ecology", "Animal Intelligence", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Science journal", "University of Washington", "ScienceAlert", "Max Planck Institute"]
+    },
+    {
+      "id": "2026-03-24-013",
+      "headline": "MIT Built a Microscope That Can See Electrons Dancing Inside Superconductors",
+      "hook": "A new type of light-based microscope just revealed quantum motions inside materials that no instrument could observe before.",
+      "body": "MIT physicists have built the world's first terahertz-frequency microscope capable of probing the quantum interior of superconductors at nanometer resolution. The instrument uses terahertz light — a range of frequencies between microwaves and infrared — which is uniquely suited to interacting with the energy scales relevant to superconductivity. Previous microscopes using other frequencies couldn't see the specific quantum motions researchers wanted to study.\n\nThe team used the microscope on BSCCO, a copper oxide material that superconducts at relatively high temperatures. They observed, for the first time, a \"superfluid\" mode in which paired superconducting electrons collectively jiggle back and forth at terahertz frequencies — a motion no prior instrument had ever detected. MIT Professor Nuh Gedik called it \"a new mode of superconducting electrons that nobody has ever seen before.\"\n\nRoom-temperature superconductors — materials that conduct electricity with zero resistance at ambient conditions — would be one of the most transformative discoveries in physics, enabling lossless power grids, ultra-efficient motors, and new computing architectures. Understanding how superconductivity works at the quantum level in high-temperature materials is the crucial first step, and this new microscope opens a window into dynamics that were previously invisible.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1608037222022-62649819f8aa?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxzY2llbmNlJTIwbGFib3JhdG9yeSUyMGV4cGVyaW1lbnR8ZW58MHx8fHwxNzc0MzMyNTQzfDA&ixlib=rb-4.1.0&w=800",
+        "alt": "students performing chemical experiments in a science laboratory",
+        "credit": "Photo by Trnava University on Unsplash",
+        "creditUrl": "https://unsplash.com/@trnavskauni?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "MIT News: Terahertz microscope", "url": "https://news.mit.edu/2026/terahertz-microscope-reveals-motion-superconducting-electrons-0204" },
+        { "title": "ScienceDaily: Hidden quantum jiggles", "url": "https://www.sciencedaily.com/releases/2026/03/260317064509.htm" },
+        { "title": "Interesting Engineering coverage", "url": "https://interestingengineering.com/innovation/mit-terahertz-microscope-quantum-motio" }
+      ],
+      "tags": ["Physics", "Technology", "Quantum", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["MIT News", "ScienceDaily", "phys.org", "TechSpot"]
+    },
+    {
+      "id": "2026-03-24-014",
+      "headline": "Tropical Peatlands Are Burning at the Highest Rate in 2,000 Years",
+      "hook": "For over a millennium, peatland fires were declining — then the 20th century reversed that trend in the span of a few decades.",
+      "body": "Tropical peatlands — vast underground carbon stores that took millennia to accumulate — are now burning at levels unprecedented in at least 2,000 years of recorded history. A study published in Global Change Biology reconstructed wildfire activity by analyzing charcoal preserved in peat deposits across Central and South America, Africa, Southeast Asia, and Australasia, finding a long natural decline in fire frequency over the past thousand years followed by an abrupt, dramatic surge beginning in the 20th century.\n\nThe spike is strongest in Southeast Asia and parts of Australasia, where peatlands have been extensively drained for palm oil plantations, timber, and agricultural expansion. Draining removes the water table that normally prevents peat from burning; in dry years, the exposed peat catches fire and can smolder underground for months, releasing enormous quantities of stored carbon.\n\nThe timing and geography point clearly at human land use as the driver. Peatlands store roughly twice as much carbon as all the world's forests combined, and when they burn, that carbon re-enters the atmosphere. The researchers from the University of Exeter note that the fires declined for over a thousand years under natural climate fluctuations — a baseline that makes the recent reversal all the more stark, and all the more preventable.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1602980068989-cb21869ab2c7?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHx3aWxkZmlyZSUyMGZvcmVzdCUyMGZpcmUlMjBzbW9rZXxlbnwwfHx8fDE3NzQzMzIyNDd8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "a road through a forest filled with wildfire smoke and hazy orange light",
+        "credit": "Photo by Malachi Brooks on Unsplash",
+        "creditUrl": "https://unsplash.com/@mebrooks01?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Peatland fires at 2000-year high", "url": "https://www.sciencedaily.com/releases/2026/03/260319005110.htm" },
+        { "title": "University of Exeter press release", "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/unprecedented-wildfires-in-tropical-peatlands-during-20th-century/" },
+        { "title": "Global Change Biology study", "url": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70717" }
+      ],
+      "tags": ["Climate", "Environment", "Ecology", "Nature"],
+      "readingTime": "2 min read",
+      "sources": ["Global Change Biology", "University of Exeter", "ScienceDaily", "SciTechDaily"]
+    },
+    {
+      "id": "2026-03-24-015",
+      "headline": "Scientists Made Levitating Time Crystals That Break Newton's Third Law",
+      "hook": "Tiny styrofoam beads floating in mid-air started oscillating on their own — and the reason violates one of physics' oldest rules.",
+      "body": "Physicists at NYU have created a new form of time crystal using acoustic levitation — suspending tiny styrofoam beads in mid-air using sound waves, then watching as the beads spontaneously began oscillating in a steady, repeating rhythm that no one was driving externally. Time crystals are phases of matter that exhibit repeating patterns in time rather than in space, and this new version is unlike previous iterations: it's visible to the naked eye and fits on a device about one foot tall.\n\nThe bizarre twist is that the beads interact with each other in an unbalanced, one-sided way, because their interactions are mediated by scattered sound waves rather than direct forces. Sound-mediated forces aren't bound by Newton's Third Law — which says every action has an equal and opposite reaction — allowing the particles to push without being equally pushed back. This asymmetry is what allows the spontaneous oscillation to emerge and persist, published in Physical Review Letters.\n\nTime crystals were first proposed theoretically in 2012 and confirmed experimentally in 2017, but those versions required ultra-cold quantum systems. Creating one at room temperature, at human scale, with something as ordinary as packing foam opens an entirely new experimental window. Potential applications span quantum computing, biological timing systems, and fundamental physics — though the researchers are quick to say the science of \"why\" is still being worked out.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1631649820645-a29e14daa638?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxzb3VuZCUyMHdhdmUlMjBwaHlzaWNzJTIwZXhwZXJpbWVudHxlbnwwfHx8fDE3NzQzMzIyNDd8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "a blurry abstract photo of blue lights glowing in the dark",
+        "credit": "Photo by Sandip Kalal on Unsplash",
+        "creditUrl": "https://unsplash.com/@atomsmasher?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Levitating time crystals", "url": "https://www.sciencedaily.com/releases/2026/03/260322020258.htm" },
+        { "title": "NYU press release", "url": "https://www.nyu.edu/about/news-publications/news/2026/march/scientists-discover-time-crystals-that-levitate0.html" },
+        { "title": "Interesting Engineering coverage", "url": "https://interestingengineering.com/science/us-time-crystal-sound-waves" },
+        { "title": "Gizmodo story", "url": "https://gizmodo.com/scientists-discover-time-crystals-you-can-hold-and-they-levitate-2000721148" }
+      ],
+      "tags": ["Physics", "Science", "Quantum", "Discovery"],
+      "readingTime": "2 min read",
+      "sources": ["Physical Review Letters", "NYU", "ScienceDaily", "SciTechDaily"]
+    }
+  ]
+}
