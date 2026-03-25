@@ -1,0 +1,295 @@
+{
+  "date": "2026-03-25",
+  "stories": [
+    {
+      "id": "2026-03-25-001",
+      "headline": "Climate Change Is Slowing Earth's Spin at a Rate Not Seen in 3.6 Million Years",
+      "hook": "As melting ice redistributes the planet's mass, human-driven warming is doing something unexpected — physically slowing down Earth itself.",
+      "body": "Rising sea levels caused by melting polar ice sheets are reshuffling the distribution of mass across our planet — and that, in turn, is slowing Earth's rotation. It's the same principle as a figure skater extending her arms to slow a spin: as ice held at the poles melts and water migrates toward the equator, Earth's moment of inertia increases and the planet rotates more slowly. A new study published in March 2026 finds the rate of this slowdown is unprecedented for at least 3.6 million years, adding approximately 1.33 milliseconds to each day per century.\n\nWhile that sounds trivially small, the compounding effect over time is significant. Researchers project that by the end of the 21st century, the climate-driven lengthening of each day could actually surpass the slowdown caused by the Moon's gravitational tidal forces — the dominant mechanism that has been gradually extending Earth's days for billions of years. Around 2 million years ago, during a period of comparable ice loss, the rate of change nearly matched today's — but never before in the geologic record have sea levels risen so quickly alongside it.\n\nThe practical implications are niche but real. GPS satellites, space navigation, and precision timekeeping systems all rely on accurate knowledge of Earth's rotation. More broadly, the finding is a vivid illustration of how climate change is not merely reshaping surface conditions — it is physically altering the fundamental mechanics of our planet. The next leap second adjustment might eventually need to account for the climate as much as the Moon.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1614732414444-096e5f1122d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHw0fHxlYXJ0aCtlYXJ0aCtyb3RhdGlvbnxlbnwwfHx8fDE3NzQ0MTUxMzl8MA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "blue planet Earth seen from space",
+        "credit": "Photo by SIMON LEE on Unsplash",
+        "creditUrl": "https://unsplash.com/@simonppt?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Human-driven climate change is slowing Earth's rotation (Live Science)", "url": "https://www.livescience.com/planet-earth/climate-change/human-driven-climate-change-is-slowing-earths-rotation-at-a-rate-not-seen-in-3-6-million-years" },
+        { "title": "Earth's Rotation Changing at Speed Not Seen in 3.6 Million Years (Newsweek)", "url": "https://www.newsweek.com/earth-rotation-changing-speed-not-seen-before-11684824" },
+        { "title": "Earth's days are getting longer at an unprecedented rate (Scientific American)", "url": "https://www.scientificamerican.com/article/earths-days-are-getting-longer-climate-change-is-to-blame/" }
+      ],
+      "tags": ["Climate", "Earth Science", "Physics"],
+      "readingTime": "2 min read",
+      "sources": ["Live Science", "Scientific American", "Euronews", "Phys.org"]
+    },
+    {
+      "id": "2026-03-25-002",
+      "headline": "Thousands of Sling Stones at Troy Suggest Homer's Iliad Describes a Real Siege",
+      "hook": "For thousands of years, the Trojan War was dismissed as myth — but fresh excavations at ancient Troy are telling a very different story.",
+      "body": "Fresh excavations at the legendary site of Troy in northwestern Turkey have uncovered what archaeologists are calling the most compelling physical evidence yet that Homer's Iliad was rooted in real events. Turkish archaeologists discovered thousands of 3,500-year-old sling stones concentrated just outside the ancient city's palace walls — exactly where you'd expect a barrage of projectiles to pile up during a prolonged military siege. Alongside them: arrowheads, signs of burning, and hastily buried human remains.\n\nThe combination of evidence paints a clear picture of organized, sustained military assault. Sling stones concentrated in a tight zone suggest disciplined attackers firing from a fixed position, not chaotic raiding. The burnt structures and emergency burials are consistent with the kind of catastrophic collapse that ancient chroniclers described. It's the physical signature of a city under siege — and then destroyed.\n\nArchaeologists have been excavating the site of Troy (known to scientists as Hisarlik) since 1870, when Heinrich Schliemann made his famous dig. The existence of a Bronze Age city there has long been accepted; what has been debated is whether it suffered the specific violent end Homer described. The new findings don't prove that Achilles, Hector, or the wooden horse existed — but they do suggest that around 1200 BCE, something catastrophically devastated Troy in a way that feels remarkably Iliadic.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1589458007796-ca8cc0c0a0d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwyfHxhbmNpZW50K3Ryb3krdHVya2V5fGVufDB8fHx8MTc3NDQxNTMyNnww&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "wooden Trojan horse statue at the ancient site of Troy in Turkey",
+        "credit": "Photo by Zeki Okur on Unsplash",
+        "creditUrl": "https://unsplash.com/@zekiokur?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Troy excavation findings (Archaeology Magazine)", "url": "https://archaeology.org/news/" },
+        { "title": "The biggest Egyptian tomb discovery since King Tut — and what it says about archaeology (The Conversation)", "url": "https://theconversation.com/its-the-biggest-egyptian-tomb-discovery-in-a-century-who-was-thutmose-ii-250432" }
+      ],
+      "tags": ["Archaeology", "Ancient History", "Troy"],
+      "readingTime": "2 min read",
+      "sources": ["Archaeology Magazine", "The Conversation", "ScienceDaily"]
+    },
+    {
+      "id": "2026-03-25-003",
+      "headline": "The James Webb Telescope Zoomed In on the \"Exposed Cranium\" Nebula — and Found It Even Stranger",
+      "hook": "A dying star has been slowly sculpting a cosmic structure that looks exactly like a human brain — and Webb just gave us our clearest look yet at what's inside.",
+      "body": "The James Webb Space Telescope has turned its extraordinary infrared vision toward one of the cosmos's more unsettling objects: the Exposed Cranium Nebula, a structure formed by a dying star that, in visible light, looks uncannily like a human brain floating in space. The new Webb images reveal that the nebula has intricate, layered gas structures that shift dramatically depending on their distance from the dying central star — creating an onion-like architecture that earlier telescopes were too limited to resolve.\n\nThe Exposed Cranium Nebula belongs to a class of structures called planetary nebulae — the luminous, expanding shells of gas expelled by dying stars in the Sun's weight class. The \"planetary\" name is a historical accident from early telescope observers who thought they resembled distant planets; in reality, these are stellar autopsies. The central star is shedding its outer layers unevenly, with the innermost regions still packed with hot ionized gas and the outer layers slowly cooling and recombining into neutral matter.\n\nWebb's infrared sensitivity allows it to peer through the layers of dust that obscure optical telescopes, revealing the hidden inner dynamics of how stellar death unfolds. The images offer a strange preview of what our own Sun will eventually look like from the outside — in about five billion years, when it expands into a red giant, sheds its outer layers, and leaves behind a glowing nebula where the solar system once was.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwzfHxzcGFjZStuZWJ1bGEramFtZXMrd2ViYnxlbnwwfHx8fDE3NzQ0MTU3MDZ8MA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "colorful nebula glowing in deep space",
+        "credit": "Photo by Steve Busch on Unsplash",
+        "creditUrl": "https://unsplash.com/@sdbusch77?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "James Webb reveals brain nebula details (Universe Today)", "url": "https://www.universetoday.com/" },
+        { "title": "Space & Time News (ScienceDaily)", "url": "https://www.sciencedaily.com/news/space_time/" }
+      ],
+      "tags": ["Space", "Astronomy", "James Webb Telescope"],
+      "readingTime": "2 min read",
+      "sources": ["Universe Today", "ScienceDaily", "Nature Astronomy"]
+    },
+    {
+      "id": "2026-03-25-004",
+      "headline": "Scientists Found the Molecule That Explains Why Exercise Protects Your Brain From Aging",
+      "hook": "A protein released by the liver during physical activity can actually repair the aging brain's blood vessels — and could lead to a drug that mimics exercise's effects.",
+      "body": "Scientists have long known that regular exercise dramatically reduces the risk of dementia, but pinning down exactly how the brain benefits has proven elusive. A team at the University of California, San Francisco has now identified a key piece of the puzzle: a liver protein called GPLD1 that is released into the bloodstream during physical exertion, travels to the brain, and repairs tiny leaks in the blood-brain barrier. That barrier is the critical filter that keeps inflammatory molecules, pathogens, and toxins out of neural tissue — and it becomes increasingly leaky with age.\n\nIn experiments with aging mice and mouse models of Alzheimer's disease, boosting GPLD1 levels improved both memory and learning. The protein appears to patch microscopic holes in the brain's blood vessel walls that accumulate with normal aging — holes that allow harmful inflammatory molecules to seep in and slowly damage neurons over time. This mechanism helps explain a long-puzzling observation: people who exercise regularly in middle age have significantly lower rates of dementia decades later, even when other health factors are controlled for.\n\nThe discovery opens a potential pharmaceutical shortcut. A drug that mimics GPLD1's protective effects could one day offer some of exercise's brain benefits to people who are too elderly, injured, or ill to exercise adequately. That's a potentially enormous population: roughly 10% of people over 65 are living with some form of dementia, a share that will grow as the global population ages. The UCSF team's work suggests the liver — not usually thought of as a brain-health organ — may be one of the keys to unlocking it.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxleGVyY2lzZStydW5uaW5nK2hlYWx0aCticmFpbnxlbnwwfHx8fDE3NzQ0MTU3Nzh8MA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "couple jogging together through a forest path",
+        "credit": "Photo by Vitaly Gariev on Unsplash",
+        "creditUrl": "https://unsplash.com/@silverkblack?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Liver protein from exercise improves brain health (ScienceDaily)", "url": "https://www.sciencedaily.com/news/mind_brain/neuroscience/" },
+        { "title": "News & Discoveries (Weill Institute for Neurosciences, UCSF)", "url": "https://weill.ucsf.edu/news" }
+      ],
+      "tags": ["Health", "Neuroscience", "Exercise", "Aging"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "UCSF Weill Institute for Neurosciences"]
+    },
+    {
+      "id": "2026-03-25-005",
+      "headline": "Ancient Life Perfectly Preserved in Andean Crystals Looks Like What Mars Might Have Had",
+      "hook": "High in the Chilean Andes, gypsum crystals are trapping thousands-of-years-old microbes alongside living ones — in conditions remarkably similar to ancient Mars.",
+      "body": "In one of the harshest corners of the Atacama Desert — high in the Chilean Andes, bathed in intense ultraviolet radiation, bone dry, and battered by thin atmosphere — scientists have found something extraordinary: crystals of gypsum that contain both fossilized and living microbial communities side by side. The ancient microbes, preserved within the crystal structure for thousands of years, sit adjacent to their modern descendants, creating a kind of natural museum of life in extreme environments across geological time.\n\nWhat makes the discovery particularly striking is its planetary relevance. The high-altitude Atacama shares key characteristics with ancient Mars: intense UV radiation, extremely low moisture, mineral-rich soil, and thin air. Crucially, gypsum — the mineral that's encapsulating these preserved microbes — has been detected on the Martian surface by multiple orbital missions, including NASA's Mars Reconnaissance Orbiter. The ability of microbes to survive in and fossilize inside gypsum is exactly the kind of evidence scientists needed to justify searching for similar biosignatures on the Red Planet.\n\nAstrobiologists are now treating the Andean site as a natural Mars analog — a place where they can refine techniques for detecting microbial fossils in gypsum and test instruments intended for future planetary missions. If life once existed on Mars during its wetter, warmer past billions of years ago, these crystalline time capsules suggest that the gypsum deposits spotted from orbit could be among the most promising places to look.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1534481016308-0cca6d638a91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHw0fHxDaGlsZWFuK0FuZGVzK2Rlc2VydHxlbnwwfHx8fDE3NzQ0MTU5NDN8MA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "arid brown Andes mountain desert landscape in Chile",
+        "credit": "Photo by Tom Winckels on Unsplash",
+        "creditUrl": "https://unsplash.com/@twinckels?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Ancient microbes in Andean gypsum crystals (ScienceDaily)", "url": "https://www.sciencedaily.com/news/plants_animals/new_species/" },
+        { "title": "A unique Martian mineral offers fresh clues (SETI Institute)", "url": "https://www.seti.org/news/a-unique-martian-mineral-offers-fresh-clues-about-planet-s-past/" }
+      ],
+      "tags": ["Astrobiology", "Mars", "Science", "Discovery"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Phys.org", "SETI Institute"]
+    },
+    {
+      "id": "2026-03-25-006",
+      "headline": "Bad Bunny's Grammy Win Broke a 68-Year Barrier — No Spanish-Language Album Had Ever Won Before",
+      "hook": "At the 68th Grammy Awards, a Puerto Rican reggaeton artist did something no musician had managed in the award's entire history.",
+      "body": "For 68 years, every single Album of the Year Grammy has gone to an English-language record. That streak ended in February 2026, when Bad Bunny took the stage at Crypto.com Arena in Los Angeles and accepted the award for Debí Tirar Más Fotos — a sprawling, genre-bending love letter to Puerto Rico that blended reggaeton, salsa, and rap with overtly political lyrics about the island's history of diaspora and displacement. It became the first Spanish-language album to win the Recording Academy's top prize.\n\nThe win was not just a symbolic milestone — it was a commercial one too. The album surged in streams and digital purchases immediately following the announcement, confirming what its sales numbers had already suggested: a global audience had been ready for this record long before the industry caught up. Bad Bunny had already spent three consecutive years as Spotify's most-streamed artist worldwide before the Grammy win. The award was, for many, the American music industry formally acknowledging something the rest of the world already knew.\n\nThe album's lyrics are specifically rooted in Puerto Rican identity — the title translates roughly to \"I Should Have Taken More Photos,\" a reflection on impermanence and the feeling of watching one's home change irreversibly. That the Academy chose it above English-language contenders signals something meaningful about how American institutions are starting to reckon with music that has long existed beyond their traditional frame of reference. Kendrick Lamar also made history that night, becoming the most decorated rapper in Grammy history with 27 total wins.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1767969457898-51d5e9cf81d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHw0fHxtdXNpYyUyMGNvbmNlcnQlMjBzdGFnZXxlbnwwfHx8fDE3NzQ0MTkzMDB8MA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "live band performing on a brightly lit concert stage",
+        "credit": "Photo by Araceli Magaña on Unsplash",
+        "creditUrl": "https://unsplash.com/@ace_of_09?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Bad Bunny wins Grammy for album of the year (NPR)", "url": "https://www.npr.org/2026/02/02/nx-s1-5693043/grammys-2026-bad-bunny-album-of-the-year" },
+        { "title": "Bad Bunny makes history with first all-Spanish-language album of the year (CBC)", "url": "https://www.cbc.ca/news/entertainment/livestory/grammy-awards-2026-9.7070119" },
+        { "title": "Grammy Awards 2026 (PBS NewsHour)", "url": "https://www.pbs.org/newshour/arts/bad-bunny-wins-album-of-the-year-at-the-2026-grammy-awards-making-history-for-a-spanish-language-album" }
+      ],
+      "tags": ["Music", "Culture", "History", "Grammy"],
+      "readingTime": "2 min read",
+      "sources": ["NPR", "CBC", "PBS NewsHour", "Rolling Stone"]
+    },
+    {
+      "id": "2026-03-25-007",
+      "headline": "Robots Can Finally Handle the Real World — AI Just Cracked a Decades-Old Problem in Robotics",
+      "hook": "Training robots in virtual simulations has always been cheaper than in reality — but what they learned never quite worked outside them. That fundamental limitation may now be over.",
+      "body": "For decades, the biggest obstacle in practical robotics hasn't been hardware — it's been software. Specifically, the so-called \"sim-to-real gap\": the frustrating phenomenon where a robot trained extensively in a perfect virtual simulation falls apart when it meets the actual physical world. Simulated physics is never perfectly accurate, surfaces have unexpected textures, and lighting confuses computer vision systems. ABB and NVIDIA announced in March 2026 that new \"physical AI\" models have effectively closed this gap for industrial robotics, enabling robots trained virtually to generalize robustly to reality.\n\nAt NVIDIA's GTC 2026 conference, CEO Jensen Huang described physical AI as models that don't just process data but genuinely understand the structure of the physical world — enabling robots to reason about how to grasp, orient, and manipulate objects they've never encountered before. The announcement arrived amid a broader surge: a Rivian spin-off raised $500 million to build AI-powered factory robots, and Uber struck a $1.25 billion deal for a potential fleet of 50,000 autonomous vehicles.\n\nThe World Economic Forum, reflecting on developments at Davos 2026, concluded that the robotics industry has crossed a fundamental threshold. The challenge is no longer making a robot move — it's making it think and act responsibly alongside humans. Analysts project the physical AI revolution could transform manufacturing, logistics, and construction within a decade, with factories shifting from programmed motion to genuine robotic intelligence that adapts in real time.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1637622276093-f7e16bf8b7d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxyb2JvdGljcytBSStodW1hbm9pZCtyb2JvdHxlbnwwfHx8fDE3NzQ0MTU0NTN8MA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "humanoid robot standing in a laboratory setting",
+        "credit": "Photo by Mathew Schwartz on Unsplash",
+        "creditUrl": "https://unsplash.com/@cadop?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NVIDIA releases new physical AI models (NVIDIA Newsroom)", "url": "https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots" },
+        { "title": "What are the next key advancements in robotics? (World Economic Forum)", "url": "https://www.weforum.org/stories/2026/03/advances-in-autonomous-robotics-what-comes-next/" }
+      ],
+      "tags": ["Technology", "AI", "Robotics"],
+      "readingTime": "2 min read",
+      "sources": ["NVIDIA Newsroom", "World Economic Forum", "Fortune", "Interesting Engineering"]
+    },
+    {
+      "id": "2026-03-25-008",
+      "headline": "Scientists Just Discovered the \"Death Switch\" Inside Alzheimer's Brains — and Turned It Off in Mice",
+      "hook": "A newly identified toxic protein pairing is quietly destroying brain cells in Alzheimer's patients — and for the first time, researchers have found a compound that can stop it.",
+      "body": "Researchers at Heidelberg University have identified what they're calling a \"death switch\" in the brain: a destructive interaction between two proteins — the NMDA receptor and the TRPM4 ion channel — that, when they lock together, trigger a cascade of neuronal destruction driving much of the damage in Alzheimer's disease. The pairing had been studied individually before, but the deadly synergy between them had not been identified. The study, published on March 23, 2026, describes both the mechanism and a new compound designed to break the proteins apart.\n\nIn mouse models of Alzheimer's, the experimental compound produced striking results. Animals treated with it showed significantly less brain cell damage, retained better learning and memory abilities, and had measurably lower levels of beta-amyloid — the sticky protein buildup long considered a hallmark of the disease. Crucially, the approach targets a downstream mechanism of cellular death, rather than focusing exclusively on clearing amyloid, which has been the strategy behind many high-profile and largely disappointing Alzheimer's drugs over the past two decades.\n\nThe significance is hard to overstate: Alzheimer's affects an estimated 55 million people worldwide, and no treatment has yet been shown to meaningfully slow the disease's progression in patients. Mouse model results don't always translate to humans, but the identification of a specific, targetable protein interaction — one that can be disrupted by a compound in living animals — represents exactly the kind of mechanistic clarity that drug developers need to move toward clinical trials.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1559757175-5700dde675bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwyfHxhbHpoZWltZXIrYnJhaW4rbmV1cm9zY2llbmNlfGVufDB8fHx8MTc3NDQxNTE5OXww&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "glowing pink brain illustration on dark background",
+        "credit": "Photo by Aakash Dhage on Unsplash",
+        "creditUrl": "https://unsplash.com/@aakashdhage?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Scientists discover Alzheimer's hidden \"death switch\" in the brain (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260323005526.htm" },
+        { "title": "Scientists Find Alzheimer's Death Switch in Brain (Mirage News)", "url": "https://www.miragenews.com/scientists-find-alzheimers-death-switch-in-brain-1642064/" }
+      ],
+      "tags": ["Health", "Neuroscience", "Alzheimer's", "Medicine"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Mirage News", "Newsreel", "European Journal of Neuroscience"]
+    },
+    {
+      "id": "2026-03-25-009",
+      "headline": "Malaria Parasites Hide Tiny Rocket Engines in Their Bodies — Scientists Finally Know Why",
+      "hook": "The malaria parasite has been harboring a bizarre secret for millions of years: microscopic iron crystals that spin nonstop, powered by the same chemistry that propels spacecraft.",
+      "body": "Scientists at the University of Utah have solved a decades-old mystery lurking inside one of history's most deadly parasites. The malaria-causing organism Plasmodium is packed with tiny crystals made from an iron-containing compound called heme — and for years, nobody knew why they spin continuously. The answer involves hydrogen peroxide and a propulsion mechanism that more closely resembles aerospace engineering than biology: the crystals are powered by the breakdown of hydrogen peroxide into water and oxygen, releasing energy that keeps them in perpetual motion.\n\nThis is the first known example of a self-propelled metallic nanoparticle in any living organism — a discovery that blurs the boundary between biology and chemistry in an unexpected way. The mechanism was confirmed directly in experiments: hydrogen peroxide alone caused isolated crystals to spin even outside the parasite. When parasites were grown in low-oxygen conditions, reducing hydrogen peroxide production, the crystals slowed to roughly half speed while the parasites themselves remained otherwise healthy.\n\nThe implications are significant for both medicine and nanotechnology. On the medical side, the spinning crystals may offer a new drug target: disrupt the propulsion mechanism and the parasite's internal machinery is compromised. On the nanotechnology side, understanding how biology evolved a hydrogen-peroxide-powered nanomotor could inspire new designs for microscale drug delivery vehicles or diagnostic devices. Malaria kills roughly half a million people per year — mostly children under five in sub-Saharan Africa — making any new insight into the parasite's machinery potentially lifesaving.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1576153192396-180ecef2a715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHx0ZXJhaGVydHorbWljcm9zY29wZStwYXJ0aWNsZStwaHlzaWNzfGVufDB8fHx8MTc3NDQxNTU1NXww&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "scientific laboratory with microscope and equipment",
+        "credit": "Photo by Ryan Kim on Unsplash",
+        "creditUrl": "https://unsplash.com/@smartjin?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Scientists discover tiny rocket engines inside malaria parasites (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260318033111.htm" },
+        { "title": "Malaria parasites are full of wildly spinning iron crystals (University of Utah)", "url": "https://attheu.utah.edu/science-technology/malaria-parasites-are-full-of-wildly-spinning-iron-crystals-scientists-finally-know-why/" }
+      ],
+      "tags": ["Biology", "Medicine", "Science", "Malaria"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "University of Utah Health", "EurekAlert", "SciTechDaily"]
+    },
+    {
+      "id": "2026-03-25-010",
+      "headline": "Scientists May Have Found a Brand-New Mineral on Mars — and It Could Rewrite the Planet's History",
+      "hook": "Orbital data and lab experiments have converged on an iron compound near Mars's greatest canyon that might not exist anywhere else in the solar system.",
+      "body": "Near Valles Marineris — the solar system's largest canyon, stretching across Mars like a scar one-fifth of the planet's circumference — scientists have identified something unexpected in the layered sulfate rock: a potential new mineral. Researchers led by Dr. Janice Bishop at the SETI Institute and NASA's Ames Research Center combined laboratory experiments with orbital spectral data to characterize an unusual iron compound called ferric hydroxysulfate. Their analysis, published in Nature Communications, suggests it may represent a previously undocumented mineral.\n\nThe mineral likely formed when ancient sulfate deposits — left behind by water billions of years ago — were later subjected to heat from volcanic or geothermal activity. When temperatures exceeded about 100°C and the material was exposed to oxygen, a chemical transformation produced the ferric hydroxysulfate signature now detected from orbit. The discovery was made in two specific locations: Aram Chaos, northeast of Valles Marineris, and the plateau above Juventae Chasma, a canyon roughly 5 kilometers deep.\n\nThe find matters for more than mineralogy. Each unique mineral on Mars is a chemical timestamp — evidence of specific temperature, pressure, and chemical conditions at a particular moment in the planet's history. If confirmed as new, this mineral suggests Mars experienced a phase of post-aqueous volcanic heating that hasn't been well-documented before. It adds another layer to the growing picture of Mars as a planet with a complex, layered geological history — not just a cold desert that always was, but a world that repeatedly transformed in ways we're still piecing together.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1635349429385-201ee3a51b88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHw0fHxNYXJzJTIwcmVkJTIwcGxhbmV0JTIwc3VyZmFjZSUyMGxhbmRzY2FwZXxlbnwwfHx8fDE3NzQ0MTkzMDV8MA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "sandy red planet surface landscape at night",
+        "credit": "Photo by Ezi on Unsplash",
+        "creditUrl": "https://unsplash.com/@artezio?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Scientists may have discovered a brand-new mineral on Mars (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260309225228.htm" },
+        { "title": "A unique Martian mineral offers fresh clues about planet's past (SETI Institute)", "url": "https://www.seti.org/news/a-unique-martian-mineral-offers-fresh-clues-about-planet-s-past/" }
+      ],
+      "tags": ["Mars", "Space", "Geology", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Nature Communications", "SETI Institute", "ZME Science"]
+    },
+    {
+      "id": "2026-03-25-011",
+      "headline": "Drone Footage Just Confirmed That Sperm Whales Really Do Ram Each Other With Their Heads",
+      "hook": "19th-century sailors swore they'd seen whales sink ships by headbutting them. Scientists just proved the behavior is real — though the reason remains mysterious.",
+      "body": "Researchers from the University of St Andrews have captured the first-ever video evidence of sperm whales headbutting each other — a behavior that whalers and sailors described in journals going back to the 18th and 19th centuries but that scientists had never directly documented. The footage, gathered using drones during fieldwork in the Azores and Balearic Islands between 2020 and 2022, shows sub-adult whales striking each other with their enormous, block-shaped heads. The study was published in Marine Mammal Science on March 23, 2026.\n\nCuriously, it's not the enormous adult males engaging in the behavior — those can reach 60 feet and weigh 50 tons — but rather younger, sub-adult animals. Researchers are now debating whether the headbutting represents play, practice for later competitive behavior, or some form of social bonding. The answer has implications for understanding the social dynamics of one of the ocean's most cognitively sophisticated animals: sperm whales are known to have complex family structures, distinct cultural dialects, and the largest brains of any animal that has ever lived on Earth.\n\nThe historical resonance of the footage is impossible to ignore. In 1820, the American whaleship Essex was sunk by a sperm whale that reportedly rammed it twice — the event that inspired Herman Melville's Moby-Dick. Similar incidents appeared in sailors' logs throughout the age of sail. For nearly two centuries, marine scientists noted those accounts but lacked direct evidence. Now, finally, the drone footage has put the old sailors' stories on firm scientific footing.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1563974628468-3680f5750af2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxzcGVybSUyMHdoYWxlJTIwb2NlYW4lMjB1bmRlcndhdGVyfGVufDB8fHx8MTc3NDQxOTMwNnww&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "two sperm whales swimming underwater",
+        "credit": "Photo by NOAA on Unsplash",
+        "creditUrl": "https://unsplash.com/@noaa?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Sperm whales caught headbutting each other on camera (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260323223929.htm" },
+        { "title": "First-of-its-kind video confirms sperm whales really do headbutt (Popular Science)", "url": "https://www.popsci.com/environment/sperm-whale-headbutt-video/" },
+        { "title": "Moby Dick 'ship sinking' sperm whales caught headbutting on camera (Phys.org)", "url": "https://phys.org/news/2026-03-moby-dick-ship-sperm-whales.html" }
+      ],
+      "tags": ["Wildlife", "Marine Biology", "Science", "Ocean"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Popular Science", "Phys.org", "Marine Mammal Science"]
+    },
+    {
+      "id": "2026-03-25-012",
+      "headline": "The Largest Cannabis Study Ever Finds It Doesn't Treat Anxiety, Depression, or PTSD",
+      "hook": "Millions of people use cannabis specifically for mental health — but the most comprehensive study ever conducted finds no evidence that it actually works for those conditions.",
+      "body": "A systematic review of 54 randomized controlled trials, spanning research from 1980 to 2025, has concluded that medicinal cannabis is not an effective treatment for anxiety, depression, or PTSD. The study, published in The Lancet and led by a team from the University of Sydney, is the largest analysis ever conducted into both the safety and effectiveness of cannabinoids across mental health conditions. The results are striking given that relief from anxiety and depression are among the most commonly cited reasons people seek out medical cannabis prescriptions.\n\nBeyond the lack of demonstrated benefit, the review raised concerns about potential harms. Researchers found evidence that cannabis use is associated with increased risk of psychotic symptoms, higher rates of cannabis use disorder (dependency), and — critically — delayed uptake of treatments that actually do work for depression and anxiety, such as cognitive behavioral therapy and certain antidepressant medications. The \"harm of delay\" concern is particularly significant: patients seeking relief from real conditions may be foregoing more effective options.\n\nThe study did identify a handful of areas where some evidence supports cautious use: cannabis use disorder itself, certain aspects of autism, insomnia, and tic disorders like Tourette's syndrome — though the supporting evidence in these cases was also described as not strong. With global medical cannabis markets now worth tens of billions of dollars annually, the findings are likely to reshape prescribing guidelines. The researchers emphasize this doesn't mean cannabis has no medical uses — only that its most popular mental health applications currently lack scientific support.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1761637755331-562c6529ace6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwzfHxtZW50YWwlMjBoZWFsdGglMjB0aGVyYXB5JTIwYnJhaW4lMjBtZWRpdGF0aW9ufGVufDB8fHx8MTc3NDQxOTMwN3ww&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "abstract red brain network illustration with human silhouette",
+        "credit": "Photo by Markus Kammermann on Unsplash",
+        "creditUrl": "https://unsplash.com/@makabera?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Huge study finds no evidence cannabis helps anxiety, depression, or PTSD (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260319044656.htm" },
+        { "title": "Medical cannabis isn't an effective treatment for mental health (Scientific American)", "url": "https://www.scientificamerican.com/article/medical-cannabis-isnt-an-effective-treatment-for-anxiety-depression-or-ptsd/" },
+        { "title": "Sparse evidence for cannabis to treat mental health conditions (NPR)", "url": "https://www.npr.org/2026/03/17/nx-s1-5750489/cannabis-research-mental-health" }
+      ],
+      "tags": ["Health", "Medicine", "Mental Health", "Research"],
+      "readingTime": "2 min read",
+      "sources": ["The Lancet", "Scientific American", "NPR", "University of Sydney"]
+    },
+    {
+      "id": "2026-03-25-013",
+      "headline": "Scientists Found a 23-Million-Year-Old \"Frost Rhino\" That Lived 1,000 km Above the Arctic Circle",
+      "hook": "A remarkably complete fossil from Canada's remote High Arctic reveals that rhinoceroses once roamed some of the world's coldest and most barren landscapes.",
+      "body": "Paleontologists from the Canadian Museum of Nature have identified a previously unknown species of rhinoceros from a fossil skeleton unearthed in ancient lakebed sediments on Devon Island in Nunavut — a remote territory located nearly 1,000 kilometers above the Arctic Circle. The species, named Epiaceratherium itjilik (where \"itjilik\" means \"frost\" in Inuktitut, a name chosen in consultation with Inuit Elder Jarloo Kiguktak), dates to approximately 23 million years ago and represents the northernmost rhinoceros species ever documented. The findings were published in Nature Ecology and Evolution.\n\nThe fossil is remarkably complete — roughly 75% of the skeleton was recovered, which is exceptional for remains this old. Unlike today's African and Sumatran rhinos, Epiaceratherium itjilik had no horn and was smaller and slimmer in build, resembling the Indian rhinoceros in overall proportions. The discovery was made at Haughton Crater, a large meteor impact site on Devon Island whose unusual sedimentary conditions have preserved fossils extraordinarily well. Analysis of the surrounding rock indicates that 23 million years ago, this High Arctic site was a forested, temperate environment — profoundly different from the frozen, almost lifeless tundra it is today.\n\nBeyond the headline, the discovery has significant implications for understanding prehistoric animal migration. Scientists previously believed that rhinoceroses crossed from Europe to North America earlier in geological time than this fossil suggests. The new evidence indicates that the High Arctic served as a viable migration corridor for large mammals for far longer than anyone had realized — a humbling reminder of how different this planet once was.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1724922509219-b7f3fe39216f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxmb3NzaWwlMjBib25lcyUyMHBhbGVvbnRvbG9neSUyMGRpbm9zYXVyJTIwZXhjYXZhdGlvbnxlbnwwfHx8fDE3NzQ0MTkzMDh8MA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "dinosaur skeleton fossil laying on display",
+        "credit": "Photo by Zachary on Unsplash",
+        "creditUrl": "https://unsplash.com/@wangzuokang?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Scientists found a rhino in the Arctic and it changes everything (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260324024245.htm" },
+        { "title": "Scientists Discover 'Frosty' Polar Rhino That Roamed the Canadian Arctic (Smithsonian Magazine)", "url": "https://www.smithsonianmag.com/smart-news/scientists-discover-frosty-polar-rhino-that-roamed-the-canadian-arctic-23-million-years-ago-180987595/" },
+        { "title": "New fossil rhino species lived 1,000 km north of Arctic Circle (CBC News)", "url": "https://www.cbc.ca/news/science/arctic-rhino-fossil-9.6956379" }
+      ],
+      "tags": ["Paleontology", "Science", "Discovery", "Arctic"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Smithsonian Magazine", "CBC News", "Nature Ecology and Evolution"]
+    },
+    {
+      "id": "2026-03-25-014",
+      "headline": "Scientists Have Catalogued Over 800 New Ocean Species — and They've Barely Started",
+      "hook": "A global marine survey is transforming what we know about life in the deep ocean, and the discovery rate is staggering.",
+      "body": "The Ocean Census, a global scientific initiative launched specifically to accelerate discovery of new marine species, has announced the identification of more than 800 species previously unknown to science. The finds span multiple ocean basins and depths, encompassing previously unrecorded bristle worms, crustaceans, mollusks, and corals. Marine biologists estimate that somewhere between 700,000 and 10 million species live in the oceans — and the vast majority have never been formally documented. Most of the planet's unexplored habitats are underwater.\n\nAmong the most significant individual finds: a new solitaire coral identified in the deep Pacific Clarion-Clipperton Zone — a vast expanse between Mexico and Hawaii that is also being targeted by deep-sea mining companies. Scientists working there over five years catalogued 788 species in total and assessed the ecological impact of proposed mining operations. The conflict between deep-sea mineral extraction and the preservation of undiscovered biodiversity is now one of the most urgent disputes in ocean policy.\n\nThe pace of discovery is accelerating thanks to remotely operated vehicles that can survey the deep ocean cheaply enough for sustained research campaigns. Yet researchers warn that we may be industrializing the deep ocean faster than we can document what lives there. Less than 25% of the global seafloor has been thoroughly mapped. Every year, mining permits expand into regions where science has never looked — regions that, based on what the Ocean Census has found so far, are almost certainly teeming with life we haven't yet named.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHx3b3JsZCtvY2Vhbitjb3JhbCtyZWVmK21hcmluZXxlbnwwfHx8fDE3NzQ0MTYwMzN8MA&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "close-up textured coral reef underwater",
+        "credit": "Photo by Simona Toma on Unsplash",
+        "creditUrl": "https://unsplash.com/@the_traveler_with_a_romantic_twist?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Over 800 New Marine Species Discovered (Ocean Census)", "url": "https://oceancensus.org/press-release-the-ocean-census-discovers-over-800-new-marine-species/" },
+        { "title": "Hundreds of new species found in a hidden world beneath the Pacific (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/02/260201231230.htm" }
+      ],
+      "tags": ["Ocean", "Biology", "Discovery", "Conservation"],
+      "readingTime": "2 min read",
+      "sources": ["Ocean Census", "ScienceDaily", "Popular Science", "Phys.org"]
+    },
+    {
+      "id": "2026-03-25-015",
+      "headline": "A New Mass-Producible Optical Chip Could Dramatically Speed Up AI Data Centers",
+      "hook": "Transmitting data through light instead of electricity is faster and more efficient — but optical components have always been expensive to make. A new chip changes that.",
+      "body": "Researchers at the Karlsruhe Institute of Technology and Switzerland's EPFL have developed a new electro-optical modulator that can transmit data efficiently through fiber-optic cables — and be manufactured inexpensively at scale on standard semiconductor wafers. That combination addresses one of the core bottlenecks in modern AI infrastructure: as data centers scale to support ever-larger AI models, the electrical connections between chips become energy-hungry, heat-generating choke points. Replacing those interconnects with optical connections could dramatically improve both speed and energy efficiency.\n\nThe device works by converting electrical signals into pulses of light at very high speeds, then transmitting them through fiber-optic cables that carry vastly more data than copper wires while generating far less heat. What sets this modulator apart from previous optical components is its manufacturability: existing photonic devices have been costly and difficult to produce in bulk. This team's design is compatible with standard semiconductor fabrication processes, meaning it could be adopted at scale without requiring entirely new factories or supply chains.\n\nThe timing is acutely relevant. AI data centers worldwide are consuming exponentially more power — a trend that shows no sign of slowing as AI models grow larger and training runs grow longer. NVIDIA CEO Jensen Huang noted at GTC 2026 that AI infrastructure urgently needs \"faster links,\" and this optical chip technology is precisely the kind of solution the industry needs. If it scales as promised, the efficiency gains could meaningfully reduce the environmental footprint of AI while simultaneously enabling the next generation of model training.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1680868543815-b8825e671f3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwzfHxOVklESUErR1BVK2RhdGErY2VudGVyfGVufDB8fHx8MTc3NDQxNTg1NXww&ixlib=rb-4.1.0&q=80&w=800",
+        "alt": "NVIDIA chip logo 3D render close-up",
+        "credit": "Photo by Mariia Shalabaieva on Unsplash",
+        "creditUrl": "https://unsplash.com/@maria_shalabaieva?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "AI data centers need faster links: A mass-producible optical microchip could help (TechXplore)", "url": "https://techxplore.com/news/2026-03-ai-centers-faster-links-mass.html" },
+        { "title": "From quantum computing to mRNA therapeutics: technologies to watch in 2026 (Nature)", "url": "https://www.nature.com/articles/d41586-026-00188-6" }
+      ],
+      "tags": ["Technology", "AI", "Physics", "Energy"],
+      "readingTime": "2 min read",
+      "sources": ["TechXplore", "Karlsruhe Institute of Technology", "EPFL", "Nature"]
+    }
+  ]
+}
