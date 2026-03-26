@@ -1,0 +1,304 @@
+{
+  "date": "2026-03-26",
+  "stories": [
+    {
+      "id": "2026-03-26-001",
+      "headline": "Jury Finds Meta and YouTube Liable in Landmark Social Media Addiction Trial",
+      "hook": "A California jury has ruled that Facebook's parent company and Google's video platform intentionally addicted a young woman and caused measurable harm to her mental health — and the verdict could reshape thousands of pending lawsuits.",
+      "body": "In a verdict that sent shockwaves through Silicon Valley, a Los Angeles jury found Meta and YouTube negligent on all counts in a landmark civil trial over social media addiction and mental health harm. The jury determined that both companies knowingly designed their platforms to be addictive, failed to warn users of those risks, and caused substantial harm to the plaintiff — a young woman who began using Instagram as a pre-teen. The jury awarded $3 million in damages, finding Meta 70% responsible and YouTube 30%, with additional punitive damages of $2.1 million against Meta and $900,000 against YouTube.\n\nInternal documents presented at trial proved damning. One Meta memo read: \"If we wanna win big with teens, we must bring them in as tweens.\" Another showed that 11-year-olds were four times as likely to keep returning to Instagram compared to competing apps — despite the platform's minimum age of 13. Attorneys argued these weren't bugs in the system but features: deliberate design choices to maximize engagement at the expense of young users' wellbeing.\n\nThe verdict, delivered March 25, is widely seen as a bellwether for the approximately 2,000 similar cases pending nationwide. Both Meta and YouTube announced plans to appeal. The ruling may also accelerate federal legislative efforts to regulate how platforms design products for minors, a debate that has stalled in Congress for years despite broad bipartisan concern.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1608706264699-58e7adf3b7c5?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYSUyMHBob25lJTIwYWRkaWN0aW9ufGVufDB8fHx8MTc3NDUwNDkyNnww&ixlib=rb-4.1.0&w=800",
+        "alt": "man in black jacket holding smartphone",
+        "credit": "Photo by Annie Spratt on Unsplash",
+        "creditUrl": "https://unsplash.com/@anniespratt?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Jury finds Meta and YouTube negligent in social media addiction trial (NPR)", "url": "https://www.npr.org/2026/03/25/nx-s1-5746125/meta-youtube-social-media-trial-verdict" },
+        { "title": "Meta and YouTube found liable on all charges (CBS News)", "url": "https://www.cbsnews.com/news/meta-youtube-social-media-addiction-lawsuit-verdict/" },
+        { "title": "Jury awards more than $6M in damages (Fox Business)", "url": "https://www.foxbusiness.com/technology/jury-meta-google-landmark-trial-social-media-addiction-trial-damages" }
+      ],
+      "tags": ["Tech", "Law", "Social Media", "Mental Health"],
+      "readingTime": "2 min read",
+      "sources": ["NPR", "CNN Business", "CNBC", "CBS News"]
+    },
+    {
+      "id": "2026-03-26-002",
+      "headline": "OpenAI Is Shutting Down Its Sora Video App — and Disney Is Walking Away Too",
+      "hook": "Just six months after its splashy launch, OpenAI's standalone AI video generator is being discontinued, with the company citing high compute costs — and Disney's $1 billion investment deal has collapsed along with it.",
+      "body": "OpenAI announced this week that it will shut down the Sora app, the standalone AI video-generation product it launched in late 2025 to considerable fanfare. The iOS app, the Sora.com website, and the API will all go dark, with the company citing a need to \"make trade-offs on products that have high compute costs\" while focusing resources on its core ChatGPT and enterprise products. The Sora 2 model will remain accessible within the ChatGPT subscription tier, but the dedicated app experience is ending.\n\nThe shutdown carried an immediate and expensive consequence: Disney announced it would no longer proceed with a previously agreed $1 billion investment in OpenAI, an arrangement that had been tied to access to Sora for content production. The collapse of that deal highlights the fragile nature of Hollywood's early enthusiasm for AI filmmaking tools — enthusiasm that was already being tempered by union concerns, consent issues, and disappointing creative results.\n\nOpenAI's decision reflects a broader pivot in the AI industry. After years of splashy consumer product launches, the company is tightening focus on agentic AI, enterprise software, and the compute-intensive reasoning models that have proven most commercially valuable. The Sora shutdown also comes as deepfake concerns escalated around the platform — CBC News reported the closure was partly driven by rising worries about non-consensual synthetic media. The era of AI as a toy may be giving way to AI as infrastructure.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1767955063920-afa336498158?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxBSSUyMHJvYm90JTIwY29tcHV0ZXIlMjB0ZWNobm9sb2d5fGVufDB8fHx8MTc3NDUwNDk3NHww&ixlib=rb-4.1.0&w=800",
+        "alt": "an orange robot with a screen for a face",
+        "credit": "Photo by Enchanted Tools on Unsplash",
+        "creditUrl": "https://unsplash.com/@enchantedtools?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "OpenAI shutting down Sora video app (NBC News)", "url": "https://www.nbcnews.com/tech/tech-news/openai-shuttering-sora-video-generating-service-rcna264989" },
+        { "title": "OpenAI is shutting down its Sora video app just months after launch (CNN Business)", "url": "https://www.cnn.com/2026/03/24/tech/openai-sora-video-app-shutting-down" },
+        { "title": "The Sora-Disney Collapse: What Does It Mean? (Hollywood Reporter)", "url": "https://www.hollywoodreporter.com/business/digital/sora-disney-openai-deal-collapse-1236546434/" }
+      ],
+      "tags": ["AI", "OpenAI", "Tech", "Entertainment"],
+      "readingTime": "2 min read",
+      "sources": ["NBC News", "CNN Business", "Hollywood Reporter", "Axios"]
+    },
+    {
+      "id": "2026-03-26-003",
+      "headline": "Hubble Rephotographed the Crab Nebula After 25 Years — and Caught It Actively Expanding",
+      "hook": "By comparing images taken a quarter-century apart, astronomers have captured something extraordinary: a supernova remnant visibly growing before our eyes at five and a half million kilometers per hour.",
+      "body": "NASA's Hubble Space Telescope revisited one of astronomy's most iconic subjects — the Crab Nebula — taking new images that can be directly compared to the first Hubble portrait taken 25 years ago. The results are stunning and scientifically invaluable: the cloud of gas and debris left by a supernova explosion observed by Chinese and Arab astronomers in 1054 CE is visibly larger than it was in 1999. Filaments around the outer rim of the nebula have moved outward at a measured pace of approximately 5.5 million kilometres per hour.\n\nHubble's combination of resolution and longevity makes it uniquely suited for this kind of time-lapse astronomy. No other telescope has the decades-long track record and image quality needed to document the evolution of objects on human timescales. The new images reveal extraordinary details about the nebula's filamentary structure — intricate threads of gas that glow in different colors depending on their composition and temperature — and show that the filaments appear to have simply translated outward rather than stretching or distorting over time.\n\nThe Crab Nebula is powered by a pulsar at its center: a rapidly spinning, highly magnetized neutron star left behind by the original stellar explosion. This pulsar wind nebula continuously pumps energy into the surrounding gas via synchrotron radiation, and tracking how that energy moves through the cloud helps physicists test models of extreme physics. The side-by-side images released this week offer a visceral sense of the cosmos in motion — and a reminder that the universe doesn't hold still for us.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1766329710745-21f110fa2d62?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxzcGFjZSUyMG5lYnVsYSUyMGNvbG9yZnVsJTIwZXhwbG9zaW9ufGVufDB8fHx8MTc3NDUwNDk3OHww&ixlib=rb-4.1.0&w=800",
+        "alt": "cosmic nebula with stars in deep space",
+        "credit": "Photo by Steve Busch on Unsplash",
+        "creditUrl": "https://unsplash.com/@sdbusch77?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Hubble revisits Crab Nebula to track 25 years of expansion (ESA/Hubble)", "url": "https://esahubble.org/news/heic2607/" },
+        { "title": "NASA's Hubble Revisits Crab Nebula (NASA Science)", "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-revisits-crab-nebula-to-track-25-years-of-expansion/" },
+        { "title": "Space photo of the day: Hubble revisits Crab Nebula (Space.com)", "url": "https://www.space.com/astronomy/hubble-revisits-a-cosmic-crab-after-25-years-space-photo-of-the-day-for-march-23-2026" }
+      ],
+      "tags": ["Space", "Astronomy", "Hubble"],
+      "readingTime": "2 min read",
+      "sources": ["ESA/Hubble", "NASA Science", "Space Telescope Science Institute"]
+    },
+    {
+      "id": "2026-03-26-004",
+      "headline": "Tropical Peatlands Are Burning at a Rate Not Seen in 2,000 Years",
+      "hook": "A sweeping new study has found that some of Earth's most carbon-dense ecosystems — tropical peatlands — are now burning more intensely than at any point in recorded environmental history, reversing a millennium-long trend of natural fire decline.",
+      "body": "Scientists analyzed 58 charcoal records preserved in tropical peat deposits across Southeast Asia, Australasia, and South America, building a 2,000-year timeline of fire activity in these unique ecosystems. The findings, published in Global Change Biology, reveal a striking pattern: fire in tropical peatlands had actually been declining for over a thousand years, modulated by natural climate cycles. Then the 20th century arrived — and the trend reversed sharply and dramatically.\n\nTropical peatlands are among the most carbon-dense ecosystems on Earth, storing more carbon than all of the world's forests combined despite covering only about 3% of the land surface. That carbon has been accumulating for thousands of years as plant material decompressed and waterlogged soil prevented decomposition. When these peatlands burn — which happens more frequently now as drainage for palm oil and other agriculture lowers the water table — they release massive amounts of carbon dioxide and methane that took millennia to sequester.\n\nThe primary driver of the unprecedented burning is human land use: draining peatlands for agriculture desiccates the soil and makes it combustible. Climate change amplifies the problem by intensifying droughts, particularly El Niño events that regularly scorch the region. Indonesia, home to the world's largest tropical peat deposits, has experienced some of the worst fires, with smoke from burning peat periodically smothering millions of people across Southeast Asia. The researchers warn that without urgent protection of remaining intact peatlands, this trend will only worsen.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1602980068989-cb21869ab2c7?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxmb3Jlc3QlMjBmaXJlJTIwd2lsZGZpcmUlMjBzbW9rZXxlbnwwfHx8fDE3NzQ1MDQ5ODJ8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "black car on road near green trees during daytime with wildfire smoke",
+        "credit": "Photo by Malachi Brooks on Unsplash",
+        "creditUrl": "https://unsplash.com/@mebrooks01?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Wildfires in carbon-rich tropical peatlands hit 2000-year high (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260319005110.htm" },
+        { "title": "Unprecedented burning in tropical peatlands (Global Change Biology)", "url": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70717" },
+        { "title": "Tropical Peatlands Are Burning Like Never Before in 2000 Years (SciTechDaily)", "url": "https://scitechdaily.com/tropical-peatlands-are-burning-like-never-before-in-2000-years/" }
+      ],
+      "tags": ["Climate", "Environment", "Wildfires"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Global Change Biology", "SciTechDaily"]
+    },
+    {
+      "id": "2026-03-26-005",
+      "headline": "Scientists Just Found 24 New Deep-Sea Species — Including a Completely New Branch of Life",
+      "hook": "From the abyssal depths of the Pacific, researchers have described two dozen never-before-seen amphipod crustaceans, including an entirely new family and superfamily that represents a fresh twig on the evolutionary tree of life.",
+      "body": "A team of 16 scientists gathered for a taxonomy workshop and emerged with a remarkable haul: 24 new species of amphipods — small crustaceans that roam the deep ocean floor — from the Clarion-Clipperton Zone (CCZ) in the central Pacific. Published in an open-access ZooKeys special issue, the discovery includes not just new species but new genera, a new family (Mirabestiidae), and even a new superfamily (Mirabestioidea) — a rare and significant event that represents an entirely new branch of the evolutionary tree.\n\nThe Clarion-Clipperton Zone spans six million square kilometres between Hawaii and Mexico and sits at depths of 4,000 to 5,500 meters. It's one of the least-explored ecosystems on the planet — and also one of the most coveted for deep-sea mining, as it contains vast deposits of polymetallic nodules rich in cobalt, manganese, and rare earth elements. The timing of these discoveries makes them particularly urgent: the mining industry is ramping up activity in this zone, and scientists warn that species may go extinct before they're even described.\n\nThe new amphipods include both predators and scavengers, filling different ecological niches in the seafloor food web. Several species represent the deepest recorded occurrences of their genera, and molecular barcodes were obtained for many of them for the first time, providing a reference library for future monitoring. The researchers emphasized that each new species from such a region represents years of taxonomic work and highlights how much of Earth's deep-sea biodiversity remains entirely unknown.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1613213322190-b9eb59313eec?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHx1bmRlcndhdGVyJTIwb2NlYW4lMjBkZWVwfGVufDB8fHx8MTc3NDUwNDk4OXww&ixlib=rb-4.1.0&w=800",
+        "alt": "man in water with blue and white lights underwater",
+        "credit": "Photo by Alexandros Giannakakis on Unsplash",
+        "creditUrl": "https://unsplash.com/@alegi__?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "24 new deep-sea species found including a rare new branch of life (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260325005912.htm" },
+        { "title": "New branch of evolution discovered in Pacific's contested deep-sea (Oceanographic)", "url": "https://oceanographicmagazine.com/news/new-branch-of-evolution-discovered-in-pacifics-contested-deep-sea/" },
+        { "title": "Biodiversity Boost: 24 new deep-sea species discovered (EurekAlert)", "url": "https://www.eurekalert.org/news-releases/1121105" }
+      ],
+      "tags": ["Science", "Ocean", "Biodiversity", "Evolution"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "ZooKeys", "EurekAlert", "Oceanographic Magazine"]
+    },
+    {
+      "id": "2026-03-26-006",
+      "headline": "Our Neighboring Galaxy Was Ripped Apart by a Cosmic Collision — and It's Still Happening",
+      "hook": "Astronomers have finally solved why the Small Magellanic Cloud behaves so strangely: it was smashed by its larger companion the Large Magellanic Cloud 100 million years ago, and the chaotic aftermath we observe today is the slow-motion wreckage of that galactic collision.",
+      "body": "The Small Magellanic Cloud (SMC) has puzzled astronomers for decades. The dwarf galaxy — visible to the naked eye from the Southern Hemisphere as a fuzzy patch of light — has always appeared structurally odd, with stars moving in chaotic, misaligned patterns and gas behaving as though it's doing something it shouldn't. A new study from the University of Arizona, published in March 2026, finally provides a convincing explanation: the SMC was hit by its larger neighbor, the Large Magellanic Cloud, approximately 100 million years ago.\n\nUsing sophisticated hydrodynamical simulations that trace the intertwined orbital histories of the SMC, the LMC, and the Milky Way, researchers found that a direct collision between the two Magellanic Clouds fits the observational data remarkably well. The impact disrupted the SMC's internal structure, sent its stars into disarray, and even created an illusion — what appeared to be the gas rotating in an orderly fashion is actually the lingering signature of the violent collision. The galaxy isn't rotating; it's still in the process of recovering from being hit.\n\nThe finding reframes the SMC as a textbook case not of a normal dwarf galaxy, but of a disrupted one. A separate 2025 study found that the LMC itself bears scars from the collision: its central bar-shaped structure is tilted out of the plane of the galaxy, exactly as you'd expect from a major impact. Together, the two galaxies offer astronomers a rare opportunity to watch the aftermath of a galactic collision in real time, at our cosmic doorstep.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1565966820782-93fa4f50f598?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxnYWxheHklMjBzdGFycyUyMGNvc21vcyUyMG1pbGt5JTIwd2F5fGVufDB8fHx8MTc3NDUwNDk5M3ww&ixlib=rb-4.1.0&w=800",
+        "alt": "white stars during nighttime milky way",
+        "credit": "Photo by Rémy Penet on Unsplash",
+        "creditUrl": "https://unsplash.com/@remypnt?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Astronomers discover nearby galaxy was shattered by cosmic crash (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260319044652.htm" },
+        { "title": "Why the Small Magellanic Cloud is behaving so strangely (Knowridge)", "url": "https://knowridge.com/2026/03/why-the-small-magellanic-cloud-is-behaving-so-strangely/" },
+        { "title": "Something extremely weird is happening to our galactic neighbor (Scientific American)", "url": "https://www.scientificamerican.com/article/something-extremely-weird-is-happening-to-our-galactic-neighbor-scientists/" }
+      ],
+      "tags": ["Space", "Astronomy", "Galaxies"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Scientific American", "AAS Nova"]
+    },
+    {
+      "id": "2026-03-26-007",
+      "headline": "Hummingbirds and Bees Are Drinking Alcohol All Day Long — and They Know Their Limits",
+      "hook": "In the first large-scale survey of alcohol in floral nectar, scientists discovered that most flowers contain small amounts of ethanol — meaning pollinators like hummingbirds are essentially having a drink with every meal.",
+      "body": "Researchers at the University of California, Berkeley have published a surprising finding: flower nectar, the food source for hummingbirds, bees, and countless other pollinators, naturally contains small amounts of alcohol. In the first systematic survey of ethanol in floral nectar, biologists detected alcohol in samples from 26 out of 29 plant species tested. The ethanol is produced naturally by yeast that ferments the sugars in nectar — the same basic process used to make beer and wine, just at much lower concentrations.\n\nFor hummingbirds, the implications are particularly striking. These birds consume between 50% and 150% of their body weight in nectar each day to fuel their extraordinary metabolism. Based on measured ethanol levels and consumption rates, an Anna's hummingbird — a species common along the Pacific coast — ingests roughly the equivalent of one human alcoholic drink per kilogram of body weight daily. That's comparable to a person having a glass of wine with every meal, all day long. Interestingly, feather samples from these birds contain ethyl glucuronide, a metabolic byproduct of ethanol processing, confirming they're not just drinking the alcohol but actively metabolizing it.\n\nDespite this constant low-level alcohol intake, neither hummingbirds nor bees appear to get drunk — at least not in any observable behavioral sense. Earlier experiments showed hummingbirds will freely drink nectar containing up to 1% alcohol, but begin avoiding it when concentrations rise above that threshold, suggesting they have an evolved tolerance tuned to the natural concentrations they encounter. The discovery raises intriguing questions about how this ethanol relationship may have evolved between flowers and their pollinators over millions of years.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1666149981811-c1af58cacdd8?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxodW1taW5nYmlyZCUyMGZsb3dlciUyMG5lY3RhcnxlbnwwfHx8fDE3NzQ1MDQ5NjJ8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "a hummingbird flying over a flower",
+        "credit": "Photo by Richard Sagredo on Unsplash",
+        "creditUrl": "https://unsplash.com/@sagredophotography?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Scientists just discovered bees and hummingbirds are drinking alcohol (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260325005908.htm" },
+        { "title": "Birds do it, bees do it — sip alcohol, that is (Berkeley News)", "url": "https://news.berkeley.edu/2026/03/25/birds-do-it-bees-do-it-sip-alcohol-that-is/" },
+        { "title": "Alcohol-loving hummingbirds drink and fly (Discover Wildlife)", "url": "https://www.discoverwildlife.com/news/alcohol-loving-hummingbirds-drink-and-fly-but-a-new-study-shows-they-know-their-limits" }
+      ],
+      "tags": ["Nature", "Biology", "Wildlife"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Berkeley News", "EurekAlert", "Discover Wildlife"]
+    },
+    {
+      "id": "2026-03-26-008",
+      "headline": "A 12,800-Year-Old Climate Mystery Has Been Solved — No Comet Required",
+      "hook": "For years, scientists debated whether a comet or asteroid triggered the Younger Dryas cold snap 12,800 years ago — a platinum spike buried in Greenland ice seemed to be the smoking gun. New research has a far less dramatic but more compelling answer.",
+      "body": "At the end of the last Ice Age, something caused Earth's climate to abruptly plunge back into glacial conditions for over a thousand years — a period geologists call the Younger Dryas. Since the 2000s, a hypothesis has held that the trigger was an extraterrestrial impact: a comet or asteroid that slammed into Earth and kicked up enough debris to cool the planet. A tantalizing clue was a mysterious spike of platinum embedded in Greenland ice cores, an element associated with space rocks.\n\nNew research published in March 2026 has solved the platinum mystery — and the answer isn't a comet. Scientists re-examined the timing of the platinum spike using updated ice core dating techniques and found a critical detail that had previously been overlooked: the platinum enrichment occurred approximately 45 years after the Younger Dryas began, not before or simultaneous with it. That timing makes it impossible for the platinum to have caused the cooling — it arrived too late. The spike also persisted for about 14 years, suggesting a prolonged process rather than a single explosive event.\n\nWhen researchers analyzed the chemistry of the ice, the closest match wasn't meteoritic material but volcanic gas condensates, particularly those associated with underwater volcanic activity. This points to a sustained volcanic episode as the most likely explanation for the anomalous platinum. The Younger Dryas itself remains best explained by the disruption of ocean circulation patterns as glacial meltwater flooded into the North Atlantic. The comet hypothesis, though compelling and widely covered in popular science media, appears to be a false trail — dramatic but not supported by the evidence.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1573835541303-fb7832c2b959?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxHcmVlbmxhbmQlMjBpY2UlMjBnbGFjaWVyfGVufDB8fHx8MTc3NDUwNDk5Nnww&ixlib=rb-4.1.0&w=800",
+        "alt": "mountain covered with snow near lake in southeast Greenland glacier",
+        "credit": "Photo by Visit Greenland on Unsplash",
+        "creditUrl": "https://unsplash.com/@visitgreenland?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Scientists solve 12,800-year-old climate mystery hidden in Greenland ice (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260319044714.htm" },
+        { "title": "Live Science — March 2026 Archive", "url": "https://www.livescience.com/news/archive/2026/03" }
+      ],
+      "tags": ["Climate", "Earth Science", "Geology", "Archaeology"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Live Science", "Phys.org"]
+    },
+    {
+      "id": "2026-03-26-009",
+      "headline": "Russia Fires Nearly 400 Drones at Ukraine in What Analysts Call the Start of Its Spring Offensive",
+      "hook": "In its largest aerial barrage in weeks, Russia launched nearly 400 Shahed drones at Ukrainian cities overnight, hitting maternity hospitals, apartment blocks, and civilian infrastructure — as military analysts say the anticipated spring ground offensive has begun.",
+      "body": "Ukraine's air force reported that Russia launched nearly 400 long-range drones in a single overnight attack that continued into the following day, targeting at least seven cities including the capital Kyiv. The attack also included 23 cruise missiles and 7 ballistic missiles, killing at least 6 people and injuring 46. In the western city of Lviv, drones struck an apartment block; in the central city of Ivano-Frankivsk, they damaged maternity hospitals and roughly 10 residential buildings. NATO scrambled jets in response to what officials described as a significant escalation.\n\nThe Institute for the Study of War, a Washington-based think tank that tracks the conflict, stated that Russia's spring-summer offensive is now underway. The assessment was based not only on the intensified aerial bombardment — which has been escalating since mid-March — but on observed movement of heavy equipment and reinforced troop concentrations along multiple front-line sectors. Ukrainian forces have been bracing for the expected push since winter, using the intervening months to fortify positions.\n\nThe offensive unfolds against a complex geopolitical backdrop. Cease-fire negotiations remain stalled, with significant disagreements over territorial control and security guarantees. Meanwhile, elsewhere in the region, Hungary returned two armored vehicles to Ukraine that had been seized as part of a money-laundering investigation, while retaining approximately $82 million in cash and gold — a reminder of the murky financial flows that continue to complicate European solidarity with Kyiv.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1607867992871-34951585c280?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxtaWxpdGFyeSUyMGRyb25lJTIwd2FyJTIwYWVyaWFsfGVufDB8fHx8MTc3NDUwNDk5OXww&ixlib=rb-4.1.0&w=800",
+        "alt": "white and blue airplane in mid air",
+        "credit": "Photo by Ahmed Fahmi on Unsplash",
+        "creditUrl": "https://unsplash.com/@keerthi1011?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Russia fires 400 drones at Ukraine, signaling its spring offensive has started (PBS News)", "url": "https://www.pbs.org/newshour/world/russia-fires-400-drones-at-ukraine-signaling-its-spring-offensive-has-started" },
+        { "title": "Russia fires nearly 400 drones at Ukraine (Washington Post)", "url": "https://www.washingtonpost.com/world/2026/03/24/russia-ukraine-war-offensive-civilian-attacks/c51612de-276e-11f1-a0f2-3ba4c9fe08ac_story.html" },
+        { "title": "NATO scrambles jets as Russia fires nearly 400 drones (Fox News)", "url": "https://www.foxnews.com/world/nato-scrambles-jets-russia-fires-nearly-400-drones-toward-ukraine-signaling-new-spring-offensive" }
+      ],
+      "tags": ["World News", "Ukraine", "War", "Russia"],
+      "readingTime": "2 min read",
+      "sources": ["PBS News", "Washington Post", "ABC News", "Military.com"]
+    },
+    {
+      "id": "2026-03-26-010",
+      "headline": "Iran Enters Unprecedented Uncertainty After the Death of Supreme Leader Khamenei",
+      "hook": "The death of Ayatollah Ali Khamenei following a reported Israeli-American strike has triggered a geopolitical earthquake across the Middle East, with Iran launching missiles toward Cyprus even as parts of the country erupted in celebration.",
+      "body": "Iran's supreme leader Ayatollah Ali Khamenei has died following what Iranian state media confirmed was an attack by Israel and the United States, with forty days of official mourning declared across the Islamic Republic. The event represents one of the most dramatic geopolitical developments in decades — Khamenei had ruled Iran for over 30 years, providing ideological continuity to the Islamic Revolution of 1979, and his death opens a power struggle in a nuclear-threshold state with deep regional influence.\n\nThe immediate aftermath was chaotic and revealing. In some Iranian cities, grief-stricken mourners filled the streets in traditional lamentation. In others — notably Galleh Dar and Dehloran — crowds toppled monuments to Khomeini, the founder of the Islamic Republic, in scenes that suggested long-suppressed opposition to clerical rule was surfacing. Iran's military responded to the crisis by launching two ballistic missiles toward Cyprus, near British military bases on the island — both were intercepted before reaching their targets.\n\nThe succession question now looms over everything. Iran's constitution provides a mechanism for leadership transition through the Assembly of Experts, but no figure commands the religious authority or political coalition that Khamenei built over decades. The hardline faction, the reformists, and the Revolutionary Guards all have different visions for what comes next. Meanwhile, nuclear talks that had been quietly progressing and the broader regional order — already under enormous strain — face a period of deep and potentially dangerous uncertainty.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1770162151101-6426c93d2086?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxJcmFuJTIwcHJvdGVzdCUyMG1pZGRsZSUyMGVhc3QlMjBjcm93ZHxlbnwwfHx8fDE3NzQ1MDUwMDJ8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "people sitting on a carpeted floor inside a building in Iran",
+        "credit": "Photo by atiyeh fathi on Unsplash",
+        "creditUrl": "https://unsplash.com/@atiyehfathi?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Portal:Current events/March 2026 (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Portal:Current_events/March_2026" },
+        { "title": "Iran confirmed death of Khamenei (Al Jazeera)", "url": "https://www.aljazeera.com/" },
+        { "title": "Iran launches missiles toward Cyprus (BBC News)", "url": "https://www.bbc.com/news" }
+      ],
+      "tags": ["World News", "Iran", "Middle East", "Geopolitics"],
+      "readingTime": "2 min read",
+      "sources": ["Wikipedia Current Events", "Al Jazeera", "BBC News"]
+    },
+    {
+      "id": "2026-03-26-011",
+      "headline": "After 60 Years, Scientists Finally Know How the Diabetes Drug Metformin Really Works — and the Brain Is Key",
+      "hook": "Metformin has been one of medicine's most widely prescribed drugs since the 1960s, but how it actually lowers blood sugar has remained surprisingly mysterious. A new study reveals the answer involves a brain pathway no one knew existed.",
+      "body": "Metformin is one of the most prescribed medications in the world, taken by hundreds of millions of people with Type 2 diabetes. Despite six decades of use, exactly how it achieved its blood-sugar-lowering effect was only partially understood — scientists knew it affected the liver and gut, but that picture was incomplete. Research published in Science Advances has now identified a major missing piece: metformin acts on the brain, specifically on neurons in the hypothalamus, at doses far lower than those needed to affect other organs.\n\nThe research team at Baylor College of Medicine found that metformin works by shutting down a protein called Rap1 in the hypothalamus. When Rap1 is inhibited, a class of neurons called SF1 neurons activates, and blood sugar levels drop. Strikingly, the brain responds to metformin at concentrations thousands of times lower than the doses required to trigger the drug's effects in the liver. This suggests the brain's role in metformin's action has been systematically overlooked — and that a significant portion of the drug's efficacy may stem from central nervous system effects rather than peripheral ones.\n\nThe discovery opens several important doors. First, it explains why metformin sometimes works when other diabetes drugs don't, and why its effects can feel broader than blood sugar control. Second, it may explain some of the drug's well-documented side benefits, including apparent neuroprotective effects and associations with reduced dementia risk. Third, it points toward new diabetes therapies that could target the Rap1-SF1 brain pathway directly — potentially offering better glucose control with fewer side effects than current drugs.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1647613561332-3d88a6a0048e?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxicmFpbiUyMG5ldXJvc2NpZW5jZSUyMG1lZGljaW5lfGVufDB8fHx8MTc3NDUwNTAwNnww&ixlib=rb-4.1.0&w=800",
+        "alt": "a close up of a plastic brain model",
+        "credit": "Photo by Lisa Yount on Unsplash",
+        "creditUrl": "https://unsplash.com/@lisaleo?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Metformin's hidden brain pathway revealed after 60 years (ScienceDaily)", "url": "https://www.sciencedaily.com/releases/2026/03/260325055441.htm" },
+        { "title": "After 60 Years, Scientists Uncover Hidden Brain Pathway Behind Diabetes Drug (SciTechDaily)", "url": "https://scitechdaily.com/after-60-years-scientists-uncover-hidden-brain-pathway-behind-diabetes-drug-metformin/" },
+        { "title": "Low-dose metformin requires brain Rap1 for its antidiabetic action (Science Advances)", "url": "https://www.science.org/doi/10.1126/sciadv.adu3700" }
+      ],
+      "tags": ["Health", "Medicine", "Neuroscience", "Diabetes"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Science Advances", "SciTechDaily"]
+    },
+    {
+      "id": "2026-03-26-012",
+      "headline": "Walmart Tested ChatGPT Checkout — and It Converted Three Times Worse Than Its Own Website",
+      "hook": "One of America's largest retailers has released the first hard data on AI-mediated commerce, and the numbers are sobering for the 'agentic shopping' vision: buying directly inside a chatbot is far less effective than clicking through to a product page.",
+      "body": "Walmart made a candid disclosure to WIRED that is certain to reverberate through the tech and retail industries: its experiment with OpenAI's Instant Checkout feature produced conversion rates roughly one-third of what the retailer achieves on its own website. Starting in November 2025, Walmart offered approximately 200,000 products through the ChatGPT Instant Checkout feature, allowing users to complete purchases inside the chat interface without visiting Walmart.com. The result, according to Daniel Danker, Walmart's executive vice president of product and design, was \"unsatisfying.\"\n\nThe finding punctures some of the enthusiasm surrounding agentic commerce — the idea that AI systems acting as personal shoppers will fundamentally disrupt how people buy things online. Proponents have argued that users would prefer the convenience of telling an AI what they want and having it purchase on their behalf over navigating a traditional website. Walmart's data suggests that, at least for now, the familiar experience of clicking through to a retailer's own interface converts significantly better than the novelty of in-chat purchasing.\n\nWalmart's response to the failure is instructive: rather than abandoning AI commerce, the company plans to embed its own Sparky chatbot inside ChatGPT and Google Gemini, allowing users to authenticate with their Walmart accounts within those environments and complete purchases through Walmart's own checkout system. The pivot suggests that the future of AI commerce may be less about replacing the website and more about using AI as a discovery and navigation layer that still funnels customers to owned retail environments — where conversion rates, loyalty programs, and data collection all work in the retailer's favor.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1763872038252-e6c4e0a11067?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxzaG9wcGluZyUyMGNhcnQlMjBvbmxpbmUlMjBzdG9yZSUyMGVjb21tZXJjZXxlbnwwfHx8fDE3NzQ1MDUwMDl8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "close-up of a keyboard with a prominent buy button for online shopping",
+        "credit": "Photo by Money Knack on Unsplash",
+        "creditUrl": "https://unsplash.com/@moneyknack?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Walmart: ChatGPT checkout converted 3x worse than website (Search Engine Land)", "url": "https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071" },
+        { "title": "Walmart, Gap test AI shopping in ChatGPT and Google Gemini (Axios)", "url": "https://www.axios.com/2026/03/24/ai-shopping-walmart-gap-chatgpt-gemini-checkout" },
+        { "title": "Walmart's ChatGPT Checkout Flopped (Slashdot)", "url": "https://tech.slashdot.org/story/26/03/23/1537238/walmart-chatgpt-checkout-converted-3x-worse-than-website" }
+      ],
+      "tags": ["Tech", "AI", "Retail", "E-Commerce"],
+      "readingTime": "2 min read",
+      "sources": ["Search Engine Land", "Axios", "MarTech", "WIRED"]
+    },
+    {
+      "id": "2026-03-26-013",
+      "headline": "NASA's Nuclear-Powered Dragonfly Helicopter for Titan Is Now Being Assembled and Tested",
+      "hook": "Engineers at Johns Hopkins APL have officially begun building and testing the car-sized rotorcraft that will fly through the thick atmosphere of Saturn's largest moon — a mission that could reveal how life's chemistry emerges on alien worlds.",
+      "body": "NASA's Dragonfly mission has reached a major milestone: the spacecraft is now in active integration and testing at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland. Construction of the rotorcraft began in early March 2026, and engineers have already powered up two key components for the first time — including the Integrated Electronics Module, which serves as Dragonfly's brain. The aeroshell and cruise-stage assemblies are being built in parallel at Lockheed Martin Space in Colorado.\n\nDragonfly is unlike any spacecraft ever sent to another world. It is a car-sized, nuclear-powered helicopter — a rotorcraft lander — designed to fly through Titan's dense nitrogen atmosphere, hopping between scientifically interesting sites to sample the moon's organic chemistry. Titan is the only moon in the solar system with a thick atmosphere and stable liquid on its surface — not water, but lakes and rivers of methane and ethane. Scientists believe its chemistry may mirror what Earth's atmosphere looked like before life emerged, making it a potential window into life's origins.\n\nThe mission is on track for a launch no earlier than July 2028, with arrival at Titan expected in 2034 after a six-year journey. Once there, Dragonfly will explore a range of terrain over roughly three years of surface operations, flying dozens of kilometers between sites to study the geology, chemistry, and atmospheric conditions of this strange and compelling world. With a total mission cost now projected at $3.35 billion, it is one of NASA's most ambitious planetary science endeavors — and one of the most scientifically compelling.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1711559652919-8b945169b37c?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxTYXR1cm4lMjBtb29uJTIwVGl0YW4lMjBzcGFjZSUyMHByb2JlfGVufDB8fHx8MTc3NDUwNTAxMnww&ixlib=rb-4.1.0&w=800",
+        "alt": "a picture of the planet Saturn and its two satellites including Titan",
+        "credit": "Photo by NASA Hubble Space Telescope on Unsplash",
+        "creditUrl": "https://unsplash.com/@hubblespacetelescope?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NASA's Dragonfly Mission Begins Rotorcraft Integration, Testing Stage (NASA Science Blog)", "url": "https://science.nasa.gov/blogs/dragonfly/2026/03/10/nasas-dragonfly-mission-begins-rotorcraft-integration-testing-stage/" },
+        { "title": "NASA Officially Begins Testing the Nuclear-Powered Dragonfly Drone (Daily Galaxy)", "url": "https://dailygalaxy.com/2026/03/nasa-begins-testing-dragonfly-drone-titan/" },
+        { "title": "NASA's Dragonfly Rotorcraft Begins Integration and Testing (Universe Today)", "url": "https://www.universetoday.com/articles/nasas-dragonfly-rotorcraft-begins-integration-and-testing-ahead-of-mission-to-titan" }
+      ],
+      "tags": ["Space", "NASA", "Titan", "Exploration"],
+      "readingTime": "2 min read",
+      "sources": ["NASA Science", "Universe Today", "Daily Galaxy"]
+    },
+    {
+      "id": "2026-03-26-014",
+      "headline": "The 12-Model AI Month: How March 2026 Became the Most Intense AI Release Period in History",
+      "hook": "In a single month, OpenAI, Alibaba, Google, Anthropic, and others launched more significant AI models than most entire years in the recent past — signaling that the competition for AI dominance has reached a fever pitch with no signs of slowing.",
+      "body": "March 2026 has been called — with only slight hyperbole — \"the week that changed AI,\" though the releases have been spread across the entire month. By late March, analysts were counting at least 12 major model launches spanning language, video generation, 3D spatial reasoning, and code automation. OpenAI released GPT-5.4 Thinking, a flagship model combining advanced reasoning, coding, and agentic workflows with a one-million-token context window. Alibaba's Qwen team released the Qwen 3.5 Small Model Series — models ranging from 0.8B to 9B parameters that can run on standard laptops and mobile phones, with benchmark scores rivaling much larger models.\n\nThe pace reflects several converging pressures. Competition from Chinese labs has intensified dramatically, forcing American and European companies to accelerate their release cycles. The open-source ecosystem has also reached a point where capable models are freely available, pressuring commercial providers to justify their pricing with clear capability advantages. Meanwhile, enterprise customers — the most profitable segment — are demanding models that work reliably in agentic pipelines, driving investment in reasoning and tool-use capabilities over raw benchmark performance.\n\nThe White House added a policy dimension to the busy month, announcing on March 20 a comprehensive AI governance framework centered on transparency, accountability, and inclusiveness — the administration's most substantive AI policy statement yet. Morgan Stanley analysts noted separately that an AI capability breakthrough is likely in 2026, and that most of the world's institutions are not prepared for the economic and social disruptions it will bring. Whether March's model releases represent that breakthrough or merely a prelude remains the central question.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1758541213979-fe8c9996e197?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxjb3VydHJvb20lMjBsYXclMjBqdXN0aWNlfGVufDB8fHx8MTc3NDUwNTAxNnww&ixlib=rb-4.1.0&w=800",
+        "alt": "ornate courtroom with gilded decorations and chandeliers",
+        "credit": "Photo by Thanh Ly on Unsplash",
+        "creditUrl": "https://unsplash.com/@thanhly?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "12+ AI Models in March 2026: The Week That Changed AI (Build Fast With AI)", "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases" },
+        { "title": "AI News Briefs for March 2026 (Radical Data Science)", "url": "https://radicaldatascience.wordpress.com/2026/03/20/ai-news-briefs-bulletin-board-for-march-2026/" },
+        { "title": "Morgan Stanley warns an AI breakthrough is coming in 2026 (Fortune)", "url": "https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/" }
+      ],
+      "tags": ["AI", "Tech", "OpenAI", "Machine Learning"],
+      "readingTime": "2 min read",
+      "sources": ["Build Fast With AI", "TechCrunch", "Fortune", "Radical Data Science"]
+    },
+    {
+      "id": "2026-03-26-015",
+      "headline": "The 60-Year Mystery of How Metformin Controls Blood Sugar Is Only Half the Story — It Also Protects Your Brain",
+      "hook": "The same brain pathway scientists just discovered that explains how metformin lowers blood sugar may also be responsible for the drug's well-documented but poorly understood ability to slow brain aging and reduce dementia risk.",
+      "body": "The discovery that metformin works partly through a brain pathway — specifically by shutting down the Rap1 protein in the hypothalamus — has a second, potentially more exciting implication: it may finally explain why this inexpensive, widely available diabetes drug appears to protect against cognitive decline and dementia. Metformin has been associated in multiple large epidemiological studies with reduced Alzheimer's risk and slower biological aging of the brain, but the mechanism linking blood sugar control to brain protection has never been understood.\n\nA new study published in Nature's Communications Medicine goes further, directly comparing metformin to semaglutide — the active ingredient in Ozempic and Wegovy, the blockbuster GLP-1 drugs — in animal models of diabetes-associated Alzheimer's disease. The finding: metformin outperformed semaglutide in preventing the Alzheimer's-like neurodegeneration, apparently through dual mechanisms that include the newly discovered hypothalamic pathway. The brain's Rap1 signaling system, it turns out, may regulate not just glucose metabolism but neuroinflammation and the accumulation of amyloid proteins — two hallmarks of Alzheimer's disease.\n\nThe implications are significant. Metformin costs pennies per dose and is already prescribed to hundreds of millions of people worldwide. If its neuroprotective effects are as robust as the emerging evidence suggests — and if the brain pathway explains why — this old drug may be on the verge of a major second act. Researchers are now planning clinical trials to specifically test metformin's ability to prevent cognitive decline in non-diabetic older adults, a population that currently has very few effective preventive options.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1593491034932-844ab981ed7c?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxkaWFiZXRlcyUyMG1lZGljaW5lJTIwcGlsbCUyMHRhYmxldHxlbnwwfHx8fDE3NzQ1MDUwNzB8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "orange and white plastic medicine bottle on brown wooden table",
+        "credit": "Photo by Mykenzie Johnson on Unsplash",
+        "creditUrl": "https://unsplash.com/@mykjohnson?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Metformin provides superior neuroprotective potential compared to semaglutide (Nature Communications Medicine)", "url": "https://www.nature.com/articles/s43856-026-01471-3" },
+        { "title": "After 60 Years, Diabetes Drug Found to Unexpectedly Affect The Brain (ScienceAlert)", "url": "https://www.sciencealert.com/after-60-years-diabetes-drug-found-to-unexpectedly-affect-the-brain" },
+        { "title": "Metformin treated diabetes for 60 years. Now scientists find it works in the brain too (Futura-Sciences)", "url": "https://www.futura-sciences.com/en/this-diabetes-drug-may-also-work-in-the-brain_26601/" }
+      ],
+      "tags": ["Health", "Medicine", "Aging", "Alzheimer's"],
+      "readingTime": "2 min read",
+      "sources": ["Nature Communications Medicine", "ScienceAlert", "ScienceDaily"]
+    }
+  ]
+}
