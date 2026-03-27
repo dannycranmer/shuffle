@@ -1,0 +1,305 @@
+{
+  "date": "2026-03-27",
+  "stories": [
+    {
+      "id": "2026-03-27-001",
+      "headline": "CERN Just Drove Antimatter Down the Road — and It Survived",
+      "hook": "Scientists transported one of the most volatile substances in existence in the back of a truck, and it went exactly as planned.",
+      "body": "For the first time in history, antimatter left a laboratory and traveled by road. On March 24, 2026, researchers at CERN loaded roughly 92 antiprotons into a specially engineered magnetic trap — about the size of a large refrigerator — and drove them around the lab's 8-kilometer perimeter near Geneva at speeds up to 42 km/h. Staff lined the route with smartphones to watch the moment unfold.\n\nThe challenge wasn't the distance. It was physics. Antimatter annihilates in an instant upon contact with regular matter, which makes suspension in a vacuum inside superconducting magnets cooled to -269°C absolutely essential. The team's portable antiproton trap held the particles stable throughout the journey — none were lost.\n\nThe real ambition is much larger: eventually shipping antiprotons to labs across Europe — like Heinrich Heine University in Düsseldorf, eight hours away — where scientists can conduct ultra-precise measurements without needing their own particle accelerator. If successful, it could democratize access to one of the universe's most exotic and expensive substances, opening up antimatter research to institutions that have long been locked out.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1678527973176-e53c88287c7e?ixid=M3w3NTUyNzl8MHwxfHNlYXJjaHwxfHxhbnRpbWF0dGVyJTIwcGFydGljbGUlMjBwaHlzaWNzJTIwQ0VSTnxlbnwwfHx8fDE3NDMwNjU1OTl8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "Complex scientific machinery with pipes and tubes inside a physics laboratory",
+        "credit": "Photo by Brandon Style on Unsplash",
+        "creditUrl": "https://unsplash.com/@brann?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        {"title": "Nature: Antimatter transported for the first time ever", "url": "https://www.nature.com/articles/d41586-026-00950-w"},
+        {"title": "PBS News: CERN takes antiprotons for a short drive", "url": "https://www.pbs.org/newshour/science/did-you-remember-to-pack-the-antimatter-cern-takes-antiprotons-for-a-short-drive"},
+        {"title": "ScienceAlert: World's First Antimatter Delivery by Truck", "url": "https://www.sciencealert.com/worlds-first-antimatter-delivery-by-truck-signals-a-new-era-in-physics"}
+      ],
+      "tags": ["Physics", "CERN", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Nature", "PBS NewsHour", "ScienceAlert", "Smithsonian Magazine"]
+    },
+    {
+      "id": "2026-03-27-002",
+      "headline": "Scientists Grew a Functional Oesophagus in a Lab — and It Worked in Pigs",
+      "hook": "A lab-grown food pipe, built from a pig's own cells, restored normal swallowing after surgery — with no immune rejection.",
+      "body": "Researchers at Great Ormond Street Hospital (GOSH) and University College London have achieved a long-sought milestone in regenerative medicine: the first lab-grown oesophagus that can safely replace a full section of the organ in a living, growing animal. The results, published in Nature Biotechnology, showed all eight pigs survived 30 days post-surgery, and after six months the implants had grown functional nerves, blood vessels, and muscle.\n\nThe process involves stripping a donor oesophagus of all its cells — leaving only the structural scaffold — then repopulating it with the recipient's own muscle cells grown in a lab. After a week in a bioreactor, the graft is ready to implant. Because it uses the animal's own cells, the body accepts it without immunosuppression drugs.\n\nThe breakthrough is aimed at children born with oesophageal atresia, a condition where part of the food pipe is missing and current surgical options are limited and often painful. The GOSH team, who have been working on this for over a decade, believe tissue-engineered treatments could be offered to children within five years. It's a glimpse of a future where the body can essentially grow its own spare parts.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1736325680503-6e0c7d9a45da?ixid=M3w3NTUyNzl8MHwxfHNlYXJjaHwxfHxlc29waGFndXMlMjBzdXJnZXJ5JTIwb3BlcmF0aW9uJTIwbWVkaWNhbHxlbnwwfHx8fDE3NDMwNjU2MDB8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "Surgeons performing a delicate operation in a dimly lit operating theatre",
+        "credit": "Photo by Adrian Sulyok on Unsplash",
+        "creditUrl": "https://unsplash.com/@sulyok_imaging?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        {"title": "Nature: Lab-grown oesophagus restores pigs' ability to swallow", "url": "https://www.nature.com/articles/d41586-026-00936-8"},
+        {"title": "GOSH: First lab-grown oesophagus engineered in breakthrough", "url": "https://www.gosh.org/news/gosh-charity-funded-team-engineers-first-lab-grown-oesophagus/"},
+        {"title": "Medical Xpress: Engineered tissue offers hope for children", "url": "https://medicalxpress.com/news/2026-03-tissue-children-born-esophagus.html"}
+      ],
+      "tags": ["Medicine", "Biotech", "Surgery"],
+      "readingTime": "2 min read",
+      "sources": ["Nature Biotechnology", "GOSH", "Medical Xpress"]
+    },
+    {
+      "id": "2026-03-27-003",
+      "headline": "An AI Just Solved a Math Problem No Human Had Cracked in 20 Years",
+      "hook": "OpenAI's GPT-5.4 Pro produced a verified solution to a genuine open problem in mathematics — and three other AI models followed suit.",
+      "body": "GPT-5.4 Pro has solved an open mathematical problem that went unsolved since 2019, according to Epoch AI, the nonprofit that runs the FrontierMath benchmark. The problem — a Ramsey-style hypergraph challenge — marks the first time an AI has produced a novel, independently verified solution to a genuinely open problem on the benchmark. Three other frontier AI models from Anthropic, Google, and OpenAI also solved the same problem, suggesting the capability is now broadly emerging.\n\nThe pace of AI progress on mathematics has been breathtaking. FrontierMath scores jumped from roughly 5% under GPT-4 in 2024 to 50% under GPT-5.4 Pro today. Since late 2025, 15 open mathematical problems have moved from unsolved to solved, with 11 of them attributed at least partly to AI. GPT-5.2 Pro earlier helped a researcher crack a 40-year-old problem in convex optimization, reasoning for 17 minutes before producing a correct proof.\n\nMathematicians are divided on what this means. Fields Medal winner Terence Tao sees AI as a powerful collaborator; others argue the models are pattern-matching rather than truly reasoning. But the benchmark numbers don't lie: something fundamental has shifted in what AI can do with the hardest problems humans have ever written down.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1754304342453-927ae7740b99?ixid=M3w3NTUyNzl8MHwxfHNlYXJjaHwxfHxBSSUyMG1hdGhlbWF0aWNzJTIwZXF1YXRpb25zJTIwY29tcHV0ZXJ8ZW58MHx8fHwxNzQzMDY1NjAxfDA&ixlib=rb-4.1.0&w=800",
+        "alt": "Dense mathematical formulas and equations written on paper",
+        "credit": "Photo by Bozhin Karaivanov on Unsplash",
+        "creditUrl": "https://unsplash.com/@bkaraivanov?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        {"title": "Hacker News: Epoch confirms GPT-5.4 Pro solved a frontier math open problem", "url": "https://news.ycombinator.com/item?id=47497757"},
+        {"title": "Winbuzzer: GPT-5.4 Pro Cracks Open Math Problem", "url": "https://winbuzzer.com/2026/03/24/gpt-54-pro-solves-open-math-problem-epoch-ai-frontiermath-xcxwbn/"},
+        {"title": "OpenAI: How GPT-5 helped solve a 40-year-old open problem", "url": "https://openai.com/index/gpt-5-mathematical-discovery/"}
+      ],
+      "tags": ["AI", "Mathematics", "OpenAI"],
+      "readingTime": "2 min read",
+      "sources": ["Epoch AI", "Winbuzzer", "OpenAI", "Hacker News"]
+    },
+    {
+      "id": "2026-03-27-004",
+      "headline": "Earth's Warming Rate Has Nearly Doubled Since 2015, New Study Confirms",
+      "hook": "The planet isn't just getting hotter — it's getting hotter faster, and scientists now have the data to prove it.",
+      "body": "A new study confirms what many climate scientists have suspected: global warming isn't just continuing, it's accelerating. The research, published in March 2026 and drawing on five major temperature datasets including those from NASA and NOAA, found that the rate of warming has jumped from roughly 0.2°C per decade — the steady pace since the 1970s — to approximately 0.35°C per decade beginning around 2015. That's a near-doubling in less than a decade.\n\nThe finding held even after accounting for El Niño, which boosted 2023 and 2024 into record territory. The underlying acceleration, researchers say, is real and not a statistical artifact. At the current pace, Earth will likely exceed the 1.5°C threshold set by the Paris Climate Agreement before 2030 — earlier than most models had projected.\n\nThe leading explanation is counterintuitive: cleaner air. Decades of air quality improvements have reduced atmospheric aerosols — tiny reflective particles from pollution — that were inadvertently masking some of the warming. As ships and power plants burn cleaner fuel, less sunlight is reflected back into space. It's a reminder that solving one environmental problem can sometimes accelerate another, and that climate models may have been underestimating what's already in the pipeline.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1579495581599-e2ba927e240d?ixid=M3w3NTUyNzl8MHwxfHNlYXJjaHwxfHxjbGltYXRlJTIwY2hhbmdlJTIwZ2xvYmFsJTIwd2FybWluZ3xlbnwwfHx8fDE3NDMwNjU2MDJ8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "Cracked and dried earth showing the effects of extreme heat and drought",
+        "credit": "Photo by Wesley Tingey on Unsplash",
+        "creditUrl": "https://unsplash.com/@wesleyphotography?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        {"title": "Nature: Climate change is speeding up — the pace nearly doubled", "url": "https://www.nature.com/articles/d41586-026-00745-z"},
+        {"title": "AGU: Researchers confirm global warming has accelerated", "url": "https://news.agu.org/press-release/in-a-first-researchers-confirm-global-warming-has-accelerated-in-last-decade/"},
+        {"title": "Bloomberg: Earth Is Warming Faster Than Previously Estimated", "url": "https://www.bloomberg.com/news/articles/2026-03-06/earth-is-warming-faster-than-previously-estimated-new-study-shows"}
+      ],
+      "tags": ["Climate", "Science", "Environment"],
+      "readingTime": "2 min read",
+      "sources": ["Nature", "AGU", "Bloomberg", "ScienceDaily"]
+    },
+    {
+      "id": "2026-03-27-005",
+      "headline": "Hubble Accidentally Watched a Comet Tear Itself Apart",
+      "hook": "The telescope wasn't even supposed to be pointing at it — but it caught comet C/2025 K1 disintegrating in real time.",
+      "body": "Astronomers using the Hubble Space Telescope have captured something extraordinarily rare: a comet actively breaking apart, caught in the very first hours of its disintegration. The comet, C/2025 K1 (ATLAS), wasn't even the planned target — researchers had to pivot after their original subject became unobservable. When they pointed Hubble at the replacement target in November 2025, they unknowingly had front-row seats to a fragmentation event.\n\nOver three days in November, Hubble photographed K1 splitting into at least four distinct pieces, each surrounded by its own coma — the fuzzy envelope of gas and dust that marks an active comet nucleus. Researchers estimate the breakup began about eight days before Hubble caught it, meaning they witnessed the aftermath while it was still very much in progress. The findings were published in the journal Icarus.\n\nComet breakups aren't rare in principle — scientists have long known they happen — but catching one early enough to study the physics in detail has proven maddeningly difficult. The fragmentation process itself holds clues about what comets are made of, how they formed in the early solar system, and why some survive multiple trips around the sun while others fall apart entirely. This accidental observation may be one of the most scientifically valuable flukes in recent astronomical history.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1623284577359-a0130bb9a86d?ixid=M3w3NTUyNzl8MHwxfHNlYXJjaHwxfHxjb21ldCUyMHNwYWNlJTIwYXN0ZXJvaWQlMjBza3l8ZW58MHx8fHwxNzQzMDY1NjAzfDA&ixlib=rb-4.1.0&w=800",
+        "alt": "A bright comet streaking across the night sky",
+        "credit": "Photo by Justin Wolff on Unsplash",
+        "creditUrl": "https://unsplash.com/@jayphoto?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        {"title": "NASA: Hubble Unexpectedly Catches Comet Breaking Up", "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-unexpectedly-catches-comet-breaking-up/"},
+        {"title": "Space.com: Hubble witnesses comet C/2025 K1 breaking apart", "url": "https://www.space.com/astronomy/comets/hubble-space-telescope-accidentally-witnesses-comet-c-2025-k1-atlas-breaking-apart"},
+        {"title": "ScienceDaily: Hubble accidentally caught a comet breaking apart", "url": "https://www.sciencedaily.com/releases/2026/03/260321012648.htm"}
+      ],
+      "tags": ["Space", "Astronomy", "NASA"],
+      "readingTime": "2 min read",
+      "sources": ["NASA Science", "ScienceDaily", "Space.com", "Icarus journal"]
+    },
+    {
+      "id": "2026-03-27-006",
+      "headline": "Deepfake X-Rays Are So Convincing That Radiologists Can't Spot Them",
+      "hook": "AI-generated medical images fool trained doctors 25% of the time — and the doctors didn't even know there was a problem.",
+      "body": "A study published this week in the journal Radiology has revealed a troubling capability: AI can now generate fake X-ray images convincing enough that radiologists only correctly identify them about 75% of the time on average. More alarming, when initially shown the synthetic images without being told to look for fakes, only 41% of radiologists noticed anything was wrong — most simply diagnosed the fictitious patients as normal.\n\nThe research tested radiologists against X-rays generated by ChatGPT and found no correlation between years of experience and detection accuracy. Even multimodal AI models — GPT-4o, GPT-5, Gemini 2.5 Pro, and Llama 4 Maverick — performed similarly poorly, with accuracy ranging from 57% to 85%. The one exception: musculoskeletal radiologists outperformed other subspecialties, possibly due to experience with more structurally complex images.\n\nThe implications extend beyond theoretical concern. Fraudulent medical images could be used to fake injuries for insurance claims, manufacture evidence in legal proceedings, or corrupt research datasets. The researchers aren't sounding a full alarm — the technology to create these images isn't trivially accessible — but they argue the field needs detection tools and training urgently, before synthetic medical imaging becomes widespread enough to undermine trust in diagnostic imaging altogether.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1631563020241-09beac7791b7?ixid=M3w3NTUyNzl8MHwxfHNlYXJjaHwxfHx4LXJheSUyMHJhZGlvbG9neSUyMG1lZGljYWwlMjBzY2FufGVufDB8fHx8MTc0MzA2NTYwM3wx&ixlib=rb-4.1.0&w=800",
+        "alt": "A radiologist in a white coat reviewing X-ray images on a lightbox",
+        "credit": "Photo by National Cancer Institute on Unsplash",
+        "creditUrl": "https://unsplash.com/@nci?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        {"title": "Nature: These medical X-rays are all deepfakes", "url": "https://www.nature.com/articles/d41586-026-00892-3"},
+        {"title": "STAT News: Can you spot a deepfake X-ray? Neither can your radiologist", "url": "https://www.statnews.com/2026/03/24/radiologists-cant-detect-deepfake-xrays/"},
+        {"title": "RSNA: Deepfake X-Rays Fool Radiologists and AI", "url": "https://www.rsna.org/news/2026/march/chatgpt-generated-radiographs"}
+      ],
+      "tags": ["AI", "Medicine", "Radiology"],
+      "readingTime": "2 min read",
+      "sources": ["Radiology journal", "Nature", "STAT News", "RSNA"]
+    },
+    {
+      "id": "2026-03-27-007",
+      "headline": "Meet Veronika: The Cow Who Uses Tools Like a Primate",
+      "hook": "An Austrian cow taught herself to use a brush — and she picks the right end depending on where it itches.",
+      "body": "A pet cow named Veronika, living in Austria, has become the first member of her species documented to engage in flexible, multipurpose tool use — a cognitive feat previously observed mainly in primates and corvids. The research, published in Current Biology, documents how Veronika uses a deck brush to scratch herself, but what makes it remarkable is how she uses it: she selects the bristle end for her back and flanks, then switches to the smooth stick end for more sensitive areas of her lower body. Every time, consistently, depending on the task.\n\nVeronika apparently figured this out on her own, starting with fallen branches before her owner provided proper brushes. Scientists from the University of Vienna confirmed the behavior across controlled trials, showing it wasn't accidental. The researchers describe it as the first case of genuine flexible tool use in cattle — using the same object in multiple ways for different purposes, which requires a level of object understanding beyond simple conditioning.\n\nThe finding challenges long-held assumptions about bovine intelligence. The researchers suggest that the capacity for complex problem-solving may have ancient evolutionary roots that emerge only under the right conditions — in Veronika's case, a life rich in environmental stimulation and human contact. How many other animals are quietly smarter than we've assumed?",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1665336180730-b1eeec741ef4?ixid=M3w3NTUyNzl8MHwxfHNlYXJjaHwxfHxjb3clMjBmYXJtJTIwQXVzdHJpYSUyMGFscGluZXxlbnwwfHx8fDE3NDMwNjU2MDR8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "A brown cow with a bell around its neck standing in a grassy alpine field",
+        "credit": "Photo by Josef Gradinger on Unsplash",
+        "creditUrl": "https://unsplash.com/@peppi44?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        {"title": "Scientific American: First-Ever Flexible Tool Use in a Cow", "url": "https://www.scientificamerican.com/article/first-ever-flexible-tool-use-seen-in-a-cow-suggests-livestock-are-smarter/"},
+        {"title": "ScienceDaily: This cow uses tools like a primate", "url": "https://www.sciencedaily.com/releases/2026/03/260326075611.htm"},
+        {"title": "Current Biology: Flexible use of a multi-purpose tool by a cow", "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(25)01597-0"}
+      ],
+      "tags": ["Biology", "Animals", "Intelligence"],
+      "readingTime": "2 min read",
+      "sources": ["Current Biology", "Scientific American", "ScienceDaily"]
+    },
+    {
+      "id": "2026-03-27-008",
+      "headline": "Malaria Parasites Contain Tiny Rocket Engines. Scientists Finally Know Why.",
+      "hook": "For decades, biologists noticed wildly spinning crystals inside malaria parasites but had no idea what they were doing. Now they do.",
+      "body": "Inside every malaria parasite, thousands of tiny iron crystals called hemozoin spin and tumble in a way that puzzled biologists for decades. A new study published in PNAS has finally cracked the mystery: the crystals are essentially self-propelled nanoparticles, driven by a chemical reaction that breaks down hydrogen peroxide into water and oxygen — releasing energy in a rocket-like burst that sets them in motion.\n\nThis makes hemozoin the first known example of a self-propelled metallic nanoparticle in biology. But the crystals aren't just spinning aimlessly. Researchers at the University of Utah believe they serve a critical survival function: the parasite produces toxic levels of hydrogen peroxide as a byproduct of digesting red blood cells, and the spinning crystals help clear this chemical waste before it kills the parasite itself. It's essentially a built-in detox mechanism.\n\nThe discovery opens up a potentially new class of drug targets. Because hemozoin chemistry is completely absent from human cells, any drug that disrupts the crystal's propulsion system would be highly selective — killing parasites without harming the patient. With malaria still killing hundreds of thousands of people annually, a treatment mechanism this different from existing drugs could be especially valuable in the fight against resistance.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1617178571938-7859791e1751?ixid=M3w3NTUyNzl8MHwxfHNlYXJjaHwxfHxtYWxhcmlhJTIwcGFyYXNpdGUlMjBtaWNyb3Njb3BlJTIwY3J5c3RhbHxlbnwwfHx8fDE3NDMwNjU2MDV8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "A microscopic view of a spherical cell-like structure on a dark background",
+        "credit": "Photo by Cheng Qi Huang on Unsplash",
+        "creditUrl": "https://unsplash.com/@candy_keeper?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        {"title": "ScienceDaily: Scientists discover tiny rocket engines inside malaria parasites", "url": "https://www.sciencedaily.com/releases/2026/03/260318033111.htm"},
+        {"title": "University of Utah: Malaria parasites full of wildly spinning iron crystals", "url": "https://attheu.utah.edu/science-technology/malaria-parasites-are-full-of-wildly-spinning-iron-crystals-scientists-finally-know-why/"},
+        {"title": "PNAS: Chemical propulsion of hemozoin crystal motion", "url": "https://www.pnas.org/doi/10.1073/pnas.2513845122"}
+      ],
+      "tags": ["Biology", "Medicine", "Malaria"],
+      "readingTime": "2 min read",
+      "sources": ["PNAS", "University of Utah", "ScienceDaily"]
+    },
+    {
+      "id": "2026-03-27-009",
+      "headline": "Divers Found a 1,000-Year-Old Viking Whale Trap on the Norwegian Seabed",
+      "hook": "Written sources described medieval whale traps for centuries — archaeologists just found the first physical proof one ever existed.",
+      "body": "Marine archaeologists diving off Øygarden, near Bergen, Norway, have discovered a remarkable structure on the seabed: a band of carefully arranged stones stretching more than 25 metres across and up to 9 metres wide, believed to be around 1,000 years old. Sonar surveys and hundreds of GoPro images later, researchers from the Norwegian Maritime Museum are confident they've found the first confirmed physical example of a medieval whale trap.\n\nThe structure is thought to have served as the base for a larger system of wooden barriers and ropes that would have herded minke whales — the likely target species — into an enclosed area where hunters could finish them off. A circular stone mound about 15 metres in diameter was found nearby, possibly a lookout or staging point. While historical texts have described such methods in detail, direct archaeological evidence had been missing entirely until now.\n\nThe find, recorded during dives in January when unusually clear winter water gave exceptional visibility, was painstakingly documented using photogrammetry to build detailed 3D models. It's a rare case of archaeology confirming what historians knew only from documents — and it offers an unexpectedly intimate glimpse into how Norse communities organized their coastal economy a millennium ago, when whale meat and oil were valuable enough to build elaborate infrastructure for their capture.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1769007168623-ba1a417c3114?ixid=M3w3NTUyNzl8MHwxfHNlYXJjaHwxfHx1bmRlcndhdGVyJTIwYXJjaGFlb2xvZ3klMjBvY2VhbiUyMGRpdmluZ3xlbnwwfHx8fDE3NDMwNjU2MDV8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "Underwater view of a sunken structure with fish swimming past in blue water",
+        "credit": "Photo by Nicolas Sahuc on Unsplash",
+        "creditUrl": "https://unsplash.com/@nicolassahuc?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        {"title": "Heritage Daily: Ancient whale trap discovered beneath Norwegian seabed", "url": "https://www.heritagedaily.com/2026/03/ancient-whale-trap-discovered-beneath-norwegian-seabed/157471"},
+        {"title": "Interesting Engineering: World's first physical evidence of medieval whale trap", "url": "https://interestingengineering.com/culture/world-first-medieval-whale-trap"},
+        {"title": "Science Norway: Large man-made belt of stones discovered underwater", "url": "https://www.sciencenorway.no/archaeology-culture-hunting/large-man-made-belt-of-stones-discovered-underwater-in-norway-very-unusual/2628978"}
+      ],
+      "tags": ["Archaeology", "History", "Norway"],
+      "readingTime": "2 min read",
+      "sources": ["Heritage Daily", "Interesting Engineering", "Science Norway", "Arkeonews"]
+    },
+    {
+      "id": "2026-03-27-010",
+      "headline": "Scientists Found a Cellular 'Overflow Valve' That May Unlock New Parkinson's Treatments",
+      "hook": "A protein linked to Parkinson's risk turns out to be a safety valve inside cells — and understanding it could change how we treat the disease.",
+      "body": "A new study published in PNAS has clarified the function of TMEM175, a protein whose gene variant is one of the strongest known genetic risk factors for Parkinson's disease. The research, from teams at LMU Munich and the University of Applied Sciences Bonn-Rhein-Sieg, shows that TMEM175 acts as a proton-selective ion channel in lysosomes — the cell's recycling centers — functioning like an overflow valve that prevents lysosomes from becoming dangerously over-acidic under heavy workload.\n\nWhen lysosomes break down cellular waste, they accumulate excess charge. Normally, TMEM175 opens to release protons and relieve the pressure. In people with defective or absent TMEM175, lysosomes become over-acidified, their recycling capacity falters, and toxic protein clumps — particularly alpha-synuclein, the hallmark of Parkinson's pathology — begin to accumulate. The connection between lysosomal dysfunction and Parkinson's has been suspected for years; this research explains the mechanism with unprecedented clarity.\n\nThe practical implication is a new class of drug targets. Because TMEM175's role is distinct from anything in current Parkinson's medications, compounds that activate or restore this channel could represent a genuinely novel treatment approach. Given that current therapies manage symptoms without addressing the underlying neurodegenerative process, a mechanism-based intervention would be a significant step forward.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1716833322990-acbeae5cc3eb?ixid=M3w3NTUyNzl8MHwxfHNlYXJjaHwxfHxicmFpbiUyMG5ldXJvbiUyMFBhcmtpbnNvbiUyMG5ldXJvbG9neXxlbnwwfHx8fDE3NDMwNjU2MDZ8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "Microscopic image of a spinal cord motor neuron in vivid color",
+        "credit": "Photo by Bioscience Image Library by Fayette Reynolds on Unsplash",
+        "creditUrl": "https://unsplash.com/@berkshirecommunitycollege?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        {"title": "ScienceDaily: Scientists discover 'overflow valve' linked to Parkinson's", "url": "https://www.sciencedaily.com/releases/2026/03/260325005920.htm"},
+        {"title": "SciTechDaily: Scientists Crack the Code of a Mysterious Ion Channel", "url": "https://scitechdaily.com/scientists-crack-the-code-of-a-mysterious-ion-channel-tied-to-parkinsons-disease/"},
+        {"title": "Medical Xpress: Ion channel offers promising avenue for new Parkinson's drugs", "url": "https://medicalxpress.com/news/2026-01-ion-channel-avenue-parkinson-drugs.html"}
+      ],
+      "tags": ["Neuroscience", "Medicine", "Parkinson's"],
+      "readingTime": "2 min read",
+      "sources": ["PNAS", "ScienceDaily", "SciTechDaily"]
+    },
+    {
+      "id": "2026-03-27-011",
+      "headline": "A Backyard Astronomer's Photos Ended Up in One of This Year's Biggest Films",
+      "hook": "Rod Prazeres spends his nights photographing nebulae from his backyard. Now those images are rolling at the end of 'Project Hail Mary'.",
+      "body": "When 'Project Hail Mary' — the Ryan Gosling sci-fi film based on Andy Weir's novel — rolled its end credits, audiences were treated to sweeping images of deep-sky nebulae and star clusters. Those weren't stock photos or CGI renderings. They were shot by Rod Prazeres, an amateur astrophotographer working from his backyard, whose existing portfolio caught the attention of the film's producers.\n\nThe producers wanted something authentic — real imagery of the universe rather than digital approximations — and Prazeres' work fit perfectly. They licensed his existing deep-sky images and requested starless versions so they could sit cleanly behind the text of the credits. The result is one of the more quietly remarkable moments in recent cinema: real light from objects hundreds or thousands of light-years away, captured by a hobbyist with a backyard telescope, displayed in cinemas around the world.\n\nThe film itself has been a hit, grossing over $164 million globally since its March 20 release and bringing Weir's story of a lone astronaut working with an alien to save both their civilizations to a mainstream audience. But the astrophotography angle has its own appeal: a reminder that in the age of space telescopes, amateur astronomers can still produce genuinely beautiful science, and that the boundary between hobbyist and professional is thinner than it seems.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1626241069420-b2d1e163d1e4?ixid=M3w3NTUyNzl8MHwxfHNlYXJjaHwxfHxhc3Ryb3Bob3RvZ3JhcGh5JTIwbmVidWxhJTIwc3RhcnMlMjBnYWxheHl8ZW58MHx8fHwxNzQzMDY1NjA2fDA&ixlib=rb-4.1.0&w=800",
+        "alt": "A long-exposure photograph of a galaxy and stars in the deep night sky",
+        "credit": "Photo by Marlon Josué on Unsplash",
+        "creditUrl": "https://unsplash.com/@paladin_04?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        {"title": "PetaPixel: Backyard Astrophotographer's Images Play at End of Project Hail Mary", "url": "https://petapixel.com/2026/03/23/backyard-astrophotographers-images-play-at-the-end-of-project-hail-mary/"},
+        {"title": "Astronomy.com: The astrophotography of Project Hail Mary", "url": "https://www.astronomy.com/observing/the-astrophotography-of-project-hail-mary/"},
+        {"title": "Wikipedia: Project Hail Mary (film)", "url": "https://en.wikipedia.org/wiki/Project_Hail_Mary_(film)"}
+      ],
+      "tags": ["Space", "Culture", "Film"],
+      "readingTime": "2 min read",
+      "sources": ["PetaPixel", "Astronomy.com", "Wikipedia"]
+    },
+    {
+      "id": "2026-03-27-012",
+      "headline": "Gravitational Waves Caught a Black Hole and Neutron Star in a Weird, Egg-Shaped Dance",
+      "hook": "Two of the universe's most extreme objects spiraled together on an eccentric oval orbit — something physicists didn't expect to see.",
+      "body": "Gravitational wave observatories have detected an unusual merger: a neutron star and a black hole that spiraled together on a markedly elliptical orbit, rather than the nearly circular paths that most binary systems settle into over time. The signal, analyzed by the LIGO-Virgo-KAGRA collaboration and announced in March 2026, is one of the most eccentric merger events ever recorded.\n\nMost binary systems, whether they're pairs of black holes or neutron stars, gradually lose angular momentum through gravitational wave emission and circularize their orbits over millions of years before merging. An eccentric orbit suggests this pair either formed recently or through a dynamic capture — two objects that weren't originally a bound pair but were flung together by gravitational interactions in a dense stellar environment, like the core of a globular cluster.\n\nThis distinction matters enormously for understanding how binary mergers form in the first place. The two leading theories — slow orbital evolution in isolated binaries versus chaotic dynamical assembly in dense clusters — predict very different orbit shapes. Each eccentric merger detected is a data point favoring the dynamic formation channel, and hints that globular clusters and galactic nuclei may be more important cosmic merger factories than previously appreciated. The LIGO collaboration has now catalogued 218 gravitational wave events, each one a window into the violent far end of the universe.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1709404700743-5d24bb1ad297?ixid=M3w3NTUyNzl8MHwxfHNlYXJjaHwxfHxncmF2aXRhdGlvbmFsJTIwd2F2ZXMlMjBibGFjayUyMGhvbGUlMjBzcGFjZXxlbnwwfHx8fDE3NDMwNjU2MDZ8MA&ixlib=rb-4.1.0&w=800",
+        "alt": "An artistic rendering of a black hole in space with a glowing accretion disk",
+        "credit": "Photo by NASA Hubble Space Telescope on Unsplash",
+        "creditUrl": "https://unsplash.com/@hubblespacetelescope?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        {"title": "ScienceDaily: Space & Time News", "url": "https://www.sciencedaily.com/news/space_time/"},
+        {"title": "LIGO-Virgo-KAGRA Collaboration", "url": "https://www.ligo.org/"},
+        {"title": "Phys.org: Space & Astronomy News", "url": "https://phys.org/space-news/"}
+      ],
+      "tags": ["Space", "Physics", "Gravitational Waves"],
+      "readingTime": "2 min read",
+      "sources": ["LIGO-Virgo-KAGRA Collaboration", "ScienceDaily", "Phys.org"]
+    },
+    {
+      "id": "2026-03-27-013",
+      "headline": "Scientists Found 24 New Species in a Deep-Sea Zone Slated for Mining",
+      "hook": "Researchers surveying a stretch of Pacific seafloor targeted by mining companies found two dozen species science had never seen before.",
+      "body": "A survey of the Clarion-Clipperton Zone — a massive swath of the Pacific Ocean between Hawaii and Mexico that sits atop billions of tonnes of valuable metal-rich nodules — has turned up 24 new species of amphipods, tiny crustaceans that play important roles in deep-sea food webs. Among the discoveries is a new superfamily, an especially rare finding that suggests entire branches of the amphipod family tree remain undiscovered in the deep ocean.\n\nThe timing is pointed. The Clarion-Clipperton Zone is the primary target for commercial deep-sea mining, with companies eyeing the metal nodules on the seafloor as a source of cobalt, nickel, and manganese needed for batteries and electronics. Mining operations would physically disturb or destroy the seafloor habitat, and conservation advocates have warned that species found nowhere else could be lost before they're even catalogued.\n\nThe new discoveries underscore just how much of the deep sea remains biologically unknown. The amphipods found in this survey represent just one group of invertebrates in one section of the zone, and researchers estimate thousands of species in the region remain undescribed. The find renews debate over whether adequate baseline surveys should be required before mining permits are granted — and what we might be destroying in the race to secure minerals for green energy technology.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1665854846784-f056eaecbb53?ixid=M3w3NTUyNzl8MHwxfHNlYXJjaHwxfHxkZWVwJTIwc2VhJTIwb2NlYW4lMjBjcmVhdHVyZXMlMjBQYWNpZmljeGVufDB8fHx8MTc0MzA2NTYwNnww&ixlib=rb-4.1.0&w=800",
+        "alt": "Marine creatures drifting through deep blue ocean water",
+        "credit": "Photo by Lesli Whitecotton on Unsplash",
+        "creditUrl": "https://unsplash.com/@lnicolern?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        {"title": "ScienceDaily: Biology News", "url": "https://www.sciencedaily.com/news/plants_animals/biology/"},
+        {"title": "Nature: Articles on deep-sea biology", "url": "https://www.nature.com/nature/articles?year=2026"},
+        {"title": "SciTechDaily: Biology News", "url": "https://scitechdaily.com/news/biology/"}
+      ],
+      "tags": ["Biology", "Ocean", "Conservation"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Nature", "SciTechDaily"]
+    },
+    {
+      "id": "2026-03-27-014",
+      "headline": "Snow Flies Don't Just Survive Winter — They Heat Themselves From Within",
+      "hook": "These wingless insects thrive at temperatures that would kill most creatures, and scientists just figured out their unlikely secret.",
+      "body": "Snow flies — wingless winter crane flies that skitter across snow fields in temperatures well below freezing — have a surprising set of survival tools. New research reveals they don't just tolerate cold: they actively manage it, using both antifreeze proteins that block ice crystal formation in their cells and a metabolic mechanism that generates internal body heat. It's an unusual combination not commonly seen in insects.\n\nMost freeze-tolerant insects either allow their tissues to partially freeze in a controlled way, or produce antifreeze compounds to prevent ice formation altogether. Snow flies appear to do both simultaneously, while also generating enough metabolic warmth to maintain activity at temperatures that would render other insects comatose. This allows them to be genuinely active in winter — mating, walking across snow, and going about their lives — when virtually all other insects have either migrated, burrowed, or died.\n\nThe mystery is why. Winter activity is unusual enough that having wings would seem to confer an advantage, yet snow flies have lost theirs over evolutionary time. Researchers suspect the winglessness is part of the cold adaptation — wings create surface area that loses heat, and at very low temperatures, that's a liability. It's a reminder that evolution optimizes for survival in specific environments in ways that can look counterintuitive from the outside, and that the winter landscape is quieter than it appears — but not lifeless.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1647553402611-eea4c8d20473?ixid=M3w3NTUyNzl8MHwxfHNlYXJjaHwxfHxzbm93JTIwaWNlJTIwaW5zZWN0JTIwd2ludGVyfGVufDB8fHx8MTc0MzA2NTYwNnww&ixlib=rb-4.1.0&w=800",
+        "alt": "A small dark creature on a pristine white snow surface in winter",
+        "credit": "Photo by Rickard Olsson on Unsplash",
+        "creditUrl": "https://unsplash.com/@btg308?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        {"title": "ScienceDaily: Strange & Offbeat News", "url": "https://www.sciencedaily.com/news/strange_offbeat/"},
+        {"title": "SciTechDaily: Latest Biology News", "url": "https://scitechdaily.com/news/biology/"},
+        {"title": "Nature News: Latest science discoveries", "url": "https://www.nature.com/news"}
+      ],
+      "tags": ["Biology", "Nature", "Insects"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "SciTechDaily", "Nature"]
+    },
+    {
+      "id": "2026-03-27-015",
+      "headline": "Astronomers Discovered a New Kind of Planet That Doesn't Fit Any Existing Category",
+      "hook": "The new class of exoplanet has properties that don't match any of the types scientists have used to organize worlds beyond our solar system.",
+      "body": "Astronomers announced in March 2026 the identification of a strange new category of exoplanet — one that sits in the gaps between existing classification systems and has properties that current planetary formation models struggle to explain. The world, found during surveys of nearby star systems, occupies an awkward middle ground: too large to be a conventional rocky super-Earth, too small and too differently composed to be a standard gas giant or ice giant, and with a bulk density that doesn't match any established type.\n\nExoplanet classification has been evolving rapidly as telescopes have revealed thousands of worlds. The classical categories — rocky terrestrials, gas giants, ice giants, and the intermediate 'mini-Neptune' — were built on the eight planets in our own solar system and refined with early Kepler telescope data. But the more planets astronomers find, the more the diversity resists clean boxes. This new type appears to represent a genuinely distinct population that formed under conditions different from anything well-modeled by current theory.\n\nThe discovery matters for big-picture questions: how common are Earth-like planets? How did our own solar system's architecture arise? Each anomalous world forces refinements to formation models, and enough anomalies eventually require a rethinking of the fundamentals. This one is being described by researchers as an unexpectedly clean puzzle piece that doesn't match the picture they thought they were building.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1769255119722-4537443e3ba3?ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxleG9wbGFuZXQlMjBwbGFuZXQlMjBzcGFjZSUyMGFsaWVuJTIwd29ybGR8ZW58MHx8fHwxNzc0NTkxNTMwfDA&ixlib=rb-4.1.0&w=800",
+        "alt": "A vibrant pink and purple alien planet floating in deep dark space",
+        "credit": "Photo by Bhautik Patel on Unsplash",
+        "creditUrl": "https://unsplash.com/@bhautik_patel3?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        {"title": "ScienceDaily: Space & Time News", "url": "https://www.sciencedaily.com/news/space_time/"},
+        {"title": "Space.com: Latest Space and Astronomy News", "url": "https://www.space.com/news"},
+        {"title": "Phys.org: Space News", "url": "https://phys.org/space-news/"}
+      ],
+      "tags": ["Space", "Astronomy", "Exoplanets"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Space.com", "Phys.org"]
+    }
+  ]
+}
