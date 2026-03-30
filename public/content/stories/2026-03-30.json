@@ -1,0 +1,291 @@
+{
+  "date": "2026-03-30",
+  "stories": [
+    {
+      "id": "2026-03-30-001",
+      "headline": "Artemis II Crew Boards Orion for Final Launch Rehearsal as April 1 Liftoff Approaches",
+      "hook": "For the first time in over half a century, four humans are about to leave Earth's neighborhood — and the countdown is real.",
+      "body": "NASA's Artemis II crew completed their final full-dress countdown rehearsal this week inside the Orion spacecraft at Kennedy Space Center, with mission managers confirming all systems are go for the April 1 launch window. Astronauts Reid Wiseman, Victor Glover, Christina Koch, and Canadian Space Agency's Jeremy Hansen — who will become the first humans to travel beyond low Earth orbit since Apollo 17 in 1972 — conducted emergency egress drills and full pre-launch simulations as forecasters put weather odds at roughly 80% favorable.\n\nThe mission profile calls for a free-return trajectory around the Moon — looping Orion within about 7,400 kilometers of the lunar surface before gravity slingshots the capsule back to Earth. The 10-day flight won't land on the Moon, but it will stress-test everything Orion needs to do to keep humans alive in deep space: life support, thermal management, navigation, and re-entry heating that will exceed 2,700°C as the capsule plunges back through Earth's atmosphere.\n\nArtemis III — the actual lunar landing — is currently targeting late 2027. But this flight is the proof of concept. If Orion performs as designed, humanity will officially be back in the business of exploring beyond Earth orbit for the first time in a generation.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1691085220902-6e4ce8887d4f?w=800",
+        "alt": "An astronaut holding a flag in front of a full moon",
+        "credit": "Photo by Shannon Kunkle on Unsplash",
+        "creditUrl": "https://unsplash.com/@photoskunk?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NASA: Artemis II Mission Overview", "url": "https://www.nasa.gov/mission/artemis-ii/" },
+        { "title": "Space.com: Artemis 2 launch updates", "url": "https://www.space.com/news/live/artemis-2-nasa-moon-mission-launch-updates-march-29-2026" },
+        { "title": "Reuters: NASA crew clears final milestone before Moon mission", "url": "https://www.reuters.com/science/space/nasa-artemis-ii-crew-final-preparations-moon-2026-03-29/" }
+      ],
+      "tags": ["Space", "NASA", "Moon", "Exploration"],
+      "readingTime": "2 min read",
+      "sources": ["NASA", "Space.com", "Reuters", "Canadian Space Agency"]
+    },
+    {
+      "id": "2026-03-30-002",
+      "headline": "Mars Dust Storms Are Blasting the Planet's Water Into Space — and Scientists Didn't Know That Was Happening",
+      "hook": "Mars is losing water faster than we thought, and a new study just rewrote our understanding of why.",
+      "body": "A new study published this week found that unusually intense localized dust storms on Mars are pushing water vapor high into the upper atmosphere during seasons when that wasn't supposed to happen. Once water reaches the upper atmosphere, solar radiation splits it into hydrogen and oxygen — and the hydrogen escapes into space permanently. The finding overturns the assumption that Martian Northern Hemisphere summers were a relatively quiet period for water loss.\n\nThe discovery matters because Mars once had liquid water on its surface — rivers, lakes, possibly even an ocean covering its northern hemisphere. Understanding exactly how and when Mars lost that water is central to the question of whether life ever existed there. If dust storms were driving water loss in seasons scientists previously ignored, the timeline of Mars's habitability window may need to be revised significantly.\n\nResearchers used data from multiple Mars orbiters to correlate specific storm events with spikes in upper-atmosphere water concentrations. The storms essentially act as water elevators, carrying moisture from the lower atmosphere to the top — where it can escape. The team noted that future missions to Mars will need to account for this mechanism in any models of the planet's current and historic water cycle.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=800",
+        "alt": "A simulated view of Mars showing its reddish surface and craters against a black background",
+        "credit": "Photo by NASA on Unsplash",
+        "creditUrl": "https://unsplash.com/@nasa?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Dust storms on Mars blast water into space", "url": "https://www.sciencedaily.com/releases/2026/03/260326075606.htm" },
+        { "title": "NASA Mars Exploration: Water on Mars", "url": "https://mars.nasa.gov/mars-exploration/science/water/" }
+      ],
+      "tags": ["Space", "Mars", "Science", "Climate"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "NASA", "Nature Geoscience"]
+    },
+    {
+      "id": "2026-03-30-003",
+      "headline": "A Cow Named Veronika Just Became the First of Her Species Confirmed to Use Tools",
+      "hook": "Scientists watched a dairy cow deliberately choose a brush, flip it to the correct side, and scratch her own back — and the implications are bigger than they sound.",
+      "body": "A study published in Current Biology this week documents Veronika, a cow at a German research farm, independently picking up a deck scrub brush and using it as a back-scratcher. What makes the behavior significant isn't just the tool use — it's that Veronika consistently selected the bristle side when scratching and the handle end when scratching more sensitive areas, demonstrating flexible, context-appropriate tool application. That level of deliberate adaptation had previously been documented only in primates, corvids, and a handful of other species regarded as cognitively advanced.\n\nThe researchers emphasize they observed this behavior spontaneously, without training. Veronika figured it out on her own and repeated it reliably across multiple sessions. The team notes that farm animals are rarely given opportunities to demonstrate complex cognition — they live in environments that don't present the kind of problem-solving challenges researchers use to test intelligence in wild animals.\n\nThe finding is the latest in a growing body of research suggesting that animals long dismissed as low-intelligence — pigs solving puzzles, chickens demonstrating self-control, fish recognizing themselves in mirrors — possess cognitive abilities we've systematically underestimated. For an industry that houses billions of these animals, the implications for animal welfare standards could be significant.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1603149883018-604b6284b12d?w=800",
+        "alt": "A close-up portrait of a brown cow looking directly at the camera",
+        "credit": "Photo by Harper Smith on Unsplash",
+        "creditUrl": "https://unsplash.com/@harper_smith?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Current Biology: Cow tool use study", "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(26)00245-3" },
+        { "title": "ScienceDaily: Cow uses tools like a primate", "url": "https://www.sciencedaily.com/releases/2026/03/260326075611.htm" }
+      ],
+      "tags": ["Animals", "Science", "Cognition", "Biology"],
+      "readingTime": "2 min read",
+      "sources": ["Current Biology", "ScienceDaily", "The Guardian"]
+    },
+    {
+      "id": "2026-03-30-004",
+      "headline": "Sharks Near the Bahamas Are Testing Positive for Human Antidepressants, Caffeine, and Painkillers",
+      "hook": "Pharmaceutical runoff has reached so far into the ocean that sharks are now carrying a cocktail of human drugs in their bloodstreams.",
+      "body": "A new study of sharks in the waters near Eleuthera Island in the Bahamas found that nearly one-third of the animals tested positive for detectable levels of human pharmaceuticals — including antidepressants, antihistamines, caffeine metabolites, and over-the-counter pain relievers. The chemicals enter the ocean primarily through wastewater treatment systems that aren't designed to filter out pharmaceutical compounds, as well as through septic leakage and stormwater runoff.\n\nThis is the first study to document pharmaceutical contamination in open-ocean sharks at this scale. Previous research had detected drugs in fish from coastal and freshwater environments near population centers, but the Bahamas findings suggest contamination is reaching animals far from the obvious sources. The sharks studied were nurse sharks and great hammerheads — species that range widely and feed at multiple trophic levels, meaning the chemicals are moving through the food web.\n\nResearchers don't yet know what behavioral or physiological effects, if any, these drug concentrations are having on the sharks. In fish, antidepressants have been shown to alter feeding behavior, boldness, and reproductive timing. Whether similar effects occur in sharks at the concentrations detected is an open research question — but the finding underscores how thoroughly human pharmaceutical production has penetrated marine ecosystems that were once assumed to be far beyond our reach.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1540242236971-b061dc3dc2cc?w=800",
+        "alt": "A reef shark gliding through clear blue ocean water",
+        "credit": "Photo by Kurt Cotoaga on Unsplash",
+        "creditUrl": "https://unsplash.com/@kydroon?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Study: Pharmaceutical contamination in Bahamian sharks", "url": "https://www.sciencedirect.com/science/article/pii/S0269749126003456" },
+        { "title": "BBC: Drugs found in Bahamas sharks", "url": "https://www.bbc.com/news/science-environment-68972345" }
+      ],
+      "tags": ["Ocean", "Environment", "Science", "Wildlife"],
+      "readingTime": "2 min read",
+      "sources": ["Environmental Science & Technology", "BBC", "New Scientist"]
+    },
+    {
+      "id": "2026-03-30-005",
+      "headline": "Wolves Have Been Running a Decade-Long Theft Operation Against Mountain Lions in Yellowstone",
+      "hook": "New GPS data reveals wolves don't just compete with cougars for prey — they systematically steal their kills, and it's reshaping the entire ecosystem.",
+      "body": "A decade-long study tracking wolves and mountain lions across Yellowstone with GPS collars and thousands of documented kill sites has revealed that wolves are prolific kleptoparasites — animals that make a living stealing food from other predators. The data shows wolves regularly locate cougar kills, wait for the cats to move away, and then move in to consume the carcass. Cougars lose a significant fraction of their successful hunts to wolf interference, and the effect compounds: cougars must kill more frequently to meet their caloric needs, burning more energy and spending more time in exposed hunting situations.\n\nThe ripple effects extend beyond just the two predator species. Cougars have begun avoiding areas of high wolf activity, shifting their hunting zones and prey selection in response to the theft pressure. This in turn is changing which deer and elk populations face the most predation pressure, affecting vegetation in areas cougars have vacated, and altering the distribution of prey species across the park.\n\nThe finding illustrates the complexity of predator reintroduction. When wolves were brought back to Yellowstone in 1995, ecologists anticipated direct competition between wolves and cougars. They didn't fully anticipate that wolves would steal rather than just compete — and that this indirect effect would ripple so deeply through the ecosystem's structure.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1559736139-6531cc82432e?w=800",
+        "alt": "A gray wolf standing alert on brown grass in a wild landscape",
+        "credit": "Photo by Vincent van Zalinge on Unsplash",
+        "creditUrl": "https://unsplash.com/@vincentvanzalinge?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Study: Wolf kleptoparasitism in Yellowstone", "url": "https://www.journals.uchicago.edu/doi/10.1086/723456" },
+        { "title": "Yellowstone Wolf Project", "url": "https://www.nps.gov/yell/learn/nature/wolves.htm" }
+      ],
+      "tags": ["Wildlife", "Nature", "Ecology", "Yellowstone"],
+      "readingTime": "2 min read",
+      "sources": ["The American Naturalist", "NPS", "The Atlantic"]
+    },
+    {
+      "id": "2026-03-30-006",
+      "headline": "Scientists Found 24 New Deep-Sea Species So Alien They Required an Entirely New Branch of Life",
+      "hook": "In the deep Pacific — a zone about to be industrially mined — researchers just discovered creatures so genetically strange they don't fit anywhere on the existing tree of life.",
+      "body": "An international research team studying the Clarion-Clipperton Zone in the eastern Pacific has announced the discovery of 24 new amphipod species, including one so genetically distinct from all known life that it required the creation of a new superfamily — a classification level above family — to accommodate it. Named Mirabestia maisie, the creature belongs to an entirely new evolutionary lineage that scientists estimate branched off from other life hundreds of millions of years ago and has been evolving in the deep Pacific ever since.\n\nThe Clarion-Clipperton Zone is a vast expanse of seafloor roughly the size of the continental United States, sitting 4,000–6,000 meters below the surface. It is also one of the richest known deposits of polymetallic nodules — mineral-encrusted rocks containing nickel, cobalt, and manganese that are essential for electric vehicle batteries and clean energy technologies. The Trump administration issued fast-tracked mining permits for portions of this zone in early 2026, putting the newly discovered species at immediate risk before their ecology is even understood.\n\nThe researchers note that the pace of discovery in the Clarion-Clipperton Zone suggests the full extent of its biodiversity hasn't been scratched. For every species found, dozens likely remain undescribed — and commercial-scale seafloor mining, which involves scraping vast swaths of sediment, would destroy those habitats comprehensively and irreversibly.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1550998095-2c11477f02a0?w=800",
+        "alt": "Bioluminescent jellyfish glowing in deep blue ocean water",
+        "credit": "Photo by CJ Dayrit on Unsplash",
+        "creditUrl": "https://unsplash.com/@cjred?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: New branch of life discovered in deep sea", "url": "https://www.sciencedaily.com/releases/2026/03/260325005912.htm" },
+        { "title": "Inside Climate News: New deep-sea creatures discovered", "url": "https://insideclimatenews.org/news/26032026/scientists-discover-new-deep-sea-creatures/" }
+      ],
+      "tags": ["Ocean", "Science", "Biodiversity", "Environment"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Inside Climate News", "Current Biology"]
+    },
+    {
+      "id": "2026-03-30-007",
+      "headline": "773,000-Year-Old Fossils in Morocco May Be the Common Ancestor of Humans, Neanderthals, and Denisovans",
+      "hook": "Remains found in a Moroccan cave have just been dated with unprecedented precision — and they may solve one of paleoanthropology's biggest open questions.",
+      "body": "Researchers using high-precision uranium-thorium dating have re-dated fossils from the Jebel Irhoud cave site in Morocco to approximately 773,000 years ago — roughly 100,000 years older than previous estimates. The bones show a fascinating blend of ancient and modern features: a face that looks surprisingly modern but a braincase that retains more archaic proportions. This combination places them in exactly the right time window and morphological space to be the last common ancestor of three human lineages: modern Homo sapiens, Neanderthals, and the enigmatic Denisovans.\n\nIf confirmed, the finding would resolve a longstanding debate about where and when our lineage diverged. For decades, the dominant model placed the human-Neanderthal split somewhere between 500,000 and 700,000 years ago in Europe or western Asia. The Jebel Irhoud dates push that back significantly and relocate the likely origin point to Africa — which aligns with genetic evidence suggesting our deepest roots are African.\n\nThe fossils also add weight to the emerging picture of early human evolution as a messy, continent-wide process rather than a tidy linear sequence. Populations were apparently meeting, mixing, and occasionally producing offspring across vast distances long before the behavioral modernity that we associate with modern humans emerged.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1773633493408-104c563c39ac?w=800",
+        "alt": "An ancient hominid skull displayed on a museum pedestal under dramatic lighting",
+        "credit": "Photo by HsinKai Tai on Unsplash",
+        "creditUrl": "https://unsplash.com/@able527?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: 773,000-year-old fossils may be shared human ancestor", "url": "https://www.sciencedaily.com/releases/2026/02/260206012221.htm" },
+        { "title": "Nature: Revised dating of Jebel Irhoud fossils", "url": "https://www.nature.com/articles/s41586-026-07823-2" }
+      ],
+      "tags": ["Archaeology", "Evolution", "Paleontology", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Nature", "Smithsonian Magazine"]
+    },
+    {
+      "id": "2026-03-30-008",
+      "headline": "It Was Neanderthal Men Mating With Human Women — Genomics Just Confirmed the Direction",
+      "hook": "Ancient DNA in modern human chromosomes has finally told us which way the attraction ran between our ancestors and their closest relatives.",
+      "body": "A study from the University of Pennsylvania has analyzed thousands of modern human genomes to determine the directionality of ancient mating between Homo sapiens and Neanderthals — a question that has puzzled researchers since the discovery that most people outside sub-Saharan Africa carry 1-4% Neanderthal DNA. The answer: it was predominantly Neanderthal males mating with modern human females, not the other way around.\n\nThe key evidence comes from chromosome X. Human females carry two X chromosomes; males carry one X and one Y. If Neanderthal females had been the ones mating with human males, modern human X chromosomes would carry substantial Neanderthal sequences. Instead, the researchers found the opposite: human X chromosomes have unusually low Neanderthal ancestry compared to the rest of the genome, while Neanderthal X chromosomes show more human ancestry — the expected pattern if Neanderthal males fathered children with human women.\n\nThe researchers also found evidence that some Neanderthal-human hybrid offspring were less fertile than either parent species — a common pattern in hybrid zones between closely related species. This would have naturally limited gene flow over time, explaining why Neanderthal ancestry in modern humans stabilized at just a few percent rather than rising higher. The finding doesn't change how much Neanderthal DNA we carry, but it gives us a strikingly concrete picture of how those ancient encounters unfolded.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1765969934052-85923ca4fd5a?w=800",
+        "alt": "Skeleton of an ancient large mammal displayed in a natural history museum",
+        "credit": "Photo by Antony Hyson Seltran on Unsplash",
+        "creditUrl": "https://unsplash.com/@hyson?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Penn Today: Ancient attraction between Neanderthals and humans", "url": "https://penntoday.upenn.edu/news/how-ancient-attraction-shaped-human-genome" },
+        { "title": "ScienceDaily: Neanderthal-human mating bias", "url": "https://www.sciencedaily.com/releases/2026/02/260217005754.htm" }
+      ],
+      "tags": ["Evolution", "Genetics", "Archaeology", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Penn Today", "ScienceDaily", "Science Advances"]
+    },
+    {
+      "id": "2026-03-30-009",
+      "headline": "IBM Created a Molecule Whose Electrons Travel in a Half-Twisted Loop That's Never Been Seen Before",
+      "hook": "A new molecule defies conventional chemistry — its electrons travel through the structure in a half-Möbius loop, giving it properties that simply don't exist in normal matter.",
+      "body": "IBM researchers and university collaborators have synthesized a molecule with what they're calling half-Möbius electronic topology — a structure in which the electrons traveling through the molecule make a half-twist as they complete their circuit through the ring-shaped compound. A Möbius strip, the famous mathematical object with only one surface, requires a full 180-degree twist. This molecule does half of that, creating an electron pathway with no classical precedent.\n\nTo confirm the exotic nature of the topology, the team used an IBM quantum computer to simulate the molecule's electronic structure — standard computational chemistry tools weren't capable of handling the complexity. The quantum simulation matched the experimental observations, validating both the molecular structure and the quantum computing approach simultaneously.\n\nThe practical implications aren't fully mapped yet, but the fundamental chemistry implications are significant. Molecular topology — the geometric shape of electron orbitals — determines how molecules react, what properties they have, and what they can be used for. A molecule with a genuinely new type of electronic topology is, in a sense, a new category of matter. Researchers speculate that half-Möbius molecules could have unique conductivity, magnetic, or optical properties that emerge specifically from this exotic geometry — opening potential applications in quantum electronics and molecular machines.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1758876569703-ea9b21463691?w=800",
+        "alt": "Old chemistry books and scientific glassware arranged on dark fabric",
+        "credit": "Photo by Gabriela on Unsplash",
+        "creditUrl": "https://unsplash.com/@gabigi?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "IBM Newsroom: New molecule with half-Möbius topology", "url": "https://newsroom.ibm.com/2026-03-05-ibm-and-university-researchers-create-a-never-before-seen-molecule-and-prove-its-exotic-nature-with-quantum-computing" },
+        { "title": "Nature Chemistry: Half-Möbius aromatic molecule", "url": "https://www.nature.com/articles/s41557-026-01623-2" }
+      ],
+      "tags": ["Physics", "Chemistry", "Quantum Computing", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["IBM Research", "Nature Chemistry", "Ars Technica"]
+    },
+    {
+      "id": "2026-03-30-010",
+      "headline": "China Just Held the World's First Humanoid Robot Games, and the Machines Competed in Soccer, Boxing, and Kung Fu",
+      "hook": "China's 150+ humanoid robotics companies staged a live athletic competition for their machines — and the results were both impressive and deeply weird.",
+      "body": "Beijing hosted the inaugural Humanoid Robot Games this month, an Olympic-style competition in which humanoid robots from dozens of Chinese manufacturers competed in soccer, boxing, martial arts, gymnastics demonstrations, and obstacle course races. The event was part showcase, part engineering pressure test: competition conditions meant robots had to perform under time constraints, deal with unpredictable opponents, and recover from falls without human assistance.\n\nThe timing reflects China's massive bet on humanoid robotics. The Chinese government has identified humanoid robots as a strategic technology and has backed more than 150 startup companies in the sector with subsidies and policy support. The country now produces the majority of the world's humanoid robot units, though many remain in pre-commercial development stages.\n\nMeanwhile, the global humanoid market is heating up rapidly. Tesla's Optimus Gen 2 began limited home deliveries in early 2026. Boston Dynamics' fully electric Atlas robot started deployments at Hyundai's Georgia manufacturing plant. Figure's humanoid has been piloting warehouse tasks at BMW. The games signal that China views the race not as a laboratory competition but as a commercial one — and intends to win it.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1773558057882-5a9015d6db28?w=800",
+        "alt": "A futuristic humanoid robot with a sleek metallic body sitting in a thoughtful pose",
+        "credit": "Photo by Declan Sun on Unsplash",
+        "creditUrl": "https://unsplash.com/@declansun?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Reuters: China humanoid robot competition", "url": "https://www.reuters.com/technology/china-humanoid-robot-games-beijing-2026-03-27/" },
+        { "title": "The Verge: State of humanoid robots in 2026", "url": "https://www.theverge.com/2026/3/28/humanoid-robots-2026-state-of-the-industry" }
+      ],
+      "tags": ["Robotics", "Technology", "AI", "China"],
+      "readingTime": "2 min read",
+      "sources": ["Reuters", "The Verge", "IEEE Spectrum"]
+    },
+    {
+      "id": "2026-03-30-011",
+      "headline": "ADHD Brains Slip Into Brief Sleep-Like States While Trying to Focus, Study Finds",
+      "hook": "It's not that people with ADHD can't pay attention — their brains keep briefly falling asleep while they try.",
+      "body": "A new study using high-density EEG recordings has identified a distinct neural pattern in people with ADHD: during demanding cognitive tasks, their brains periodically slip into brief episodes of sleep-like activity — bursts of slow brainwaves typically seen during non-REM sleep — while the person is awake and trying to concentrate. These episodes, lasting one to three seconds each, occur far more frequently in ADHD subjects than in neurotypical controls performing the same tasks.\n\nThe finding reframes ADHD not as a deficit of attention capacity per se, but as a failure of sustained arousal. The brain's alerting systems — the networks responsible for maintaining the vigilance necessary for focused work — appear to be underpowered in ADHD, causing them to periodically lapse into low-activity states. From the outside, these lapses look like distraction. From the inside, they may feel like an inexplicable loss of focus or a sudden mental fog.\n\nImportantly, the study found that stimulant medications commonly used for ADHD (like amphetamines and methylphenidate) significantly reduced the frequency of these sleep-like episodes, which may explain at least part of their mechanism. The researchers suggest that future ADHD treatments targeting arousal regulation — including sleep quality improvements and circadian rhythm interventions — could be therapeutically valuable in ways not currently explored.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1549925245-f20a1bac6454?w=800",
+        "alt": "A dramatic black and white close-up photograph of a human brain",
+        "credit": "Photo by Alina Grubnyak on Unsplash",
+        "creditUrl": "https://unsplash.com/@alinnnaaaa?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Study: Sleep-like neural episodes in ADHD", "url": "https://www.nature.com/articles/s41591-026-02834-1" },
+        { "title": "ScienceDaily: ADHD and brain arousal findings", "url": "https://www.sciencedaily.com/releases/2026/03/260324065234.htm" }
+      ],
+      "tags": ["Neuroscience", "ADHD", "Medicine", "Brain"],
+      "readingTime": "2 min read",
+      "sources": ["Nature Medicine", "ScienceDaily", "New Scientist"]
+    },
+    {
+      "id": "2026-03-30-012",
+      "headline": "Metformin — Taken by 200 Million People — Works Partly Through the Brain, Not Just the Liver",
+      "hook": "One of the world's most prescribed drugs has been used for 60 years, and we're only now learning a major piece of how it actually works.",
+      "body": "Metformin, the first-line drug for type 2 diabetes taken by an estimated 200 million people worldwide, has long been understood to work primarily by reducing glucose production in the liver. A major new study has added a significant wrinkle: the drug also activates specific neurons in the brain that independently lower blood sugar, through a pathway entirely separate from its liver effects.\n\nThe researchers used a combination of mouse models with brain-specific drug delivery and human brain imaging studies to map a circuit: metformin activates neurons in the hypothalamus that express a key enzyme called AMPK, which then suppress glucose output through the nervous system. When this pathway was blocked in animal models, metformin's glucose-lowering effect was substantially reduced — even though liver function was unchanged.\n\nThe finding has several implications. First, it helps explain why metformin's effects are sometimes difficult to predict — individual variation in brain-based responsiveness may contribute to why some patients respond better than others. Second, it opens a new design space for next-generation diabetes drugs that target the brain pathway more specifically. Third, it adds to the growing body of evidence that the gut-liver-brain axis plays a far larger role in metabolic regulation than textbooks currently reflect — and that drugs acting on this axis may have broader effects on brain function than previously appreciated.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1596522016734-8e6136fe5cfa?w=800",
+        "alt": "Silver blister packs of pills on a vibrant red background",
+        "credit": "Photo by Miles Burke on Unsplash",
+        "creditUrl": "https://unsplash.com/@milesb?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Nature Metabolism: Metformin's brain pathway", "url": "https://www.nature.com/articles/s42255-026-01002-3" },
+        { "title": "The Guardian: How metformin works in the brain", "url": "https://www.theguardian.com/science/2026/mar/28/metformin-brain-diabetes-mechanism-revealed" }
+      ],
+      "tags": ["Medicine", "Neuroscience", "Diabetes", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Nature Metabolism", "The Guardian", "Science Translational Medicine"]
+    },
+    {
+      "id": "2026-03-30-013",
+      "headline": "China's 'Artificial Sun' Smashed a Plasma Density Limit Physicists Thought Was Fundamental",
+      "hook": "The main barrier to fusion power just got knocked down — and it happened quietly, in a Chinese tokamak, while most of the world wasn't watching.",
+      "body": "Scientists operating the EAST tokamak in Hefei, China reported this week that they sustained plasma at densities previously thought to be unstable in a magnetic confinement device. The Greenwald limit — a formula derived from decades of fusion research — predicted that above a certain plasma density, turbulence would inevitably destabilize the plasma and quench the reaction. EAST exceeded this limit by carefully controlling the magnetic geometry and cooling the plasma-facing walls, keeping the plasma stable for several seconds at unprecedented density.\n\nHigh plasma density is critical for fusion because it increases the collision rate between hydrogen atoms — which is what generates the fusion reaction and the energy output. Previous approaches to increasing fusion power mostly focused on higher temperatures or longer confinement times. Density was treated as a ceiling. This result suggests the ceiling is negotiable if you manage the plasma-wall interaction carefully enough.\n\nCommercial fusion has long been described as perpetually 20 years away. But a string of milestone results over the past two years — NIF's ignition achievement in 2022, multiple confinement records since, and now this density result — suggests the physics is moving faster than the engineering. The remaining challenge is building reactors that can sustain these conditions economically and at scale.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1496065187959-7f07b8353c55?w=800",
+        "alt": "A glowing plasma ball with electric tendrils of light against a dark background, held in a human hand",
+        "credit": "Photo by Ramón Salinero on Unsplash",
+        "creditUrl": "https://unsplash.com/@donramxn?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NucNet: China's artificial sun breaks fusion limit", "url": "https://www.nucnet.org/news/scientists-announce-major-nuclear-fusion-breakthrough-at-china-s-artificial-sun-1-1-2026" },
+        { "title": "Nature Physics: EAST plasma density record", "url": "https://www.nature.com/articles/s41567-026-02245-8" }
+      ],
+      "tags": ["Energy", "Fusion", "Physics", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["NucNet", "Nature Physics", "Science"]
+    },
+    {
+      "id": "2026-03-30-014",
+      "headline": "Direct Air Carbon Capture Just Hit $70 per Ton — and 130 New Facilities Are in the Pipeline",
+      "hook": "The technology that was supposed to be too expensive to matter is suddenly competitive, and the pipeline has exploded.",
+      "body": "For years, direct air capture (DAC) — technology that pulls carbon dioxide directly out of ambient air — has been dismissed by many climate economists as too expensive to be a serious tool in fighting climate change. Early DAC facilities operated at costs of $300–$600 per ton of CO₂ removed. At those prices, the technology couldn't scale to climate-relevant volumes without prohibitive subsidy levels.\n\nA new electrochemical DAC process developed by researchers at MIT and commercialized by two Boston-area startups has brought verified costs below $70 per ton in pilot deployments. The approach uses solid sorbent materials that bind CO₂ at near-ambient temperatures and release it with modest electrical inputs — avoiding the high-temperature heating that made earlier systems so energy-intensive. At $70/ton, DAC becomes economically comparable to some other carbon removal approaches and financially viable under existing federal tax credit structures in the United States.\n\nThe cost breakthrough has triggered a pipeline surge: carbon registries report 130 new DAC facility projects in permitting or early construction phases globally, the majority in the US, Iceland, and the UAE. Analysts caution that moving from pilot to commercial scale is a different engineering challenge, and that grid electricity carbon intensity matters enormously — a DAC facility powered by coal-heavy grids can produce more carbon than it removes. But for the first time, the math on direct air capture is starting to look like it might work.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1649079599861-f3f1c2c56176?w=800",
+        "alt": "A historical photograph of a large power plant with three tall smokestacks releasing white steam against a dramatic sky",
+        "credit": "Photo by Documerica on Unsplash",
+        "creditUrl": "https://unsplash.com/@documerica?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "MIT Technology Review: Climate tech breakthroughs in 2026", "url": "https://www.technologyreview.com/2026/01/15/1131348/climate-technologies-2026/" },
+        { "title": "Heirloom Carbon: Direct air capture costs", "url": "https://www.heirloomcarbon.com/news/cost-update-2026" }
+      ],
+      "tags": ["Climate", "Technology", "Energy", "Environment"],
+      "readingTime": "2 min read",
+      "sources": ["MIT Technology Review", "Nature Climate Change", "Bloomberg Green"]
+    },
+    {
+      "id": "2026-03-30-015",
+      "headline": "James Webb Spotted Five Galaxies Merging Just 800 Million Years After the Big Bang",
+      "hook": "Galaxy collisions were supposed to happen slowly — but JWST just found a five-way pileup in the infant universe that nobody expected.",
+      "body": "Astronomers using the James Webb Space Telescope have identified what they're calling the JWST Quintet: five galaxies in the midst of a massive merger event, captured when the universe was only about 800 million years old. Collisions between two galaxies are well-documented, but a five-way simultaneous merger this early in cosmic history pushes well outside what standard galaxy formation models predicted — these structures were supposed to require more time to assemble.\n\nThe images reveal halos of oxygen-rich gas surrounding the merging systems, a sign that the galaxies have already processed significant amounts of stellar material through multiple generations of star formation. Oxygen is only produced inside stars and ejected when they die, so its presence indicates active star formation and stellar evolution had been happening in these galaxies for hundreds of millions of years already — pushing back the timeline of when the universe's first complex chemical enrichment began.\n\nThe discovery adds to a growing pile of JWST observations that are straining current cosmological models. The telescope has now found dozens of galaxies that appear too massive, too chemically complex, and too structurally mature for their age. Cosmologists are debating whether the models need tweaking, whether there are observational biases at play, or whether something genuinely unexpected about the early universe remains to be understood.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1707057538463-189706d39db3?w=800",
+        "alt": "A Hubble Space Telescope image of a dense galaxy cluster with hundreds of galaxies glowing against the black of deep space",
+        "credit": "Photo by NASA Hubble Space Telescope on Unsplash",
+        "creditUrl": "https://unsplash.com/@hubblespacetelescope?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Texas A&M: JWST finds early-universe galaxy collision", "url": "https://stories.tamu.edu/news/2026/01/29/james-webb-space-telescope-finds-an-early-universe-galaxy-collision-no-one-expected/" },
+        { "title": "NASA JWST: Latest discoveries", "url": "https://www.nasa.gov/mission/webb/latest-news/" }
+      ],
+      "tags": ["Space", "Astronomy", "JWST", "Cosmology"],
+      "readingTime": "2 min read",
+      "sources": ["Texas A&M University", "NASA", "Astrophysical Journal Letters"]
+    }
+  ]
+}
