@@ -1,0 +1,301 @@
+{
+  "date": "2026-03-31",
+  "stories": [
+    {
+      "id": "2026-03-31-001",
+      "headline": "Artemis II Launches Tomorrow: First Humans to Circle the Moon Since 1972",
+      "hook": "Four astronauts are about to see parts of the Moon no human eyes have ever directly observed.",
+      "body": "NASA's Artemis II mission is set to launch April 1, 2026, sending commander Reid Wiseman, pilot Victor Glover, mission specialist Christina Koch, and Canadian astronaut Jeremy Hansen on a ten-day free-return trajectory around the Moon and back. It's the first crewed mission beyond low Earth orbit in 54 years — since Apollo 17 in 1972.\n\nThe mission is packed with historic firsts: Victor Glover becomes the first person of color to travel to deep space, Koch the first woman, and Hansen the first non-American. The crew will loop around the far side of the Moon, directly observing a portion of the lunar surface — roughly 21% — that no human being has ever seen with their own eyes from space.\n\nArtemis II is a critical rehearsal for Artemis III, which plans to land humans on the Moon's south pole. Weather forecasts show 80% favorable launch conditions. The mission will test the Orion capsule's life-support systems, communications, and propulsion on the long voyage — laying the groundwork for humanity's return to the lunar surface.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1691085220902-6e4ce8887d4f?w=800&auto=format&fit=crop",
+        "alt": "An astronaut holding a flag in front of a full moon",
+        "credit": "Photo by Shannon Kunkle on Unsplash",
+        "creditUrl": "https://unsplash.com/@photoskunk?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NASA Artemis II mission overview", "url": "https://www.nasa.gov/missions/artemis/artemis-ii/" },
+        { "title": "Live launch updates — Space.com", "url": "https://www.space.com/news/live/artemis-2-nasa-moon-mission-launch-updates-march-30-2026" },
+        { "title": "NPR: Astronauts prepare for Moon return", "url": "https://www.npr.org/2026/03/30/nx-s1-5698159/nasa-artemis-ii-astronauts-moon-return-this-week" }
+      ],
+      "tags": ["Space", "NASA", "Moon"],
+      "readingTime": "2 min read",
+      "sources": ["NASA", "Space.com", "NPR", "CBS News"]
+    },
+    {
+      "id": "2026-03-31-002",
+      "headline": "Hubble Was Pointed Elsewhere When It Accidentally Caught a Comet Tearing Itself Apart",
+      "hook": "The comet wasn't even the target — making this one of the most serendipitous discoveries in astronomy.",
+      "body": "NASA's Hubble Space Telescope was trained on a completely different object when it stumbled upon comet C/2025 K1 (ATLAS) mid-disintegration. Over three consecutive days in November 2025, Hubble's camera captured the comet fragmenting into at least four distinct pieces, each developing its own coma — the hazy atmosphere surrounding a comet's nucleus.\n\nResearchers estimate the breakup began roughly eight days before Hubble captured it, making this the earliest any comet has been caught in the act of self-destruction. The findings, published in the journal Icarus, mark the first time Hubble has observed a comet so early in the fragmentation process.\n\nComets can break apart for several reasons: tidal stress from close solar passes, internal gas pressure as ice vaporizes, or rotational instability. Astronomers have spent decades trying to catch a comet fragmentation event at inception. That it happened while Hubble was looking somewhere else entirely underscores how much of the universe we discover by sheer accident — and how much more we'd see with more eyes on the sky.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1729174066356-e2d096331fe0?w=800&auto=format&fit=crop",
+        "alt": "A comet streaking across the night sky",
+        "credit": "Photo by Mohamed Fsili on Unsplash",
+        "creditUrl": "https://unsplash.com/@mfsili?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NASA: Hubble unexpectedly catches comet breaking up", "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-unexpectedly-catches-comet-breaking-up/" },
+        { "title": "ScienceDaily: Comet fragmentation study", "url": "https://www.sciencedaily.com/releases/2026/03/260321012648.htm" },
+        { "title": "Space.com coverage", "url": "https://www.space.com/astronomy/comets/hubble-space-telescope-accidentally-witnesses-comet-c-2025-k1-atlas-breaking-apart" }
+      ],
+      "tags": ["Space", "Astronomy", "Discovery"],
+      "readingTime": "2 min read",
+      "sources": ["NASA Science", "Icarus journal", "ScienceDaily"]
+    },
+    {
+      "id": "2026-03-31-003",
+      "headline": "Scientists Just Solved Water's 30-Year-Old Secret: There Are Two Kinds of Liquid Water",
+      "hook": "The most studied molecule on Earth had been hiding a fundamental secret about its own nature.",
+      "body": "Water expands when it freezes, boils at a strangely high temperature for a small molecule, and behaves in anomalous ways when supercooled below zero. For three decades, physicists have theorized that all of water's quirks could be explained by a hidden \"liquid-liquid critical point\" — a boundary where two structurally distinct liquid phases of water merge into one.\n\nNow, researchers at Stockholm University have confirmed that critical point experimentally for the first time. Using X-ray lasers at the Pohang Accelerator Laboratory in South Korea, they measured water at approximately −63°C and 1,000 atmospheres of pressure, finding direct evidence of the predicted transition between a low-density liquid form and a denser, more tetrahedral form. The paper was published in Science on March 26, 2026.\n\nThe implications go beyond satisfying theoretical curiosity. The two-liquid model of water may help explain how proteins fold, how ice nucleates in clouds, and how life-sustaining chemistry works at very low temperatures. It also has implications for cryogenics, pharmaceutical storage, and the search for water-bearing planets elsewhere in the universe. Sometimes the most familiar substance hides the most surprising physics.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1556197176-a238f685fd49?w=800&auto=format&fit=crop",
+        "alt": "A drop of water falling into liquid, creating a crown-shaped splash",
+        "credit": "Photo by César Couto on Unsplash",
+        "creditUrl": "https://unsplash.com/@xcrap?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Science journal: Water critical point paper", "url": "https://www.science.org/doi/10.1126/science.aec0018" },
+        { "title": "ScienceDaily coverage", "url": "https://www.sciencedaily.com/releases/2026/03/260328043551.htm" },
+        { "title": "Phys.org: X-ray laser discovery", "url": "https://phys.org/news/2026-03-ray-lasers-enable-discovery-critical.html" }
+      ],
+      "tags": ["Science", "Physics", "Discovery"],
+      "readingTime": "2 min read",
+      "sources": ["Science journal", "Stockholm University", "Phys.org"]
+    },
+    {
+      "id": "2026-03-31-004",
+      "headline": "Malaria Parasites Are Full of Tiny Spinning 'Rocket Engines' — And Scientists Finally Know Why",
+      "hook": "The same chemistry that powers rocket propellant is running inside one of the world's deadliest parasites.",
+      "body": "Inside the blood cells ravaged by malaria, millions of microscopic iron crystals are furiously spinning — and scientists at the University of Utah have finally figured out why. These crystals, called hemozoin, are made from heme, a byproduct of the parasite's digestion of hemoglobin. They spin because they're powered by the rapid breakdown of hydrogen peroxide into water and oxygen — the exact same exothermic reaction used in rocket propellant.\n\nThe discovery, published in the Proceedings of the National Academy of Sciences, reveals that this biological \"rocket engine\" likely helps the malaria parasite (Plasmodium) detoxify the toxic hydrogen peroxide that builds up as a byproduct of its own metabolism, while simultaneously managing excess iron that would otherwise kill it.\n\nThe most exciting part: this mechanism exists nowhere in human cells. That makes it an extremely attractive drug target — a way to attack the parasite without harming the patient. Researchers are now exploring whether drugs can be designed to jam the spinning mechanism or block the hydrogen peroxide reaction. Beyond medicine, the finding could inspire new designs in microscale robotics and chemical engines. It turns out evolution found rocket chemistry long before we did.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1707944745880-5c8a64617458?w=800&auto=format&fit=crop",
+        "alt": "A dissecting microscope used for malaria and vector research",
+        "credit": "Photo by National Institute of Allergy and Infectious Diseases on Unsplash",
+        "creditUrl": "https://unsplash.com/@niaid?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Malaria spinning crystals", "url": "https://www.sciencedaily.com/releases/2026/03/260318033111.htm" },
+        { "title": "University of Utah Health announcement", "url": "https://healthcare.utah.edu/newsroom/news/2025/10/malaria-parasites-are-full-of-wildly-spinning-iron-crystals-scientists-finally-know-why" },
+        { "title": "EurekAlert", "url": "https://www.eurekalert.org/news-releases/1103926" }
+      ],
+      "tags": ["Science", "Biology", "Medicine"],
+      "readingTime": "2 min read",
+      "sources": ["University of Utah", "PNAS journal", "ScienceDaily"]
+    },
+    {
+      "id": "2026-03-31-005",
+      "headline": "A Bonobo Named Kanzi Just Passed the Imagination Test — Rewriting What We Know About Ape Minds",
+      "hook": "Playing pretend requires imagining things that don't exist, a skill scientists thought was uniquely human.",
+      "body": "Kanzi is a 43-year-old bonobo living at the Ape Initiative research center in Iowa. In a series of experiments published in Science, researchers at Johns Hopkins showed that Kanzi can engage in pretend play — a cognitive ability once thought to be exclusively human.\n\nHere's how they tested it: a researcher would mime pouring juice from an empty pitcher into two empty cups, then pointedly dump one cup. When asked \"where's the juice?\", Kanzi consistently pointed to the cup that still contained the imaginary liquid. In follow-up tests, when given the choice between a cup with real juice and a cup with pretend juice, Kanzi reliably chose the real one — demonstrating that he understood the distinction between imagination and reality.\n\nPretend play requires representing objects that exist only in the mind. It's the cognitive bedrock of fiction, planning, and empathy. Discovering that a bonobo can track imaginary states suggests this capacity may have roots dating back six to nine million years, to the common ancestor of humans and great apes. It also raises uncomfortable questions: if apes can imagine, what moral weight does that carry? The tea party just got a lot more philosophically interesting.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1767478142857-8b5bedbe94bd?w=800&auto=format&fit=crop",
+        "alt": "Two chimpanzees sitting together on a wooden platform",
+        "credit": "Photo by sebastian alvarado rojas on Unsplash",
+        "creditUrl": "https://unsplash.com/@sebastuan4?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Science journal: Bonobo pretend play study", "url": "https://www.science.org/doi/10.1126/science.adz0743" },
+        { "title": "Smithsonian Magazine coverage", "url": "https://www.smithsonianmag.com/smart-news/can-bonobos-play-pretend-what-scientists-learned-from-having-imaginary-tea-parties-with-kanzi-the-bonobo-180988241/" },
+        { "title": "NPR: Apes and imagination", "url": "https://www.npr.org/2026/02/10/nx-s1-5707560/apes-imagination-research-bonobos-cognition" }
+      ],
+      "tags": ["Science", "Animals", "Cognition"],
+      "readingTime": "2 min read",
+      "sources": ["Science journal", "Johns Hopkins University", "Smithsonian Magazine"]
+    },
+    {
+      "id": "2026-03-31-006",
+      "headline": "Scientists Found 24 New Deep-Sea Species — Including an Entirely New Branch of Life — in a Zone Slated for Mining",
+      "hook": "We're discovering completely new branches of the tree of life in an area that could be industrially destroyed before we've finished mapping it.",
+      "body": "A team of 16 researchers has published a special issue in ZooKeys describing 24 new amphipod species from the Clarion-Clipperton Zone (CCZ), a vast stretch of the Pacific Ocean between Hawaii and Mexico sitting roughly 13,000 feet underwater. Among the discoveries is Mirabestia maisie — a creature so different from everything known that scientists had to create both a new family and a new superfamily for it. That's a new branch of the animal evolutionary tree.\n\nThe CCZ covers about six million square kilometers of seafloor. It's also the primary target for commercial deep-sea manganese nodule mining — metallic lumps rich in cobalt, nickel, and rare earth elements used in batteries and electronics. Companies and nations are racing to secure contracts, while scientists warn that more than 90% of CCZ species remain unnamed.\n\nThe urgency is stark: every new species discovered is a species that could be wiped out before anyone knows it exists. Mirabestia maisie, the creature that warranted an entirely new branch of the animal tree, was found alive and thriving — for now. The discovery adds to a growing case that mining the deep sea could destroy ecosystems of staggering biological richness that we are only beginning to understand.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1628371164958-887b4c79a6be?w=800&auto=format&fit=crop",
+        "alt": "Blue and white bubbles rising through deep water",
+        "credit": "Photo by Jeremy Lanfranchi on Unsplash",
+        "creditUrl": "https://unsplash.com/@ridershow?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: 24 new deep-sea species", "url": "https://www.sciencedaily.com/releases/2026/03/260325005912.htm" },
+        { "title": "Natural History Museum coverage", "url": "https://www.nhm.ac.uk/discover/news/2026/march/dozens-deep-sea-species-discovered-new-crustaceans-named.html" },
+        { "title": "Inside Climate News", "url": "https://insideclimatenews.org/news/26032026/scientists-discover-new-deep-sea-creatures/" }
+      ],
+      "tags": ["Science", "Ocean", "Environment"],
+      "readingTime": "2 min read",
+      "sources": ["ZooKeys journal", "Natural History Museum", "ScienceDaily"]
+    },
+    {
+      "id": "2026-03-31-007",
+      "headline": "The FDA Has Cleared the First Human Trial of a Gene Therapy That Reverses Biological Aging",
+      "hook": "A technology proven to reverse aging in blind mice is now heading into human eyes.",
+      "body": "Life Biosciences, a Boston biotech co-founded by Harvard professor David Sinclair, has received FDA clearance to begin the first human clinical trial of epigenetic reprogramming — a gene therapy designed to reset the cellular clock and reverse biological aging.\n\nThe approach uses three of the four \"Yamanaka factors\" (the OSK combination, deliberately excluding c-Myc, which is associated with cancer) to reprogram aging cells back to a younger state without erasing their specialized identity. In animal studies, the therapy has reversed aging in retinal cells and restored vision in mice that had been rendered functionally blind. The Phase 1 trial will initially target patients with open-angle glaucoma and a condition called nonarteritic anterior ischemic optic neuropathy (NAION), which causes sudden, permanent vision loss.\n\nHuman enrollment is expected to begin within months. The approach, published in Nature Biotechnology, represents a genuine landmark: for the first time, a technology proven to reverse biological aging in animals is crossing into human testing. If the safety profile holds and early results are promising, the implications for age-related diseases — and eventually aging itself — could be profound. This is the moment a generation of longevity researchers has been working toward.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1578496480240-32d3e0c04525?w=800&auto=format&fit=crop",
+        "alt": "A researcher holding test tubes in a genetics laboratory",
+        "credit": "Photo by National Cancer Institute on Unsplash",
+        "creditUrl": "https://unsplash.com/@nci?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "MIT Technology Review coverage", "url": "https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/" },
+        { "title": "Nature Biotechnology paper", "url": "https://www.nature.com/articles/s41587-026-03037-z" },
+        { "title": "Life Biosciences FDA clearance announcement", "url": "https://www.lifebiosciences.com/life-biosciences-announces-fda-clearance-of-ind-application-for-er-100-in-optic-neuropathies/" }
+      ],
+      "tags": ["Medicine", "Science", "Longevity"],
+      "readingTime": "2 min read",
+      "sources": ["Life Biosciences", "MIT Technology Review", "Nature Biotechnology"]
+    },
+    {
+      "id": "2026-03-31-008",
+      "headline": "Scientists Built a Lab-Grown Food Pipe and Successfully Implanted It — Without Immunosuppressants",
+      "hook": "The body accepted the engineered organ as its own, which changes everything about transplant medicine.",
+      "body": "Researchers from University College London and Great Ormond Street Hospital have engineered the world's first functional lab-grown oesophagus (the food pipe connecting throat to stomach) and successfully implanted it in eight growing pigs. The results, six months later: all animals could eat normally, gained weight at a healthy rate, and — crucially — required no immunosuppressant drugs.\n\nThe process works by taking donor oesophagus tissue, stripping it of all cells to leave only a structural scaffold, then repopulating that scaffold with the recipient's own muscle and stem cells. Because the final implant is built from the recipient's own cells, the immune system recognizes it as self and doesn't reject it. By six months, the engineered organ had developed its own functional muscle layers, nerve supply, and blood vessels.\n\nThe target population is children born with long-gap oesophageal atresia — a condition where a section of the food pipe is missing, currently requiring complex, painful surgical procedures. Researchers are targeting clinical application in children within five years. The no-immunosuppression result is the key breakthrough: it means a child wouldn't face a lifetime of drugs with severe side effects. The team believes the scaffold technique could eventually be applied to other tubular organs.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1757152962882-6bf8495b324d?w=800&auto=format&fit=crop",
+        "alt": "Surgeons in blue scrubs operating on a patient with monitors displaying medical data",
+        "credit": "Photo by Ritu Chauhan on Unsplash",
+        "creditUrl": "https://unsplash.com/@rituchauhan?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "GOSH: Lab-grown oesophagus announcement", "url": "https://www.gosh.org/news/gosh-charity-funded-team-engineers-first-lab-grown-oesophagus/" },
+        { "title": "UCL News coverage", "url": "https://www.ucl.ac.uk/news/2026/mar/engineered-tissue-offers-hope-babies-born-missing-food-pipe-section" },
+        { "title": "EurekAlert", "url": "https://www.eurekalert.org/news-releases/1120417" }
+      ],
+      "tags": ["Medicine", "Science", "Innovation"],
+      "readingTime": "2 min read",
+      "sources": ["UCL", "Great Ormond Street Hospital", "EurekAlert"]
+    },
+    {
+      "id": "2026-03-31-009",
+      "headline": "The World's Oldest Art Is a 67,800-Year-Old Hand Stencil — Found in an Indonesian Cave",
+      "hook": "It beats the previous record by 16,600 years and is upending the story of where human creativity began.",
+      "body": "A hand stencil painted in a cave on the Indonesian island of Muna has been dated to at least 67,800 years ago, making it the oldest known piece of art ever created by a human being. Researchers from Griffith University published the finding in Nature, revealing that the stencil was made by pressing a hand against the cave wall and blowing pigment around it — a technique still recognizable today.\n\nThe discovery beats the previous record (also from Indonesia) by 16,600 years, and surpasses the famous Neanderthal hand stencils in Spain by over a thousand years. The Muna stencil was made by Homo sapiens. One finger is stylized into a pointed, claw-like shape — a distinctive style found only among the cave art of Sulawesi.\n\nThis is now the third time in recent years that Indonesia has claimed the world's oldest known art record, and each discovery has increasingly challenged the long-held Eurocentric narrative that the \"creative explosion\" of human culture originated in Europe. Instead, evidence is pointing to Southeast Asia as the birthplace — or at least an equally early cradle — of human symbolic expression. Before 67,800 years ago, someone stood in that cave, pressed their hand to the wall, and left a mark that still resonates today.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1761171489318-5fe520b8cbf8?w=800&auto=format&fit=crop",
+        "alt": "Ancient handprints painted on a rock surface",
+        "credit": "Photo by Alex Moliski on Unsplash",
+        "creditUrl": "https://unsplash.com/@alexmoliski?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Nature: Indonesia rock art paper", "url": "https://www.nature.com/articles/s41586-025-09968-y" },
+        { "title": "National Geographic coverage", "url": "https://www.nationalgeographic.com/history/article/worlds-oldest-rock-art-indonesia-hand-stencil" },
+        { "title": "NPR coverage", "url": "https://www.npr.org/2026/01/30/nx-s1-5684103/a-stencil-of-a-handprint-in-an-indonesian-cave-is-the-oldest-known-rock-art" }
+      ],
+      "tags": ["Archaeology", "History", "Discovery"],
+      "readingTime": "2 min read",
+      "sources": ["Nature journal", "Griffith University", "National Geographic"]
+    },
+    {
+      "id": "2026-03-31-010",
+      "headline": "This Startup Trained an AI Model in Orbit and Just Raised $170M to Build Space-Based Data Centers",
+      "hook": "A satellite carrying an Nvidia H100 GPU already ran NanoGPT in orbit — and that's just the proof of concept.",
+      "body": "Starcloud, a Redmond, Washington startup, has raised $170 million in a Series A at a $1.1 billion valuation — making it the fastest Y Combinator company in history to reach unicorn status, just 17 months after demo day. Its thesis: demand for AI compute will eventually outstrip what Earth's power grids and real estate can provide, and space offers essentially unlimited solar energy with no land costs, no cooling infrastructure, and no zoning restrictions.\n\nThey've already launched a satellite carrying an Nvidia H100 GPU and successfully trained NanoGPT on the complete works of Shakespeare in orbit — the first known AI training run conducted in space. The next satellite, launching in October 2026, will carry an Nvidia Blackwell B200 chip capable of 100 times the power generation of its predecessor. The long-term vision is a constellation of 88,000 orbital data center satellites.\n\nThe economics argument is surprisingly compelling. Near-Earth orbit receives near-continuous solar exposure with no night cycle. Early customers are interested in training proprietary models in environments physically isolated from terrestrial infrastructure. Whether orbital data centers become a mainstream computing paradigm or remain an exotic niche, Starcloud's early success suggests the market is taking the idea seriously.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1770370419338-f9a813302baa?w=800&auto=format&fit=crop",
+        "alt": "Satellite orbiting Earth with clouds below",
+        "credit": "Photo by Mara F on Unsplash",
+        "creditUrl": "https://unsplash.com/@aidezmoijesuismara?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "TechCrunch: Starcloud raises $170M", "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/" },
+        { "title": "GeekWire: Starcloud hits $1.1B valuation", "url": "https://www.geekwire.com/2026/orbital-ai-seattle-area-startup-starcloud-hits-1-1b-valuation-to-build-space-based-data-centers/" }
+      ],
+      "tags": ["Technology", "AI", "Space"],
+      "readingTime": "2 min read",
+      "sources": ["TechCrunch", "GeekWire", "Tech Startups"]
+    },
+    {
+      "id": "2026-03-31-011",
+      "headline": "Scientists Just Grew Chickpeas in Fake Moon Dirt — Lunar Hummus Is Now a Plausible Goal",
+      "hook": "Astronauts on the Moon may one day grow their own protein-rich crops from the dust beneath their feet.",
+      "body": "Researchers at the University of Texas have successfully grown chickpeas and harvested viable seeds using simulated lunar regolith — soil engineered to match the composition of actual Moon dirt. The results, published in Scientific Reports, show that with the right biological help, one of the most nutritious crops on Earth can survive in conditions that would otherwise be toxic to plants.\n\nThe secret ingredients were worm compost and symbiotic fungi called arbuscular mycorrhizae, which protect plant roots from the heavy metals found in lunar soil. Plants flourished in soil mixes up to 75% simulated regolith; beyond that threshold, the plants showed stress responses. The fungi appeared critical for survival, effectively shielding the chickpeas from toxic metal uptake.\n\nWhy chickpeas specifically? They're calorie-dense, packed with protein, fix their own nitrogen (improving the soil as they grow), and are remarkably hardy. For long-duration lunar habitation — the kind NASA is planning — growing food in situ could dramatically reduce the cost and risk of relying on Earth resupply missions. The team's next step is testing whether the lunar-grown chickpeas absorb harmful metals and whether their nutritional profile meets human dietary needs. If so, the Moon's first restaurant might specialize in hummus.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1563760836797-bf5d5f9d2243?w=800&auto=format&fit=crop",
+        "alt": "A close-up of a green plant growing",
+        "credit": "Photo by Jen Theodore on Unsplash",
+        "creditUrl": "https://unsplash.com/@jentheodore?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "UT News: Scientists harvest chickpeas from moon dirt", "url": "https://news.utexas.edu/2026/03/09/scientists-successfully-harvest-chickpeas-from-moon-dirt/" },
+        { "title": "ScienceDaily coverage", "url": "https://www.sciencedaily.com/releases/2026/03/260312020101.htm" },
+        { "title": "Space.com: Lunar hummus", "url": "https://www.space.com/astronomy/moon/making-hummus-on-the-moon-scientists-just-grew-chickpeas-in-simulated-lunar-dirt" }
+      ],
+      "tags": ["Space", "Science", "Food"],
+      "readingTime": "2 min read",
+      "sources": ["University of Texas", "Scientific Reports", "ScienceDaily"]
+    },
+    {
+      "id": "2026-03-31-012",
+      "headline": "Bees and Hummingbirds Are Mildly Drunk on Fermented Nectar All Day Long",
+      "hook": "Your garden pollinators are doing their rounds on a low-level alcohol buzz, and scientists find it fascinating.",
+      "body": "A 2026 study has confirmed what a few eccentric botanists have long suspected: flower nectar naturally ferments, meaning it contains small but measurable amounts of ethanol. Bees and hummingbirds that visit dozens of flowers per day are continuously ingesting alcohol — essentially working through a gentle, self-replenishing cocktail.\n\nThe concentrations are generally low, but non-trivial enough that researchers have observed behavioral differences in pollinators after extended foraging sessions. Some bees showed impaired navigation in maze tests. Others appeared to preferentially return to flowers with slightly higher ethanol concentrations, suggesting they may actually seek it out.\n\nThe evolutionary question this raises is tantalizing: have bees and hummingbirds developed alcohol tolerance as an adaptation to their flower-dependent lifestyle? Are there plants that deliberately boost nectar ethanol to attract more frequent visits? And does the disinhibiting effect of low-dose alcohol make pollinators more or less efficient at their job of transferring pollen? Scientists note that approximately one-third of all human food production depends on pollinators. Understanding the full biochemistry of nectar — including the unexpected part where it ferments — may matter more than the amusing headline suggests.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1706377164044-df84fb7ade40?w=800&auto=format&fit=crop",
+        "alt": "A bee sitting on a yellow flower, collecting nectar",
+        "credit": "Photo by Garrett Hayes on Unsplash",
+        "creditUrl": "https://unsplash.com/@garrett_h0730?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "2026 in science — Wikipedia roundup", "url": "https://en.wikipedia.org/wiki/2026_in_science" }
+      ],
+      "tags": ["Science", "Nature", "Animals"],
+      "readingTime": "2 min read",
+      "sources": ["2026 science research", "ScienceDaily"]
+    },
+    {
+      "id": "2026-03-31-013",
+      "headline": "Ars Technica Fired a Reporter for Accidentally Using AI-Generated Fake Quotes",
+      "hook": "One of tech journalism's most trusted outlets just had an AI misinformation incident — from inside the newsroom.",
+      "body": "Ars Technica — widely considered one of the most credible and fact-rigorously tested science and technology publications on the internet — fired a reporter in March 2026 after published articles were found to contain fabricated quotes generated by an AI writing tool the reporter had used in their workflow. The reporter stated the AI-generated material was included accidentally rather than deliberately, and that they did not intend to deceive readers.\n\nThe incident sparked immediate and intense debate in journalism circles. Critics argued it exposes a critical gap in newsroom AI policies: when AI tools are integrated into writing workflows, even well-intentioned reporters can inadvertently launder hallucinated content into published work without realizing it. Defenders of the reporter emphasized the importance of distinguishing between intentional fraud and workflow accidents in the age of AI-assisted writing.\n\nArs Technica has built its reputation over decades on deep technical accuracy and rigorous sourcing — the kind of outlet that readers trust precisely because it doesn't get things wrong. The fact that it happened there underscores that no organization is insulated from AI-era misinformation risks originating internally. The episode is likely to accelerate newsroom conversations about mandatory AI disclosure policies, mandatory human verification workflows, and whether AI writing tools should be permitted in certain editorial contexts at all.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1692756227212-554860533282?w=800&auto=format&fit=crop",
+        "alt": "The New York Times building in New York City",
+        "credit": "Photo by Rafael Hoyos Weht on Unsplash",
+        "creditUrl": "https://unsplash.com/@rhweht?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Yahoo News / TheWrap coverage", "url": "https://www.yahoo.com/entertainment/articles/ars-technica-fires-reporter-over-163538865.html" },
+        { "title": "Techdirt analysis", "url": "https://www.techdirt.com/2026/03/11/ars-fires-reporter-for-accidentally-using-fake-ai-quotes/" }
+      ],
+      "tags": ["AI", "Media", "Technology"],
+      "readingTime": "2 min read",
+      "sources": ["TheWrap", "Techdirt", "Yahoo News"]
+    },
+    {
+      "id": "2026-03-31-014",
+      "headline": "A Mystery Oil Spill Has Spread 600 Kilometers Across the Gulf of Mexico, Killing Wildlife and Damaging 17 Reefs",
+      "hook": "Nobody knows which ship caused it, and Mexico's government took weeks to admit how bad it was.",
+      "body": "An oil spill of unknown origin has been spreading across the Gulf of Mexico, crossing more than 600 kilometers and affecting approximately 200 kilometers of Mexican coastline across the states of Veracruz and Tabasco. The slick has reached seven protected natural reserves. Conservation organization Oceana documented dead sea turtles, a manatee, and various fish, as well as damage to 17 coral reef systems. Oyster beds in the Mecoacan lagoon are at risk of collapse.\n\nInvestigators are trying to identify the source: early assessments pointed to an unidentified vessel combined with two natural underwater seeps, though the dominant contribution from each remains unclear. Mexican authorities were criticized for initially downplaying the scope of the spill — transparency concerns lingered for weeks before preliminary damage assessments were released to the public.\n\nThe Gulf of Mexico is one of the world's most biologically productive marine regions. Coral reefs in the area support hundreds of fish species and provide coastal protection against storms. Oil damage to reef systems can persist for decades: hydrocarbons smother coral polyps, impair their reproduction, and alter the chemical environment that symbiotic algae depend on. Environmental groups are calling for independent monitoring and accountability for the delayed governmental response.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1768759578182-b686cf94ddff?w=800&auto=format&fit=crop",
+        "alt": "Boats enclosed by a yellow containment boom in dark water",
+        "credit": "Photo by Dave Meckler on Unsplash",
+        "creditUrl": "https://unsplash.com/@phosphorvs?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Al Jazeera: Wildlife killed, reefs damaged", "url": "https://www.aljazeera.com/news/2026/3/27/wildlife-killed-reefs-damaged-in-active-gulf-of-mexico-oil-spill" },
+        { "title": "ABC News: Spill spreads hundreds of miles", "url": "https://abcnews.com/International/wireStory/gulf-mexico-oil-spill-spread-hundreds-miles-killed-131454235" },
+        { "title": "UPI: Transparency concerns", "url": "https://www.upi.com/Top_News/World-News/2026/03/25/latam-mexico-oil-spill-mystery/2701774460456/" }
+      ],
+      "tags": ["Environment", "Ocean", "World News"],
+      "readingTime": "2 min read",
+      "sources": ["Al Jazeera", "ABC News", "UPI", "Oceana"]
+    },
+    {
+      "id": "2026-03-31-015",
+      "headline": "Physicists Catalogued 218 Cosmic Collisions — Including a Black Hole Merger That Defies the Rules",
+      "hook": "Two massive objects merged while still traveling in an oval orbit, which shouldn't happen — and hints at a hidden third body.",
+      "body": "The LIGO-Virgo-KAGRA collaboration has released its fourth gravitational wave catalog, covering detections from 2015 through 2024. The catalog more than doubles all previous compilations with 128 new signals, bringing the total to 218 confirmed mergers of black holes, neutron stars, and mixed pairs.\n\nThe standout entry is GW200105, an event where a black hole and neutron star merged while traveling in an elliptical — oval-shaped — orbit rather than the near-perfect circles that physics normally predicts for objects that have been slowly spiraling together for millions of years. An oval orbit just before merger is a signature of dynamic formation: a third body likely gravitationally disturbed the pair, giving them a sudden nudge onto an eccentric path shortly before they collided.\n\nEach gravitational wave detection is, in a literal sense, a recording of two massive objects violently colliding billions of light years away — their death throes translated into ripples in the fabric of spacetime that travel to Earth and briefly stretch and compress the planet by less than the diameter of a proton. That we can detect these events at all is a triumph of engineering. That we're now finding ones that don't fit our models suggests there's more to learn about the dense, chaotic stellar environments — tight globular clusters, galactic nuclei — where the most extreme mergers occur.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1665386187745-a10e99ecb3fd?w=800&auto=format&fit=crop",
+        "alt": "The Milky Way galaxy arching across a dark night sky",
+        "credit": "Photo by Daniele Franchi on Unsplash",
+        "creditUrl": "https://unsplash.com/@daniele_franchi?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "MIT News: New gravitational wave catalog", "url": "https://news.mit.edu/2026/new-catalog-doubles-gravitational-wave-detections-made-ligo-virgo-kagra-0305" },
+        { "title": "ScienceDaily: Eccentric orbit black hole merger", "url": "https://www.sciencedaily.com/releases/2026/03/260311213432.htm" },
+        { "title": "Space.com: Odd orbits and physics", "url": "https://www.space.com/astronomy/black-holes/black-hole-and-neutron-star-mergers-push-the-laws-of-physics-with-their-odd-orbits" }
+      ],
+      "tags": ["Space", "Physics", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["LIGO-Virgo-KAGRA collaboration", "MIT News", "ScienceDaily"]
+    }
+  ]
+}
