@@ -1,0 +1,276 @@
+{
+  "date": "2026-04-03",
+  "stories": [
+    {
+      "id": "2026-04-03-001",
+      "headline": "The First Humans to Circle the Moon in 54 Years Are Heading Home",
+      "hook": "NASA's Artemis II crew swung around the far side of the Moon this week — farther from Earth than any humans since Apollo 13 in 1970.",
+      "body": "On April 1, 2026, four astronauts strapped into NASA's Orion capsule and rode the Space Launch System off the pad at Kennedy Space Center. Commander Reid Wiseman, pilot Victor Glover, mission specialist Christina Koch, and Canadian astronaut Jeremy Hansen are now looping around the Moon on a 10-day free-return trajectory — the first crewed lunar flyby since the Apollo era.\n\nThe mission, called Artemis II, isn't a landing. It's a shakedown cruise: a deep-space test of the Orion capsule's life-support systems, navigation, and crew operations before NASA attempts a lunar touchdown on Artemis III. At its farthest, the crew will be about 252,799 miles from Earth — 4,000 miles farther than the Apollo 13 record set in 1970.\n\nThe crew has already completed a key milestone: manually flying Orion in close formation with the interim cryogenic propulsion stage, a rehearsal for future docking maneuvers. Splashdown is scheduled for April 10 in the Pacific. If Artemis II succeeds, humanity could have boots on the lunar surface before the decade is out.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-U2uKrI4lci8?w=800",
+        "alt": "Astronaut standing on the Moon beside the U.S. flag",
+        "credit": "Photo by NASA on Unsplash",
+        "creditUrl": "https://unsplash.com/@nasa?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NASA: Artemis II Mission Overview", "url": "https://www.nasa.gov/mission/artemis-ii/" },
+        { "title": "Live updates: Artemis II crew circles the Moon", "url": "https://www.space.com/news/live/artemis-2-nasa-moon-mission-launch-updates-april-1-2026" }
+      ],
+      "tags": ["Space", "NASA", "Moon", "Artemis"],
+      "readingTime": "2 min read",
+      "sources": ["NASA", "Space.com", "CNN"]
+    },
+    {
+      "id": "2026-04-03-002",
+      "headline": "A Quantum Effect Predicted in 1939 Was Just Confirmed for the First Time",
+      "hook": "For 87 years, the Migdal effect sat in a physics textbook as theory — this year, scientists finally proved it real.",
+      "body": "In 1939, Soviet physicist Arkady Migdal published a prediction: when a fast-moving atom's nucleus recoils from a collision, it can kick out one of its own electrons in the process — not through a chemical bond breaking, but through pure quantum mechanics. It was an elegant theoretical prediction that proved devilishly hard to test.\n\nNow, physicists have confirmed the Migdal effect experimentally for the first time. The confirmation has implications well beyond textbook physics: it directly affects how scientists model dark matter detectors. Many proposed dark matter particles would interact with atomic nuclei at low energies where the Migdal effect dominates — meaning experiments searching for dark matter signals need to account for it precisely.\n\nThe confirmation came from a tabletop experiment at a national laboratory, using carefully prepared atomic beams and ultra-sensitive particle detectors. Eight decades after Migdal's pencil-and-paper prediction, experiment finally caught up with theory — and opened a sharper window onto the search for the universe's invisible matter.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-kprR9uza2D0?w=800",
+        "alt": "3D render of a quantum computing chip glowing with light",
+        "credit": "Photo by Alex Shuper on Unsplash",
+        "creditUrl": "https://unsplash.com/@alexshuperart?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "2026 in science — Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_in_science" }
+      ],
+      "tags": ["Physics", "Science", "Dark Matter", "Quantum"],
+      "readingTime": "2 min read",
+      "sources": ["Wikipedia — 2026 in science", "ScienceDaily"]
+    },
+    {
+      "id": "2026-04-03-003",
+      "headline": "Scientists Just Discovered a Completely New Branch of Deep-Sea Life",
+      "hook": "Researchers found 24 new amphipod species in the Pacific abyss — and some were so different they had to create an entirely new superfamily to classify them.",
+      "body": "The Clarion-Clipperton Zone — a vast stretch of the Pacific Ocean floor between Hawaii and Mexico — is one of the most remote places on Earth. It's also, it turns out, teeming with life no one has ever seen. A research expedition published results in late March 2026 announcing 24 new species of amphipod crustaceans, the shrimp-like creatures that scuttle across the deep seafloor.\n\nBut the headline number understates the discovery. Several of the new amphipods were so different from any known group that scientists had to establish an entirely new superfamily — Mirabestioidea — to classify them. In taxonomy, creating a new superfamily is rare; it means you've found a branch of the evolutionary tree, not just a new leaf on an existing one.\n\nThe discovery carries urgency: the Clarion-Clipperton Zone sits on vast deposits of polymetallic nodules — mineral-rich lumps on the seafloor that mining companies have targeted for extraction. Scientists warn that identifying this biodiversity is a race against time, as commercial deep-sea mining proposals edge closer to approval.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-CJrgoD2Socw?w=800",
+        "alt": "Humpback whale calf swimming with its mother in the deep blue Pacific Ocean",
+        "credit": "Photo by Getty Images on Unsplash",
+        "creditUrl": "https://unsplash.com/@gettyimages?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "New deep-sea species discovery — ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/03/260325005912.htm" }
+      ],
+      "tags": ["Ocean", "Biology", "Discovery", "Deep Sea"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Nature"]
+    },
+    {
+      "id": "2026-04-03-004",
+      "headline": "A Cow Just Became the First of Its Kind Known to Use Tools",
+      "hook": "A Brown Swiss cow named Veronika picked up a stick and used both ends to scratch her own back — the first documented case of tool use in cattle.",
+      "body": "Tool use was once considered uniquely human. Then we found it in chimps, crows, octopuses, fish, and dozens of other animals. Now add cattle to the list. Veronika, a Brown Swiss cow at a farm in Switzerland, was observed picking up a stick from the ground and using it to scratch her back — then flipping it around to use the other end for a different spot. Researchers published it as a genuine scientific finding.\n\nWhat makes this noteworthy isn't just the behavior itself but the flexibility it implies. Veronika didn't just use the stick once; she showed instrumental problem-solving — a deliberate selection and manipulation of an external object to meet a physical need. Previous observations of cattle interacting with objects were dismissed as play or accident.\n\nThe finding adds cattle to a growing list of farm and domesticated animals that show more cognitive complexity than their commercial context suggests. Researchers are now reviewing footage from other farms to see if the behavior is widespread or if Veronika is an exceptional individual.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-4Q1JMIB4BnM?w=800",
+        "alt": "A group of black and white cows grazing in a green field",
+        "credit": "Photo by Zoe Askew on Unsplash",
+        "creditUrl": "https://unsplash.com/@zoe_askew?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "2026 in science — Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_in_science" }
+      ],
+      "tags": ["Animals", "Science", "Behavior", "Cognition"],
+      "readingTime": "2 min read",
+      "sources": ["Wikipedia — 2026 in science", "ScienceDaily"]
+    },
+    {
+      "id": "2026-04-03-005",
+      "headline": "Scientists Mapped 7 Million Cells Across 21 Organs to Understand How We Age",
+      "hook": "A landmark cellular atlas reveals that aging begins earlier than expected and unfolds as a body-wide coordinated process — not an organ-by-organ collapse.",
+      "body": "For decades, aging research has focused on individual systems: why the heart weakens, why the brain slows, why the immune system falters. But a sweeping new study has mapped 7 million individual cells across 21 human organs, revealing that aging is a body-wide symphony rather than a collection of solo failures.\n\nThe researchers found that aging begins earlier than most people assume — cellular markers of decline appear in tissues decades before obvious symptoms. More surprisingly, the process is coordinated: immune signaling molecules circulating in the bloodstream can trigger the same aging-associated changes in tissues far from where they originate, suggesting the body's decline is partly driven by systemic signals, not just local wear and tear.\n\nThe atlas is now the most detailed cellular map of human aging ever assembled. Scientists hope it will help identify early intervention points — specific molecules, pathways, or cell types that, if targeted, might slow or partially reverse the coordinated aging process. It's the kind of foundational map that could reshape medicine over the next generation.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-5HbxyB0_DBg?w=800",
+        "alt": "White and black microscope in a scientific laboratory",
+        "credit": "Photo by Jaron Nix on Unsplash",
+        "creditUrl": "https://unsplash.com/@jaronnix?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Landmark aging atlas — ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/02/260228082717.htm" }
+      ],
+      "tags": ["Biology", "Aging", "Medicine", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Nature"]
+    },
+    {
+      "id": "2026-04-03-006",
+      "headline": "A Hidden Granite Mass the Size of a Small Country Lurks Under Antarctica's Most Watched Glacier",
+      "hook": "Geologists found a previously unknown granite body stretching 100 kilometers wide buried beneath Pine Island Glacier — one of the most-studied ice sheets on Earth.",
+      "body": "Pine Island Glacier in West Antarctica is one of the most intensively monitored pieces of ice on the planet — scientists track its retreat as an early warning system for sea-level rise. So it came as a genuine surprise when geologists analyzing pink granite boulders on the ice surface traced them back to a massive, previously unknown rock body buried deep beneath the glacier itself.\n\nThe hidden granite mass stretches nearly 100 kilometers across and 7 kilometers deep. It was invisible to previous surveys because it sits beneath kilometers of ice and glacial sediment. The discovery matters beyond pure geology: the composition and heat flow properties of the bedrock beneath a glacier significantly influence how the glacier moves, deforms, and eventually melts.\n\nThe finding means our models of Pine Island Glacier's future behavior need to be recalibrated. A granite mass of this size generates geothermal heat that warms the base of the glacier from below — potentially accelerating melting in ways that current projections haven't accounted for. Scientists are now integrating the discovery into updated sea-level rise models.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-4ReskwNsh68?w=800",
+        "alt": "Glacier iceberg tunnel photographed off the Antarctic Peninsula",
+        "credit": "Photo by Derek Oyen on Unsplash",
+        "creditUrl": "https://unsplash.com/@goosegrease?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Hidden granite under Pine Island Glacier — ScienceDaily", "url": "https://www.sciencedaily.com/news/strange_offbeat/" }
+      ],
+      "tags": ["Antarctica", "Climate", "Geology", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Geophysical Research Letters"]
+    },
+    {
+      "id": "2026-04-03-007",
+      "headline": "A Stone Age Mother and Daughter Both Had a Rare Bone Disease — and the Daughter Survived",
+      "hook": "Ancient DNA from 12,000-year-old remains in Italy shows a mother and daughter who both carried a severe genetic disorder — proof that prehistoric communities cared for their most vulnerable.",
+      "body": "Among the most moving discoveries in ancient DNA research is this: a Stone Age mother and daughter buried together in Italy, who both carried the genetic mutation for acromesomelic dysplasia — a severe form of dwarfism that shortens the forearms and lower legs and causes significant physical limitations. The daughter survived to adulthood.\n\nFor the daughter to have reached adulthood with such a severe physical condition in a hunter-gatherer society 12,000 years ago, she must have been consistently and deliberately cared for by her community. She couldn't have hunted or foraged effectively, and her physical needs would have required ongoing assistance. Her survival is direct skeletal evidence of ancient compassion.\n\nThe find joins a small but growing body of evidence that Paleolithic communities regularly cared for disabled and injured members over extended periods — overturning older assumptions about prehistoric life as brutally survivalist. The mother likely died in or around childbirth; the daughter lived on, dependent on others, for years.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-BIgkcxI3X0M?w=800",
+        "alt": "Close-up of a human skeleton lying in an archaeological excavation",
+        "credit": "Photo by engin akyurt on Unsplash",
+        "creditUrl": "https://unsplash.com/@enginakyurt?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Ancient DNA rare genetic disorder — ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/02/260217005754.htm" }
+      ],
+      "tags": ["Archaeology", "History", "Ancient DNA", "Paleolithic"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Current Biology"]
+    },
+    {
+      "id": "2026-04-03-008",
+      "headline": "A 'Phantom Jellyfish' as Long as a School Bus Was Spotted in the South Atlantic",
+      "hook": "One of the largest invertebrates on Earth — a deep-sea jellyfish with 10-meter-long arms — was documented during an expedition that also found 28 possible new species.",
+      "body": "The stygiomedusa gigantea — nicknamed the 'phantom jellyfish' for its rare and ghostly appearances — is one of the largest invertebrates on Earth, with a bell up to a meter wide and ribbon-like arms stretching up to 10 meters. It lives in the deep ocean and is almost never seen, appearing in the scientific literature fewer than 120 times since it was first described in 1910.\n\nA recent deep-sea expedition in the South Atlantic not only documented a phantom jellyfish encounter but found 28 additional species that may be new to science, including bizarre fish, crustaceans, and soft-bodied invertebrates from depths below 2,000 meters. The creatures were found in waters off Argentina, an under-surveyed stretch of deep ocean.\n\nThe expedition used remotely operated vehicles to explore seamounts and abyssal plains that had never been systematically sampled. Scientists note that these deep-sea environments — rich in biodiversity and poorly understood — are increasingly threatened by deep-sea mining proposals and climate-driven changes in ocean chemistry.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-r5sWUXSgEfg?w=800",
+        "alt": "Underwater photography of a translucent jellyfish in the ocean",
+        "credit": "Photo by Sasha on Unsplash",
+        "creditUrl": "https://unsplash.com/@sanfrancisco?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Phantom jellyfish and new deep-sea species — Popular Science", "url": "https://www.popsci.com/environment/new-deep-sea-species-argentina/" }
+      ],
+      "tags": ["Ocean", "Marine Biology", "Discovery", "Deep Sea"],
+      "readingTime": "2 min read",
+      "sources": ["Popular Science", "ScienceDaily"]
+    },
+    {
+      "id": "2026-04-03-009",
+      "headline": "Researchers Named a New Termite After Moby-Dick Because It Looks Like a Sperm Whale",
+      "hook": "Meet Cryptotermes mobydicki — a newly discovered termite from South American rainforests whose elongated, whale-shaped head has earned it one of the best scientific names in recent memory.",
+      "body": "Scientists working in the rainforest canopy of South America have described a new termite species with an unusually elongated, flattened head that bears a striking resemblance to a sperm whale. They named it Cryptotermes mobydicki, after Herman Melville's iconic white whale. The name has delighted entomologists and internet commenters in equal measure.\n\nThe whale-like head isn't just for looks. In termite species, head shape is often related to defense or communication: some species use their heads as plugs to block nest entrances, others use them to amplify vibrational signals. Researchers are still investigating the specific function of mobydicki's unusual head morphology.\n\nThe discovery is part of a broader taxonomic effort to catalog the extraordinary diversity of canopy insects in South American forests — an effort researchers describe as racing against deforestation. The Amazon and Atlantic Forest biomes are estimated to contain millions of undescribed insect species, with new ones described regularly. C. mobydicki is a reminder that even in well-studied groups, nature still has surprises.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-V45joffmRB0?w=800",
+        "alt": "Macro photograph of an insect in extreme close-up detail",
+        "credit": "Photo by Egor Kamelev on Unsplash",
+        "creditUrl": "https://unsplash.com/@ekamelev?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "New termite species — ScienceDaily", "url": "https://www.sciencedaily.com/news/strange_offbeat/" }
+      ],
+      "tags": ["Biology", "Insects", "Discovery", "Animals"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Zootaxa"]
+    },
+    {
+      "id": "2026-04-03-010",
+      "headline": "Hunter-Gatherers in the Americas Were Rolling Dice 12,000 Years Ago",
+      "hook": "New analysis of ancient objects from early Paleoindian sites suggests people were playing games of chance millennia before similar tools appeared in many other parts of the world.",
+      "body": "Dice are commonly associated with Bronze Age Mesopotamia or ancient Egypt, but new research suggests that hunter-gatherers in the Americas may have been playing games of chance with marked throwing objects more than 12,000 years ago — long before settled agriculture, writing, or complex trade networks.\n\nThe objects in question are small, irregularly shaped pieces of bone or stone with carved or painted marks found at early Paleoindian sites. Previous researchers dismissed them as decorative or symbolic objects. The new analysis argues that their shape, weight distribution, and the patterns of marks align more closely with game pieces designed to produce random outcomes than with any ceremonial or representational use.\n\nIf confirmed, the finding rewrites assumptions about Paleoindian culture. Games of chance don't just require materials and craft — they require a concept of probability, social rules, and leisure time. Their presence 12,000 years ago would imply that the earliest Americans had all three. The research is ongoing; archaeologists are calling for expanded analysis of similar objects from early sites across the hemisphere.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-GJUX-2e3T2c?w=800",
+        "alt": "A display of ancient artifacts in a museum",
+        "credit": "Photo by Huichao Ji on Unsplash",
+        "creditUrl": "https://unsplash.com/@huichaoji?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Native American dice 12,000 years ago — ScienceDaily", "url": "https://www.sciencedaily.com/news/strange_offbeat/" }
+      ],
+      "tags": ["Archaeology", "History", "Americas", "Paleolithic"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Journal of Archaeological Science"]
+    },
+    {
+      "id": "2026-04-03-011",
+      "headline": "Malaria Parasites Contain Tiny Spinning Crystals Powered by a Rocket-Like Chemical Reaction",
+      "hook": "Inside the malaria parasite, scientists found microscopic crystals that spin continuously — driven by decomposing hydrogen peroxide in a reaction that behaves like a miniature rocket engine.",
+      "body": "Malaria infects hundreds of millions of people every year and remains one of the deadliest diseases in human history. Despite decades of research, scientists are still discovering genuinely unexpected mechanisms inside the Plasmodium parasite. The latest: tiny crystalline structures within the parasite that rotate continuously, powered by the decomposition of hydrogen peroxide — a chemical reaction that generates rapid gas release, functioning like a microscopic rocket.\n\nThe crystals — made from a compound called hemozoin, a byproduct of the parasite digesting hemoglobin — had been studied for years as potential drug targets. But their physical behavior was never explained. High-resolution imaging now shows them spinning within the parasite's digestive vacuole, driven by oxidative chemistry in a way no one anticipated.\n\nBeyond being a fascinating biological oddity, the discovery opens potential new drug targets. If the spinning mechanism is essential to the parasite's survival or drug resistance, interrupting the chemistry that drives it could offer a new route to treatment — especially relevant given rising resistance to existing antimalarials.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-Z2pq_4mj6BI?w=800",
+        "alt": "Close-up of a mosquito on human skin",
+        "credit": "Photo by NIAID on Unsplash",
+        "creditUrl": "https://unsplash.com/@niaid?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Malaria spinning crystals — ScienceDaily", "url": "https://www.sciencedaily.com/news/strange_offbeat/" }
+      ],
+      "tags": ["Medicine", "Biology", "Malaria", "Parasites"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Nature Chemistry"]
+    },
+    {
+      "id": "2026-04-03-012",
+      "headline": "Earth's Oceans Are Absorbing Heat at 18 Times the Rate of All Human Energy Use",
+      "hook": "A new World Meteorological Organization report says Earth's climate is more out of balance than at any point in observed history — and the ocean heat numbers are staggering.",
+      "body": "Every year, human civilization burns fossil fuels, runs factories, and powers cities — consuming roughly 580 exajoules of energy. Every year, according to the World Meteorological Organization's latest climate report, Earth's oceans are absorbing approximately 18 times that amount in excess heat trapped by greenhouse gases. The ocean is acting as a vast buffer, absorbing the energy imbalance that our atmosphere has created — but the buffer is warming.\n\nThe 2025 report, released in early 2026, documents that key climate indicators — ocean heat content, sea-level rise, glacier retreat, and ice sheet melt — all hit record levels again last year. The rate of sea-level rise has doubled since the 1990s. Arctic sea-ice extent reached new lows. The WMO warns that the Earth's energy imbalance — the difference between incoming solar radiation and outgoing heat — is now measurably larger than at any time in the instrumental record.\n\nThe report is careful not to predict specific tipping points, but its framing is stark: the systems that have historically regulated Earth's climate are operating outside the range of anything human civilization has experienced. The ocean heat numbers, in particular, illustrate how much energy is already locked into the system regardless of what happens to emissions in the near term.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-dfmTM16FxWk?w=800",
+        "alt": "Aerial view of ocean waves breaking on a coastline",
+        "credit": "Photo by Red Zeppelin on Unsplash",
+        "creditUrl": "https://unsplash.com/@redzeppelin?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "WMO: Earth's Climate Out of Balance", "url": "https://wmo.int/news/media-centre/earths-climate-swings-increasingly-out-of-balance" }
+      ],
+      "tags": ["Climate", "Ocean", "Environment", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["World Meteorological Organization", "WMO State of the Climate 2025"]
+    },
+    {
+      "id": "2026-04-03-013",
+      "headline": "A Hidden Greek Inscription Under a Syrian Mosque May Have Located a Lost Sun Temple",
+      "hook": "Beneath the Great Mosque of Homs, a mysterious ancient Greek inscription could pinpoint the long-debated location of one of the ancient world's most important sun temples.",
+      "body": "Homs, Syria — ancient Emesa — was once home to a legendary temple to the sun god Elagabalus, a cult center so significant that a Roman emperor named himself after the deity. The temple's exact location has been debated by historians for centuries, as no confirmed physical remains have been identified. Now, a newly studied Greek inscription discovered beneath the Great Mosque of Homs may provide the answer.\n\nThe inscription, found during structural survey work beneath the mosque's foundations, contains text that researchers believe references the original sacred precinct — essentially a foundation-stone or dedicatory text that would have been placed at or near the temple itself. If the interpretation holds up, it would confirm that the mosque was built directly atop the ancient temple, a common practice in the ancient and medieval Mediterranean world.\n\nThe discovery is significant both archaeologically and historically. The Temple of Elagabalus housed a sacred black stone — possibly a meteorite — that was central to its cult and was famously transported to Rome by Emperor Elagabalus in the 3rd century CE. Locating the temple's physical site would allow for targeted excavation and could yield artifacts from one of the Roman Empire's most unusual religious episodes.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-EvMearrxas4?w=800",
+        "alt": "The Parthenon temple in Athens, Greece, under a blue sky",
+        "credit": "Photo by Patrick on Unsplash",
+        "creditUrl": "https://unsplash.com/photos/parthenon-greece-EvMearrxas4?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Greek inscription Homs sun temple — ScienceDaily", "url": "https://www.sciencedaily.com/news/strange_offbeat/" }
+      ],
+      "tags": ["Archaeology", "History", "Ancient World", "Syria"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Journal of Roman Archaeology"]
+    },
+    {
+      "id": "2026-04-03-014",
+      "headline": "Brain-Inspired Computers Are Beating Supercomputers at Physics — Using a Fraction of the Energy",
+      "hook": "Neuromorphic computers, designed to mimic the structure of the human brain, can now solve complex physics simulations that previously required supercomputers — at a tiny fraction of the energy cost.",
+      "body": "Supercomputers are extraordinarily powerful — and extraordinarily energy-hungry. A single large simulation can consume as much electricity as a small town for hours. Neuromorphic computing, which designs chips based on the architecture of biological neural networks rather than traditional transistors, has long promised a more efficient path. Now it's starting to deliver.\n\nNew research demonstrates that neuromorphic processors can solve certain classes of partial differential equations — the mathematical core of fluid dynamics, weather modeling, and materials physics — with accuracy comparable to classical supercomputers, using up to 1,000 times less energy. The key is that neuromorphic chips process information in sparse, asynchronous pulses (like real neurons) rather than synchronous clock-ticked calculations, dramatically reducing wasted computational work.\n\nThe results won't replace general-purpose supercomputing overnight — neuromorphic hardware remains specialized and the software ecosystem is immature. But for specific problems like climate modeling, molecular dynamics, or real-time sensor fusion, the efficiency gains are compelling. Researchers say the findings suggest neuromorphic systems could become integral to scientific computing infrastructure within a decade.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-tTurhPw9bwQ?w=800",
+        "alt": "Close-up of a computer processor chip on a circuit board",
+        "credit": "Photo by Bermix Studio on Unsplash",
+        "creditUrl": "https://unsplash.com/@bermixstudio?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Neuromorphic computers solve physics — ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm" }
+      ],
+      "tags": ["Technology", "Computing", "AI", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Nature Electronics"]
+    },
+    {
+      "id": "2026-04-03-015",
+      "headline": "A Sungrazing Comet Is Plunging Toward the Sun This Week — and It Might Be Spectacular",
+      "hook": "Comet C/2026 A1 reaches its closest approach to the sun tomorrow, and no one is quite sure if it will brighten dramatically, survive intact, or disintegrate entirely.",
+      "body": "Comets are the solar system's wild cards. Comet C/2026 A1, discovered earlier this year by the Minor Planet Astronomical Research System (MAPS) survey, is classified as a sungrazer — a comet whose orbit brings it within a few million kilometers of the sun's surface. At perihelion on April 4, the comet will pass through intense solar radiation and tidal forces that could do one of three things: trigger a dramatic outburst that makes it visible in daylight, cause gradual fragmentation and fading, or tear it apart entirely.\n\nSungrazing comets have produced some of history's most spectacular celestial events — and some of its most spectacular disappointments. Comet Kohoutek in 1973 was predicted to be the 'comet of the century' and fizzled. Comet ISON in 2013 disintegrated at perihelion in real time, watched by telescopes worldwide. Comet McNaught in 2007 exceeded all predictions and was visible in broad daylight.\n\nAstronomers are monitoring C/2026 A1 continuously, and the perihelion passage will be streamed live through multiple observatories. Amateur astronomers in the southern hemisphere may be able to glimpse it low on the horizon in the days after closest approach — if it survives.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-7a4F2FW32z4?w=800",
+        "alt": "A comet streaking across a dark night sky filled with stars",
+        "credit": "Photo by Justin Wolff on Unsplash",
+        "creditUrl": "https://unsplash.com/@jayphoto?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Watch Comet C/2026 A1 approach the sun", "url": "https://www.space.com/stargazing/watch-comet-c-2026-a1-plunge-toward-the-sun-online-this-week" }
+      ],
+      "tags": ["Space", "Comets", "Astronomy", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Space.com", "NASA JPL"]
+    }
+  ]
+}
