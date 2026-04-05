@@ -1,0 +1,298 @@
+{
+  "date": "2026-04-05",
+  "stories": [
+    {
+      "id": "2026-04-05-001",
+      "headline": "Tomorrow, Humanity Will Travel Farther From Earth Than Ever Before",
+      "hook": "On April 6, the Artemis II crew will surpass 252,757 miles from Earth — breaking a record set by the imperiled Apollo 13 crew in 1970 — and for the first time a woman, a person of color, and a non-American will go that far.",
+      "body": "Launched on April 1, NASA's Artemis II mission is already making history. The four-person crew — commander Reid Wiseman, pilot Victor Glover, mission specialist Christina Koch, and Canadian Space Agency astronaut Jeremy Hansen — are on a free-return trajectory around the Moon that will take them to a staggering 452,000 km from Earth at its farthest point. But the milestone hits tomorrow: when they cross the 252,757-mile mark, they will surpass the record set by Apollo 13 in April 1970 — a record that has stood for 56 years.\n\nThe human significance is hard to overstate. Victor Glover becomes the first person of color to travel this far from Earth. Christina Koch becomes the first woman. Jeremy Hansen becomes the first non-American. All four are making the farthest journey any human has ever taken from their home planet, and they're doing it in a spacecraft designed to eventually land people on the Moon for the first time since 1972.\n\nUnlike Apollo 13, which hit its distance record while racing to survive a catastrophic failure, Artemis II is going exactly as planned. The crew is healthy, the Orion spacecraft is performing nominally, and the world is watching. The record will be broken quietly, at a specific moment in space, with no fanfare except what we choose to give it.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?w=800",
+        "alt": "Astronaut in space suit with Earth's reflection visible in the visor",
+        "credit": "Photo by NASA Hubble Space Telescope on Unsplash",
+        "creditUrl": "https://unsplash.com/@hubblespacetelescope?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NASA Artemis II mission page", "url": "https://www.nasa.gov/mission/artemis-ii/" },
+        { "title": "Artemis II will break the human distance record — Space.com", "url": "https://www.space.com/space-exploration/artemis/its-official-nasas-artemis-2-moon-mission-will-break-humanitys-all-time-distance-record" },
+        { "title": "Crew tracker and mission updates — Fortune", "url": "https://fortune.com/2026/04/04/artemis-ii-astronauts-more-than-halfway-moon-mission-break-distance-record-humans-apollo-13/" }
+      ],
+      "tags": ["Space", "NASA", "Artemis", "Moon"],
+      "readingTime": "2 min read",
+      "sources": ["NASA", "Space.com", "Fortune", "Canadian Space Agency"]
+    },
+    {
+      "id": "2026-04-05-002",
+      "headline": "A New Telescope Found 11,000 Asteroids in Six Weeks — and It's Just Getting Started",
+      "hook": "The Vera C. Rubin Observatory submitted over a million asteroid observations in its first six weeks of operation, confirming 11,000 new space rocks — and once its full survey kicks in, it's expected to triple the total known asteroid count every few nights.",
+      "body": "The Vera C. Rubin Observatory in Chile has been operational for less than two months, and it has already reshaped asteroid science. In its commissioning phase alone, it submitted 1.1 million observations to the International Astronomical Union's Minor Planet Center, confirming 11,000 previously unknown asteroids — including 33 near-Earth objects and around 380 trans-Neptunian objects lurking in the outer solar system. None pose any threat to Earth.\n\nThe numbers are staggering, but what makes them truly mind-bending is that this is the quiet period before the main event. Once Rubin begins its full decade-long Legacy Survey of Space and Time (LSST), it will sweep the entire southern sky every few nights with a 3.2-gigapixel camera — the largest digital camera ever built. Astronomers estimate it will discover so many new asteroids that it could triple the total count of known solar system objects every two to three nights.\n\nCurrently, humanity has catalogued around 1.4 million asteroids. Rubin is expected to push that number into the tens of millions over its operational lifetime. The scientific implications go well beyond planetary defense — the sheer statistical power of the dataset will transform our understanding of the early solar system, the population of near-Earth objects, and the dynamics of the outer solar system. This is what the telescope was built for, and it's only just warming up.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?w=800",
+        "alt": "Observatory dome illuminated against a star-filled night sky",
+        "credit": "Photo by Ahmed Atef on Unsplash",
+        "creditUrl": "https://unsplash.com/@ahmedatef19?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "11,000 new asteroids in six weeks — Rubin Observatory", "url": "https://rubinobservatory.org/news/11000-new-asteroids" },
+        { "title": "Rubin's record asteroid haul — Gizmodo", "url": "https://gizmodo.com/rubin-observatory-spots-over-11000-asteroids-in-record-haul-2000742109" },
+        { "title": "What is the LSST? — Rubin Observatory", "url": "https://rubinobservatory.org/explore/lsst" }
+      ],
+      "tags": ["Space", "Astronomy", "Asteroids", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Rubin Observatory", "Gizmodo", "GeekWire", "Minor Planet Center"]
+    },
+    {
+      "id": "2026-04-05-003",
+      "headline": "Three Galaxies in a Row Are Missing Their Dark Matter — and That's a Problem for Physics",
+      "hook": "Astronomers confirmed a third galaxy in the same cosmic neighborhood has been almost entirely stripped of dark matter, and the linear trail the three form may be the smoking gun for a violent collision theory that's been controversial for a decade.",
+      "body": "Dark matter is supposed to be the invisible scaffolding of the universe — the unseen mass that holds galaxies together. So when astronomers found one galaxy in the NGC 1052 group with almost no dark matter, it was a puzzle. When they found a second, it became a crisis. Now a third galaxy, designated DF9, has been confirmed to be nearly dark-matter-free — and the pattern they form together is telling a specific story.\n\nAll three galaxies align in a linear trail, and their velocities increase systematically along that line. This is a textbook signature of a so-called 'Bullet Dwarf' event: a high-speed collision between two dark matter-rich galaxies billions of years ago that stripped the dark matter away, scattering it across intergalactic space and leaving behind these ghost galaxies composed almost entirely of stars and gas. The theory was proposed nearly a decade ago and was controversial precisely because it lacked this kind of direct evidence.\n\nFor cosmologists, this matters enormously. Standard models of galaxy formation predict that dark matter and regular matter should be deeply intertwined — nearly impossible to separate in the way these three galaxies appear to be. Either the Bullet Dwarf scenario represents a rare but real exception, or something more fundamental about our models is wrong. With three data points now aligning, the evidence is getting hard to dismiss.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=800",
+        "alt": "Galaxy cluster glowing against the blackness of deep space",
+        "credit": "Photo by NASA Hubble Space Telescope on Unsplash",
+        "creditUrl": "https://unsplash.com/@hubblespacetelescope?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Third dark-matter-free galaxy found — Phys.org", "url": "https://phys.org/news/2026-04-astronomers-galaxy-dark-validating-violent.html" },
+        { "title": "The Bullet Dwarf collision theory — Universe Today", "url": "https://www.universetoday.com/articles/astronomers-find-a-third-galaxy-missing-its-dark-matter-validating-a-violent-cosmic-collision-theory" },
+        { "title": "Original study preprint — arXiv", "url": "https://arxiv.org/abs/2603.15860" }
+      ],
+      "tags": ["Space", "Dark Matter", "Cosmology", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Phys.org", "Universe Today", "arXiv"]
+    },
+    {
+      "id": "2026-04-05-004",
+      "headline": "Google's New Compression Algorithm Crashed Memory Chip Stocks Overnight",
+      "hook": "A Google algorithm that compresses AI memory by up to 8x with zero accuracy loss wiped billions off semiconductor stocks within 48 hours of publication — and one journalist compared it to the fictional 'Pied Piper' compression from the TV show Silicon Valley.",
+      "body": "Google Research published a paper on TurboQuant, a new algorithm that compresses the KV cache — the temporary memory AI language models use when generating text — to just 3 bits, down from 16 or 32, with no measurable loss in output quality. The compression ratio of 6–8x is so dramatic that it cuts AI inference costs roughly in half and could allow models to run on dramatically cheaper hardware.\n\nThe market reaction was immediate. SK Hynix, one of the world's largest memory chip manufacturers, dropped 7.3% within 48 hours of publication. Micron fell 3%. Other memory chipmakers followed. The logic was blunt: if AI systems suddenly need a fraction of the memory they currently require, the companies that sell high-bandwidth memory chips for AI data centers are looking at a structural threat to their core business.\n\nThe Silicon Valley comparison is apt and a little eerie — in the show, a fictional compression algorithm threatens to disrupt the entire tech industry, and nobody takes it seriously until it's too late. Whether TurboQuant is as revolutionary as the market's initial reaction suggested remains to be seen. But it highlights something important: the economics of AI infrastructure are still in flux, and a single paper from a major lab can still move the needle in ways that catch entire industries off guard.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800",
+        "alt": "Close-up of computer memory chips on a circuit board",
+        "credit": "Photo by Jakub Pabis on Unsplash",
+        "creditUrl": "https://unsplash.com/@jakubpabis?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Google TurboQuant: the real Pied Piper? — TechCrunch", "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/" },
+        { "title": "TurboQuant compresses KV caches to 3 bits — Tom's Hardware", "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-turboquant-compresses-llm-kv-caches-to-3-bits-with-no-accuracy-loss" },
+        { "title": "How it cuts AI memory costs by 50% — VentureBeat", "url": "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50" }
+      ],
+      "tags": ["AI", "Technology", "Semiconductors", "Research"],
+      "readingTime": "2 min read",
+      "sources": ["TechCrunch", "VentureBeat", "Tom's Hardware"]
+    },
+    {
+      "id": "2026-04-05-005",
+      "headline": "An Italian Firm Built a Fake WhatsApp to Spy on 200 iPhone Users",
+      "hook": "Meta's WhatsApp has quietly notified around 200 users that they unknowingly installed a counterfeit iOS version of the app — built not by criminals, but by an Italian surveillance company with government clients.",
+      "body": "WhatsApp's security team discovered that Asigint, an Italian subsidiary of surveillance firm SIO, had created a convincing lookalike version of WhatsApp for iOS. The fake app was distributed through social engineering — users were persuaded to install it outside the App Store — and once installed, it silently forwarded messages, contacts, and metadata to Asigint's infrastructure. Around 200 users in multiple countries received notifications that their devices may have been compromised.\n\nWhat makes this alarming beyond the usual spyware story is the vendor. SIO is a commercial surveillance company that sells its tools to government clients, meaning the 200 targeted individuals were likely selected by a government or law enforcement agency. Italy has become what researchers call a 'spyware hub' — home to at least six known commercial surveillance companies, including the infamous NSO-competitor Paragon, which was also implicated in a WhatsApp compromise just 15 months ago.\n\nThe incident exposes the persistent gap between platform security and state-sponsored surveillance. Apple's iOS is genuinely difficult to compromise through conventional means, so vendors are increasingly investing in social engineering — convincing targets to manually install malicious apps by impersonating legitimate ones. WhatsApp's decision to notify victims is notable; many surveillance victims never learn they were targeted at all.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800",
+        "alt": "Person using a smartphone in a dimly lit environment",
+        "credit": "Photo by Soheb Zaidi on Unsplash",
+        "creditUrl": "https://unsplash.com/@msohebzaidi?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "WhatsApp alerts 200 users of fake app spyware — TechCrunch", "url": "https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/" },
+        { "title": "Italian spyware firm creates fake WhatsApp — The Hacker News", "url": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html" },
+        { "title": "Italy's spyware hub problem — Security Affairs", "url": "https://securityaffairs.com/190276/malware/italian-spyware-vendor-creates-fake-whatsapp-app-targeting-200-users.html" }
+      ],
+      "tags": ["Cybersecurity", "Privacy", "Surveillance", "Technology"],
+      "readingTime": "2 min read",
+      "sources": ["TechCrunch", "The Hacker News", "Security Affairs"]
+    },
+    {
+      "id": "2026-04-05-006",
+      "headline": "Reddit Just Quietly Killed the Original 'Front Page of the Internet'",
+      "hook": "r/all — the unfiltered, chronological feed of everything trending across Reddit — was silently removed on April 2, completing the platform's full shift to algorithmic, personalized content.",
+      "body": "For most of Reddit's history, r/all was its soul: an unfiltered river of everything bubbling up across the platform, sorted by popularity, with no personalization and no editorial filter. If something was trending anywhere on Reddit, r/all showed it. It was chaotic, unpredictable, and often weird — and for many users, that was exactly the point.\n\nOn April 2, Reddit removed all navigation paths to r/all as part of a wider set of changes that also capped any single moderator to five large communities (those with more than 100,000 weekly visitors). The cap targets 'powermods' — users who moderate dozens or hundreds of communities and have long been controversial for their outsized influence over the platform. The changes together represent a decisive pivot toward the algorithmic, interest-based feeds that dominate every other major social platform.\n\nThe reaction among long-time users has been sharp. Many see it as the final step in Reddit's transformation from a community-run internet hub into a conventional media platform optimized for engagement and advertiser comfort. Critics argue that r/all was one of the last places on a major platform where content succeeded or failed purely on the basis of user votes — unmediated, unfiltered, ungoverned. The URL still works if you type it in directly. For now.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800",
+        "alt": "Colorful social media app icons on a smartphone screen",
+        "credit": "Photo by Merakist on Unsplash",
+        "creditUrl": "https://unsplash.com/@merakist?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Reddit's April 2 changelog — Reddit Help", "url": "https://support.reddithelp.com/hc/en-us/articles/47822249050132-Changelog-April-2-2026" },
+        { "title": "Reddit kills r/all, shifts to algorithmic control — The Meridiem", "url": "https://www.themeridiem.com/consumer-tech/2026/4/2/reddit-kills-r-all-as-platform-completes-shift-to-algorithmic-control" },
+        { "title": "How to still access r/all — TechRadar", "url": "https://www.techradar.com/computing/social-media/reddit-is-closing-down-its-unfiltered-r-all-page-of-trending-posts-but-there-is-still-a-way-to-access-it-if-you-know-how" }
+      ],
+      "tags": ["Technology", "Internet", "Social Media", "Culture"],
+      "readingTime": "2 min read",
+      "sources": ["Reddit", "The Meridiem", "TechRadar"]
+    },
+    {
+      "id": "2026-04-05-007",
+      "headline": "The Plastic That Disappeared From Ocean Surveys Is Now Inside Human Brains",
+      "hook": "Scientists finally solved the mystery of where ocean plastic 'goes' — it breaks down into nanoplastics too small to see, and there are now an estimated 27 million tons of them in the North Atlantic alone, found in human brain tissue.",
+      "body": "For years, oceanographers were baffled by a discrepancy in their models. The amount of plastic entering the ocean from rivers, coastlines, and shipping was orders of magnitude larger than what surface surveys were actually finding. The plastic appeared to be vanishing. Now researchers have identified where it went: it fragmented into nanoplastics — particles smaller than 1 micrometer — that sink, disperse, and become invisible to conventional sampling methods.\n\nThe scale of what's been hiding is alarming. New estimates suggest the North Atlantic alone contains approximately 27 million tons of nanoplastics — potentially more mass than all the macro- and microplastics combined that we've been measuring and worrying about for decades. These particles have now been detected in human brain tissue, placenta, and blood, though the health effects of long-term exposure remain poorly understood and are an active area of research.\n\nThe practical implications go beyond human health. Nanoplastics move through entire food webs in ways that microplastics don't — they are small enough to be absorbed at the cellular level by phytoplankton, the base of the marine food chain. They bind to and carry other pollutants, effectively acting as tiny delivery vehicles for heavy metals and persistent organic chemicals. The ocean's 'missing' plastic didn't disappear. It just got smaller, and harder to find, and it went everywhere.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1621451537084-482c73073a0f?w=800",
+        "alt": "Person swimming near plastic waste floating in ocean water",
+        "credit": "Photo by Naja Bertolt Jensen on Unsplash",
+        "creditUrl": "https://unsplash.com/@naja_bertolt_jensen?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "The nanoplastic solution to the missing plastic mystery — ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/03/260329041649.htm" },
+        { "title": "27 million tons of nanoplastics in the North Atlantic — European Commission", "url": "https://environment.ec.europa.eu/news/do-nanoplastic-particles-make-majority-north-atlantic-plastic-pollution-2026-03-09_en" },
+        { "title": "What nanoplastics do in the body — Nature", "url": "https://www.nature.com/articles/d41586-025-02162-0" }
+      ],
+      "tags": ["Environment", "Science", "Ocean", "Health"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Nature", "European Commission"]
+    },
+    {
+      "id": "2026-04-05-008",
+      "headline": "For the First Time Ever, a Camera Captured the Ground Tearing Apart in an Earthquake",
+      "hook": "A security camera in Myanmar accidentally filmed something seismologists have never seen before — a fault rupturing in real time, with the ground shifting 2.5 meters in just 1.3 seconds.",
+      "body": "The March 2025 earthquake in Myanmar was devastating — a 7.7-magnitude event that caused catastrophic damage. But in the aftermath, researchers discovered something extraordinary in the rubble: CCTV footage from a security camera that had captured the fault rupture itself as it happened. The video shows the earth surface lurching sideways with a sudden, violent displacement, and when researchers analyzed it frame by frame, they found the ground shifted 2.5 meters in 1.3 seconds.\n\nThis is the first direct visual documentation of a fault slip ever recorded. Previous understanding of how earthquake ruptures propagate came entirely from seismometers and GPS measurements — instruments that detect ground motion but don't show it. The CCTV footage does something those instruments can't: it shows the shape and character of the rupture in physical, visible space. What it reveals is that the slip was curved rather than straight, and pulse-like rather than continuous — confirming theoretical models that had been debated for decades but never directly observed.\n\nFor earthquake engineers and seismologists, this is a landmark finding. Better understanding of rupture dynamics feeds directly into building codes, early warning systems, and fault hazard assessments. It also raises a compelling possibility: that other major earthquakes have been captured on security cameras that nobody thought to analyze. The researchers are already calling for systematic efforts to collect and examine CCTV footage from earthquake-affected areas after future events.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=800",
+        "alt": "Road cracked and buckled by seismic activity",
+        "credit": "Photo by Zoshua Colah on Unsplash",
+        "creditUrl": "https://unsplash.com/@zoshuacolah?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "First video of a fault rupturing — ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/03/260327211149.htm" },
+        { "title": "CCTV captures fault in motion — Smithsonian Magazine", "url": "https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/" },
+        { "title": "Myanmar earthquake: what the footage shows — Popular Science", "url": "https://www.popsci.com/environment/myanmar-earthquake-video/" }
+      ],
+      "tags": ["Science", "Earthquakes", "Geology", "Nature"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Smithsonian Magazine", "Popular Science"]
+    },
+    {
+      "id": "2026-04-05-009",
+      "headline": "Africa's Oldest Cremation Was a Tiny Woman, Burned 9,500 Years Ago in Malawi",
+      "hook": "Archaeologists at Mount Hora in Malawi uncovered an intentional cremation pyre containing the remains of a small adult woman dating to around 9,550 years ago — thousands of years earlier than any previously known cremation in Africa.",
+      "body": "Cremation as a burial practice was long thought to have arrived late to sub-Saharan Africa, but a discovery at Mount Hora in northern Malawi is forcing a complete rethink. Beneath a granite overhang that served as a hunter-gatherer burial ground during the Stone Age, researchers found an in-situ cremation pyre — the charred remnants of intentionally burned wood arranged around the remains of a short adult woman, radiocarbon dated to approximately 9,550 years ago.\n\nThe find predates the next known African cremation by thousands of years and is among the earliest evidence of intentional cremation anywhere in the world. The woman's physical profile — short stature, consistent with populations adapted to dense forest environments — tells us something about who these people were. The care taken in her burial tells us something about how they treated their dead. The granite overhang appears to have been a deliberately chosen, repeatedly used ceremonial site, suggesting a sophisticated and persistent mortuary tradition.\n\nWhat makes the discovery particularly striking is what it implies about the sophistication of prehistoric communities in this part of Africa. Hunter-gatherers in tropical environments are often imagined as transient and culturally sparse, but the evidence here — a maintained burial site, a ritually complex cremation, a specific location chosen and returned to — paints a very different picture. This was a community with ceremony, memory, and meaningful treatment of the dead.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800",
+        "alt": "Close-up of hands carefully brushing dust from an archaeological excavation",
+        "credit": "Photo by Grianghraf on Unsplash",
+        "creditUrl": "https://unsplash.com/@grianghraf?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Ancient cremation pyre in Malawi — Yale News", "url": "https://news.yale.edu/2026/01/01/ancient-cremation-pyre-offers-glimpse-tropical-hunter-gatherers-mortuary-practices" },
+        { "title": "Oldest cremation in Africa — Smithsonian Magazine", "url": "https://www.smithsonianmag.com/smart-news/archaeologists-say-this-9500-year-old-burial-is-the-oldest-known-evidence-of-intentional-cremation-discovered-in-africa-180987945/" },
+        { "title": "Full study — Science Advances", "url": "https://www.science.org/doi/10.1126/sciadv.adz9554" }
+      ],
+      "tags": ["Archaeology", "History", "Africa", "Ancient Humans"],
+      "readingTime": "2 min read",
+      "sources": ["Yale News", "Smithsonian Magazine", "Science Advances"]
+    },
+    {
+      "id": "2026-04-05-010",
+      "headline": "A Bronze Age City the Size of 250 Football Fields Was Hidden in the Kazakh Steppe",
+      "hook": "Semiyarka, a planned city dating to around 1600 BCE and sprawling across 140 hectares, is the largest Bronze Age urban settlement ever found in Kazakhstan — a region where no one thought cities like this existed.",
+      "body": "The Kazakh steppe is not where you look for ancient cities. The conventional picture of Bronze Age Eurasia depicts the vast grasslands as the domain of seminomadic herders and pastoralists — people who moved with their animals and left behind little in the way of permanent architecture. Semiyarka, excavated in northeast Kazakhstan and dated to approximately 1600 BCE, overturns that picture entirely.\n\nCovering roughly 140 hectares — equivalent to about 250 American football fields — Semiyarka was not a sprawling settlement but a planned one. Archaeologists found organized street grids, enclosed residential compounds, a monumental central building, and an industrial zone dedicated to tin-bronze production. The city appears to have been a manufacturing hub, processing and distributing bronze across a wide trade network at a time when bronze was the most strategically important material in the ancient world.\n\nThe discovery reshapes assumptions about early Eurasian urban development. Cities of this scale and organization in 1600 BCE are not supposed to exist in this part of the world — the major Bronze Age civilizations were thought to be concentrated in Mesopotamia, the Indus Valley, and the eastern Mediterranean. Semiyarka suggests that complex, settled, industrial society was developing independently and simultaneously across a much wider swath of the ancient world than historians have traditionally recognized.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1608236415053-8c9b1e0b1a9a?w=800",
+        "alt": "Stone ruins of an ancient settlement stretching across an arid landscape",
+        "credit": "Photo by Casey Lovegrove on Unsplash",
+        "creditUrl": "https://unsplash.com/@clovegrove7?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Bronze Age city found in Kazakhstan — ArtNews", "url": "https://www.artnews.com/art-news/news/bronze-age-city-discovered-northeast-kazakhstan-1234762208/" },
+        { "title": "Semiyarka and Kazakhstan's Bronze Age legacy — Smithsonian", "url": "https://www.smithsonianmag.com/smart-news/archaeologists-find-evidence-of-a-bronze-age-city-in-kazakhstan-180987747/" },
+        { "title": "Full study — Antiquity (Cambridge)", "url": "https://www.cambridge.org/core/journals/antiquity/article/major-city-of-the-kazakh-steppe-investigating-semiyarkas-bronze-age-legacy/7D20FEEC9B8F7BC60721BF7CA401B788" }
+      ],
+      "tags": ["Archaeology", "History", "Bronze Age", "Central Asia"],
+      "readingTime": "2 min read",
+      "sources": ["ArtNews", "Smithsonian Magazine", "Antiquity"]
+    },
+    {
+      "id": "2026-04-05-011",
+      "headline": "A Teenager Was Mauled by a Lion 6,400 Years Ago — and Survived for Two More Years",
+      "hook": "Near Bulgaria's Kozareva Mound, archaeologists found a teenage skeleton with healed skull perforations consistent with a lion bite — evidence that this prehistoric person survived the attack and lived on for up to two years afterward.",
+      "body": "Lion attacks leave a distinctive mark on bone: the puncture wounds from canine teeth are spaced in a pattern that forensic analysts can distinguish from other causes. When archaeologists excavating a prehistoric burial near Bulgaria's Kozareva Mound examined a teenage skeleton, they found exactly this pattern on the skull — but with a crucial difference from a fatal attack. The bone around the wounds showed signs of healing. This individual was bitten by a lion, survived, and lived on.\n\nThe estimated survival period is up to two years. That means the teenager — whose age and probable disability from the injuries suggest they would have needed ongoing care — was kept alive by their community. In a forager or early farming society, that represents a significant investment of resources in someone who likely could not contribute fully to the group's subsistence needs. The find adds to a growing body of evidence that prehistoric human communities routinely cared for injured and disabled members.\n\nThe discovery also provides unusually direct evidence of human-lion conflict in prehistoric Europe. Cave lions, now extinct, overlapped with human populations across Europe for tens of thousands of years, but direct evidence of attacks is rare in the archaeological record. This skeleton is one of the clearest physical records we have of that dangerous coexistence — and of the human response to it.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?w=800",
+        "alt": "Three lions resting together on a rocky outcrop in golden sunlight",
+        "credit": "Photo by Gurth Bramall on Unsplash",
+        "creditUrl": "https://unsplash.com/@gurthb?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Prehistoric lion attack survivor — Archaeology Magazine", "url": "https://archaeology.org/issues/march-april-2026/world/" }
+      ],
+      "tags": ["Archaeology", "Prehistory", "History", "Nature"],
+      "readingTime": "2 min read",
+      "sources": ["Archaeology Magazine"]
+    },
+    {
+      "id": "2026-04-05-012",
+      "headline": "24 New Deep-Sea Species Found — Including an Entirely New Branch of Life",
+      "hook": "In the depths of the Pacific, researchers catalogued 24 new crustacean species and discovered something even rarer: a brand-new superfamily — a whole new branch on the evolutionary tree of life — in a region being targeted for deep-sea mining.",
+      "body": "The Clarion-Clipperton Zone is a vast swath of the deep Pacific seabed, stretching between Hawaii and Mexico at depths of 4,000 to 6,000 meters. It is also one of the most coveted targets for deep-sea mining, thanks to the polymetallic nodules that blanket its floor — lumps of manganese, cobalt, nickel, and copper formed over millions of years. A new survey of the zone has just revealed how much is at stake biologically.\n\nResearchers catalogued 24 new species of amphipods — small, shrimp-like crustaceans — from the region. Among them were members of a brand-new family, Mirabestiidae, and a brand-new superfamily, Mirabestioidea: a previously unknown branch of the evolutionary tree of life, with no known living relatives outside this specific zone. The discovery of a new superfamily is exceptionally rare — it represents not just a new species or genus, but an entirely distinct lineage that has been evolving in isolation for what may be an extraordinarily long time.\n\nThe timing is pointed. Mining operations in the Clarion-Clipperton Zone could disrupt or destroy the precise ecological conditions that have allowed this lineage to persist. Once a seabed ecosystem is physically disturbed at this depth, recovery timescales are measured in centuries. Scientists are pushing for comprehensive biological surveys before any mining licences are granted — arguing that we cannot make informed decisions about what we're willing to destroy if we don't yet know what's there.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1560807707-8cc77767d783?w=800",
+        "alt": "Bioluminescent deep-sea creature glowing in dark water",
+        "credit": "Photo by Noé Sardet on Unsplash",
+        "creditUrl": "https://unsplash.com/@the_macronaut?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "24 new deep-sea species including new superfamily — ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/03/260325005912.htm" },
+        { "title": "New family and superfamily found in deep Pacific — Phys.org", "url": "https://phys.org/news/2026-03-dozens-deep-sea-species-crustaceans.html" }
+      ],
+      "tags": ["Science", "Ocean", "Biology", "Evolution"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Phys.org"]
+    },
+    {
+      "id": "2026-04-05-013",
+      "headline": "A 'Living Fossil' Had Jaws Unlike Anything That Has Ever Existed",
+      "hook": "A newly described ancient creature had twisted jawbones and sideways-facing teeth so bizarre that researchers initially assumed they were looking at damage artifacts — until they found nine specimens that all looked exactly the same.",
+      "body": "Horseshoe crabs are often called living fossils — animals whose body plans have changed so little over hundreds of millions of years that they look almost identical to ancient relatives. But a newly described species of horseshoe crab relative, excavated in Brazil, breaks that mold in a startling way. Its jaw structure is unlike anything seen in any living or fossil organism.\n\nThe key features are a twisted jawbone that doesn't follow any known anatomical plan, and teeth oriented sideways rather than front-to-back — an arrangement with no functional analog in modern biology. When the first specimen was analyzed, researchers assumed the unusual features were artifacts of fossilization: distortion from compression, damage during preservation, or simple misidentification. Then they found a second specimen. Then seven more. Nine individuals from the same species, all displaying the same impossible-looking anatomy.\n\nThe creature's jaws represent a genuine evolutionary experiment that left no descendants. It's a reminder that the history of life is full of body plans that were tried and abandoned — solutions to biological problems that worked well enough to persist for some time, but ultimately led to dead ends. The Natural History Museum's description of the find calls it one of the most anatomically unusual fossil animals described in recent years, raising as many questions as it answers about what this creature ate and how it lived.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1615228402326-7adf9a257f7b?w=800",
+        "alt": "Fossilized dinosaur skull with teeth on display",
+        "credit": "Photo by Preet Patel on Unsplash",
+        "creditUrl": "https://unsplash.com/@preetp8?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Living fossil with unprecedented jaws — Natural History Museum", "url": "https://www.nhm.ac.uk/discover/news/2026/march/new-species-living-fossil-had-jaws-unlike-anything-seen-before.html" }
+      ],
+      "tags": ["Science", "Paleontology", "Evolution", "Biology"],
+      "readingTime": "2 min read",
+      "sources": ["Natural History Museum"]
+    },
+    {
+      "id": "2026-04-05-014",
+      "headline": "North Korean Hackers Drained $285 Million From a Crypto Exchange in 12 Minutes",
+      "hook": "On April Fool's Day, hackers linked to North Korea executed the biggest crypto heist of 2026 — a three-week covert operation that culminated in draining Drift Protocol, a Solana-based exchange, in roughly 12 minutes.",
+      "body": "The attack on Drift Protocol was not spontaneous. Blockchain analysts tracing the exploit found that preparation began on March 11 — three weeks before the strike. Over that period, the attackers seeded a fake token called CarbonVote Token with just a few thousand dollars in wash trading to give it an apparent market presence. On April 1, they weaponized it: the fake token's inflated apparent value was used to trick Drift's price oracles into treating it as legitimate collateral worth hundreds of millions of dollars, allowing the attackers to borrow against it and drain $285 million in real assets.\n\nThe sophistication of the operation is what's most striking. It required simultaneous execution of token manipulation, governance system hijacking, and oracle spoofing — three separate attack vectors coordinated to fire in the same window. Blockchain security firm TRM Labs, which tracks North Korean cyber operations, identified the attack patterns as consistent with the Lazarus Group, Pyongyang's elite hacking unit. The $285 million figure makes it the largest single crypto theft of 2026 so far.\n\nNorth Korea has been systematically looting the crypto ecosystem for years to fund its weapons programs, generating an estimated $3–5 billion since 2017. What the Drift attack reveals is a new level of operational sophistication: these are no longer opportunistic exploits of obvious vulnerabilities. They are carefully planned financial operations, with rehearsal periods, multi-vector attack coordination, and a precision that mirrors military planning.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1621504450181-5d356f61d307?w=800",
+        "alt": "Bitcoin coin resting on a padlock symbolizing cryptocurrency security",
+        "credit": "Photo by rc.xyz NFT gallery on Unsplash",
+        "creditUrl": "https://unsplash.com/@moneyphotos?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Drift Protocol $285M exploit — Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-04-01/solana-based-defi-project-drift-hit-by-285-million-exploit" },
+        { "title": "North Korea's Drift heist — TRM Labs", "url": "https://www.trmlabs.com/resources/blog/north-korean-hackers-attack-drift-protocol-in-285-million-heist" },
+        { "title": "How the attack worked — The Record", "url": "https://therecord.media/drift-crypto-heist-solana-hacker" }
+      ],
+      "tags": ["Cryptocurrency", "Cybersecurity", "North Korea", "Technology"],
+      "readingTime": "2 min read",
+      "sources": ["Bloomberg", "TRM Labs", "The Record", "CCN"]
+    },
+    {
+      "id": "2026-04-05-015",
+      "headline": "Venture Capital Just Had Its Biggest Quarter in History — By a Factor of Two",
+      "hook": "Q1 2026 saw $267 billion in venture capital deal value globally — more than double the previous quarterly record — and analysts are beginning to say the word 'bubble' out loud for the first time.",
+      "body": "Venture capital has been running hot, but Q1 2026 marks a new extreme. Global deal value hit $267.2 billion in the first three months of the year, shattering the previous quarterly record by more than 2x. The surge is concentrated in a handful of categories: AI infrastructure and agentic systems, humanoid robotics, and bio-computing. The round sizes have also shifted dramatically — nine-figure deals that would have been headline news two years ago are now routine.\n\nThe optimist case is straightforward: AI adoption is genuinely accelerating, the underlying technology is improving faster than almost anyone predicted, and the companies building the infrastructure layers of the AI economy have real, growing revenues. The money is chasing something that exists, not pure speculation. The pessimist case is equally straightforward: capital is chasing a small number of themes with herd mentality, valuations have decoupled from any traditional metric, and the market is pricing in scenarios that will require sustained technological progress at rates that have never been maintained for long.\n\nWhat's new in this cycle is who is writing the large checks. Sovereign wealth funds, pension funds, and corporate strategic investors are deploying at scales that were once reserved for public markets. That broadens the potential blast radius if the correction comes — and concentrates the gains in the hands of founders and early investors if it doesn't. The word 'bubble' is now in the conversation. Whether it's a warning or background noise depends entirely on what happens over the next twelve months.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+        "alt": "Busy startup office with people working at computers and whiteboards",
+        "credit": "Photo by Vlad Kutepov on Unsplash",
+        "creditUrl": "https://unsplash.com/@kvtepov?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Q1 2026 VC deal records — Radical Data Science", "url": "https://radicaldatascience.wordpress.com/2026/04/02/ai-news-briefs-bulletin-board-for-april-2026/" }
+      ],
+      "tags": ["Technology", "Business", "AI", "Venture Capital"],
+      "readingTime": "2 min read",
+      "sources": ["Radical Data Science", "PitchBook", "Crunchbase"]
+    }
+  ]
+}
