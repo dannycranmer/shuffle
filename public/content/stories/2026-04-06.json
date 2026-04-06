@@ -1,0 +1,290 @@
+{
+  "date": "2026-04-06",
+  "stories": [
+    {
+      "id": "2026-04-06-001",
+      "headline": "Artemis II Astronauts Just Watched a Solar Eclipse From the Far Side of the Moon",
+      "hook": "Today, four humans became the first people in 54 years to travel beyond the Moon — and they did it while watching one of the rarest cosmic events ever witnessed.",
+      "body": "Today, April 6, the four Artemis II crew members — commander Reid Wiseman, pilot Victor Glover, mission specialist Christina Koch, and Canadian astronaut Jeremy Hansen — completed their lunar flyby and witnessed something no human had ever seen before: a solar eclipse viewed from beyond the Moon. At 8:35 PM ET, the Sun disappeared behind the lunar sphere as observed from deep space, with the eclipse lasting nearly an hour. They are the first humans to leave low Earth orbit since Apollo 17 in December 1972.\n\nThe mission has been packed with milestones. On April 5, the crew broke the human distance record set by the imperiled Apollo 13 crew in 1970 — surpassing 252,757 miles from Earth to become the farthest-traveling humans in history. Victor Glover became the first person of color to travel this far from Earth. Christina Koch became the first woman. Jeremy Hansen became the first non-American to journey beyond low Earth orbit.\n\nDuring the eclipse, the crew observed the solar corona and scanned the lunar surface for meteoroid impact flashes — science that can only be done from this unique vantage point. The mission is a shakedown cruise for the Orion spacecraft and Space Launch System ahead of Artemis III, which aims to land humans on the Moon's south pole for the first time in human history.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1529788295308-1eace6f67388?w=800",
+        "alt": "Total lunar eclipse showing the blood moon against a dark sky",
+        "credit": "Photo by Jongsun Lee on Unsplash",
+        "creditUrl": "https://unsplash.com/@sarahleejs?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NASA Artemis II mission page", "url": "https://www.nasa.gov/mission/artemis-ii/" },
+        { "title": "Artemis II astronauts to see rare eclipse from beyond the Moon — Space.com", "url": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-are-about-to-see-one-of-the-rarest-skywatching-sights-of-all-a-solar-eclipse-from-beyond-the-moon" },
+        { "title": "Artemis II flight day 4 — NASA blog", "url": "https://www.nasa.gov/blogs/missions/2026/04/04/artemis-ii-flight-day-4-deep-space-flying-lunar-flyby-prep/" }
+      ],
+      "tags": ["Space", "NASA", "Artemis", "Moon"],
+      "readingTime": "2 min read",
+      "sources": ["NASA", "Space.com", "Canadian Space Agency"]
+    },
+    {
+      "id": "2026-04-06-002",
+      "headline": "A Third Galaxy With No Dark Matter Was Found — and It's Rewriting Cosmology",
+      "hook": "Three galaxies, all in a suspiciously straight line, all completely missing their dark matter — and astronomers now think they know the violent reason why.",
+      "body": "Cosmological theory says virtually every galaxy should be embedded in a vast halo of dark matter — the invisible scaffolding that holds galaxies together. So when Yale astronomers discovered NGC 1052-DF2 and DF4 with no dark matter at all, it baffled scientists. Now, they've found a third: NGC 1052-DF9, published this week. Like its two siblings, it's almost completely devoid of dark matter. But the strangest detail isn't just the missing matter — it's the geometry.\n\nAll three dark-matter-free galaxies lie in a suspiciously straight line near the galaxy NGC 1052. This alignment strongly supports what astronomers call the \"Bullet Dwarf\" hypothesis: two ancient dwarf galaxies collided at enormous speed billions of years ago. In such a collision, dark matter halos pass right through each other — because dark matter doesn't interact electromagnetically — while the normal gas clouds crash, compress, and fragment into a string of new, dark-matter-stripped galaxies. The arrangement of the three galaxies matches exactly what this model would predict.\n\nStandard galaxy formation models said galaxies without dark matter simply shouldn't exist. Now there are three of them, all in a row. The finding, published in the Astrophysical Journal, pushes researchers toward new models of how galaxies can form and survive without the invisible scaffolding previously assumed to be essential.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1447433553548-2fc162393482?w=800",
+        "alt": "Colorful nebula in deep space with swirling clouds of gas and dust",
+        "credit": "Photo by NASA on Unsplash",
+        "creditUrl": "https://unsplash.com/@nasa?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Third galaxy without dark matter found — Phys.org", "url": "https://phys.org/news/2026-04-astronomers-galaxy-dark-validating-violent.html" },
+        { "title": "Astronomers find a third galaxy missing dark matter — Universe Today", "url": "https://www.universetoday.com/articles/astronomers-find-a-third-galaxy-missing-its-dark-matter-validating-a-violent-cosmic-collision-theory" }
+      ],
+      "tags": ["Astronomy", "Dark Matter", "Cosmology", "Space"],
+      "readingTime": "2 min read",
+      "sources": ["Phys.org", "Universe Today", "Astrophysical Journal"]
+    },
+    {
+      "id": "2026-04-06-003",
+      "headline": "Scientists Found the Most Metal-Poor Star in the Known Universe — and It's an Immigrant",
+      "hook": "A star so chemically primitive it formed shortly after the Big Bang has been discovered in the Milky Way — except it wasn't born here.",
+      "body": "A team using the SDSS-V survey and Magellan telescopes has discovered SDSS J0715-7334, a star that contains less than 0.005% of the Sun's iron content — twice as chemically pristine as the previous record holder for most metal-poor star ever found. Stars are classified as \"metal-poor\" when they formed before earlier stellar generations seeded the universe with heavier elements through supernovae. This star formed in the Large Magellanic Cloud just a few hundred million years after the Big Bang.\n\nWhat makes it even more unusual: it's an immigrant. Born in the Large Magellanic Cloud — a satellite galaxy that orbits our Milky Way — this ancient stellar relic was gravitationally captured billions of years ago and is now part of our galaxy. It's a survivor of the cosmic dark ages, carrying a fingerprint of an almost purely primordial universe. The results were published in Nature Astronomy.\n\nPerhaps the most heartening part of the discovery: undergraduate students found it. They were sifting through massive datasets from the SDSS-V survey as part of a training exercise when they flagged something unlike any other star in the sample. It turned out to be the most chemically primitive star humanity has ever found — a reminder that the universe's oldest secrets are sometimes discovered by the newest scientists.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1724667523173-d0305380fcdc?w=800",
+        "alt": "The night sky filled with stars and the Milky Way stretching across the darkness",
+        "credit": "Photo by Muhammad Fadil on Unsplash",
+        "creditUrl": "https://unsplash.com/@mhmmdfadiill?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Most pristine star in the universe discovered — Phys.org", "url": "https://phys.org/news/2026-04-pristine-star-universe.html" },
+        { "title": "Most pristine star found — Carnegie Science", "url": "https://carnegiescience.edu/found-most-pristine-star-universe" },
+        { "title": "Nature Astronomy paper", "url": "https://www.sciencedaily.com/releases/2026/04/260403224450.htm" }
+      ],
+      "tags": ["Astronomy", "Stars", "Big Bang", "Cosmology"],
+      "readingTime": "2 min read",
+      "sources": ["Phys.org", "Carnegie Science", "ScienceDaily", "Nature Astronomy"]
+    },
+    {
+      "id": "2026-04-06-004",
+      "headline": "A New AI Approach Uses 100x Less Energy — While Being Far More Accurate",
+      "hook": "AI is devouring electricity at a historic rate — but a new neuro-symbolic design trained a robot arm in 34 minutes instead of 36 hours, using just 1% of the power.",
+      "body": "U.S. AI data centers already consume more than 10% of the country's total electricity, with that figure expected to double by 2030. The energy appetite of modern AI has become one of the field's biggest unsolved problems. But researchers at Tufts University may have found a radically different path forward. Their new \"neuro-symbolic\" AI architecture combines the pattern-recognition strengths of neural networks with the logical reasoning of symbolic AI — and the results are striking.\n\nOn a standard benchmark task — the Tower of Hanoi robot arm challenge — the new system succeeded 95% of the time versus 34% for state-of-the-art AI models. But the energy gap is what's truly staggering: the new model required only 1% of the training energy and 5% of the operational energy of conventional vision-language-action models. Training time dropped from 36+ hours to just 34 minutes.\n\nThe key insight is that the neuro-symbolic approach doesn't need to brute-force learn everything from raw data. It encodes logical rules and world knowledge explicitly, letting the neural component focus on perception while the symbolic component handles reasoning. The paper was published in Science Robotics. If the approach scales, it could reshape how the AI industry thinks about the fundamental trade-off between capability and energy cost — a trade-off that has been treated as essentially fixed for the past decade.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1737644467636-6b0053476bb2?w=800",
+        "alt": "A white humanoid robot against a dark background",
+        "credit": "Photo by Gabriele Malaspina on Unsplash",
+        "creditUrl": "https://unsplash.com/@gabrielemalaspina?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "New AI models slash energy use while improving performance — Tufts", "url": "https://now.tufts.edu/2026/03/17/new-ai-models-could-slash-energy-use-while-dramatically-improving-performance" },
+        { "title": "100x less power AI breakthrough — SciTechDaily", "url": "https://scitechdaily.com/100x-less-power-the-breakthrough-that-could-solve-ais-massive-energy-crisis/" }
+      ],
+      "tags": ["AI", "Energy", "Robotics", "Technology"],
+      "readingTime": "2 min read",
+      "sources": ["Tufts University", "ScienceDaily", "SciTechDaily", "Science Robotics"]
+    },
+    {
+      "id": "2026-04-06-005",
+      "headline": "Microsoft's Own Terms Say Copilot Is \"For Entertainment Purposes Only\"",
+      "hook": "Microsoft has spent billions marketing Copilot as an indispensable workplace AI — and buried in its own Terms of Use is a clause warning users not to rely on it for anything important.",
+      "body": "Buried in Microsoft's Terms of Use for Copilot — updated in October 2025 but only widely circulated this week — is a startling disclosure: \"Copilot is for entertainment purposes only. It can make mistakes, and it may not work as intended. Don't rely on Copilot for important advice.\" The clause sits under a section titled \"IMPORTANT DISCLOSURES & WARNINGS,\" yet it received virtually no attention until a Hacker News post went viral this week, attracting hundreds of comments.\n\nThe irony is hard to overstate. Microsoft has spent billions integrating Copilot into every corner of its product ecosystem — Word, Excel, Teams, Outlook, Windows — and has relentlessly marketed it as an essential productivity tool. Enterprise customers pay significant premiums for Copilot access. When the clause was raised in press inquiries, a Microsoft spokesperson described it as \"legacy language\" with no timeline for an update.\n\nThe episode highlights a persistent tension in the AI industry: the gap between how AI products are marketed and how their makers legally characterize them when liability is on the line. Similar \"use at your own risk\" disclaimers exist in the fine print of other AI services, though rarely stated quite so plainly. For anyone using Copilot for legal, financial, or medical decisions, the advice embedded in Microsoft's own terms is unambiguous: don't.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1649451844934-d33042e93092?w=800",
+        "alt": "A laptop computer displaying code on screen",
+        "credit": "Photo by Bernd Dittrich on Unsplash",
+        "creditUrl": "https://unsplash.com/@hdbernd?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Copilot is \"for entertainment purposes only\" — TechCrunch", "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/" },
+        { "title": "Microsoft Copilot ToS language — The Register", "url": "https://www.theregister.com/2026/04/02/copilot_terms_of_service/" }
+      ],
+      "tags": ["AI", "Microsoft", "Technology", "Law"],
+      "readingTime": "2 min read",
+      "sources": ["TechCrunch", "The Register", "Hacker News"]
+    },
+    {
+      "id": "2026-04-06-006",
+      "headline": "Scientists Built the World's First Working Quantum Battery Prototype",
+      "hook": "It charges through a single quantum event, stores energy in ways that violate classical physics, and could power quantum computers — scientists just built the first one that actually works.",
+      "body": "In a result that pushes the boundary between theoretical physics and engineering reality, Australian scientists from the University of Melbourne, RMIT, and CSIRO have demonstrated the first operational prototype of a quantum battery. The device harnesses a quantum-mechanical effect called \"super-absorption,\" where many particles collectively absorb energy in a single coherent event — far faster than any classical battery chemistry allows. The findings were published in Nature Physics.\n\nThe catch: the battery is tiny. It stores only a few billion electron-volts of energy, and the charge lasts only nanoseconds before quantum coherence degrades. For powering a laptop or electric car, this is essentially nothing. But those timescales aren't a bug — they're a feature. Quantum computers operate on nanosecond timescales, and a battery that charges and discharges on that same scale could be exactly what's needed to power the next generation of quantum processors without collapsing their fragile quantum states.\n\nThe broader significance is the proof of concept. Until now, quantum batteries existed only in theory and small-scale lab demonstrations. Building a working prototype — even at tiny scale — validates decades of theoretical work and maps out an engineering path forward. Researchers are already working on materials that could extend coherence times and push stored energy toward practical levels for real-world quantum computing infrastructure.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1765207633730-001e54ec6aba?w=800",
+        "alt": "A circular pattern of atoms on a white background, from a historical lantern slide",
+        "credit": "Photo by Auckland War Memorial Museum on Unsplash",
+        "creditUrl": "https://unsplash.com/@aucklandmuseum?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Australian scientists achieve quantum battery breakthrough — Battery Tech Online", "url": "https://www.batterytechonline.com/battery-news/australian-scientists-achieve-quantum-battery-breakthrough-as-global-race-intensifies" },
+        { "title": "Quantum battery prototype — ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/04/260403224452.htm" }
+      ],
+      "tags": ["Physics", "Quantum", "Science", "Technology"],
+      "readingTime": "2 min read",
+      "sources": ["Nature Physics", "ScienceDaily", "Battery Tech Online"]
+    },
+    {
+      "id": "2026-04-06-007",
+      "headline": "Scientists Finally Solved the Ocean's Missing Plastic Mystery — and the Answer Is Alarming",
+      "hook": "For decades, models predicted far more plastic in the ocean than surveys could find — now we know where it went, and it's worse than anyone hoped.",
+      "body": "For years, oceanographers have faced a baffling discrepancy: models predicted that a massive fraction of humanity's discarded plastic should be floating in the world's oceans, but surveys kept finding far less than expected. Where was it? A major new study published in Nature has the answer: it didn't disappear — it shrank. Sunlight, wave action, and biological activity have been breaking plastic down into particles smaller than 1 micrometer (one-thousandth of a millimeter), invisible to most survey methods. Researchers now estimate 27 million metric tons of nanoplastic is suspended throughout the water column of the North Atlantic alone — more than the combined mass of all macro- and microplastics found across every ocean combined.\n\nThe implications are grim. Nanoplastics are far more dangerous than larger plastic fragments because they can be ingested by almost any marine organism, including the microscopic plankton that form the base of the ocean food web. Studies have already found nanoplastics in human blood, lungs, and placentas. They carry persistent organic pollutants and can penetrate cell membranes in ways larger fragments cannot.\n\nThe most troubling finding: there is no realistic path to cleaning them up. Unlike large plastic islands, nanoplastics are fully dispersed through the water column and cannot be filtered at scale. Prevention of future plastic pollution is the only meaningful lever available — making the discovery both a scientific breakthrough and a stark warning.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1708864162641-c748729de0b3?w=800",
+        "alt": "A plastic bag floating in the ocean",
+        "credit": "Photo by Naja Bertolt Jensen on Unsplash",
+        "creditUrl": "https://unsplash.com/@naja_bertolt_jensen?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Nanoplastics in the North Atlantic — Nature", "url": "https://www.nature.com/articles/s41586-025-09218-1" },
+        { "title": "Ocean's missing plastic discovered — ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/03/260329041649.htm" }
+      ],
+      "tags": ["Environment", "Ocean", "Pollution", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Nature", "ScienceDaily"]
+    },
+    {
+      "id": "2026-04-06-008",
+      "headline": "24 New Deep-Sea Species Found in a Mining Zone — Including an Entirely New Branch of Life",
+      "hook": "Scientists discovered a whole new branch of life in the stretch of Pacific seafloor that mining companies most want to dig up.",
+      "body": "In one of the most species-rich deep-sea surveys in recent years, researchers examining the Clarion-Clipperton Zone — a 6-million-square-kilometer stretch of Pacific seafloor between Hawaii and Mexico — have described 24 previously unknown species of amphipod crustaceans. Among them is something extraordinary: an entirely new superfamily, Mirabestioidea, which represents a new major branch on the tree of crustacean life. The findings were published in the journal ZooKeys.\n\nThe Clarion-Clipperton Zone is also the single largest focus of commercial deep-sea mining interest on Earth. It is littered with polymetallic nodules — potato-sized rocks rich in cobalt, nickel, manganese, and copper — that mining companies see as a critical source of battery metals for the clean energy transition. The researchers note that more than 90% of species in the zone remain unnamed and unstudied, meaning that mining operations would likely destroy forms of life never known to science.\n\nThe tension at the heart of this story is real: the minerals in the Clarion-Clipperton Zone are genuinely needed for electric vehicle batteries and renewable energy infrastructure. But the ecosystem beneath is irreplaceable and almost entirely unknown. The discovery of a new branch of life — at the very site being readied for industrial extraction — forces that trade-off into sharp relief at exactly the moment decisions need to be made.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1552923529-07d0889344be?w=800",
+        "alt": "A yellow jellyfish photographed underwater in the deep sea",
+        "credit": "Photo by Colman Byrne on Unsplash",
+        "creditUrl": "https://unsplash.com/@colmanbyrne?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Dozens of deep-sea species discovered — Natural History Museum", "url": "https://www.nhm.ac.uk/discover/news/2026/march/dozens-deep-sea-species-discovered-new-crustaceans-named.html" },
+        { "title": "New deep-sea creatures — Inside Climate News", "url": "https://insideclimatenews.org/news/26032026/scientists-discover-new-deep-sea-creatures/" },
+        { "title": "24 new amphipod species — ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/03/260325005912.htm" }
+      ],
+      "tags": ["Ocean", "Biodiversity", "Science", "Environment"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Natural History Museum", "Inside Climate News", "ZooKeys"]
+    },
+    {
+      "id": "2026-04-06-009",
+      "headline": "Scientists Named a New Termite After Moby Dick — Because Its Head Looks Like a Sperm Whale",
+      "hook": "Deep in the French Guiana rainforest canopy, 8 meters up in a dead tree, researchers found a termite whose soldiers have heads that look strikingly like tiny sperm whales.",
+      "body": "Cryptotermes mobydicki is the newest addition to the known tree of life, and the name was, researchers say, unavoidable. The drywood termite's soldiers possess an unusually elongated head with concealed mandibles — and viewed in profile, the silhouette bears an uncanny resemblance to the distinctive blunt-nosed head of a sperm whale. The species was discovered by an international team while surveying arthropod diversity 8 meters up in the canopy of a French Guiana rainforest, inside a dead tree. The discovery was published in the journal ZooKeys.\n\nThe find underscores how much of Earth's biodiversity remains hidden in plain sight — literally above our heads in tropical forest canopies that are notoriously difficult to survey. Drywood termites are common enough insects, yet this species had never been described by science. The soldiers, which defend the colony, were the dead giveaway: their distinctive cranial morphology is \"unlike anything we've seen in this genus before,\" according to the describing researchers.\n\nCryptotermes mobydicki poses no threat to humans or structures, preferring the dead wood of high-canopy trees far from human habitation. It joins a tradition of whimsically named species — taxonomists have named organisms after rock bands, actors, and political figures — though the Moby Dick comparison is one of the more visually apt in recent memory.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1761472323507-55868c09ffdb?w=800",
+        "alt": "A beetle resting on a green plant branch",
+        "credit": "Photo by Dhanashree Chavan on Unsplash",
+        "creditUrl": "https://unsplash.com/@salmon_skin_roll_?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Bizarre new insect discovered in South America — SciTechDaily", "url": "https://scitechdaily.com/unlike-anything-weve-ever-seen-bizarre-new-insect-discovered-in-south-america-stuns-scientists/" },
+        { "title": "Cryptotermes mobydicki — ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/04/260401071943.htm" }
+      ],
+      "tags": ["Nature", "Biodiversity", "Wildlife", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "SciTechDaily", "ZooKeys"]
+    },
+    {
+      "id": "2026-04-06-010",
+      "headline": "A Roman Sanctuary Buried Under Frankfurt May Show Evidence of Human Sacrifice",
+      "hook": "Under the streets of Frankfurt, archaeologists have uncovered a Roman sanctuary with six gods, a bronze goddess, a 246 CE inscription to Mercury — and a human skeleton in a well.",
+      "body": "Beneath modern Frankfurt-Heddernheim — the ancient Roman city of Nida — researchers have identified one of the most significant archaeological finds in Germany in recent years: a large multi-deity Roman sanctuary dating to the 2nd and 3rd centuries CE. A €1 million international research project has been funded to study it, involving institutions from Germany, Austria, Switzerland, and the Netherlands. Initial finds are already startling: a bronze statuette of Diana, a dedicatory inscription to Mercury Alatheus dated to 246 CE, evidence of at least six worshipped deities — and, at the bottom of a well, a human skeleton.\n\nThe human remains, combined with the ritual context of the site, have led researchers to raise the possibility of human sacrifice — an extremely rare claim in the context of Roman religion, which is generally understood to have used animal sacrifice rather than human. Such a finding, if confirmed, would be deeply controversial and would add to a small but growing body of evidence for occasional human sacrifice at the fringes of the Roman world.\n\nNida was a prosperous Roman frontier city on what is now the outskirts of Frankfurt. The sanctuary's scale — encompassing multiple buildings and a large well complex — suggests it was a major regional center of religious activity. Full excavation and analysis is expected to take years, and researchers are being careful to stress that the human sacrifice hypothesis remains speculative pending further analysis of the skeletal remains.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1772365609785-debcd5a93db9?w=800",
+        "alt": "Ancient ruins of Pompeii with stone walls and a central courtyard under blue sky",
+        "credit": "Photo by Riccardo Di Curti on Unsplash",
+        "creditUrl": "https://unsplash.com/@riccardodicurti?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Roman sanctuary in Frankfurt — ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/04/260405003937.htm" },
+        { "title": "Frankfurt Roman sanctuary secures €1M research funding — Arkeonews", "url": "https://arkeonews.net/newly-discovered-roman-sanctuary-in-frankfurt-secures-over-e1-million-for-international-research-project/" }
+      ],
+      "tags": ["Archaeology", "Rome", "History", "Germany"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Arkeonews"]
+    },
+    {
+      "id": "2026-04-06-011",
+      "headline": "A Greek Inscription in a Syrian Mosque Just Located a Lost Roman Temple of the Sun",
+      "hook": "A 1,800-year-old temple to the sun god — beloved by one of Rome's most bizarre emperors — was lost to history until a single Greek inscription was found in the Great Mosque of Homs.",
+      "body": "For nearly two millennia, the location of the great Temple of the Sun at Emesa — modern-day Homs, Syria — was a mystery. The temple was the center of the solar cult of Elagabalus, a Roman Emperor who took power at age 14 in 218 CE and became one of antiquity's most eccentric rulers. Elagabalus was himself a high priest of the sun god El-Gabal before becoming emperor, and he attempted to make solar monotheism the supreme religion of Rome. His reign ended in assassination four years later. After his death, the cult was suppressed and the temple largely forgotten.\n\nNow, archaeologists have found a Greek inscription inside the Great Mosque of Homs — a building that itself stands on the site of an ancient Byzantine church, which in turn replaced an earlier Roman structure — that provides direct textual evidence for the location of the Temple of the Sun. The inscription dates to the 2nd or 3rd century CE and explicitly references the sanctuary.\n\nThe discovery is a remarkable example of layered history: a Roman temple whose location was recorded in Greek, preserved inside a mosque built centuries later, revealing a sacred site that has been continuously venerated under different faiths for nearly two thousand years. The find was published in Zeitschrift für Papyrologie und Epigraphik.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1768745294245-06e098192927?w=800",
+        "alt": "Ancient Roman columns with faded frescoes on the wall",
+        "credit": "Photo by Alexis Fauvet on Unsplash",
+        "creditUrl": "https://unsplash.com/@childeye?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "2026 in archaeology — Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_in_archaeology" }
+      ],
+      "tags": ["Archaeology", "Rome", "Syria", "History"],
+      "readingTime": "2 min read",
+      "sources": ["Wikipedia (2026 in Archaeology)", "Zeitschrift für Papyrologie und Epigraphik"]
+    },
+    {
+      "id": "2026-04-06-012",
+      "headline": "Scientists Identified a Single Protein That Appears to Drive Brain Aging",
+      "hook": "A protein called FTL1 rises in aging brains, directly weakens memory-storing synapses, and when blocked in old mice — their memories improved.",
+      "body": "Age-related memory loss has long been understood as a gradual, diffuse process — too many neurons dying, too many connections fading over decades. But a new study from researchers at the University of California, San Francisco, challenges that picture with a more precise target. Their research, published in Nature Neuroscience, identifies FTL1 — a ferritin light chain protein — whose levels rise significantly in the hippocampi of aging mice and appear to directly impair synaptic plasticity, the mechanism by which the brain strengthens the connections that store memories.\n\nWhen the team genetically suppressed FTL1 in older mice, the animals showed measurable improvements in memory tasks, performing more like younger mice. When excess FTL1 was introduced into young mice, their cognitive performance deteriorated. The directional relationship was consistent: more FTL1, worse memory; less FTL1, better memory. The protein appears to impair synaptic function specifically in memory regions, without broadly killing neurons.\n\nFTL1 is not a newly discovered protein — it's involved in iron storage in cells — but its specific role in aging synapses had not previously been identified. The finding opens a potential new therapeutic avenue: a drug or gene therapy that modulates FTL1 levels in aging brains could, in theory, slow or partially reverse cognitive decline without the blunt-force approach of earlier Alzheimer's research focused on amyloid plaques.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1549925245-f20a1bac6454?w=800",
+        "alt": "A black and white close-up photograph of a human brain",
+        "credit": "Photo by Alina Grubnyak on Unsplash",
+        "creditUrl": "https://unsplash.com/@alinnnaaaa?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Protein driving brain aging identified — ScienceDaily", "url": "https://www.sciencedaily.com/news/health_medicine/" }
+      ],
+      "tags": ["Neuroscience", "Aging", "Health", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Nature Neuroscience", "UCSF"]
+    },
+    {
+      "id": "2026-04-06-013",
+      "headline": "A Protein Found in Sugarcane Creates an Armor Shield for Your Teeth",
+      "hook": "Scientists are using a sugarcane protein to build artificial saliva that bonds directly to tooth enamel — offering protection for millions of people with dry mouth.",
+      "body": "It might seem counterintuitive to use sugarcane — the source of the world's sugar, public enemy of dental health — to protect teeth. But researchers at the University of São Paulo have developed an artificial saliva using CANECPI-5, a protease inhibitor naturally present in sugarcane, that bonds directly to tooth enamel and forms a protective layer against bacterial acids, much like natural saliva does. The study was published in ACS Applied Materials & Interfaces.\n\nThe target population is people with xerostomia — dry mouth — a condition that affects an estimated 30% of people over 65, as well as younger patients undergoing chemotherapy, radiation therapy, or taking certain medications including antidepressants and antihistamines. Without adequate saliva, teeth are left vulnerable to decay and erosion at an accelerated rate. Current artificial saliva products are generally temporary lubricants; none bind to and reinforce tooth surfaces the way this new formulation does.\n\nIn laboratory tests, CANECPI-5 coatings reduced enamel demineralization by up to 40% compared to controls and showed antibacterial activity against Streptococcus mutans — the main cavity-causing bacterium. The researchers are now working toward clinical trials. If the results hold in humans, it could meaningfully improve dental outcomes for a large and often overlooked patient population.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1769559893692-c6d0623bf8e4?w=800",
+        "alt": "Close-up of a woman's smiling mouth with red lipstick",
+        "credit": "Photo by Kamal Hoseinianzade on Unsplash",
+        "creditUrl": "https://unsplash.com/@teravis_sk?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Sugarcane protein protects teeth — ScienceDaily", "url": "https://www.sciencedaily.com/news/health_medicine/" }
+      ],
+      "tags": ["Health", "Dentistry", "Science", "Brazil"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "ACS Applied Materials & Interfaces"]
+    },
+    {
+      "id": "2026-04-06-014",
+      "headline": "Reddit Just Deleted r/all — Its Last Unfiltered Window on the Internet",
+      "hook": "Reddit has removed all entry points to r/all — the one place where anyone could see what was actually trending across the entire platform, unfiltered and uncurated.",
+      "body": "On April 2, 2026, Reddit quietly removed the last publicly accessible entry points to r/all — the feed that displayed trending posts from every subreddit, unfiltered, including adult content. For many long-time Reddit users, r/all was the defining experience of the site: chaotic, unpredictable, and often revelatory. Now it's gone, replaced exclusively by r/popular, a curated, algorithm-controlled feed that filters adult content and heavily weights mainstream communities.\n\nOld Reddit users can still technically access r/all via direct URL — for now — but Reddit has removed all navigation links pointing to it, and new Reddit users have no path to it at all. The company made no formal announcement or explanation, leaving users to speculate. The most likely reason involves advertiser concerns: r/all's unpredictability made it impossible to guarantee brand safety, and Reddit increasingly needs advertiser goodwill as it scales post-IPO.\n\nThe death of r/all represents something larger than a navigation change. It marks the completion of Reddit's transformation from a user-directed internet aggregator — where communities, not algorithms, determined what rose to the top — into a conventional social media platform where engagement is managed by invisible ranking systems. Early Reddit was often described as \"the front page of the internet.\" With r/all gone, that front page now has an editor.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1669311540088-8d44f4ab2cd7?w=800",
+        "alt": "A smartphone on a table",
+        "credit": "Photo by Battenhall on Unsplash",
+        "creditUrl": "https://unsplash.com/@battenhall?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Reddit kills r/all — The Meridiem", "url": "https://www.themeridiem.com/consumer-tech/2026/4/2/reddit-kills-r-all-as-platform-completes-shift-to-algorithmic-control" },
+        { "title": "Reddit closing down its unfiltered r/all page — TechRadar", "url": "https://www.techradar.com/computing/social-media/reddit-is-closing-down-its-unfiltered-r-all-page-of-trending-posts-but-there-is-still-a-way-to-access-it-if-you-know-how" }
+      ],
+      "tags": ["Internet", "Reddit", "Technology", "Social Media"],
+      "readingTime": "2 min read",
+      "sources": ["The Meridiem", "TechRadar"]
+    },
+    {
+      "id": "2026-04-06-015",
+      "headline": "Employers Are Using Your Personal Data to Calculate the Lowest Salary You'll Accept",
+      "hook": "A growing practice called \"surveillance wages\" has employers analyzing your credit card debt, payday loan history, and social media activity to find your salary floor before you ever negotiate.",
+      "body": "A detailed report from the Washington Center for Equitable Growth has documented a disturbing emerging practice in hiring: employers increasingly using third-party algorithmic tools to analyze job applicants' personal financial data — including payday loan history, credit card balances, utility payment records, and inferred social media behavior — to estimate the minimum salary each candidate would accept before declining a job offer. The practice, dubbed \"surveillance wages,\" allows companies to suppress compensation by offering exactly what they calculate the candidate needs, not what the role might command at fair market rates.\n\nThe tools work by aggregating data from data brokers and correlating it with historical hiring records. A candidate carrying significant credit card debt or living paycheck-to-paycheck can be flagged as having low negotiating leverage — meaning they're more likely to accept a lowball offer. Companies using these tools report significant reductions in compensation costs compared to standard market-rate hiring.\n\nThe legal status is murky. Pay equity laws in many jurisdictions prohibit using applicant financial history in hiring decisions, but enforcement is difficult when the data use is buried in algorithmic systems. The researchers are calling for expanded pay transparency laws and outright prohibitions on the use of personal financial data in compensation decisions. For now, the tools remain legal in most U.S. states — and according to the report, they are spreading rapidly.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1770627016447-cb9d29ed0398?w=800",
+        "alt": "A woman in a white blazer sits at an office desk",
+        "credit": "Photo by Skytech Aviation on Unsplash",
+        "creditUrl": "https://unsplash.com/@skytechaviation0?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Employers using personal data to set salaries — MarketWatch", "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb" },
+        { "title": "Surveillance wages report — UCI Law", "url": "https://news.law.uci.edu/2026/04/01/employers-use-personal-data-lowest-salary/" }
+      ],
+      "tags": ["Labor", "Technology", "Economy", "Privacy"],
+      "readingTime": "2 min read",
+      "sources": ["Washington Center for Equitable Growth", "MarketWatch", "UCI Law"]
+    }
+  ]
+}
