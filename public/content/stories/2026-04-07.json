@@ -1,0 +1,304 @@
+{
+  "date": "2026-04-07",
+  "stories": [
+    {
+      "id": "2026-04-07-001",
+      "headline": "Humans Just Flew Farther from Earth Than Anyone in 56 Years — and Saw the Moon's Hidden Face",
+      "hook": "For the first time since Apollo, humans have ventured to the Moon — and they went farther than any people in recorded history.",
+      "body": "On April 6, 2026, the four-person Artemis II crew aboard NASA's Orion spacecraft completed a historic loop around the Moon, breaking the distance record set by Apollo 13 back in 1970. At 1:57 p.m. ET, the crew surpassed 252,756 miles from Earth — over 4,000 miles beyond where any human had previously traveled. The crew: NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, plus Canadian Space Agency astronaut Jeremy Hansen.\n\nThe mission's most dramatic moment came during the lunar flyby itself, when the spacecraft rounded the far side of the Moon and went silent — cut off from Earth's communications for about 45 minutes. When they emerged, astronaut Christina Koch described seeing \"the first glimpses of planet Earth again\" after the blackout, and shared high-resolution photographs of the lunar far side — terrain that no human eyes have ever directly seen before.\n\nThe crew also caught a once-in-a-lifetime view: a total solar eclipse from beyond the Moon, watching Earth block the Sun from their unique position in space. Artemis II is a critical stepping stone for NASA's broader return-to-the-Moon plans. While this mission doesn't land, it validated every life-support, navigation, and communication system needed for Artemis III, which aims to put astronauts back on the lunar surface within the next few years.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1711559652900-51614fe511ef?w=800",
+        "alt": "View of the lunar surface from orbit, showing a rugged moonscape",
+        "credit": "Photo by NASA Hubble Space Telescope on Unsplash",
+        "creditUrl": "https://unsplash.com/@hubblespacetelescope?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NASA: Artemis II Flight Day 6 — Lunar Flyby Updates", "url": "https://www.nasa.gov/blogs/missions/2026/04/06/artemis-ii-flight-day-6-lunar-flyby-updates/" },
+        { "title": "CNN: Live Updates — Artemis II Moon Flyby", "url": "https://www.cnn.com/2026/04/06/science/live-news/nasa-artemis-2-flyby-moon-mission" },
+        { "title": "NPR: Artemis II Astronauts Heading Home After Historic Moon Flyby", "url": "https://www.npr.org/2026/04/06/nx-s1-5773187/nasa-artemis-ii-moon-lunar-flyby" }
+      ],
+      "tags": ["Space", "NASA", "Moon", "Artemis"],
+      "readingTime": "2 min read",
+      "sources": ["NASA", "CNN", "NPR", "Space.com"]
+    },
+    {
+      "id": "2026-04-07-002",
+      "headline": "A New Telescope Found 11,000 Unknown Asteroids in Six Weeks — and It's Just Getting Started",
+      "hook": "The Vera C. Rubin Observatory has barely opened its eyes, and it's already rewriting the solar system's catalog.",
+      "body": "After just six weeks of preliminary observations, the Vera C. Rubin Observatory in Chile has submitted over one million observations to the International Astronomical Union's Minor Planet Center — confirming 11,000 previously unknown asteroids. The haul includes 33 near-Earth objects and roughly 380 trans-Neptunian objects, distant icy worlds lurking beyond Neptune's orbit.\n\nWhat makes this even more remarkable is the scale of what's coming. This data dump was gathered before the observatory's full decade-long Legacy Survey of Space and Time (LSST) officially begins. Once the main survey kicks off, scientists expect Rubin to discover this many asteroids every two to three nights. By the end of the program, the total known asteroid count is expected to triple.\n\nThe newly cataloged near-Earth objects are particularly valuable for planetary defense. These are small rocky bodies whose orbits bring them within 1.3 astronomical units of the Sun — the same zone Earth lives in. Better tracking these objects earlier and with more precision is critical for identifying any future collision threats. For context, most of the solar system's asteroid belt remains completely uncharted. Rubin is about to change that dramatically, one night of observation at a time.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1707653056955-1835d800f4f7?w=800",
+        "alt": "A large rocky object suspended in the darkness of deep space",
+        "credit": "Photo by NASA Hubble Space Telescope on Unsplash",
+        "creditUrl": "https://unsplash.com/@hubblespacetelescope?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Rubin Observatory: Early Data Reveals Over 11,000 New Asteroids", "url": "https://rubinobservatory.org/news/11000-new-asteroids" },
+        { "title": "Phys.org: Early Data from Vera C. Rubin Observatory", "url": "https://phys.org/news/2026-04-early-vera-rubin-observatory-reveals.html" },
+        { "title": "Space.com: Rubin's Record-Breaking First Results", "url": "https://www.space.com/astronomy/asteroids/the-powerful-new-rubin-observatory-just-found-11-000-new-asteroids-and-measured-tens-of-thousands-more" }
+      ],
+      "tags": ["Astronomy", "Space", "Asteroids", "Planetary Defense"],
+      "readingTime": "2 min read",
+      "sources": ["Rubin Observatory", "University of Washington", "Space.com", "Phys.org"]
+    },
+    {
+      "id": "2026-04-07-003",
+      "headline": "Scientists Built a Battery That Charges With a Laser and Uses Quantum Physics — and It Works",
+      "hook": "Forget lithium-ion. Australia's scientists have demonstrated something stranger: a battery that charges faster the bigger it gets, powered by quantum mechanics.",
+      "body": "Researchers at Australia's CSIRO, RMIT University, and the University of Melbourne have demonstrated the world's first fully working quantum battery — one that absorbs, stores, and releases energy using quantum physics rather than chemistry. The prototype, published in Light: Science & Applications, uses a multi-layered organic microcavity charged wirelessly by a laser.\n\nThe key quantum phenomenon at work is \"super absorption,\" where energy is absorbed in a rapid, coordinated quantum event rather than gradually. More strikingly, the team found that the larger the device, the faster it charges — a counterintuitive property that flips conventional battery logic on its head. The prototype also retained stored energy for six orders of magnitude longer than it took to charge.\n\nThere's a catch: the battery is currently tiny, stores only a few billion electron-volts, and holds its charge for just nanoseconds. The researchers are candid that electric vehicles won't be powered by it anytime soon. But they see a first practical application in quantum computers, which operate at similarly tiny scales and could benefit enormously from on-chip energy storage. The real achievement here is that the concept works at all — the physics checks out, and that's where every transformative technology begins.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1768328591729-176a94d187ef?w=800",
+        "alt": "Abstract explosion of colorful light representing quantum energy dynamics",
+        "credit": "Photo by Logan Voss on Unsplash",
+        "creditUrl": "https://unsplash.com/@loganvoss?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "CSIRO: World's First Quantum Battery Prototype", "url": "https://www.csiro.au/en/news/all/articles/2026/march/a-world-first-quantum-battery" },
+        { "title": "RMIT University: Scientists Take Major Step Toward Quantum Battery", "url": "https://www.rmit.edu.au/news/all-news/2026/mar/quantum-battery-prototype" },
+        { "title": "ScienceAlert: Quantum Battery Paves Way for Almost-Instant Charging", "url": "https://www.sciencealert.com/quantum-battery-prototype-paves-the-way-for-almost-instant-charging" }
+      ],
+      "tags": ["Quantum Physics", "Energy", "Technology", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["CSIRO", "RMIT University", "University of Melbourne", "Light: Science & Applications"]
+    },
+    {
+      "id": "2026-04-07-004",
+      "headline": "A Single Injection Is Giving Deaf People the Ability to Hear — Sometimes Within Weeks",
+      "hook": "People born deaf are hearing sound for the first time, thanks to a single shot that repairs the ear from the inside.",
+      "body": "A remarkable clinical trial has shown that gene therapy can restore hearing in patients with a specific form of genetic deafness — and the results are arriving fast. Researchers delivered a working copy of the OTOF gene (which encodes the protein otoferlin, critical for transmitting sound signals from the ear to the brain) directly into the inner ear of ten patients ranging from young children to adults. Every single patient showed improved hearing, with some gains appearing within just one month.\n\nThe therapy targets DFNB9 deafness, caused by mutations in the OTOF gene. Without working otoferlin, the hair cells in the inner ear simply can't communicate with the auditory nerve. The gene therapy, delivered via a modified virus, essentially gives those cells the missing blueprint. Separate trials treating both ears simultaneously showed that children could now localize sound — determining which direction it comes from — something cochlear implants struggle to replicate.\n\nResearchers are already looking ahead to more common forms of genetic deafness. \"OTOF is just the beginning,\" said one lead researcher, noting that work is expanding to genes like GJB2 and TMC1, which account for far more deafness cases worldwide. Across multiple published trials, no serious adverse reactions were observed in follow-up periods of up to 12 months — a strong early safety signal for a therapy that could eventually help millions.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1758598738326-3bc889d1558d?w=800",
+        "alt": "A child whispering a secret into someone's ear",
+        "credit": "Photo by Vitaly Gariev on Unsplash",
+        "creditUrl": "https://unsplash.com/@silverkblack?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Deafness Reversed — One Injection Restores Hearing in Weeks", "url": "https://www.sciencedaily.com/releases/2026/04/260403044651.htm" },
+        { "title": "Nature Medicine: Bilateral Gene Therapy Trial Results", "url": "https://www.nature.com/articles/s41591-024-03023-5" },
+        { "title": "NEJM: DB-OTO Gene Therapy for Inherited Deafness", "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2400521" }
+      ],
+      "tags": ["Medicine", "Gene Therapy", "Deafness", "Health"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Nature Medicine", "New England Journal of Medicine", "Karolinska Institutet"]
+    },
+    {
+      "id": "2026-04-07-005",
+      "headline": "Solar Cells Just Broke Physics: Researchers Achieved 130% Quantum Efficiency",
+      "hook": "For every photon hitting this experimental solar cell, more than one electron comes out — something that was supposed to be physically impossible.",
+      "body": "Conventional solar physics holds that each photon of light can produce at most one electron — the Shockley-Queisser limit caps a solar cell's theoretical efficiency at around 33%. Researchers at Kyushu University in Japan, collaborating with Johannes Gutenberg University in Germany, have now shattered this barrier using a \"spin-flip\" metal complex, achieving 130% quantum yield. That means more electrons were produced than photons absorbed.\n\nThe trick is a phenomenon called singlet fission, where a single high-energy photon is split to excite two electrons instead of one. The team used a molybdenum-based \"spin-flip\" emitter to capture and redirect the extra energy that conventional solar cells simply discard as heat. For every photon absorbed, approximately 1.3 electrons were activated — more energy out than energy in, within the constraints of quantum mechanics.\n\nIt's worth being clear: this is currently a solution-based lab-scale demonstration, not a commercial product. The material exists in liquid form, not yet in the solid-state configuration needed for actual solar panels. But the implications for the future of renewable energy are significant. Heat loss is one of the biggest inefficiencies in modern solar technology. Capturing that wasted energy instead of losing it could eventually push real-world solar panel efficiencies well beyond anything currently on the market. The research was published in the Journal of the American Chemical Society.",
+      "image": {
+        "url": "https://images.unsplash.com/flagged/photo-1566838616631-f2618f74a6a2?w=800",
+        "alt": "Solar panels installed on a residential rooftop in bright sunlight",
+        "credit": "Photo by Vivint Solar on Unsplash",
+        "creditUrl": "https://unsplash.com/@vivintsolar?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Solar Cells Just Did the Impossible with 130% Breakthrough", "url": "https://www.sciencedaily.com/releases/2026/03/260328024517.htm" },
+        { "title": "SciTechDaily: Scientists Break the Solar Power Limit Everyone Thought Was Absolute", "url": "https://scitechdaily.com/scientists-just-broke-the-solar-power-limit-everyone-thought-was-absolute/" },
+        { "title": "EurekAlert: Spin-Flip in Metal Complexes Opens Path Beyond Solar Efficiency Limits", "url": "https://www.eurekalert.org/news-releases/1120166" }
+      ],
+      "tags": ["Solar Energy", "Renewables", "Physics", "Technology"],
+      "readingTime": "2 min read",
+      "sources": ["Kyushu University", "Johannes Gutenberg University", "Journal of the American Chemical Society", "ScienceDaily"]
+    },
+    {
+      "id": "2026-04-07-006",
+      "headline": "Scientists Dove Into Australia's Most Unexplored Waters and Found Over 110 Never-Before-Seen Species",
+      "hook": "In one of Earth's most pristine marine environments, a team of scientists pulled up creatures science had never catalogued before — including several new sharks.",
+      "body": "Marine scientists aboard the CSIRO research vessel Investigator have returned from the Coral Sea Marine Park with over 110 new-to-science fish and invertebrate species. The expedition explored depths of 200 to 3,000 meters across a region spanning nearly one million square kilometers — most of it virtually unexplored. Researchers expect the final count to exceed 200 species as specialists finish analyzing more cryptic specimens requiring advanced genetic testing.\n\nAmong the highlights: four new shark-related species, including two new rays (in the genera Dipturus and Urolophus), a deep-water catshark, and a chimaera — an ancient, cartilaginous fish sometimes called a \"ghost shark.\" Beyond fish, scientists also documented new species of brittlestars, sea anemones, sponges, and crabs. Each is being lodged in research collections across Australia, including the Australian National Fish Collection.\n\nThe Coral Sea Marine Park is one of Australia's largest protected marine reserves, but until this expedition, its deep waters had never been systematically surveyed. Led by CSIRO in partnership with the Nippon Foundation-Nekton Ocean Census, the voyage used a remotely operated vehicle to reach depths impossible for divers. At a time when marine biodiversity faces mounting pressure from ocean warming and acidification, surveys like this do double duty: they reveal what's there, and they establish a baseline for tracking future change.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1642518382976-7c36c035124c?w=800",
+        "alt": "A vivid sea anemone on a deep-sea coral reef",
+        "credit": "Photo by Tofan Teodor on Unsplash",
+        "creditUrl": "https://unsplash.com/@tofanteo?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "CSIRO: More Than 110 New Species from the Coral Sea Revealed", "url": "https://www.csiro.au/en/news/All/News/2026/April/More-than-110-new-species-from-Coral-Sea-revealed" },
+        { "title": "ECO Magazine: Expedition Uncovers 110 New Species from the Coral Sea", "url": "https://ecomagazine.com/news/research/expedition-uncovers-110-new-species-from-the-coral-sea" },
+        { "title": "Yahoo News: Scientists Found 110+ New Species Including a Ghost Shark", "url": "https://www.yahoo.com/news/articles/scientists-just-found-110-species-023729721.html" }
+      ],
+      "tags": ["Ocean", "Marine Biology", "New Species", "Nature"],
+      "readingTime": "2 min read",
+      "sources": ["CSIRO", "Nippon Foundation-Nekton Ocean Census", "ECO Magazine"]
+    },
+    {
+      "id": "2026-04-07-007",
+      "headline": "Curiosity Rover Accidentally Found Evidence of a Colossal Martian Sandstorm 3.5 Billion Years Ago",
+      "hook": "A lucky glance at a routine black-and-white panorama led scientists to the first direct evidence of an ancient Martian megastorm.",
+      "body": "It started with something unusual in a routine image. While monitoring the Curiosity rover's cameras, geologist Steven Banham spotted strange ripple patterns in a panorama taken at the end of a drive in Gale crater. When the team pointed higher-resolution cameras at the site, they found something extraordinary: the first direct evidence of a massive sandstorm on Mars, preserved in rock for over three billion years.\n\nThe formations, called supercritical climbing wind ripples, are exceptionally rare — almost never found on Earth, and never before seen on Mars. They form only under intense, fast-moving winds carrying large volumes of sand over short periods. Their presence directly constrains how thick Mars's ancient atmosphere must have been: dense enough to drive howling sandstorms across open desert plains, far thicker than the thin wisp of atmosphere Mars has today.\n\nFor researchers reconstructing what ancient Mars was like, these structures are a gold mine. Published in the journal Geology, the paper provides the strongest estimate yet of early Martian atmospheric pressure during the planet's geologically active period. Mars today can barely move sand at all; three billion years ago, it apparently had dramatic storm seasons — one more piece of evidence for a planet that was once far more dynamic, and potentially far more hospitable to life, than the cold desert it is now.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1645170055009-7237c32050f0?w=800",
+        "alt": "A lone figure standing in a vast, red desert landscape reminiscent of Mars",
+        "credit": "Photo by Viktor Ozolin on Unsplash",
+        "creditUrl": "https://unsplash.com/@viktorozolin?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Phys.org: Serendipitous Discovery of Martian Ripple Marks", "url": "https://phys.org/news/2026-04-serendipitous-discovery-martian-ripple-reveals.html" },
+        { "title": "Astrobiology.com: Martian Ripple Marks Reveal Ancient Sandstorm", "url": "https://astrobiology.com/2026/04/serendipitous-discovery-of-martian-ripple-marks-reveals-an-ancient-sandstorm.html" },
+        { "title": "Science AAAS: Relics of an Ancient Sandstorm Point to Earth-Like Winds", "url": "https://www.science.org/content/article/relics-ancient-sandstorm-mars-point-earth-winds" }
+      ],
+      "tags": ["Mars", "Space", "Geology", "NASA"],
+      "readingTime": "2 min read",
+      "sources": ["Phys.org", "Geology journal", "NASA/JPL", "Science AAAS"]
+    },
+    {
+      "id": "2026-04-07-008",
+      "headline": "Astronomers Found the Most Chemically Pristine Star Ever Seen — a Fossil From the Universe's First Moments",
+      "hook": "A star 80,000 light-years away contains almost no metals — making it a living relic from the universe's second generation of stars.",
+      "body": "Using data from the Sloan Digital Sky Survey-V and Chile's Magellan telescopes, astronomers have identified the most metal-poor star ever discovered: SDSS J0715-7334. It contains just 0.005% of the metallic content found in our Sun — more than twice as metal-poor as the previous record holder, and more chemically pristine than any galaxy the James Webb Space Telescope has yet observed.\n\nIn astronomy, \"metals\" means any element heavier than hydrogen and helium. These heavier elements are forged inside stars and scattered by supernova explosions. A star with almost none of these elements formed before almost any of that enrichment happened — meaning SDSS J0715-7334 is a second-generation star, born from gas barely touched by the universe's very first stars. The cosmos was only a few hundred million years old when it formed.\n\nWhat makes the discovery even more striking is that this star wasn't born in the Milky Way. Using data from the European Space Agency's Gaia mission, researchers determined SDSS J0715-7334 originated in a dwarf galaxy that was eventually pulled apart and absorbed by our own galaxy's gravity. It's been drifting unnoticed through our cosmic neighborhood for billions of years — a genuine fossil from the dawn of time, now revealed by some of the most sensitive instruments ever built.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1665708470919-f8c2992fb778?w=800",
+        "alt": "A sweeping view of stars and the Milky Way above silhouetted trees",
+        "credit": "Photo by Sollange Brenis on Unsplash",
+        "creditUrl": "https://unsplash.com/@sollangeb?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Phys.org: The Most Pristine Star Yet Found in the Known Universe", "url": "https://phys.org/news/2026-04-pristine-star-universe.html" },
+        { "title": "ScienceDaily: Students Found a Star From the Dawn of the Universe", "url": "https://www.sciencedaily.com/releases/2026/04/260403224450.htm" },
+        { "title": "Daily Galaxy: Astronomers Discover the Most Pristine Star", "url": "https://dailygalaxy.com/2026/04/astronomers-discover-most-pristine-star/" }
+      ],
+      "tags": ["Astronomy", "Stars", "Cosmology", "Milky Way"],
+      "readingTime": "2 min read",
+      "sources": ["Sloan Digital Sky Survey", "Carnegie Science", "ESA Gaia Mission", "Phys.org"]
+    },
+    {
+      "id": "2026-04-07-009",
+      "headline": "Nemo Shrinks: Clownfish Are Literally Getting Smaller to Survive Marine Heat Waves",
+      "hook": "When the ocean gets too hot, clownfish do something astonishing — they temporarily shrink themselves.",
+      "body": "Scientists studying wild clownfish have documented a remarkable survival strategy: when marine heat waves hit, the fish reduce their own body size. In a study monitoring clownfish pairs through a 2023 heat wave event, 71% of dominant females and 79% of breeding males shrank at least once. The change is subtle — just 1 to 2 millimeters — but measurable, and fish that shrank increased their chances of surviving heat stress by as much as 78%.\n\nHow exactly they shrink is still unclear. Researchers suspect the fish may reabsorb some of their own bone tissue, a process documented in other animals under extreme stress. The proposed benefit is metabolic: a smaller body requires less food and burns energy more efficiently — critical when warmer water disrupts food availability and increases metabolic demands. Fish that shrank in sync with their breeding partners had the best survival outcomes of all.\n\nClownfish are already famous for one biological peculiarity: in each pair, the dominant individual is always female, and if she dies, the male can change sex to take her place. Now add reversible body shrinkage to the list of tricks these small fish deploy. The researchers caution this is a short-term adaptation, and it remains unclear whether repeated shrinkage across years of intensifying heat waves will have longer-term consequences for the species' health or reproduction.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1554283231-de01aab7c2a3?w=800",
+        "alt": "A bright orange clownfish nestled in a sea anemone on a coral reef",
+        "credit": "Photo by Angelo Abear on Unsplash",
+        "creditUrl": "https://unsplash.com/@angeloabear?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "National Geographic: How Do Clownfish Survive a Heat Wave? By Shrinking", "url": "https://www.nationalgeographic.com/animals/article/clownfish-shrinking-ocean-heat-wave" },
+        { "title": "Smithsonian Magazine: Clownfish Shrink Down Their Bodies to Survive Heat Waves", "url": "https://www.smithsonianmag.com/smart-news/clownfish-shrink-down-their-bodies-to-survive-ocean-heat-waves-new-study-suggests-180986676/" },
+        { "title": "Science Advances: Individual Clown Anemonefish Shrink to Survive Heat Stress", "url": "https://www.science.org/doi/10.1126/sciadv.adt7079" }
+      ],
+      "tags": ["Climate", "Marine Life", "Fish", "Nature"],
+      "readingTime": "2 min read",
+      "sources": ["National Geographic", "Smithsonian Magazine", "Science Advances"]
+    },
+    {
+      "id": "2026-04-07-010",
+      "headline": "Forget Wi-Fi: New Laser Technology Sends Data at 360 Gbps Using Half the Energy",
+      "hook": "A chip the size of your thumbnail just smashed wireless speed records — using light instead of radio waves.",
+      "body": "Researchers have developed a tiny optical wireless transmitter that can move data at over 360 gigabits per second — roughly 3,600 times faster than a typical home Wi-Fi connection — while using only half the energy. The system uses a 5×5 array of miniature vertical-cavity surface-emitting lasers (VCSELs), each simultaneously transmitting data across multiple closely spaced frequency channels. In tests, the aggregate data rate hit 362.7 Gbps across a two-meter free-space link.\n\nThe technology is a form of LiFi — wireless communication using light rather than radio frequencies. Unlike radio waves, light doesn't pass through walls, which actually makes it inherently more secure and eliminates cross-room interference. It also operates in a completely uncrowded part of the electromagnetic spectrum, meaning it can work alongside conventional Wi-Fi without any interference whatsoever.\n\nThe researchers envision integrating these systems into ceiling light fixtures in homes, offices, and data centers — providing fast, power-efficient wireless connections without the congestion issues that increasingly plague traditional Wi-Fi in dense environments. The research was published in Advanced Photonics Nexus. What makes commercialization plausible in the near term: most of the components are already mass-produced for fiber-optic networks, meaning this isn't waiting on new manufacturing breakthroughs — just smart integration.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1768256722157-b1a012c18918?w=800",
+        "alt": "Bright green laser beams radiating outward from a central focal point",
+        "credit": "Photo by Miguel Alcântara on Unsplash",
+        "creditUrl": "https://unsplash.com/@miguelalcantara?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Laser-Powered Wireless Hits 360 Gbps at Half the Energy of Wi-Fi", "url": "https://www.sciencedaily.com/releases/2026/04/260402042734.htm" },
+        { "title": "EurekAlert: A New Way to Deliver Faster, Greener Wireless Connections", "url": "https://www.eurekalert.org/news-releases/1122056" },
+        { "title": "SciTechDaily: Forget Wi-Fi — This Laser Tech Hits 360 Gbps at Half the Power", "url": "https://scitechdaily.com/forget-wi-fi-this-laser-tech-hits-360-gbps-at-half-the-power/" }
+      ],
+      "tags": ["Technology", "LiFi", "Wireless", "Physics"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "EurekAlert", "Advanced Photonics Nexus"]
+    },
+    {
+      "id": "2026-04-07-011",
+      "headline": "Scientists Found the Single Protein That Drives Brain Aging — and Reversed It in Mice",
+      "hook": "A protein called FTL1 appears to be the master switch behind age-related memory loss — and turning it down gives aging brains a second chance.",
+      "body": "Researchers at UC San Francisco have identified a protein called FTL1 (ferritin light chain 1) as a central driver of cognitive decline in aging. Published in Nature Aging, the study found that old mice had significantly higher FTL1 levels in their brains than young ones — and that elevated FTL1 directly weakened connections between neurons in the hippocampus, the brain's primary memory center, while slowing cellular energy production.\n\nThe most striking finding came when researchers reduced FTL1 levels in aging mice: the brain began to recover. Neural connections in the hippocampus increased, and the mice performed measurably better on memory tests. FTL1 acts as a kind of metabolic brake on brain cells. When researchers treated cells with a compound that boosts metabolism independently, the negative effects of high FTL1 were prevented — pointing to two potential intervention pathways, not just one.\n\nThe research is still in animal models, and bridging the gap to humans requires substantial additional work. Developing drugs or gene therapies that safely cross the blood-brain barrier to modulate FTL1 is a real engineering challenge. But identifying a single, specific, targetable molecule behind age-related cognitive decline is a significant conceptual step. It gives researchers a concrete destination — and the mouse results suggest that even in older brains, some cognitive capacity can be restored rather than merely slowed.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1726162613793-e42ea98993ef?w=800",
+        "alt": "A detailed blue model of the human brain",
+        "credit": "Photo by Nick Design on Unsplash",
+        "creditUrl": "https://unsplash.com/@nickshuperdesign?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Scientists Found a Protein That Drives Brain Aging — and How to Stop It", "url": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm" },
+        { "title": "UCSF: This Protein Slows the Aging Brain, and We Know How to Counter It", "url": "https://www.ucsf.edu/news/2025/08/430551/protein-slows-aging-brain-and-we-know-how-counter-it" },
+        { "title": "Nature Aging: Targeting Iron-Associated Protein Ftl1 in the Aging Brain", "url": "https://www.nature.com/articles/s43587-025-00940-z" }
+      ],
+      "tags": ["Neuroscience", "Aging", "Medicine", "Research"],
+      "readingTime": "2 min read",
+      "sources": ["UC San Francisco", "Nature Aging", "ScienceDaily"]
+    },
+    {
+      "id": "2026-04-07-012",
+      "headline": "A Hidden Greek Inscription Beneath a Syrian Mosque May Reveal a Lost Roman Sun Temple",
+      "hook": "Beneath a medieval mosque in Syria, a buried stone inscription could settle a 1,700-year-old mystery about one of Rome's most unusual emperors.",
+      "body": "During restoration work at the Great Mosque of Homs in Syria, a Greek inscription carved into the granite base of a column was uncovered. The text, first unearthed during excavations in 2016, may finally answer a question that has puzzled historians for centuries: does the mosque sit atop the legendary Temple of Elagabalus, a Roman sun temple built in the third century AD?\n\nEmperor Elagabalus, who rose to power around 218 AD, was the high priest of a solar cult based in the ancient Syrian city of Emesa (modern-day Homs). He famously brought the worship of his sun god to Rome, shocking the city with his exotic religious practices. The temple he presided over in Emesa has long been lost — but scholars have suspected for decades that it may lie under the Great Mosque, which was itself built on the site of a Byzantine church, which was itself constructed on earlier Roman foundations.\n\nAccording to archaeologist Dr. Maamoun Abdulkarim of the University of Sharjah, the inscription provides a crucial breakthrough in linking the site to religious construction during the relevant period. The discovery fits a pattern seen across the ancient world, where sacred ground was continuously repurposed across faiths and centuries. A mosque atop a church atop a pagan temple atop an even older sanctuary — it's one of the great stories of how human civilization layers itself in space. The study was published in the archaeology journal Shedet.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1767722412858-82126a4799fb?w=800",
+        "alt": "Ancient stone ruins with red flowers in the foreground and distant mountains behind",
+        "credit": "Photo by José Luis Lobera on Unsplash",
+        "creditUrl": "https://unsplash.com/@jlobera?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Phys.org: Mysterious Greek Inscription Reignites Temple Debate", "url": "https://phys.org/news/2026-02-mysterious-greek-inscription-reignites-debate.html" },
+        { "title": "Archaeology Magazine: Greek Inscription Found in Syria's Great Mosque", "url": "https://archaeologymag.com/2026/02/greek-inscription-found-in-syrias-great-mosque/" },
+        { "title": "ScienceDaily: Mysterious Greek Inscription May Reveal Lost Temple", "url": "https://www.sciencedaily.com/releases/2026/04/260401071947.htm" }
+      ],
+      "tags": ["Archaeology", "History", "Rome", "Syria"],
+      "readingTime": "2 min read",
+      "sources": ["Phys.org", "ScienceDaily", "Shedet journal", "University of Sharjah"]
+    },
+    {
+      "id": "2026-04-07-013",
+      "headline": "Scientists Found a Never-Before-Seen Animal Living in One of Earth's Most Inhospitable Places",
+      "hook": "The Great Salt Lake was thought to support almost nothing — then scientists found something new living deep in its mud.",
+      "body": "Researchers have discovered a new species of roundworm thriving in the sediments of Utah's Great Salt Lake, one of the saltiest bodies of water in the Western Hemisphere. Named Diplolaimelloides woaabi — with \"woaabi\" meaning \"worm\" in the Shoshone language, chosen in consultation with Indigenous elders — the creature represents only the third known animal group capable of surviving the lake's extreme salinity.\n\nThe species was found by University of Utah scientist Julie Jung during fieldwork in 2022, living inside microbialites: ancient, rock-like structures built by microbial communities on the lake floor. The nematode is smaller than 1.5 millimeters and belongs to a genus typically found in coastal marine environments — making its presence in a landlocked, ultra-saline lake a genuine puzzle. How it got there remains unknown. Theories include transport by migratory birds or survival from an ancient inland sea that once covered the region.\n\nWhat makes the find particularly intriguing is that genetic analysis hints at the presence of a second, even more elusive nematode species lurking in the same sediment samples. The Great Salt Lake has been dramatically shrinking in recent decades due to water diversions and climate change, with significant ecological consequences. Discovering new life forms in the lake underscores how much remains unknown about the ecosystem — and how urgent it is to understand before more of it disappears.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1754878204905-9cf3354fce84?w=800",
+        "alt": "A solitary figure standing on a misty shoreline at sunrise",
+        "credit": "Photo by Dennis Zhang on Unsplash",
+        "creditUrl": "https://unsplash.com/@windagh?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: A Never-Before-Seen Creature Found in the Great Salt Lake", "url": "https://www.sciencedaily.com/releases/2026/01/260110211227.htm" },
+        { "title": "The Debrief: A Newly Discovered Species Offers Clues to the Great Salt Lake's Past", "url": "https://thedebrief.org/a-newly-discovered-species-offers-clues-to-the-great-salt-lakes-past/" },
+        { "title": "KSL.com: Great Salt Lake's Latest Species Discovery Gets a Name Fit for the Lake's History", "url": "https://www.ksl.com/article/51418439/great-salt-lakes-latest-species-discovery-gets-a-name-fit-for-the-lakes-native-history" }
+      ],
+      "tags": ["Nature", "Biology", "New Species", "Environment"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "University of Utah", "KSL.com", "The Debrief"]
+    },
+    {
+      "id": "2026-04-07-014",
+      "headline": "Reddit Just Killed r/all — Its Iconic, Unfiltered Window Into the Internet",
+      "hook": "For over a decade, r/all showed you everything Reddit was talking about, unfiltered. Now it's gone, replaced by an algorithm.",
+      "body": "Reddit has officially removed r/all from its main app and desktop interface, redirecting all links to the algorithmically curated Home feed. The change, effective April 2, 2026, completes the platform's years-long shift away from chronological, unfiltered aggregation toward personalized content — a direction Reddit has been accelerating since its 2024 IPO.\n\nr/all was beloved by power users for showing the raw fire hose of everything being upvoted across Reddit's tens of thousands of communities, unfiltered by your subscriptions or interests. Critics of its removal argue that r/all made Reddit feel like a genuine public square — where any post, from any community, could bubble up based purely on community votes. The Home feed, by contrast, learns what you like and shows you more of it, similar to TikTok or Instagram's recommendation algorithms.\n\nFor now, users of old.reddit.com — the legacy desktop interface Reddit hasn't officially deprecated — can still access r/all through the top navigation. Reddit also notes that r/popular remains available, offering a similar experience but excluding NSFW-labeled communities. The move prompted predictable backlash from longtime Redditors who see it as another step toward algorithmic homogenization. For the vast majority of Reddit's half-billion users who never visited r/all anyway, though, the change is invisible. That demographic gap may be exactly the point.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1616469832424-6927678c6b4b?w=800",
+        "alt": "Abstract representation of social media and internet connectivity",
+        "credit": "Photo by Souvik Banerjee on Unsplash",
+        "creditUrl": "https://unsplash.com/@rswebsols?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "TechRadar: Reddit Is Closing Down Its Unfiltered r/all Page", "url": "https://www.techradar.com/computing/social-media/reddit-is-closing-down-its-unfiltered-r-all-page-of-trending-posts-but-there-is-still-a-way-to-access-it-if-you-know-how" },
+        { "title": "gHacks: Reddit Removes r/all From App and Desktop", "url": "https://www.ghacks.net/2026/04/05/reddit-removes-r-all-from-app-and-desktop-but-old-reddit-still-shows-it/" },
+        { "title": "Reddit Changelog: April 2, 2026", "url": "https://support.reddithelp.com/hc/en-us/articles/47822249050132-Changelog-April-2-2026" }
+      ],
+      "tags": ["Reddit", "Social Media", "Internet", "Technology"],
+      "readingTime": "2 min read",
+      "sources": ["TechRadar", "gHacks Tech News", "Reddit Help", "The Meridiem"]
+    },
+    {
+      "id": "2026-04-07-015",
+      "headline": "North Korean Hackers Spent Months Pretending to Be Job Applicants Before Stealing $285 Million in Crypto",
+      "hook": "The biggest crypto heist of the year wasn't a technical exploit — it was a months-long social engineering con run by a nation-state.",
+      "body": "The Drift crypto exchange has confirmed that its $285 million loss on April 1, 2026 was the work of North Korean state-sponsored hackers — specifically the group tracked as UNC4736, also known as AppleJeus. The attack wasn't a sudden intrusion: it was the endpoint of a social engineering campaign that began in fall 2025, when operatives built fake professional identities and applied for jobs at companies with access to Drift's infrastructure.\n\nOnce embedded, the hackers patiently established trust and access over months before executing the theft. UNC4736 is linked to the Lazarus Group, North Korea's elite hacking unit behind some of the largest cryptocurrency thefts in history — including the 2022 Ronin bridge hack ($625 million) and the 2023 Atomic Wallet breach. Their signature tactic is posing as legitimate tech workers or job applicants to gain system access from the inside, a method that's particularly hard to defend against with technical controls alone.\n\nThe incident underscores a growing reality in the crypto industry: building impenetrable software is only half the problem. Human trust is the other half, and it's far harder to patch. North Korea reportedly uses stolen cryptocurrency funds to finance its weapons programs, evading international sanctions with remarkable effectiveness. The FBI and CISA have repeatedly warned cryptocurrency firms to implement rigorous vetting processes for contractors and new hires — warnings that, evidently, haven't reached far enough.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1660644807804-ffacfd7a4137?w=800",
+        "alt": "Digital cryptocurrency symbols representing blockchain and decentralized finance",
+        "credit": "Photo by GuerrillaBuzz on Unsplash",
+        "creditUrl": "https://unsplash.com/@guerrillabuzz?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "The Hacker News: WhatsApp Alerts and North Korean Operations", "url": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html" },
+        { "title": "Hacker News: April 2026 Front Page Discussions", "url": "https://news.ycombinator.com/news" }
+      ],
+      "tags": ["Cybersecurity", "Cryptocurrency", "North Korea", "Hacking"],
+      "readingTime": "2 min read",
+      "sources": ["Hacker News", "The Hacker News (cybersecurity)", "CISA"]
+    }
+  ]
+}
