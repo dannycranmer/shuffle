@@ -1,0 +1,301 @@
+{
+  "date": "2026-04-17",
+  "stories": [
+    {
+      "id": "2026-04-17-001",
+      "headline": "Humanity Went Back to the Moon — and Came Home",
+      "hook": "For the first time since 1972, four astronauts flew around the Moon and returned safely to Earth.",
+      "body": "On April 10, 2026, NASA's Artemis II crew splashed down in the Pacific Ocean off the coast of San Diego, completing a nearly 10-day journey that took them farther from Earth than any humans have ever traveled. Astronauts Reid Wiseman, Victor Glover, Christina Koch, and Canadian Space Agency astronaut Jeremy Hansen flew around the far side of the Moon, reaching a maximum distance of 252,757 miles from home — surpassing the record set by Apollo 13 in 1970.\n\nThe mission was the first crewed lunar flyby in more than 50 years, and the first crewed flight of NASA's SLS rocket and Orion capsule. It was also historic in another sense: Koch became the first woman, Glover the first person of color, and Hansen the first non-American to travel beyond low Earth orbit. The crew launched from Kennedy Space Center on April 1 and spent 10 days testing Orion's life support systems, navigation, and communication links with Earth.\n\nArtemis II was intentionally a flyby, not a landing — that comes with Artemis III. But the mission proved the hardware works and the crew procedures are sound. NASA called it a \"dress rehearsal for the Moon.\" After reuniting with their families in Houston, the crew described the Earth as a luminous marble suspended in an impossibly dark void — a description every Apollo astronaut has echoed, and apparently one that never gets old.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1589872131197-bdd7256dd867?w=800",
+        "alt": "An astronaut in a spacesuit with the Moon in the background",
+        "credit": "Photo by Mark König on Unsplash",
+        "creditUrl": "https://unsplash.com/@markkoenig?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "NASA: Artemis II crew returns home", "url": "https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/" },
+        { "title": "CNN: Artemis 2 splashdown highlights", "url": "https://www.cnn.com/2026/04/10/science/live-news/artemis-2-splashdown-astronauts-return" },
+        { "title": "Universe Today: The world welcomes Artemis II home", "url": "https://www.universetoday.com/articles/the-world-welcomes-the-crew-of-artemis-ii-home" }
+      ],
+      "tags": ["Space", "NASA", "Moon", "Exploration"],
+      "readingTime": "2 min read",
+      "sources": ["NASA", "CNN", "Universe Today"]
+    },
+    {
+      "id": "2026-04-17-002",
+      "headline": "The 'Teen Rex' Was Never a Teen: Nanotyrannus Is Its Own Species",
+      "hook": "A decades-long dinosaur identity crisis may finally be resolved — and the answer reshapes our picture of Late Cretaceous predators.",
+      "body": "For years, paleontologists argued over whether Nanotyrannus lancensis was a distinct small tyrannosaur or simply a juvenile Tyrannosaurus rex caught in an awkward growth phase. A new study published in April 2026, using detailed bone histology from the famous \"Dueling Dinosaurs\" fossil, has come down decisively on the side of Nanotyrannus being its own legitimate species.\n\nThe key evidence came from analyzing the ceratobranchial — a small throat bone — using growth ring analysis. The patterns showed the specimen had reached or nearly reached maturity, meaning it wasn't a young T. rex still growing into its full size. Nanotyrannus, by contrast, topped out at around 18 feet long, making it roughly half the size of a full-grown T. rex. Researchers at the University of Nebraska-Lincoln also described a new species, Nanotyrannus lethaeus, from a well-preserved skeleton found in Montana's Hell Creek Formation.\n\nThe ecological implications are fascinating. If Nanotyrannus and T. rex shared the same environment as distinct species, it suggests the Late Cretaceous wasn't just ruled by one mega-predator — there was a smaller, possibly faster tyrannosaur filling a different niche in the same ecosystem. Think of it like lions and cheetahs: both big cats, same territory, different strategies. It also raises new questions about how two such closely related apex predators divided resources — and what that competition might have meant as the asteroid impact approached.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1651980802497-2ad4b4adbb5e?w=800",
+        "alt": "Dinosaur fossil bones on display in a museum",
+        "credit": "Photo by Richard Martin on Unsplash",
+        "creditUrl": "https://unsplash.com/@remartin98?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Scientists thought this was a young T. rex", "url": "https://www.sciencedaily.com/releases/2026/04/260415043619.htm" },
+        { "title": "Nature: Nanotyrannus and Tyrannosaurus coexisted", "url": "https://www.nature.com/articles/s41586-025-09801-6" },
+        { "title": "Yale News: 'Teen' rex no more", "url": "https://news.yale.edu/2025/12/04/teen-rex-no-more-new-study-agrees-nanotyrannus-separate-species" }
+      ],
+      "tags": ["Paleontology", "Dinosaurs", "Science", "Evolution"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Nature", "University of Nebraska-Lincoln"]
+    },
+    {
+      "id": "2026-04-17-003",
+      "headline": "Ice Age Americans Were Rolling Dice 12,000 Years Ago",
+      "hook": "Prehistoric hunter-gatherers on the Great Plains were gambling thousands of years before anyone else in the world — and they may have invented probability along the way.",
+      "body": "A sweeping new study published in the journal American Antiquity has upended the history of games of chance. Archaeologists analyzed small, carefully crafted bone objects found at 57 sites across a 12-state region of North America, concluding that Native American hunter-gatherers were using two-sided dice — called \"binary lots\" — as far back as 12,800 to 12,200 years ago, during the late Pleistocene.\n\nThat makes these the oldest known dice in human history, predating the earliest Old World examples by more than 6,000 years. The objects were small, oval or rectangular pieces of bone, often with marks on one face to distinguish it from the other — essentially a prehistoric coin flip. Evidence of their use spans Paleoindian, Archaic, and Late Prehistoric cultural periods, suggesting dice weren't a passing fad but a deeply embedded social technology.\n\nWhat's especially striking is what dice imply about cognition. Making and using dice requires understanding randomness as something that follows statistical patterns — the law of large numbers, probability, the idea that outcomes are governed by rules even if unpredictable in any single throw. The researchers argue these early Americans weren't just playing games; they were developing mathematical intuitions about chance. The dice appear to have been used during social gatherings as tools for trade, bartering, and bonding between groups. Next time someone says \"roll the dice,\" know that humans have been doing exactly that for more than a hundred centuries.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1769163192915-22f131e2fe16?w=800",
+        "alt": "Ancient archaeological artifacts and bones laid out for study",
+        "credit": "Photo by Qian Zhao on Unsplash",
+        "creditUrl": "https://unsplash.com/@qianzhao?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Ancient bone dice reveal 12,000-year history", "url": "https://www.sciencedaily.com/releases/2026/04/260402042731.htm" },
+        { "title": "SciTechDaily: 12,000-Year-Old Native American Dice", "url": "https://scitechdaily.com/12000-year-old-native-american-dice-rewrite-the-history-of-gambling/" },
+        { "title": "The Conversation: What ancient dice reveal about play", "url": "https://theconversation.com/archaeologists-have-discovered-12-000-year-old-dice-heres-what-they-reveal-about-the-history-of-play-280545" }
+      ],
+      "tags": ["Archaeology", "History", "Native American", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "American Antiquity", "Colorado State University"]
+    },
+    {
+      "id": "2026-04-17-004",
+      "headline": "A 158-Year-Old Ban on Home Distilling Has Been Struck Down",
+      "hook": "Since Reconstruction, making your own spirits at home was a federal crime. An appeals court just changed that.",
+      "body": "On April 10, 2026, the 5th U.S. Circuit Court of Appeals ruled that a federal law prohibiting home distillation of alcohol — originally passed in July 1868 — was unconstitutional. The court sided with the Hobby Distillers Association, which had argued that the law violated constitutional limits on Congress's taxing authority by criminalizing private activity that generates no revenue and poses no real tax evasion risk.\n\nCircuit Judge Edith Hollan Jones wrote that the prohibition overstepped federal authority by targeting purely personal conduct. The original 1868 law was enacted partly to crack down on moonshining and liquor tax evasion during Reconstruction; violators faced up to five years in prison and a $10,000 fine. But home distillers today aren't running commercial operations — they're hobbyists, much like home brewers of beer or wine, which has been legal since 1978.\n\nThe ruling doesn't immediately make home distilling legal everywhere. State laws still apply, and many states have their own restrictions. The Department of Justice has not yet announced whether it will appeal to the Supreme Court. Still, for the 1,300+ members of the Hobby Distillers Association and thousands of enthusiasts, this is a landmark moment. Craft distilling at home — making whiskey, gin, or brandy in small batches — has never been simpler or safer with modern equipment, and advocates say it's no different in principle than making your own wine or sourdough. America's long relationship with homemade hooch just got a legal update.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1765989506097-e8f1a3e03844?w=800",
+        "alt": "Copper distillery stills in a whiskey distillery",
+        "credit": "Photo by François Hoppet on Unsplash",
+        "creditUrl": "https://unsplash.com/@fhoppet?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Reason: Fifth Circuit Strikes Down Home Distilling Law", "url": "https://reason.com/volokh/2026/04/11/fifth-circuit-strikes-down-federal-law-banning-home-alcohol-distilleries/" },
+        { "title": "Washington Times: Federal court strikes ban", "url": "https://www.washingtontimes.com/news/2026/apr/11/federal-appeals-court-strikes-158-year-old-ban-home-distilling/" },
+        { "title": "UPI: Judge strikes down 158-year-old ban", "url": "https://www.upi.com/Top_News/US/2026/04/11/federal-home-distillery-ban-unconstitutional/1121775952772/" }
+      ],
+      "tags": ["Law", "Culture", "Food & Drink", "History"],
+      "readingTime": "2 min read",
+      "sources": ["Reason", "Washington Times", "UPI"]
+    },
+    {
+      "id": "2026-04-17-005",
+      "headline": "Scientists Just Built the World's First Working Quantum Battery",
+      "hook": "It charges with a laser, stores energy using quantum mechanics, and — in a deeply weird twist — it gets faster to charge the bigger it gets.",
+      "body": "Australian researchers from CSIRO, RMIT University, and the University of Melbourne have demonstrated the world's first proof-of-concept quantum battery — a device that stores and releases energy using quantum mechanical effects rather than traditional electrochemistry. The results were published in Light: Science & Applications in early 2026.\n\nClassical batteries scale predictably: a bigger battery holds more energy but doesn't charge proportionally faster. Quantum batteries are theoretically different. They exploit a phenomenon called \"quantum advantage in charging,\" where entanglement between particles means charging time actually decreases as the battery grows larger. The prototype — a small layered organic device charged wirelessly by a laser — experimentally confirmed this behavior for the first time, retaining stored energy for six orders of magnitude longer than it took to charge.\n\nThere's a big \"but\" here: the device is still incredibly primitive. Its energy capacity is measured in electron-volts, not watt-hours, and its charge retention is measured in nanoseconds, not hours. You won't be putting one in your phone anytime soon. But proof-of-concept is exactly that — proof that the physics works and the engineering can begin. Researchers are now focused on dramatically extending charge retention times. If they can scale both the energy density and the storage duration, quantum batteries could eventually enable ultra-fast charging for everything from consumer electronics to electric vehicles. For now, it's a profound demonstration that quantum weirdness can be harnessed for something as practical as storing energy.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1765207633730-001e54ec6aba?w=800",
+        "alt": "Scientific laboratory equipment and research instruments",
+        "credit": "Photo by Auckland War Memorial Museum Tāmaki Paenga Hira on Unsplash",
+        "creditUrl": "https://unsplash.com/@aucklandmuseum?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Quantum battery breaks the rules of charging", "url": "https://www.sciencedaily.com/releases/2026/04/260403224452.htm" },
+        { "title": "CSIRO: Quantum battery breakthrough", "url": "https://www.csiro.au/en/news/All/News/2026/March/Quantum-battery-full-cycle" },
+        { "title": "Phys.org: Proof-of-concept quantum battery", "url": "https://phys.org/news/2026-03-proof-concept-quantum-battery-faster.html" }
+      ],
+      "tags": ["Technology", "Physics", "Energy", "Quantum"],
+      "readingTime": "2 min read",
+      "sources": ["CSIRO", "Light: Science & Applications", "ScienceDaily"]
+    },
+    {
+      "id": "2026-04-17-006",
+      "headline": "Your Gut Bacteria May Decide Whether You Get ALS or Dementia",
+      "hook": "A hidden connection between gut microbes and devastating brain diseases could explain one of medicine's most frustrating mysteries.",
+      "body": "Scientists at Case Western Reserve University have identified a striking gut-brain link that may help explain why some people with a genetic mutation for ALS or frontotemporal dementia (FTD) develop the disease while others with the same mutation never do. The culprit appears to be a specific type of bacterial sugar — an inflammatory form of glycogen — produced by certain gut microbes.\n\nThe study, published in Cell Reports, found that these harmful sugars can trigger an immune response that ultimately destroys brain cells. Looking at patient data, the researchers found that 70% of the 23 ALS/FTD patients examined had dangerous glycogen levels in their gut microbiome, compared to only about one-third of genetically at-risk people who hadn't developed the disease. When the team reduced these bacterial sugars in animal experiments, it improved brain health and extended lifespan.\n\nThis is a significant finding for several reasons. First, it suggests a concrete environmental trigger — your gut bacteria — that interacts with genetic predisposition to tip the balance toward disease. Second, gut microbiomes are modifiable: diet, probiotics, and targeted therapies can change their composition. Third, the research identifies new biomarkers that could help predict who's most at risk and who might benefit from gut-targeted treatment. ALS and FTD are both devastating and currently have very limited treatment options. The idea that intervening in the gut might protect the brain opens a genuinely new therapeutic avenue — and it starts with something as accessible as what you eat.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1603823998094-ebcdbb5d9f18?w=800",
+        "alt": "Microscopic view of bacteria and microorganisms",
+        "credit": "Photo by Nylos on Unsplash",
+        "creditUrl": "https://unsplash.com/@nylos?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Hidden gut trigger behind ALS and dementia", "url": "https://www.sciencedaily.com/releases/2026/04/260408225944.htm" },
+        { "title": "Case Western Reserve University: New gut-brain discovery", "url": "https://case.edu/news/new-gut-brain-discovery-offers-hope-treating-als-and-dementia" },
+        { "title": "Knowridge: A hidden gut signal may decide who gets ALS", "url": "https://knowridge.com/2026/04/a-hidden-gut-signal-may-decide-who-gets-als-or-dementia/" }
+      ],
+      "tags": ["Health", "Neuroscience", "Microbiome", "Medicine"],
+      "readingTime": "2 min read",
+      "sources": ["Cell Reports", "Case Western Reserve University", "ScienceDaily"]
+    },
+    {
+      "id": "2026-04-17-007",
+      "headline": "A Comet May Light Up the Night Sky This Month",
+      "hook": "Comet C/2025 R3 is making its closest pass by Earth on April 27 — and astronomers say it could be 2026's brightest comet yet.",
+      "body": "Comet C/2025 R3 (PanSTARRS) has been quietly brightening in the morning sky, and this month it reaches its most dramatic moment: perihelion on April 19, followed by its closest approach to Earth on April 27, when it will come within 44 million miles of our planet. Current forecasts predict a peak brightness around magnitude 3.5 under typical conditions — visible to the naked eye under dark skies — but some optimistic models factor in forward scattering, where dust particles scatter sunlight directly toward Earth, potentially boosting brightness by up to 100 times.\n\nUntil late April, Northern Hemisphere observers have the best view, looking toward the morning sky before sunrise. After perihelion, the comet transitions to the evening sky and becomes better positioned for Southern Hemisphere stargazers. NASA's skywatching guide for April specifically calls out April 17 as a particularly good night to look for it.\n\nComet brightness is notoriously hard to predict — comets are sometimes called the \"underdogs\" of astronomy because they can surprise and disappoint in equal measure. Some comets fizzle; others explode spectacularly. What's not in doubt is that C/2025 R3 is real, it's brightening, and it's worth grabbing binoculars or a small telescope to look for it. Even if it doesn't become the blazing spectacle some hope for, watching a ball of ancient ice and rock swing around our Sun is a reminder of the solar system's vast, unhurried clockwork — still ticking billions of years on.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1595619377489-f4203837f09a?w=800",
+        "alt": "A comet streaking across a star-filled night sky",
+        "credit": "Photo by Tim Dennert on Unsplash",
+        "creditUrl": "https://unsplash.com/@tim_denn?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Space.com: Will C/2025 R3 be the 'great comet' of 2026?", "url": "https://www.space.com/astronomy/comets/will-comet-c-2025-r3-panstarrs-be-the-great-comet-of-2026" },
+        { "title": "StarWalk: Comet C/2025 R3 visibility guide", "url": "https://starwalk.space/en/news/comet-c2025-r3-panstarrs" },
+        { "title": "EarthSky: Comet R3 PanSTARRS is brightening", "url": "https://earthsky.org/space/comet-r3-panstarrs-pics-and-chart/" }
+      ],
+      "tags": ["Astronomy", "Space", "Skywatching", "Comets"],
+      "readingTime": "2 min read",
+      "sources": ["Space.com", "StarWalk", "NASA", "EarthSky"]
+    },
+    {
+      "id": "2026-04-17-008",
+      "headline": "For the First Time, AI Ran a Complete Weather Forecast From Raw Data to Output",
+      "hook": "An AI just did what meteorologists have never fully automated: took raw real-world weather observations and turned them directly into a forecast, end to end.",
+      "body": "Weather forecasting has long been one of the great triumphs of computational science — and also one of its most complex pipelines. Raw observations from satellites, weather stations, radiosondes, and ocean buoys must be quality-checked, assimilated into a model, and then processed through physics-based simulations before a human forecaster ever sees a result. Until now, AI had only replaced parts of this chain. In April 2026, researchers achieved something new: an AI system that runs the entire pipeline, from ingesting raw real-time meteorological observations to outputting finished weather forecasts, without human intervention or traditional numerical weather prediction.\n\nThe implications are significant. Traditional numerical weather prediction requires enormous supercomputer resources, runs on rigid time cycles, and struggles to be updated in real-time as new observations arrive. An AI pipeline can potentially run faster, update continuously, and be deployed on much cheaper hardware — including in regions of the world where supercomputer access is limited.\n\nThis fits into a broader pattern identified in Stanford's 2026 AI Index: AI model performance on complex scientific tasks jumped dramatically between 2024 and 2025, with some benchmarks showing improvement from 60% to nearly 100% accuracy in just one year. Weather forecasting AI like Google's GraphCast and Huawei's Pangu-Weather had already outperformed traditional models on many metrics. The new end-to-end pipeline removes the last bottleneck — human-managed data assimilation — and suggests that AI-native weather prediction could become the global standard within a decade.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1568816649153-ca7675005c18?w=800",
+        "alt": "NOAA weather satellite imagery and meteorological data visualization",
+        "credit": "Photo by NOAA on Unsplash",
+        "creditUrl": "https://unsplash.com/@noaa?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Stanford HAI: 2026 AI Index Report", "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report" },
+        { "title": "MIT Technology Review: The current state of AI", "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/" }
+      ],
+      "tags": ["AI", "Technology", "Weather", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Stanford HAI AI Index 2026", "MIT Technology Review"]
+    },
+    {
+      "id": "2026-04-17-009",
+      "headline": "Clownfish Have a Weird Survival Trick: They Shrink During Heatwaves",
+      "hook": "When the ocean gets too warm, clownfish do something almost no other animal does — they voluntarily make themselves smaller.",
+      "body": "A new study has discovered that clownfish have an unusual adaptation to thermal stress: they can temporarily shrink their body size by 1 to 2 percent when ocean temperatures spike. This might sound trivial, but it's a meaningful physiological response. A slightly smaller body has lower metabolic demands, requires less oxygen, and generates less heat — all advantages when the water around you is dangerously warm.\n\nResearchers observed this behavior during a marine heatwave and confirmed it wasn't simply a measurement artifact. The fish genuinely reduced in length during the hot period, then recovered their normal size when temperatures returned to baseline. The phenomenon has been observed in birds and some mammals before — a process called \"reversible body shrinkage\" — but it's rare in fish, and the speed and reversibility of the clownfish's response is striking.\n\nThis discovery matters because coral reefs — the ecosystem clownfish depend on — are under severe stress from rising ocean temperatures, and bleaching events are becoming more frequent and intense. An animal that can dynamically resize itself to cope with heat stress has a meaningful survival advantage. It also raises fascinating questions about the underlying biology: what physiological mechanisms allow a vertebrate to shrink and regrow, and are there other reef fish doing the same thing? Scientists suspect other species may have similar abilities that haven't been documented yet, suggesting there's a whole hidden layer of climate adaptation still to be discovered in marine life.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1514568354136-3f4399400146?w=800",
+        "alt": "A clownfish swimming among sea anemone on a coral reef",
+        "credit": "Photo by Anthony Rao on Unsplash",
+        "creditUrl": "https://unsplash.com/@anthonyrao?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "2026 in Science: Wildlife discoveries", "url": "https://en.wikipedia.org/wiki/2026_in_science" },
+        { "title": "Popular Science: 10 vulnerable wildlife species to watch in 2026", "url": "https://www.popsci.com/environment/10-vulnerable-wildlife-species-to-watch-in-2026/" }
+      ],
+      "tags": ["Nature", "Marine Life", "Climate Change", "Biology"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Science News", "Wikipedia: 2026 in Science"]
+    },
+    {
+      "id": "2026-04-17-010",
+      "headline": "A Belgian Cave Shows Neanderthals Weren't Equal-Opportunity Cannibals",
+      "hook": "New research suggests Neanderthals specifically targeted outsiders — not their own group — when they engaged in cannibalism, revealing a surprisingly complex social logic.",
+      "body": "A cave in Belgium has yielded disturbing new evidence about Neanderthal social behavior: the occupants appear to have selectively cannibalized people from outside their group, focusing particularly on women and children. The find, announced in April 2026, adds nuance to earlier discoveries of Neanderthal cannibalism at sites in France, Spain, and Croatia by showing that the practice wasn't indiscriminate — it was directed.\n\nArchaeologists identified the remains of at least five individuals with cut marks and breakage patterns consistent with flesh removal and marrow extraction. But genetic and isotopic analysis of the bones told a more specific story: these individuals had different dietary signatures and genetic profiles from the local group, suggesting they came from elsewhere. The focus on women and children implies this may have been connected to inter-group raiding or territorial conflict.\n\nThis doesn't necessarily mean Neanderthals were uniquely violent — similar patterns of targeted violence against outsiders appear throughout early human history, including among anatomically modern humans. What it does show is that Neanderthals had a sense of \"us\" versus \"them\" sophisticated enough to shape extreme behaviors along group lines. They distinguished insiders from outsiders, and treated those outsiders very differently. It's a reminder that complex social cognition — including tribalism in its darkest forms — is very old, predating our species. Neanderthals continue to be more human than we once imagined, for better and worse.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1422452098470-722310d3ad74?w=800",
+        "alt": "Dark cave entrance with rocky walls and ancient stone formations",
+        "credit": "Photo by Ksenia Kudelkina on Unsplash",
+        "creditUrl": "https://unsplash.com/@kseny?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "2026 in Archaeology: Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_in_archaeology" },
+        { "title": "Archaeology Magazine: March/April 2026", "url": "https://archaeology.org/issues/march-april-2026/world/" },
+        { "title": "ScienceDaily: Archaeology news", "url": "https://www.sciencedaily.com/news/fossils_ruins/archaeology/" }
+      ],
+      "tags": ["Archaeology", "Anthropology", "Prehistory", "Neanderthals"],
+      "readingTime": "2 min read",
+      "sources": ["Archaeology Magazine", "ScienceDaily", "Heritage Daily"]
+    },
+    {
+      "id": "2026-04-17-011",
+      "headline": "Scientists Opened 40-Year-Old Canned Salmon and Found an Ocean Time Capsule",
+      "hook": "Old canned fish turned out to be one of the best tools scientists have for tracking how ocean ecosystems have changed over decades.",
+      "body": "Researchers have turned to an unusual archive to study long-term changes in ocean health: canned salmon from the 1980s. By analyzing the contents of decades-old commercially canned fish, scientists were able to track changes in marine food webs that no living fish or water sample could reveal. The results, published in April 2026, offer a surprisingly rich window into ocean ecology over the past half-century.\n\nOne of the most striking findings was a sharp increase in tiny parasitic worms (anisakid nematodes) in some salmon species, which the researchers interpret as a positive ecological signal. These parasites complete their life cycles through multiple hosts — from small crustaceans to fish to marine mammals — so more parasites generally means more complete food chains with robust populations at every level. The 1980s cans had far fewer of these worms than modern fish; today's samples have more, suggesting that marine mammal populations (the final hosts) have recovered significantly since that era.\n\nThe study is a reminder that our best archives are sometimes unexpected. Canned goods were never intended as scientific samples, but their sealed, preserved nature makes them ideal for longitudinal comparisons. The researchers are now calling for food banks and collectors who hold stocks of vintage preserved food to consider donating samples to science — not for eating, obviously, but as irreplaceable baseline data. In a world where we're constantly monitoring ecosystem change, sometimes the data we need has been sitting in the back of someone's pantry all along.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1558625902-c5aaaeb4138f?w=800",
+        "alt": "Wild salmon swimming upstream in a clear river",
+        "credit": "Photo by Viktor Talashuk on Unsplash",
+        "creditUrl": "https://unsplash.com/@viktortalashuk?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Strange and offbeat science news", "url": "https://www.sciencedaily.com/news/strange_offbeat/" },
+        { "title": "Science News: April 2026 issue", "url": "https://www.sciencenews.org/sn-magazine/april-2026" }
+      ],
+      "tags": ["Science", "Ocean", "Environment", "Marine Biology"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Science News"]
+    },
+    {
+      "id": "2026-04-17-012",
+      "headline": "Electrons in Graphene Are Flowing Like a Frictionless Liquid — and That Shouldn't Be Possible",
+      "hook": "Physicists have caught electrons doing something their textbooks say they can't: streaming through a material as a near-perfect, almost frictionless fluid.",
+      "body": "Electrons in metals are supposed to scatter off impurities and lattice vibrations, dissipating energy as heat — that's the basis of electrical resistance. But in graphene, the single-atom-thick form of carbon, something strange is happening. Researchers have now directly observed electrons flowing collectively as a viscous fluid with extraordinarily low internal friction — behavior physicists call \"hydrodynamic\" electron transport.\n\nThis defies a fundamental principle called the Wiedemann-Franz law, which links electrical and thermal conductivity in normal metals. In graphene's hydrodynamic regime, the electrons interact so strongly with each other and so weakly with the lattice that they behave more like water molecules in a stream than individual charged particles. They can flow around corners without scattering, minimize resistance through cooperative motion, and generate less waste heat than conventional conductors.\n\nWhy does this matter? Because nearly all the energy wasted in modern electronics is lost as heat during electron scattering. If engineers can harness hydrodynamic electron flow in practical devices, it could lead to dramatically more efficient transistors, conductors, and energy transmission systems. Graphene has been the \"wonder material\" of physics for nearly two decades, with many promises and slow commercial adoption. This finding adds a genuinely new dimension to its potential — and it suggests that some materials might be fundamentally different kinds of electrical conductors than we ever imagined possible.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1568687316900-dd515e09f80a?w=800",
+        "alt": "Abstract microscopic material science visualization with blue light patterns",
+        "credit": "Photo by Praewthida K on Unsplash",
+        "creditUrl": "https://unsplash.com/@pkvoyage?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "2026 in Science: Physics", "url": "https://en.wikipedia.org/wiki/2026_in_science" },
+        { "title": "Nature: Latest science news", "url": "https://www.nature.com/news" },
+        { "title": "SciTechDaily: Science and technology news 2026", "url": "https://scitechdaily.com/" }
+      ],
+      "tags": ["Physics", "Materials Science", "Technology", "Graphene"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Nature", "2026 in Science"]
+    },
+    {
+      "id": "2026-04-17-013",
+      "headline": "Scientists May Be Close to a Safe, Reversible Male Contraceptive Pill",
+      "hook": "Cornell researchers say they've identified a molecular target that could finally deliver the male birth control pill — nonhormonal, effective, and reversible.",
+      "body": "For decades, male contraception research has faced a fundamental dilemma: hormonal approaches (suppressing testosterone or using synthetic androgens) work but come with side effects and are difficult to reverse quickly. Non-hormonal approaches have been theoretically promising but practically elusive. Now, researchers at Cornell University say they may have cracked it.\n\nThe team identified a molecular pathway involving a protein called soluble adenylyl cyclase (sAC), which plays a critical role in activating sperm. Their compound, which blocks sAC, completely halted sperm motility in mice within minutes of administration — and the effect was fully reversed within hours after the drug cleared the system. No hormones were involved, and the mice showed no observable side effects. The approach targets sperm function rather than production, which means there's no lag time for the drug to take effect and no extended period of reduced fertility after stopping.\n\nHuman trials are still years away, and there's a long history of male contraceptive candidates that worked in animal models but failed in humans. But the Cornell team's approach is notable for three specific reasons that have historically stymied this field: it's nonhormonal, it's fast-acting, and it appears reversible on a timescale of hours rather than weeks. If it holds up, it would represent the first truly new male contraceptive option since the condom — and would fundamentally change how couples think about shared responsibility for family planning.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1579165466741-7f35e4755660?w=800",
+        "alt": "A scientist working in a medical research laboratory",
+        "credit": "Photo by CDC on Unsplash",
+        "creditUrl": "https://unsplash.com/@cdc?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Health & Medicine news", "url": "https://www.sciencedaily.com/news/health_medicine/" },
+        { "title": "Live Science: Health trends that will shape 2026", "url": "https://www.livescience.com/health/from-gene-therapy-breakthroughs-to-preventable-disease-outbreaks-the-health-trends-that-will-shape-2026" }
+      ],
+      "tags": ["Health", "Medicine", "Reproductive Biology", "Research"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Live Science", "Mass General Brigham"]
+    },
+    {
+      "id": "2026-04-17-014",
+      "headline": "India Just Achieved a Landmark Moment in Nuclear Energy",
+      "hook": "After decades of development, India's Prototype Fast Breeder Reactor reached first criticality — a milestone that could reshape the country's energy future.",
+      "body": "On April 6, 2026, India's Prototype Fast Breeder Reactor (PFBR) at Kalpakkam achieved first criticality — the point at which a nuclear chain reaction becomes self-sustaining. It's a moment the Indian nuclear program has been working toward for more than 40 years and marks the first fast breeder reactor to achieve criticality in Asia outside of Russia's program.\n\nFast breeder reactors are fundamentally different from conventional nuclear reactors. Instead of consuming uranium-235 (which makes up less than 1% of natural uranium), they use fast neutrons to \"breed\" new fissile material from the far more abundant uranium-238 and thorium. India has enormous thorium reserves — among the largest in the world — making fast breeders a particularly strategic technology for Indian energy independence. In theory, a mature fast breeder fleet could give India fuel security for centuries.\n\nThe PFBR is a 500-megawatt sodium-cooled reactor that will now move through progressive power escalation before commercial operation. India envisions three-stage nuclear power program, with fast breeders as the second stage and thorium-fueled reactors as the eventual third. Critics note that fast breeder technology has struggled commercially in France, Japan, and the US due to high costs and technical complexity. But India has made a long-term strategic bet, and first criticality is the clearest signal yet that the bet is paying off. For a country facing enormous future energy demand, this is a milestone worth watching.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1643644597917-34912c400ee5?w=800",
+        "alt": "Nuclear power plant cooling towers against a cloudy sky",
+        "credit": "Photo by Jametlene Reskp on Unsplash",
+        "creditUrl": "https://unsplash.com/@reskp?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "2026 in Science: Energy milestones", "url": "https://en.wikipedia.org/wiki/2026_in_science" },
+        { "title": "Nature: Technologies to watch in 2026", "url": "https://www.nature.com/articles/d41586-026-00188-6" },
+        { "title": "SciTechDaily: Science news 2026", "url": "https://scitechdaily.com/" }
+      ],
+      "tags": ["Energy", "Nuclear Power", "India", "Technology"],
+      "readingTime": "2 min read",
+      "sources": ["Wikipedia: 2026 in Science", "Nature", "ScienceDaily"]
+    },
+    {
+      "id": "2026-04-17-015",
+      "headline": "Malaria Parasites Are Powered by Tiny Chemical Rockets",
+      "hook": "Scientists discovered that the malaria parasite doesn't just crawl — it propels itself using a reaction more like a miniature rocket engine than anything else in biology.",
+      "body": "A new study has revealed a surprising mechanism behind how malaria parasites move: they contain tiny spinning crystals powered by a reaction that breaks down hydrogen peroxide, releasing a burst of energy. Researchers are calling it a \"rocket-like\" mechanism — not metaphorically, but because the underlying chemistry genuinely resembles a chemical propulsion system. The crystals spin under the force of released oxygen gas, driving the parasite's movement through tissue and blood cells.\n\nMalaria parasites (Plasmodium species) need to penetrate and exit cells rapidly during their life cycle — moving from the gut of a mosquito to human liver cells, then into red blood cells, with tight time windows at each stage. Their motility is crucial. Previous research had described the protein machinery involved, but the energy source powering it had been unclear. This study identifies hydrogen peroxide breakdown as the key reaction, suggesting the parasite has evolved its own built-in oxidative propulsion system.\n\nBeyond being a genuinely fascinating piece of biology, this finding has real medical implications. If the rocket mechanism is unique to Plasmodium and absent from human cells, it's a potential drug target. A molecule that blocks the hydrogen peroxide reaction or disables the spinning crystals could stop the parasite in its tracks without harming the host. Malaria still kills hundreds of thousands of people per year, predominantly children under five in sub-Saharan Africa, and drug resistance is a persistent challenge. New molecular targets — especially ones this unusual — are exactly what the field needs.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1732959642755-2c899e620929?w=800",
+        "alt": "A scientist examining samples under a microscope in a laboratory",
+        "credit": "Photo by Chiaki Uehira on Unsplash",
+        "creditUrl": "https://unsplash.com/@chiakiuehira?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Strange and offbeat science", "url": "https://www.sciencedaily.com/news/strange_offbeat/" },
+        { "title": "Science News: April 2026", "url": "https://www.sciencenews.org/sn-magazine/april-2026" },
+        { "title": "SciTechDaily: Latest science discoveries", "url": "https://scitechdaily.com/" }
+      ],
+      "tags": ["Science", "Biology", "Medicine", "Malaria"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Science News", "SciTechDaily"]
+    }
+  ]
+}
