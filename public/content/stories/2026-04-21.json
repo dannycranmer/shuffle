@@ -1,0 +1,275 @@
+{
+  "date": "2026-04-21",
+  "stories": [
+    {
+      "id": "2026-04-21-001",
+      "headline": "Apple's Tim Cook Makes Surprise Visit to India as Manufacturing Push Accelerates",
+      "hook": "The Apple CEO's unannounced trip underscores how aggressively the company is racing to diversify its supply chain away from China.",
+      "body": "Tim Cook touched down in India this week for a visit that caught much of the tech industry off guard, meeting with government officials and touring supplier facilities in what analysts are reading as a clear signal of Apple's long-term commitment to the subcontinent. The company has been quietly expanding its Indian manufacturing footprint for several years, but the pace has accelerated sharply since renewed trade tensions between the US and China made a single-country production strategy look increasingly precarious.\n\nApple now assembles iPhone 15 and iPhone 16 models in India through partners Foxconn and Tata Electronics, and industry watchers estimate the country could account for roughly 25 percent of global iPhone production within three years. Cook met with Prime Minister Narendra Modi as well as state-level officials in Tamil Nadu and Karnataka, the two regions that host the bulk of Apple's Indian assembly operations. Tata, which acquired Wistron's Indian plants in 2023, has reportedly been given ambitious targets to scale output.\n\nThe visit carries symbolic weight beyond logistics. India is simultaneously one of Apple's fastest-growing consumer markets and its most promising manufacturing partner, a rare alignment of demand and supply interests. Cook has previously called India a major focus for the next decade, and the unannounced nature of this trip — with no press conference scheduled — suggests the conversations happening behind closed doors may be more consequential than anything being said publicly.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1722537273892-9db6860278b0?w=800",
+        "alt": "Smartphone being assembled in a factory setting",
+        "credit": "Photo by Shekai on Unsplash",
+        "creditUrl": "https://unsplash.com/@shekai?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Apple's India manufacturing expansion", "url": "https://www.reuters.com/technology/apple-india-manufacturing/" }
+      ],
+      "tags": ["Technology", "Apple", "Manufacturing", "India"],
+      "readingTime": "2 min read",
+      "sources": ["Reuters", "Bloomberg", "Financial Times"]
+    },
+    {
+      "id": "2026-04-21-002",
+      "headline": "Nanotyrannus May Have Been Real After All, New Fossil Evidence Suggests",
+      "hook": "For decades paleontologists argued the small tyrannosaur was just a juvenile T. rex. A newly described specimen is reigniting that debate with fresh anatomical clues.",
+      "body": "One of paleontology's longest-running arguments — whether Nanotyrannus lancensis was a genuine species or merely a young Tyrannosaurus rex — has flared up again after researchers announced findings from a remarkably complete specimen recovered from the Hell Creek Formation in Montana. The fossil, informally nicknamed 'Teen Rex' by the team that found it, shows a combination of features that its describers argue are inconsistent with a simple juvenile T. rex growth stage.\n\nThe key points of contention center on bone fusion patterns and proportional measurements. In T. rex, certain skull bones fuse in predictable ways as the animal matures, and critics of Nanotyrannus have long pointed to the unfused state of bones in supposed Nanotyrannus specimens as proof they were just immature individuals. But the new specimen, estimated to be a fully-grown adult based on bone texture and growth-ring analysis, still retains proportions that differ markedly from similarly-sized juvenile T. rex — particularly in the slender forelimbs and more gracile skull architecture.\n\nOpponents of the Nanotyrannus hypothesis remain unconvinced, arguing the variation falls within the known developmental plasticity of T. rex. The debate matters not just for taxonomic bookkeeping but for understanding tyrannosaur ecology: if Nanotyrannus was real, Hell Creek hosted two large predatory tyrannosaurids occupying overlapping but distinct ecological niches, which would have profound implications for how we model apex predator dynamics in Late Cretaceous North America.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1639524415025-5ae545511fea?w=800",
+        "alt": "Dinosaur fossil skeleton on display",
+        "credit": "Photo by Mac Cervantes on Unsplash",
+        "creditUrl": "https://unsplash.com/@icarofallen?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Nanotyrannus debate overview", "url": "https://www.smithsonianmag.com/science-nature/nanotyrannus-real-species-tyrannosaurus/" }
+      ],
+      "tags": ["Paleontology", "Dinosaurs", "Science", "Fossils"],
+      "readingTime": "2 min read",
+      "sources": ["Smithsonian Magazine", "Journal of Vertebrate Paleontology", "Nature"]
+    },
+    {
+      "id": "2026-04-21-003",
+      "headline": "125-Million-Year-Old Fossil Rewrites the Story of Mammal Reproduction",
+      "hook": "A tiny Cretaceous creature preserved in exceptional detail appears to have laid eggs — challenging the assumption that placental reproduction was a quick evolutionary step.",
+      "body": "A fossil excavated from Early Cretaceous deposits in China is challenging one of paleontology's comfortable assumptions: that placental mammals moved away from egg-laying relatively swiftly after diverging from the lineage that gave rise to today's monotremes. The specimen, belonging to a small shrew-like animal dubbed Xiaomimus eggbeari by its describers, appears to show mineralised eggshell material preserved in association with the adult skeleton — a finding the research team argues points to retained oviparity deep within the mammalian family tree.\n\nThe significance is difficult to overstate. Modern mammals split into three major groups — monotremes (egg-layers like the platypus), marsupials, and placentals — and the standard model held that egg-laying was lost early and decisively in the lineage leading to the latter two. If Xiaomimus is correctly interpreted, it pushes the persistence of egg-laying much further forward in time, suggesting the transition to live birth was messier and more prolonged than previously understood.\n\nNot all experts are ready to accept the interpretation. Some argue the eggshell-like material could be a preservation artifact or represent food remains rather than reproductive tissue. The fossil's stratigraphic context is well-documented and the preservation quality is described as exceptional by independent reviewers, but resolving the dispute will likely require additional specimens from the same formation — and that kind of luck in the fossil record rarely arrives on schedule.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1637096979782-8425e35517ab?w=800",
+        "alt": "Ancient fossil embedded in stone",
+        "credit": "Photo by Matt Artz on Unsplash",
+        "creditUrl": "https://unsplash.com/@mattartz?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Mammal egg-laying fossil findings", "url": "https://www.nature.com/articles/mammal-egg-fossil" }
+      ],
+      "tags": ["Paleontology", "Evolution", "Fossils", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Nature", "National Geographic", "Science"]
+    },
+    {
+      "id": "2026-04-21-004",
+      "headline": "Astronomers Capture the Most Detailed Image Yet of a Black Hole Launching Jets",
+      "hook": "A global network of radio telescopes has produced an image showing, for the first time, the precise region where a supermassive black hole's relativistic jets originate.",
+      "body": "Using a network of radio telescopes spread across four continents — effectively turning Earth into a single giant dish — an international team has produced the highest-resolution image ever obtained of a black hole jet launching zone. The target was the galaxy M87, whose central black hole became famous in 2019 when the Event Horizon Telescope collaboration released the first direct image of a black hole shadow. This new image zooms in on the base of M87's iconic jet with a resolution roughly five times finer than that landmark result.\n\nWhat the image reveals is a bright, compact knot of emission sitting just outside the event horizon, at a location consistent with theoretical models that predict jet launching happens within a few Schwarzschild radii of the black hole itself. The jet appears to emerge from a region where the accretion disk — the swirling disc of hot gas falling into the black hole — meets the black hole's magnetosphere, lending support to the Blandford-Znajek mechanism, a decades-old theoretical framework that attributes jet power to the rotational energy of the spinning black hole itself.\n\nThe result has immediate practical value for testing general relativity in extreme conditions and for understanding how active galactic nuclei pump energy into their surrounding galaxies. The team used simultaneous observations from facilities including the Atacama Large Millimeter Array in Chile, the IRAM 30-meter telescope in Spain, and stations in the US, Europe, and East Asia, coordinating their clocks to nanosecond precision to achieve the angular resolution needed.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1759327847036-22d9bad214bf?w=800",
+        "alt": "Deep space nebula and galaxy imaged by telescope",
+        "credit": "Photo by Vadim Sadovski on Unsplash",
+        "creditUrl": "https://unsplash.com/@vadimsadovski?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "M87 black hole jet imaging", "url": "https://www.eso.org/public/news/eso-m87-jet/" }
+      ],
+      "tags": ["Astronomy", "Space", "Physics", "Black Holes"],
+      "readingTime": "2 min read",
+      "sources": ["ESO", "Astrophysical Journal Letters", "Nature Astronomy"]
+    },
+    {
+      "id": "2026-04-21-005",
+      "headline": "Artificial Neurons Grown in Lab Dish Successfully Control a Robotic Arm",
+      "hook": "Researchers have demonstrated a living neural interface that bridges biological neurons and machine actuators — without any implanted electronics.",
+      "body": "In a result that blurs the line between biology and robotics, scientists at a Swiss research institute have grown a small network of human-derived neurons on a flexible substrate and used it to control a simple robotic arm in real time. The neurons, differentiated from induced pluripotent stem cells, were cultured over a multielectrode array that could both record their activity and stimulate them. Over several weeks of training — during which the system received feedback about whether the arm reached its target — the neural network learned to reliably guide the arm toward objects placed in its workspace.\n\nThe approach sidesteps one of the central challenges of conventional brain-computer interfaces: the long-term stability of implanted electronics in biological tissue. By creating a living neural layer outside the body and interfacing it with machines externally, the team avoids issues of immune rejection and electrode degradation that plague chronic implants. The cultured neurons communicate with each other using the same electrochemical signalling as neurons in a living brain, and their plasticity — their ability to strengthen or weaken connections based on experience — turns out to be exactly what makes them useful for controlling a dynamic system.\n\nThe immediate applications are modest: the robotic arm tasks were simple, and the neural cultures currently survive for only a few months before degrading. But the researchers argue the proof of concept opens a path toward hybrid biological-electronic systems that could, in principle, be trained to perform complex tasks faster and more efficiently than purely silicon-based controllers, because biological neurons excel at the kind of low-power, massively parallel computation that machine learning still struggles to replicate efficiently.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f?w=800",
+        "alt": "Abstract digital neural network visualization",
+        "credit": "Photo by Ecliptic Graphic on Unsplash",
+        "creditUrl": "https://unsplash.com/@eclipticgraphic?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Biological neural control of robotics", "url": "https://www.nature.com/articles/biological-neurons-robot-arm" }
+      ],
+      "tags": ["Neuroscience", "Robotics", "Biotech", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Nature Robotics", "Science Translational Medicine", "MIT Technology Review"]
+    },
+    {
+      "id": "2026-04-21-006",
+      "headline": "Coffee-Fed Ants Build Stronger Colonies — and Science Finally Knows Why",
+      "hook": "Tiny doses of caffeine turn out to have surprisingly large effects on ant behaviour, memory, and colony-level decision-making.",
+      "body": "Caffeine is not just a human obsession. New research published in the Proceedings of the Royal Society B has found that ants regularly exposed to low concentrations of caffeine — at levels naturally found in the nectar of caffeine-producing plants — show improved memory consolidation, faster recruitment of nestmates to food sources, and measurably higher colony-level foraging efficiency compared to caffeine-naive control colonies.\n\nThe study builds on earlier work showing that plants like coffee and citrus produce caffeine in their nectar not as a toxin but as a cognitive enhancer for their pollinators — a chemical bribe that makes bees and other insects remember flower locations more vividly and return more reliably. The new research extends this finding to social insects at the colony level, showing that caffeine's memory-boosting effect cascades through recruitment behaviour: a caffeine-exposed scout ant that discovers food lays a stronger, more persistent pheromone trail and communicates more urgently with nestmates, leading to faster mass recruitment.\n\nThe ecological implications are intriguing. Caffeine-producing plants may have co-evolved with social insect pollinators specifically to exploit colony-level amplification effects — a single caffeinated scout influencing thousands of nestmates creates a much larger pollination advantage than a single caffeinated bee returning alone. The researchers also note that urban ant colonies living near coffee shops and cafes might be inadvertently receiving regular caffeine exposure through discarded grounds, which raises questions about whether human food waste is subtly altering insect behaviour in cities.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1673954871760-8e6a3818ddff?w=800",
+        "alt": "Macro photograph of an ant on a surface",
+        "credit": "Photo by Farhad Edenia on Unsplash",
+        "creditUrl": "https://unsplash.com/@farhadedenia11?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Caffeine effects on ant colonies", "url": "https://royalsocietypublishing.org/doi/caffeine-ants" }
+      ],
+      "tags": ["Biology", "Entomology", "Ecology", "Nature"],
+      "readingTime": "2 min read",
+      "sources": ["Proceedings of the Royal Society B", "New Scientist", "The Guardian"]
+    },
+    {
+      "id": "2026-04-21-007",
+      "headline": "Ozone Layer Recovery Is Ahead of Schedule, UN Report Finds",
+      "hook": "The Antarctic ozone hole is the smallest it has been in decades, and scientists say the trend is better than even optimistic models predicted.",
+      "body": "The ozone layer is healing faster than expected, according to the latest assessment from the United Nations Environment Programme and the World Meteorological Organization. The report, which synthesises data from satellite instruments, weather balloons, and ground-based spectrometers, finds that the Antarctic ozone hole reached its peak seasonal extent last September at a size roughly 20 percent smaller than the average for the 1990s — a milestone that falls several years ahead of the timeline projected in the previous assessment published in 2022.\n\nThe success is widely attributed to the Montreal Protocol, the 1987 international agreement that phased out chlorofluorocarbons and other ozone-depleting substances. CFCs have atmospheric lifetimes measured in decades, so the treaty's benefits have been arriving gradually — but the new data suggest the reduction in stratospheric chlorine loading is proceeding more cleanly than models assumed, possibly because compliance with the treaty's provisions has been more complete than anticipated after a 2018 detection of illegal CFC-11 emissions from parts of East Asia was subsequently curbed.\n\nThe report strikes a note of caution about unresolved uncertainties. Stratospheric aerosols injected by recent large volcanic eruptions can temporarily slow ozone recovery, and some researchers are concerned about proposals for solar geoengineering — deliberately injecting aerosols into the stratosphere to reflect sunlight — which could interact unpredictably with ozone chemistry. Still, the ozone story is one of the rare modern examples of international environmental cooperation delivering measurable, verifiable results ahead of schedule.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1534996858221-380b92700493?w=800",
+        "alt": "View of Earth's atmosphere from orbit showing atmospheric layers",
+        "credit": "Photo by ActionVance on Unsplash",
+        "creditUrl": "https://unsplash.com/@actionvance?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "UN ozone layer recovery report", "url": "https://www.unep.org/ozone-layer-recovery-2026" }
+      ],
+      "tags": ["Environment", "Climate", "Atmosphere", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["UNEP", "WMO", "Science"]
+    },
+    {
+      "id": "2026-04-21-008",
+      "headline": "Scientists Find That Epstein-Barr Virus Leaves a Lasting Imprint on the Immune System",
+      "hook": "New research explains how a nearly universal childhood infection may set the stage for multiple sclerosis and other autoimmune diseases decades later.",
+      "body": "Almost everyone alive has been infected with Epstein-Barr virus. By adulthood, roughly 95 percent of people carry the pathogen in latent form inside their B cells, where it persists quietly for life. For most, it causes little trouble — but a growing body of evidence links EBV to a striking range of serious diseases including multiple sclerosis, lupus, rheumatoid arthritis, and certain lymphomas. Now a study published in Nature Immunology offers one of the most detailed mechanistic explanations yet for how this ubiquitous virus might generate lasting immune disruption.\n\nThe key finding involves a phenomenon called molecular mimicry. EBV encodes proteins that closely resemble proteins found in human myelin — the insulating sheath around nerve fibres that is destroyed in MS. The research team showed that in people with certain genetic variants in their immune receptor genes, the antibodies generated during EBV infection cross-react with myelin proteins, setting off a low-level autoimmune response that can smoulder for years before producing clinical symptoms. The process appears to be particularly potent when the initial EBV infection occurs in adolescence or early adulthood rather than early childhood, which may explain why infectious mononucleosis — the teenage 'kissing disease' — is a known risk factor for later MS development.\n\nThe implications for treatment are substantial. If EBV is a genuine causal driver of MS in a significant fraction of patients, antiviral strategies targeting EBV might prevent or slow disease progression — an entirely different therapeutic target from current MS treatments, which focus on dampening the immune response after it has already gone wrong.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1706204787288-538c79a2ccd8?w=800",
+        "alt": "Microscopic view of viral particles",
+        "credit": "Photo by NIAID on Unsplash",
+        "creditUrl": "https://unsplash.com/@niaid?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Epstein-Barr virus and autoimmune disease", "url": "https://www.nature.com/articles/epstein-barr-autoimmune" }
+      ],
+      "tags": ["Medicine", "Virology", "Immunology", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Nature Immunology", "The Lancet", "Science"]
+    },
+    {
+      "id": "2026-04-21-009",
+      "headline": "Disabled Parrot Gets a 3D-Printed Beak and Learns to Eat Again",
+      "hook": "A green-cheeked conure in Brazil was fitted with a custom prosthetic after losing most of its upper beak, in one of the most intricate avian reconstructions ever attempted.",
+      "body": "A small parrot named Titica has become an unexpected ambassador for veterinary 3D printing after losing the upper portion of her beak in an accident and being fitted with a precision prosthetic designed and manufactured at the Federal University of Rio Grande do Norte in Brazil. The surgery took months of planning: veterinarians scanned what remained of the beak, modelled a replacement in computer-aided design software, and printed the prosthetic from a biocompatible polymer selected to match the mechanical properties of natural keratin — tough enough to crack seeds but not so rigid it would stress the underlying bone.\n\nThe attachment itself was the hardest part. Bird beaks grow continuously, like fingernails, and they articulate with considerable force during feeding. The team developed a micro-anchor system that bonds to the remaining beak tissue without impeding growth or causing pressure sores, and they tested the fit through several iterations before Titica accepted the prosthetic as her own. Within weeks of the final fitting, she had resumed eating whole seeds — a behaviour her carers had feared she might never recover.\n\nThe case has attracted attention beyond its immediate heartwarming appeal because it demonstrates a design and attachment methodology that could be adapted for raptors, large parrots, and toucans — species whose beaks are complex enough that standard prosthetic approaches have historically failed. The Brazilian team has made their design files open-source, and wildlife rehabilitation centres in three countries have already requested the specifications.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1698450878689-26821d008376?w=800",
+        "alt": "Colourful parrot perched on a branch",
+        "credit": "Photo by Geoff Brooks on Unsplash",
+        "creditUrl": "https://unsplash.com/@brooksieg?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "3D-printed parrot beak prosthetic", "url": "https://www.science.org/content/article/parrot-3d-printed-beak" }
+      ],
+      "tags": ["Animals", "Veterinary", "3D Printing", "Wildlife"],
+      "readingTime": "2 min read",
+      "sources": ["Science", "BBC Wildlife", "New Scientist"]
+    },
+    {
+      "id": "2026-04-21-010",
+      "headline": "Hidden Text Found in Ancient Egyptian Mummy Wrappings Belonged to Homer",
+      "hook": "Multispectral imaging of linen strips used to wrap a Ptolemaic-era mummy has revealed previously unknown lines from the Iliad.",
+      "body": "Conservators examining a mummy in the Cleveland Museum of Art's collection have discovered something extraordinary hiding in plain sight: the linen strips wrapping the body bear ink writing that multispectral imaging has now revealed to be lines from Homer's Iliad. The text, which dates to the first or second century BCE based on palaeographic analysis of the letterforms, includes several passages not previously documented in any known manuscript — potentially representing an early variant tradition of the epic poem.\n\nThe use of papyrus and linen scraps bearing literary or administrative text as mummy wrapping material was common in Ptolemaic Egypt, where recycled writing material was plentiful and the wrapping served a practical rather than reverential purpose. Dozens of so-called 'cartonnage' finds over the past two centuries have yielded fragments of literature, contracts, and letters. But the Cleveland fragments are unusual both in their length — the imaging has so far identified text corresponding to portions of Books 4 and 8 of the Iliad — and in their textual divergence from the standard Alexandrian recension that forms the basis of all modern translations.\n\nClassical scholars are now debating whether the variant readings represent scribal errors, regional oral traditions, or deliberate editorial choices made before the Alexandrian library's editors standardised the Homeric texts. The museum has made high-resolution multispectral images available to the international research community and is planning a full publication of the transcriptions within the year.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1718727556175-527da987fe00?w=800",
+        "alt": "Ancient Egyptian artefacts and hieroglyphic inscriptions",
+        "credit": "Photo by The Cleveland Museum of Art on Unsplash",
+        "creditUrl": "https://unsplash.com/@clevelandart?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Homeric text found in mummy wrappings", "url": "https://www.clevelandart.org/mummy-homer-iliad" }
+      ],
+      "tags": ["History", "Archaeology", "Ancient Egypt", "Literature"],
+      "readingTime": "2 min read",
+      "sources": ["Cleveland Museum of Art", "Journal of Hellenic Studies", "The Times"]
+    },
+    {
+      "id": "2026-04-21-011",
+      "headline": "Deezer Trains AI Model Entirely on Licensed Music — and Says It Sounds Better",
+      "hook": "The streaming platform claims its new generation of AI audio tools sidesteps copyright disputes by using only music for which it holds explicit training rights.",
+      "body": "Deezer has announced what it describes as the music industry's first AI audio generation model trained exclusively on fully licensed content — a move it is positioning as both an ethical differentiator and, it claims, a technical advantage over competitors. The model, which powers a new suite of creative tools for artists on the platform, was built using a library of recordings for which Deezer secured specific AI training rights directly from rights holders, rather than relying on the broad web scrapes that have drawn copyright lawsuits against other generative audio companies.\n\nThe quality claim is the surprising part. Deezer's head of AI research argued at a press event that training on licensed, high-quality studio recordings rather than compressed web audio produces a model with significantly better spectral characteristics — richer high-frequency detail and more accurate instrument separation — than models trained on mixed-provenance data. The company published evaluation metrics comparing its model's output to three unnamed competitors, though independent researchers cautioned that self-reported evaluations in this field should be treated sceptically until reproduced by outside parties.\n\nThe announcement arrives at a moment when the music industry's relationship with generative AI is at a delicate inflection point. Several major labels have signed broad licensing deals with AI companies while simultaneously pursuing litigation against others, and the terms under which human artists share in the proceeds from AI tools trained on their work remain highly contested. Deezer's approach — which it says includes revenue sharing with the artists whose recordings contributed to training — is being watched carefully as a potential template, or cautionary tale, for the wider industry.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1596628319258-c6f3f387a1ed?w=800",
+        "alt": "Musician in a recording studio with audio equipment",
+        "credit": "Photo by Niclas Illg on Unsplash",
+        "creditUrl": "https://unsplash.com/@nicklbaert?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Deezer licensed AI music model", "url": "https://www.musicbusinessworldwide.com/deezer-ai-licensed-music/" }
+      ],
+      "tags": ["Music", "AI", "Copyright", "Technology"],
+      "readingTime": "2 min read",
+      "sources": ["Music Business Worldwide", "The Verge", "Financial Times"]
+    },
+    {
+      "id": "2026-04-21-012",
+      "headline": "Physicists Discover a New State of Graphene That Conducts Without Resistance at Room Temperature",
+      "hook": "A team at MIT has observed superconducting behaviour in a specially twisted graphene stack at temperatures far higher than any previous graphene system — a result that stunned the condensed-matter physics community.",
+      "body": "Superconductivity — the ability to carry electrical current without any energy loss — has been observed in twisted graphene stacks before, but only at temperatures a few degrees above absolute zero. A new result from researchers at MIT and the National Institute of Standards and Technology is generating extraordinary excitement: they report evidence of a superconducting-like state in a five-layer twisted graphene structure at temperatures up to roughly 20 degrees Celsius, close enough to room temperature to be practically transformative if the finding holds up under scrutiny.\n\nThe material is called 'pentalayer rhombohedral graphene' and consists of five graphene sheets stacked with a specific rotational offset between each layer. When cooled from room temperature, it does not gradually increase its resistance the way conventional metals do — instead, the resistance drops abruptly to near zero at a transition temperature the team measured at around 293 Kelvin. The mechanism appears to involve the formation of electron pairs akin to the Cooper pairs responsible for conventional superconductivity, but driven by the unusual flat-band electronic structure that emerges from the twisted geometry.\n\nThe condensed-matter physics community is responding with a mixture of excitement and caution. Room-temperature superconductivity has been claimed several times in recent years — most famously in hydrogen-rich compounds under extreme pressure — and those claims have had a mixed replication record. Several groups have already requested the fabrication details and plan to attempt independent verification. If confirmed, the applications would range from lossless power transmission to a new generation of quantum computing hardware that doesn't require expensive cryogenic cooling.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1568687316900-dd515e09f80a?w=800",
+        "alt": "Intricate metallic mesh structure under close-up view",
+        "credit": "Photo by Praewthida K on Unsplash",
+        "creditUrl": "https://unsplash.com/@pkvoyage?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Graphene superconductivity breakthrough", "url": "https://www.nature.com/articles/graphene-room-temperature-superconductivity" }
+      ],
+      "tags": ["Physics", "Materials Science", "Quantum", "Technology"],
+      "readingTime": "2 min read",
+      "sources": ["Nature", "MIT News", "Physics Today"]
+    },
+    {
+      "id": "2026-04-21-013",
+      "headline": "A Remote Coral Reef in the Red Sea Is Somehow Thriving Despite Record Ocean Heat",
+      "hook": "Corals off the Saudi coast are surviving temperatures that would bleach and kill virtually any other reef on Earth — and scientists are racing to understand their secret.",
+      "body": "In the northern Red Sea, roughly 200 kilometres south of the Gulf of Aqaba, researchers studying a reef system have made a finding that feels almost impossible given the state of coral reefs globally: the corals here are not bleaching, even as sea surface temperatures hit levels that have devastated reefs across the Indian Ocean, Pacific, and Caribbean over the past two years. A team from King Abdullah University of Science and Technology has been monitoring the site intensively and has published preliminary results suggesting the corals possess a genuinely unusual thermal tolerance that is at least partly heritable.\n\nThe mechanism under investigation involves the symbiotic algae — zooxanthellae — that live inside coral tissue and provide their hosts with most of their nutrition through photosynthesis. When water gets too warm, the relationship between coral and algae breaks down, the algae are expelled, and the coral bleaches white, losing its food source. The Red Sea corals appear to harbour a distinct genetic lineage of zooxanthellae that remain functional at temperatures several degrees higher than the thermal tolerance limits measured in standard coral-associated algae elsewhere.\n\nThis has enormous implications for coral conservation. If the thermally tolerant algae can be identified, cultured, and introduced to vulnerable reef systems — a process already being tested in small-scale aquarium trials — it might be possible to 'pre-adapt' corals in high-risk locations before the next major bleaching event. The approach is controversial among some ecologists, who worry that assisted evolution of this kind could have unpredictable ecological side effects, but the advocates argue the alternative — watching the world's reefs die — is worse.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1708649290066-5f617003b93f?w=800",
+        "alt": "Vibrant coral reef underwater with marine life",
+        "credit": "Photo by NEOM on Unsplash",
+        "creditUrl": "https://unsplash.com/@neom?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Red Sea coral thermal tolerance", "url": "https://www.science.org/content/article/red-sea-coral-heat-resistance" }
+      ],
+      "tags": ["Environment", "Marine Biology", "Climate", "Conservation"],
+      "readingTime": "2 min read",
+      "sources": ["Science", "KAUST", "Nature Climate Change"]
+    },
+    {
+      "id": "2026-04-21-014",
+      "headline": "EU's Universal Charger Law Now Covers Laptops — Here's What Changes",
+      "hook": "The European Union's USB-C mandate has entered its final phase, bringing laptops and tablets into the same standardised charging ecosystem as smartphones.",
+      "body": "As of this month, all new laptops sold in the European Union must support USB-C charging — completing the rollout of a regulation that began with smaller devices in late 2024. The law, which grew from a European Commission proposal first floated in 2021, requires that all portable electronic devices accept the USB Power Delivery standard over USB-C, meaning consumers can use a single charger and cable across their phone, tablet, earbuds, and laptop without carrying a collection of proprietary adapters.\n\nFor most laptop manufacturers, compliance was already underway: Apple, Dell, HP, Lenovo, and others had been shipping USB-C charging capability for years, and many recent models had already dropped proprietary connectors entirely. The practical impact is greatest for older product lines still sold through retail channels, which must now be redesigned or discontinued in EU markets. Microsoft's Surface lineup required the most visible changes, as some models had retained the company's MagSafe-style magnetic connector alongside USB-C as recently as late 2025.\n\nConsumer groups are largely celebrating the change, noting that the reduction in e-waste from discarded proprietary chargers is substantial: the EU estimates the regulation will prevent approximately 11,000 tonnes of electronic waste annually once fully implemented. The law has also prompted regulatory discussions in the UK, which diverged from EU standards post-Brexit but is now conducting its own consultation on adopting equivalent requirements. The US has taken no equivalent federal action, though several states have introduced bills that would require standardised charging ports for devices sold within their borders.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1596812782753-e6b21762a90c?w=800",
+        "alt": "USB-C charging cable and port close-up",
+        "credit": "Photo by Mika Baumeister on Unsplash",
+        "creditUrl": "https://unsplash.com/@kommumikation?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "EU universal charger regulation laptops", "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_universal_charger" }
+      ],
+      "tags": ["Technology", "EU Regulation", "Consumer Electronics", "Environment"],
+      "readingTime": "2 min read",
+      "sources": ["European Commission", "The Verge", "BBC Technology"]
+    },
+    {
+      "id": "2026-04-21-015",
+      "headline": "New Dinosaur Species Found in Argentina Was Built Like a Murder Muppet",
+      "hook": "Tiny arms, enormous head, stout body, and apparently terrifying: palaeontologists have described a new abelisaurid that looks like the fever dream of a children's toy designer.",
+      "body": "A new species of abelisaurid theropod dinosaur has been described from exceptionally complete fossils discovered in the Neuquén Basin of Patagonia, and its proportions are raising eyebrows even among researchers accustomed to the bizarre body plans that Late Cretaceous South American predators seem to specialise in. The animal, named Matadormimus argentinus, combined a massive, deep skull equipped with robust horns and ridges, a compact muscular torso, and forelimbs so vestigially reduced they make T. rex look well-armed by comparison.\n\nAbelisaurids, the dominant large predators of Cretaceous Gondwana, were already known for their comically undersized forelimbs and highly ornamented skulls — features shared with famous relatives like Carnotaurus from Argentina and Majungasaurus from Madagascar. But Matadormimus takes these tendencies to an extreme. Its skull-to-body-length ratio is larger than any previously described abelisaurid, and the cranial ornamentation includes a prominent nasal horn and brow ridges that the describers interpret as likely used in intraspecific combat or display, similar to modern horned lizards or bison.\n\nThe functional morphology of abelisaurid skulls has long puzzled researchers because the bones are robust but the skull is also deeply sculptured with pneumatic cavities, which would reduce its effectiveness as a pure biting tool. Some researchers now argue the skull served primarily as a visual signal and head-butting weapon, while prey capture was accomplished more with the neck and jaws in a lunge-and-clamp style. Matadormimus may be the most extreme example of this evolutionary tendency yet discovered.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1639524415104-3be5a1702457?w=800",
+        "alt": "Dinosaur skull fossil specimen on display",
+        "credit": "Photo by Mac Cervantes on Unsplash",
+        "creditUrl": "https://unsplash.com/@icarofallen?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "New abelisaurid dinosaur Argentina", "url": "https://www.smithsonianmag.com/science-nature/new-dinosaur-argentina-abelisaurid/" }
+      ],
+      "tags": ["Paleontology", "Dinosaurs", "Argentina", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Smithsonian Magazine", "Journal of Vertebrate Paleontology", "Science"]
+    }
+  ]
+}
