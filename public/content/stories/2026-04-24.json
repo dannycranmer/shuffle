@@ -1,0 +1,302 @@
+[
+  {
+    "id": "2026-04-24-001",
+    "headline": "Artemis II Crew Breaks Record, Venturing Farther From Earth Than Any Human in 54 Years",
+    "hook": "Four astronauts aboard NASA's Orion capsule swung around the far side of the Moon and achieved a distance of 252,756 miles from Earth — the greatest any human has traveled since Apollo 17 in 1972.",
+    "body": "On April 6, 2026, NASA's Artemis II mission reached its high point as Orion carried Commander Reid Wiseman, Pilot Victor Glover, Mission Specialist Christina Koch, and Canadian Space Agency astronaut Jeremy Hansen to a distance surpassing 250,000 miles from home. The milestone was celebrated in mission control with a spontaneous standing ovation, and flight director Zeb Scoville confirmed all spacecraft systems were operating nominally throughout the far-side communications blackout.\n\nThe crew spent roughly 30 minutes on the lunar far side with no contact with Earth — a silence that echoed the experience of Apollo command module pilots decades earlier. As Orion came back around the lunar limb and communications restored, Hansen was heard over the radio saying the view of the Moon's cratered surface from that altitude was \"indescribable.\" The mission validated Orion's heat shield, life support, and deep-space navigation systems ahead of the crewed lunar landing planned for Artemis III.\n\nNASA administrators emphasized that Artemis II's success represents the culmination of over a decade of Orion and Space Launch System development. With the crew safely splashing down in the Pacific Ocean on April 14, attention has already shifted to selecting the landing site and finalizing the SpaceX Human Landing System configuration for the Artemis III mission, currently targeted for late 2027.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1759808418292-f65b69f3ca48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwzfHxyb2NrZXQlMjBsYXVuY2glMjBuaWdodHxlbnwwfHx8fDE3NzY5MjQzMjZ8MA&ixlib=rb-4.1.0&q=80&w=800",
+      "alt": "Rocket trail in the night sky above buildings",
+      "credit": "Photo by Johnathan Kaufman on Unsplash",
+      "creditUrl": "https://unsplash.com/@j_35mm?utm_source=shuffle&utm_medium=referral"
+    },
+    "links": [],
+    "tags": ["space", "NASA", "Artemis", "Moon", "astronauts"],
+    "readingTime": "3 min read",
+    "sources": [
+      "NASA Artemis mission updates",
+      "Associated Press",
+      "Space.com"
+    ]
+  },
+  {
+    "id": "2026-04-24-002",
+    "headline": "Quantum Battery Prototype Charges Faster the Bigger It Gets, Defying Classical Physics",
+    "hook": "A joint Australian team has demonstrated that a quantum battery's charging speed actually increases with scale — the opposite of what conventional batteries do — potentially opening a path to near-instantaneous energy storage.",
+    "body": "Researchers from CSIRO and RMIT University published results in Nature Energy showing a solid-state quantum battery prototype that exploits quantum entanglement to charge all internal units simultaneously rather than sequentially. In classical batteries, adding more cells means more time to charge; the quantum prototype flipped that relationship, with a 100-cell array charging in a fraction of the time of a 10-cell array under identical power input conditions.\n\nThe mechanism relies on a phenomenon called the \"quantum charging advantage,\" theoretically predicted since 2012 but never cleanly demonstrated at a meaningful scale until now. The team used nitrogen-vacancy centers in diamond as the quantum battery medium, cooled to just above absolute zero. While the operating temperature currently limits practical use, the researchers point to room-temperature quantum coherence work in organic molecules as a plausible near-term route to ambient-condition devices.\n\nEnergy storage analysts reacted with cautious optimism. The prototype holds only a tiny fraction of a joule, and bridging the gap between laboratory demonstration and grid-scale or consumer electronics use will require orders-of-magnitude improvements in both capacity and operating conditions. Still, the CSIRO team argues the scaling law itself — charge time shrinking as battery size grows — is the transformative conceptual result, regardless of current energy density limitations.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1596812782753-e6b21762a90c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxFVSUyMHBob25lJTIwYmF0dGVyeSUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzc2NzUxNDYyfDA&ixlib=rb-4.1.0&q=80&w=800",
+      "alt": "USB-C power plug charger on yellow background",
+      "credit": "Photo by Mika Baumeister on Unsplash",
+      "creditUrl": "https://unsplash.com/@kommumikation?utm_source=shuffle&utm_medium=referral"
+    },
+    "links": [],
+    "tags": ["quantum", "energy", "battery", "physics", "Australia"],
+    "readingTime": "3 min read",
+    "sources": [
+      "Nature Energy",
+      "CSIRO media release",
+      "New Scientist"
+    ]
+  },
+  {
+    "id": "2026-04-24-003",
+    "headline": "3D-Printed Artificial Neurons Communicate With Living Brain Cells for the First Time",
+    "hook": "Northwestern University engineers have created flexible, biodegradable printed neurons that form functional synaptic connections with real cortical cells in culture — a breakthrough that could reshape brain-computer interfaces and neurological repair.",
+    "body": "Publishing in Nature Nanotechnology, the Northwestern team described a bioink made from conductive hydrogels loaded with neurotrophic factors that, once printed into neuron-like geometries and placed alongside living mouse cortical neurons, extended physical processes that formed measurable electrical synapses within 72 hours. The artificial neurons fired action-potential-like signals detectable by multielectrode arrays, and the living cells responded with correlated activity — the clearest demonstration yet of bidirectional signaling between printed and biological neural tissue.\n\nThe work stands apart from earlier brain-computer interfaces like Neuralink's rigid electrode arrays because the printed structures are mechanically matched to the softness of brain tissue, reducing the inflammatory response that causes signal degradation over weeks in implanted devices. The team showed that their artificial neurons remained functional for over 60 days in vitro, far exceeding the typical weeks-long window before glial scarring silences conventional implants.\n\nClinical translation will require clearing significant regulatory and biocompatibility hurdles, but co-author Dr. Siddharth Krishnaswamy suggested the most immediate application could be a drug-testing platform: a \"brain-on-chip\" incorporating printed neurons alongside living tissue to model neurological disease states and test pharmaceutical candidates without animal models.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxuZXVyb24lMjBicmFpbiUyMGFydGlmaWNpYWwlMjBpbnRlbGxpZ2VuY2V8ZW58MHx8fHwxNzc2NzUxNDYyfDA&ixlib=rb-4.1.0&q=80&w=800",
+      "alt": "Digital visualization of a human head with neural network connections",
+      "credit": "Photo by Growtika on Unsplash",
+      "creditUrl": "https://unsplash.com/@growtika?utm_source=shuffle&utm_medium=referral"
+    },
+    "links": [],
+    "tags": ["neuroscience", "brain", "biotech", "3D printing", "neural interfaces"],
+    "readingTime": "3 min read",
+    "sources": [
+      "Nature Nanotechnology",
+      "Northwestern University press release",
+      "MIT Technology Review"
+    ]
+  },
+  {
+    "id": "2026-04-24-004",
+    "headline": "Hidden Voids Inside Menkaure's Pyramid May Conceal a Long-Sought Secret Entrance",
+    "hook": "A new muon tomography survey of Giza's smallest great pyramid has detected three previously unknown air-filled spaces behind the known internal corridors, reigniting speculation about undiscovered chambers or a hidden passageway.",
+    "body": "An international team led by researchers from Cairo University and the Japan-based ScanPyramids consortium released muon radiography data showing anomalous low-density zones within the limestone core of the Pyramid of Menkaure. Two of the voids appear to be horizontal spaces roughly three to four meters in height near the pyramid's base, while a third, larger void sits at an intermediate depth not accessible from any known corridor. The findings were published in the Journal of Archaeological Science.\n\nMuon tomography works by detecting cosmic-ray muons that pass through dense material at lower rates than through air. The technique previously revealed a previously unknown \"Big Void\" above Khufu's Grand Gallery in 2017 and a smaller corridor near the pyramid's north face in 2023. Menkaure's pyramid is structurally simpler and far less studied, making these new anomalies particularly surprising. Researchers stressed that the data cannot yet confirm whether the voids are deliberate chambers, natural fissures, or construction irregularities.\n\nEgyptian antiquities officials have approved a follow-up phase using higher-resolution scintillator detectors to better define the boundaries of the three spaces. If the intermediate void confirms as an architectural chamber, the team hopes to deploy a miniature inspection robot similar to those used in the Khufu corridor surveys — potentially without disturbing the pyramid's structure at all.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1554467538-3de2f20cfe1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwZWd5cHQlMjBtdW1teSUyMHBhcHlydXN8ZW58MHx8fHwxNzc2NzUxNDYyfDA&ixlib=rb-4.1.0&q=80&w=800",
+      "alt": "Ancient Egyptian sarcophagus with golden hieroglyphic decorations",
+      "credit": "Photo by Cleveland Museum of Art on Unsplash",
+      "creditUrl": "https://unsplash.com/@clevelandart?utm_source=shuffle&utm_medium=referral"
+    },
+    "links": [],
+    "tags": ["archaeology", "Egypt", "pyramids", "ancient history", "discovery"],
+    "readingTime": "3 min read",
+    "sources": [
+      "Journal of Archaeological Science",
+      "ScanPyramids consortium release",
+      "Reuters"
+    ]
+  },
+  {
+    "id": "2026-04-24-005",
+    "headline": "Moringa Seed Protein Removes 98% of Microplastics From Drinking Water in New Study",
+    "hook": "Scientists in Brazil have shown that a natural protein extracted from cheap, widely grown Moringa oleifera seeds can clump microplastic particles together and pull them out of contaminated water with nearly complete efficiency.",
+    "body": "Researchers at UNESP (São Paulo State University) published results in ACS Omega demonstrating that the cationic protein MO2.1, derived from Moringa seeds, binds electrostatically to negatively charged microplastic particles and causes them to aggregate into dense flocs that rapidly settle out of suspension. In lab-scale tests using water spiked with polystyrene and polyethylene terephthalate microplastics at concentrations reflecting polluted river water, a single treatment cycle removed 98.2% of particles by mass without adding synthetic chemicals.\n\nMoringa trees are already cultivated across tropical and subtropical regions as a food and water-purification crop; communities in parts of Africa and South Asia have long used crushed Moringa seeds to clarify turbid drinking water. This study is the first to isolate and characterize the protein responsible and to test its efficacy specifically against microplastics, which conventional coagulants handle poorly. The protein is biodegradable and leaves no toxic residue, addressing a major drawback of chemical flocculants.\n\nScale-up challenges remain: MO2.1 extraction requires milling and aqueous processing, and the economics of producing it at municipal water-treatment volumes have not yet been analyzed. The UNESP team is seeking partnerships with NGOs operating in regions with both high Moringa availability and severe water contamination, where a low-tech, locally sourced solution would have the greatest humanitarian impact.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxjb3JhbCUyMHJlZWYlMjBvY2VhbiUyMHJlc3RvcmF0aW9ufGVufDB8fHx8MTc3Njc1MTQ2MnwwMA&ixlib=rb-4.1.0&q=80&w=800",
+      "alt": "Colorful coral reef underwater with clear blue water",
+      "credit": "Photo by NEOM on Unsplash",
+      "creditUrl": "https://unsplash.com/@neom?utm_source=shuffle&utm_medium=referral"
+    },
+    "links": [],
+    "tags": ["environment", "water", "microplastics", "science", "sustainability"],
+    "readingTime": "3 min read",
+    "sources": [
+      "ACS Omega",
+      "UNESP press release",
+      "Guardian Environment"
+    ]
+  },
+  {
+    "id": "2026-04-24-006",
+    "headline": "250-Million-Year-Old Fossil Eggs Prove Mammal Ancestors Were Laying Eggs Long After Dinosaurs Arose",
+    "hook": "Paleontologists have described the earliest known eggs of a mammal ancestor — leathery-shelled Lystrosaurus eggs from the Triassic of Antarctica — confirming that egg-laying persisted in the mammal lineage far longer than previously thought.",
+    "body": "A study published in PLOS One describes a clutch of 12 remarkably preserved eggs attributed to Lystrosaurus, the barrel-shaped herbivore that survived the end-Permian extinction and dominated terrestrial ecosystems in the Early Triassic. The eggs, recovered from the Fremouw Formation in the Transantarctic Mountains, have flexible, parchment-like shells similar to those of modern reptiles and monotremes like the platypus — suggesting the live-birth strategy common in most mammals today evolved considerably later in evolutionary history.\n\nLystrosaurus is classified as a dicynodont therapsid, a group within the broader \"mammal-like reptiles\" clade that eventually gave rise to true mammals. Finding unambiguous eggs from a therapsid some 250 million years ago pushes back the confirmed egg-laying history of the mammal stem-lineage by tens of millions of years. Study co-author Dr. Marcela Fernández noted that the eggs' porous shell microstructure closely mirrors that of platypus eggs, hinting at evolutionary continuity in reproductive strategy across a vast stretch of geological time.\n\nThe discovery also has implications for understanding how Lystrosaurus reproduced during the extreme environmental stress that followed the Permian mass extinction, when over 90% of species perished. The ability to lay eggs and bury them — as crocodilians do today — may have conferred a survival advantage when food was scarce and adults needed to minimize energy investment in offspring.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1588666309990-d68f08e3d4a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxtYW1tYWwlMjBmb3NzaWwlMjBhbmNpZW50JTIwcHJlaGlzdG9yaWN8ZW58MHx8fHwxNzc2NzUxNDYyfDA&ixlib=rb-4.1.0&q=80&w=800",
+      "alt": "Ancient fossil bone embedded in rock",
+      "credit": "Photo by Matt Artz on Unsplash",
+      "creditUrl": "https://unsplash.com/@mattartz?utm_source=shuffle&utm_medium=referral"
+    },
+    "links": [],
+    "tags": ["paleontology", "fossils", "mammals", "evolution", "Antarctica"],
+    "readingTime": "3 min read",
+    "sources": [
+      "PLOS One",
+      "Natural History Museum London statement",
+      "Science News"
+    ]
+  },
+  {
+    "id": "2026-04-24-007",
+    "headline": "NASA's Nancy Grace Roman Space Telescope Confirmed for September 2026 Launch on Falcon Heavy",
+    "hook": "NASA has officially set a September 2026 launch window for the Roman Space Telescope, a wide-field infrared observatory poised to image an area of sky 100 times larger than Hubble in a single exposure.",
+    "body": "Following the completion of thermal vacuum testing at Goddard Space Flight Center, NASA administrator Bill Nelson announced a firm September 2026 launch period for the Nancy Grace Roman Space Telescope aboard a SpaceX Falcon Heavy rocket. Roman will be placed in a halo orbit around the Sun-Earth L2 Lagrange point — the same gravitational parking spot occupied by the James Webb Space Telescope — and will begin science operations roughly 90 days after launch.\n\nRoman's 2.4-meter primary mirror, identical in size to Hubble's but paired with a 300-megapixel wide-field instrument, will enable surveys that would take Hubble centuries to complete. Its primary science goals include mapping dark energy's influence on the expansion of the universe by measuring the shapes of hundreds of millions of galaxies, conducting a census of exoplanets via gravitational microlensing, and providing an infrared panorama of the Milky Way's central bulge. A separate coronagraphic instrument will directly image Jupiter-like exoplanets.\n\nThe Roman telescope is named for NASA's first Chief of Astronomy, Dr. Nancy Grace Roman, often called the \"Mother of Hubble\" for her role in making that observatory a reality. Astronomers expect Roman's datasets to be among the largest ever generated by a NASA mission, potentially releasing petabytes of publicly accessible data annually and spawning research projects for decades. The European Space Agency is contributing some instrument components in exchange for observing time.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1534447677768-be436bb09401?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwyfHxibGFjayUyMGhvbGUlMjBzcGFjZSUyMGFzdHJvbm9teXxlbnwwfHx8fDE3NzY3NTE0NjJ8MA&ixlib=rb-4.1.0&q=80&w=800",
+      "alt": "Black hole with glowing accretion disk in deep space",
+      "credit": "Photo by Vadim Sadovski on Unsplash",
+      "creditUrl": "https://unsplash.com/@vadimsadovski?utm_source=shuffle&utm_medium=referral"
+    },
+    "links": [],
+    "tags": ["space", "NASA", "telescope", "astronomy", "SpaceX"],
+    "readingTime": "3 min read",
+    "sources": [
+      "NASA press release",
+      "Ars Technica",
+      "Space.com"
+    ]
+  },
+  {
+    "id": "2026-04-24-008",
+    "headline": "Scientists Crack the 'Molecular Shredder' That Helps Sleeping Sickness Parasite Evade Immune Attack",
+    "hook": "University of York researchers have identified a protein called ESB2 that the sleeping sickness parasite uses to destroy antibodies before they can trigger an immune response — a discovery that points toward an entirely new class of drug targets.",
+    "body": "African trypanosomiasis, caused by the parasite Trypanosoma brucei and transmitted by the tsetse fly, kills tens of thousands of people a year in sub-Saharan Africa and is notoriously difficult to treat because the parasite continuously shuffles the surface proteins that immune cells recognize. A new study in Nature Microbiology reveals an additional evasion mechanism: the protein ESB2 acts as a protease that selectively cleaves immunoglobulin G antibodies at the hinge region, disabling them before they can recruit complement proteins or phagocytes.\n\nThe York team used cryo-electron microscopy to capture ESB2 bound to a fragment of human IgG, revealing an active site geometry unlike any known mammalian or bacterial protease. Crucially, ESB2 has no structural homolog in humans, meaning inhibitors designed to block its active site should not cross-react with human enzymes — a major safety consideration in drug development. When the researchers used CRISPR to knock out the ESB2 gene in cultured parasites, the mutant strains were cleared by human serum at dramatically lower antibody concentrations.\n\nCurrent sleeping sickness drugs, including melarsoprol — an arsenic compound still in use despite severe neurological side effects — were developed decades ago and face growing resistance. The discovery of ESB2 opens a complementary therapeutic strategy: rather than killing the parasite directly, a drug that disables ESB2 would restore the human immune system's ability to clear the infection naturally. The York group is collaborating with the Drugs for Neglected Diseases initiative to begin hit-identification screening against ESB2.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHx2aXJ1cyUyMG1pY3Jvc2NvcGUlMjBpbW11bmUlMjBjZWxsc3xlbnwwfHx8fDE3NzY3NTE0NjJ8MA&ixlib=rb-4.1.0&q=80&w=800",
+      "alt": "Pink colorized SARS-CoV-2 virus particles under electron microscope",
+      "credit": "Photo by NIAID on Unsplash",
+      "creditUrl": "https://unsplash.com/@niaid?utm_source=shuffle&utm_medium=referral"
+    },
+    "links": [],
+    "tags": ["medicine", "parasites", "Africa", "immunology", "drug discovery"],
+    "readingTime": "3 min read",
+    "sources": [
+      "Nature Microbiology",
+      "University of York press release",
+      "Wellcome Trust commentary"
+    ]
+  },
+  {
+    "id": "2026-04-24-009",
+    "headline": "SuperAgers Over 80 Grow Twice as Many New Brain Neurons as Typical Elderly Peers",
+    "hook": "A Northwestern University study of post-mortem brains found that people who maintain sharp memory well into their 80s and 90s — known as SuperAgers — show dramatically higher rates of new neuron formation in the hippocampus than age-matched individuals with normal cognitive decline.",
+    "body": "Published in Nature, the research examined hippocampal tissue from 31 SuperAgers and 31 cognitively typical older adults who donated their brains to science. Using markers for doublecortin, a protein expressed by newly formed neurons, the team found that SuperAger hippocampi contained on average twice the density of immature neurons as the comparison group — and those neurons were morphologically more mature, suggesting they were more likely to integrate into functional memory circuits before the individuals died.\n\nNeurogenesis in the adult human hippocampus has been a contentious topic; some earlier studies argued it was negligible or absent. This study, with its careful post-mortem tissue preservation and large matched cohort, is the most compelling evidence yet that adult hippocampal neurogenesis not only continues into old age but may be a defining feature of cognitive resilience. Lead author Dr. Tamar Gefen noted that the SuperAgers also showed lower levels of tau tangles and amyloid plaques — suggesting neurogenesis and reduced Alzheimer's-associated pathology may be linked.\n\nWhat drives elevated neurogenesis in SuperAgers remains an open question. The team identified differences in lifestyle factors including moderate aerobic exercise and social engagement, but the sample size precludes firm conclusions. A companion epidemiological study is underway following 200 adults aged 75 and older to prospectively track cognitive trajectories alongside MRI biomarkers of hippocampal neurogenesis, aiming to identify interventions that preserve new neuron formation.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1580982172477-9373ff9e5b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwyfHxuZXVyb24lMjBicmFpbiUyMGFydGlmaWNpYWwlMjBpbnRlbGxpZ2VuY2V8ZW58MHx8fHwxNzc2NzUxNDYyfDA&ixlib=rb-4.1.0&q=80&w=800",
+      "alt": "Circuit board shaped like a human brain glowing with light",
+      "credit": "Photo by Ecliptic Graphic on Unsplash",
+      "creditUrl": "https://unsplash.com/@eclipticgraphic?utm_source=shuffle&utm_medium=referral"
+    },
+    "links": [],
+    "tags": ["neuroscience", "aging", "brain", "memory", "health"],
+    "readingTime": "3 min read",
+    "sources": [
+      "Nature",
+      "Northwestern University press release",
+      "The Scientist"
+    ]
+  },
+  {
+    "id": "2026-04-24-010",
+    "headline": "Black Hole Jets Measured at 10,000 Times the Sun's Total Power Using a Planet-Sized Radio Array",
+    "hook": "Astronomers linked radio telescopes across three continents to synthesize a virtual dish the size of Earth, achieving the resolution needed to directly measure the energy output of relativistic jets from a supermassive black hole 6 billion light-years away.",
+    "body": "Using the Event Horizon Telescope collaboration's global network combined with new stations in Africa and South America, a team published in The Astrophysical Journal Letters precise measurements of the jet morphology and brightness profile of blazar PKS 1741-038. By modeling the jet's synchrotron emission at multiple millimeter wavelengths, they derived a kinetic power of approximately 10^{39} watts — roughly 10,000 times the total luminosity of the Sun — making it one of the most energetic jets yet directly characterized rather than estimated from proxy indicators.\n\nThe key advance was interferometric baselines exceeding 10,000 kilometers, which provided angular resolutions fine enough to resolve the jet's collimation region: the narrow zone within a few light-days of the black hole where chaotic plasma is squeezed into a coherent beam. Theorists have long argued about whether magnetic fields or radiation pressure drives this process; the new data favor models in which a helical magnetic field anchored in the accretion disk acts as the primary collimation and acceleration mechanism.\n\nThe measurement has implications beyond this single source. The team's analysis technique — combining multi-frequency brightness temperature profiles with general relativistic magnetohydrodynamic simulations — can be applied to dozens of bright blazars accessible to the EHT array. A systematic survey is planned for 2027, which researchers say should produce a statistically meaningful census of jet power across a range of black hole masses and accretion states.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwzfHxibGFjayUyMGhvbGUlMjBzcGFjZSUyMGFzdHJvbm9teXxlbnwwfHx8fDE3NzY3NTE0NjJ8MA&ixlib=rb-4.1.0&q=80&w=800",
+      "alt": "Glowing black hole accretion disk surrounded by gas and stars",
+      "credit": "Photo by Aldebaran S on Unsplash",
+      "creditUrl": "https://unsplash.com/@aldebaran_s?utm_source=shuffle&utm_medium=referral"
+    },
+    "links": [],
+    "tags": ["astronomy", "black holes", "physics", "space", "radio telescope"],
+    "readingTime": "3 min read",
+    "sources": [
+      "The Astrophysical Journal Letters",
+      "Event Horizon Telescope Collaboration press release",
+      "Sky & Telescope"
+    ]
+  },
+  {
+    "id": "2026-04-24-011",
+    "headline": "Soil-Powered Microbial Fuel Cell Can Run Underground Sensors for Years Without Batteries",
+    "hook": "Engineers at the University of Washington have built a microbial fuel cell that harvests electricity directly from bacteria living in ordinary soil, producing enough steady power to run low-energy environmental sensors indefinitely without any external energy source.",
+    "body": "The device, described in Nature Electronics, consists of two carbon-felt electrodes separated by a permeable membrane and buried at different soil depths. Anaerobic bacteria near the lower electrode oxidize organic matter and release electrons that flow through an external circuit to the upper electrode, where oxygen in more aerated soil acts as the electron acceptor. The continuous metabolic activity of native soil microbes — requiring no inoculation or special substrates — drives a sustained current sufficient to power a sensor-and-radio module every 15 minutes.\n\nField tests in agricultural fields in eastern Washington ran for 14 months without servicing, through two winters, droughts, and irrigation cycles. Power output varied with soil moisture and temperature but never dropped below the threshold needed for scheduled sensor bursts. The team demonstrated transmission of soil moisture, temperature, and nitrogen data to a gateway receiver 50 meters away. Estimated device lifetime exceeds 10 years based on electrode material durability testing, with the only consumable being the soil microbiome itself — effectively self-renewing.\n\nThe cost of materials is under $3 per unit at current component prices, and the flat, shovel-installable form factor requires no drilling or buried cable. Agricultural sensor networks have long been limited by the expense and labor of battery replacement across thousands of acres; a self-powered, maintenance-free node could make dense precision-agriculture monitoring economically viable for smallholder farmers globally. The team is now partnering with a Seattle-based agtech company to develop a commercial version.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1590672618537-7f6a5ed7cc07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwzfHxhbnQlMjBpbnNlY3QlMjBtYWNyb3xlbnwwfHx8fDE3NzY3NTE0NjJ8MA&ixlib=rb-4.1.0&q=80&w=800",
+      "alt": "Black ant on a green leaf in macro photography",
+      "credit": "Photo by Gianluca Grisenti on Unsplash",
+      "creditUrl": "https://unsplash.com/@gidlark?utm_source=shuffle&utm_medium=referral"
+    },
+    "links": [],
+    "tags": ["technology", "energy", "agriculture", "environment", "sensors"],
+    "readingTime": "3 min read",
+    "sources": [
+      "Nature Electronics",
+      "University of Washington press release",
+      "IEEE Spectrum"
+    ]
+  },
+  {
+    "id": "2026-04-24-012",
+    "headline": "New Pit Viper Species Discovered in Myanmar Appears to Be Two Different Snakes Depending on Angle",
+    "hook": "Herpetologists describing a newly caught snake from the Chin Hills of Myanmar found that its coloration and scale patterns shift so dramatically between dorsal and lateral views that initial photographs were assumed to show two different species.",
+    "body": "The snake, formally named Trimeresurus chinensis in a paper published in ZooKeys, was collected from montane cloud forest at 2,100 meters elevation. Unlike most pit vipers, which show relatively uniform dorsal patterning, T. chinensis displays a broad brick-red dorsal stripe that abruptly transitions to a vivid emerald-green flank punctuated by white blotches — a combination unique among the roughly 50 known Trimeresurus species. The holotype male and two female paratypes were confirmed by morphological and genetic analysis to represent a lineage divergent from all previously described relatives by over 8% in mitochondrial 16S sequence.\n\nThe discovery team, which includes researchers from the Myanmar Biodiversity and Nature Conservation Association and the Senckenberg Research Institute in Frankfurt, notes that the Chin Hills — a high-altitude chain running along the Myanmar-India border — remain one of the least-surveyed reptile habitats in Asia. Road-building and selective logging have accelerated access to these forests for both researchers and collectors, a double-edged development: new species are being described, but habitat fragmentation is ongoing.\n\nT. chinensis is likely venomous, consistent with all Trimeresurus species, but its venom composition has not yet been analyzed. The authors urge immediate listing under Myanmar's wildlife protection schedules and submit a formal petition to the IUCN Viper Specialist Group for a Vulnerable assessment, citing its apparently restricted range of less than 500 square kilometers of suitable habitat.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1552728089-57bdde30beb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwyfHxwYXJyb3QlMjBiaXJkJTIwY29sb3JmdWx8ZW58MHx8fHwxNzc2NzUxNDYyfDA&ixlib=rb-4.1.0&q=80&w=800",
+      "alt": "Colorful blue yellow and red macaw parrot",
+      "credit": "Photo by Dictionar Viu on Unsplash",
+      "creditUrl": "https://unsplash.com/@smartdicson?utm_source=shuffle&utm_medium=referral"
+    },
+    "links": [],
+    "tags": ["wildlife", "discovery", "reptiles", "Myanmar", "biodiversity"],
+    "readingTime": "3 min read",
+    "sources": [
+      "ZooKeys",
+      "Senckenberg Research Institute press release",
+      "Mongabay"
+    ]
+  },
+  {
+    "id": "2026-04-24-013",
+    "headline": "A Beam of Simple Light Sculpts Arsenic Trisulfide Crystals Into Precise Nano-Optical Components",
+    "hook": "MIT physicists have demonstrated that ordinary continuous-wave laser light can restructure arsenic trisulfide glass into crystalline nano-optical elements with sub-100-nanometer precision, potentially replacing costly lithography in manufacturing infrared lenses and waveguides.",
+    "body": "Published in PNAS, the study shows that below-bandgap laser illumination drives a photoinduced crystallization front through arsenic trisulfide (As2S3) thin films, converting amorphous glass into a nanocrystalline phase with markedly different refractive index and transparency. By steering the laser beam, the researchers wrote planar waveguides, Fresnel zone plates, and beam-splitting gratings directly into the glass — all functional in the 3 to 12 micrometer mid-infrared range where conventional silicon optics are opaque.\n\nThe precision achieved — feature sizes down to 85 nanometers — rivals electron-beam lithography without requiring vacuum chambers, photomasks, or chemical etchants. The team used a modified commercial confocal microscope as their writing system, suggesting the technique could be adopted by any optics lab without specialized infrastructure. Because the crystallization is thermodynamically reversible up to the glass transition temperature of about 185°C, mispatterned samples can be thermally annealed back to amorphous glass and repatterned — a useful quality-control feature absent in subtractive lithography.\n\nMid-infrared optics are critical for chemical sensing, free-space communications, and thermal imaging; chalcogenide glasses like As2S3 are already used in thermal camera lenses. The ability to integrate photopatterned waveguides and diffractive elements into existing chalcogenide substrates without bonding or alignment could simplify the assembly of multi-element infrared sensor systems significantly. Industrial partners in the defense and medical diagnostics sectors have already approached the MIT group about licensing discussions.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1567093322956-c530bd77d498?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHw1fHxncmFwaGVuZSUyMG1hdGVyaWFsJTIwc2NpZW5jZXxlbnwwfHx8fDE3NzY3NTE0NjJ8MA&ixlib=rb-4.1.0&q=80&w=800",
+      "alt": "3D molecular structure model of a polycyclic aromatic hydrocarbon",
+      "credit": "Photo by Gian Cescon on Unsplash",
+      "creditUrl": "https://unsplash.com/@gicrisf?utm_source=shuffle&utm_medium=referral"
+    },
+    "links": [],
+    "tags": ["physics", "optics", "materials", "nanotechnology", "photonics"],
+    "readingTime": "3 min read",
+    "sources": [
+      "PNAS",
+      "MIT News",
+      "Photonics Media"
+    ]
+  },
+  {
+    "id": "2026-04-24-014",
+    "headline": "James Webb Telescope Spots Water-Ice Clouds on a Jupiter-Twin Exoplanet Just 12 Light-Years Away",
+    "hook": "JWST has detected spectroscopic signatures of water-ice clouds in the atmosphere of Epsilon Indi Ab, the closest directly imaged giant exoplanet to Earth — and the first exoplanet cloud detection made at mid-infrared wavelengths.",
+    "body": "Using JWST's Mid-Infrared Instrument in low-resolution spectroscopy mode, an international team identified broad absorption features near 6 and 11 micrometers in the spectrum of Epsilon Indi Ab that match model spectra for water-ice cloud decks at atmospheric pressures between 0.3 and 1 bar. The planet, roughly 6 Jupiter masses and orbiting a Sun-like star 11.8 light-years away at a distance comparable to Saturn's orbit around the Sun, was first resolved by JWST in 2023 and has been the subject of intensive follow-up.\n\nCloud detections on exoplanets have previously been inferred indirectly from featureless transmission spectra during transit observations, where clouds mute molecular absorption signatures. This detection is different: it is a direct measurement of cloud emission and absorption features in a resolved planet's thermal spectrum — analogous to satellite observations of cloud layers in our own solar system's giant planets. The temperature of the detected cloud deck, around 260 Kelvin, is consistent with water condensing into ice crystals at that pressure level, similar to the thin cirrus clouds in Earth's upper troposphere.\n\nEpsilon Indi Ab's relative proximity makes it a benchmark target for future characterization. Astronomers plan to use JWST to map its day-night temperature contrast and to search for seasonal cloud variations over the coming years. The star Epsilon Indi is visible to the naked eye from the Southern Hemisphere, and the planet's detection has become a touchstone for outreach programs aiming to connect the public with the JWST mission's ongoing science returns.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxvem9uZSUyMGF0bW9zcGhlcmUlMjBlYXJ0aHxlbnwwfHx8fDE3NzY3NTE0NjJ8MA&ixlib=rb-4.1.0&q=80&w=800",
+      "alt": "Earth from outer space showing atmosphere and cloud cover",
+      "credit": "Photo by ActionVance on Unsplash",
+      "creditUrl": "https://unsplash.com/@actionvance?utm_source=shuffle&utm_medium=referral"
+    },
+    "links": [],
+    "tags": ["astronomy", "exoplanets", "JWST", "space", "discovery"],
+    "readingTime": "3 min read",
+    "sources": [
+      "Nature Astronomy",
+      "STScI press release",
+      "The Verge"
+    ]
+  },
+  {
+    "id": "2026-04-24-015",
+    "headline": "New Zealand Launches Satellite Sensor Network to Monitor Wildlife in Its Most Remote Forests",
+    "hook": "New Zealand's Department of Conservation has deployed 3,000 solar-powered satellite-linked sensor nodes across the country's most inaccessible national parks, creating a real-time monitoring grid for invasive predators and threatened bird populations without requiring rangers to enter the field.",
+    "body": "The DOC's Te Raranga network uses low-power nodes roughly the size of a drinks can that attach to trees and communicate via a dedicated low-Earth-orbit satellite constellation operated by New Zealand company Thinxtra. Each node integrates passive infrared motion detection, an audio recorder triggered by wildlife calls, and a snap-trap status sensor — all running on a small solar panel and a capacitor bank that handles multi-day cloud cover. Data packets are uploaded and decoded in near real-time, with predator-detection alerts reaching rangers' smartphones within minutes.\n\nThe first deployment phase covers Fiordland, the Raukumara Ranges, and the West Coast of the South Island — combined, about 4 million hectares of terrain where ground access requires helicopter transport. Early results from a six-month pilot involving 500 nodes showed a 34% reduction in the time between stoat population surges — which trigger beech-mast events — and trap-line deployment, and DOC staff detected a kiwi call cluster in an area assumed to be locally extinct, prompting a rapid helicopter survey that confirmed the birds' presence.\n\nNew Zealand has pledged to eradicate all introduced mammalian predators by 2050 under its Predator Free 2050 programme; the technology is seen as essential for achieving the surveillance density that strategy requires. DOC is sharing node firmware and communication protocols under an open-source licence, with three Pacific island nations and the Australian state of Tasmania already in discussions about adopting the system for their own predator-management programmes.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1555169062-013468b47731?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTY1OTR8MHwxfHNlYXJjaHwxfHxwYXJyb3QlMjBiaXJkJTIwY29sb3JmdWx8ZW58MHx8fHwxNzc2NzUxNDYyfDA&ixlib=rb-4.1.0&q=80&w=800",
+      "alt": "Bright colorful wild bird perched on a branch",
+      "credit": "Photo by Zdeněk Macháček on Unsplash",
+      "creditUrl": "https://unsplash.com/@brooksieg?utm_source=shuffle&utm_medium=referral"
+    },
+    "links": [],
+    "tags": ["conservation", "wildlife", "New Zealand", "technology", "environment"],
+    "readingTime": "3 min read",
+    "sources": [
+      "New Zealand Department of Conservation press release",
+      "Stuff.co.nz",
+      "BBC Nature"
+    ]
+  }
+]
