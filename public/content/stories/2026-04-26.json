@@ -1,0 +1,279 @@
+{
+  "date": "2026-04-26",
+  "stories": [
+    {
+      "id": "2026-04-26-001",
+      "headline": "A 23-Year-Old With No Math Degree Just Solved a 60-Year-Old Erdős Problem Using ChatGPT",
+      "hook": "Armed with nothing but curiosity and an AI chatbot, Liam Price cracked a conjecture that stumped professional mathematicians for six decades.",
+      "body": "Paul Erdős, the legendary Hungarian mathematician, left behind hundreds of unsolved conjectures when he died in 1996. Most require years of graduate training just to understand, let alone solve. One of them — about the structure of \"primitive sets\" of integers — had been open since the 1960s. This week, UCLA's Terence Tao confirmed it was solved. The solver: a 23-year-old with no advanced math training.\n\nLiam Price used ChatGPT Pro to explore a formula from a related area of number theory that no specialist had thought to apply to this problem. The AI didn't solve the problem for him — it suggested connections, flagged analogies, and helped him navigate mathematical literature he didn't have the background to find on his own. The raw proof required expert polishing, but the core method was genuinely new.\n\nMathematicians are calling it an early example of \"vibe mathematics\" — the AI-era equivalent of vibe coding, where intuition guides powerful tools toward unexpected places. Whether it signals a democratization of mathematics or just a very clever fluke, it's the first time an Erdős problem has been solved this way. It almost certainly won't be the last.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1758685734312-5134968399a8?w=800",
+        "alt": "Teacher writing mathematical formulas on a chalkboard",
+        "credit": "Photo by Vitaly Gariev on Unsplash",
+        "creditUrl": "https://unsplash.com/@silverkblack?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Scientific American: Amateur Solves Erdős Problem", "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/" }
+      ],
+      "tags": ["Mathematics", "AI", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["Scientific American", "UCLA Mathematics Department"]
+    },
+    {
+      "id": "2026-04-26-002",
+      "headline": "A Neural Network Just Discovered Unknown Physics Inside the 'Fourth State of Matter'",
+      "hook": "Scientists pointed an AI at dusty plasma — a strange state of matter beyond solid, liquid, and gas — and it found rules that physicists had completely missed.",
+      "body": "Dusty plasma is one of the stranger corners of physics: a superheated gas seeded with charged dust particles that interact in complex, collective ways. It's found in planetary rings, comet tails, and semiconductor factories — but the math governing how the particles push and pull on each other has always been messy and incomplete.\n\nResearchers combined a neural network with precise 3D particle-tracking experiments and let the AI figure out the governing laws from raw data. The result: it captured the system's behavior with over 99% accuracy — and it did so using force laws that physicists had never written down. Some of the identified interactions are genuinely unexpected, suggesting the field's theoretical models were missing important physics.\n\nWhat makes this finding remarkable isn't just the discovery itself — it's the method. Rather than testing human hypotheses against data, the AI extracted laws directly from observation. This \"bottom-up physics\" approach could be applied to any complex system where behavior is measurable but underlying rules are unclear. Plasma physics is just the beginning.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1591306208574-969f12f1ebfe?w=800",
+        "alt": "Glowing plasma light with red and orange bokeh",
+        "credit": "Photo by Bamdad Norouzian on Unsplash",
+        "creditUrl": "https://unsplash.com/@bamdadnorouzian?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: AI Discovers New Physics in Dusty Plasma", "url": "https://www.sciencedaily.com/releases/2026/04/260422044635.htm" }
+      ],
+      "tags": ["Physics", "AI", "Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily"]
+    },
+    {
+      "id": "2026-04-26-003",
+      "headline": "There May Be a Hidden 'Fifth Force' in the Universe — Our Solar System Just Might Be Hiding It",
+      "hook": "Einstein's equations work perfectly inside our solar system but break down at galactic scales — and a NASA scientist thinks that gap might reveal a fifth fundamental force of nature.",
+      "body": "Physicists have long known that general relativity describes our solar system with extraordinary precision. Yet at the scale of galaxies and beyond, observations suggest something is missing: dark energy seems to be accelerating the expansion of the universe in ways that don't quite fit the math. This contradiction — call it the Great Disconnect — is one of the deepest puzzles in cosmology.\n\nNASA scientist Slava Turyshev has now formalized a leading candidate explanation. Two theoretical models — the Chameleon and the Vainshtein screening — propose that a fifth fundamental force exists but is \"screened out\" near massive objects like the Sun. That's why our solar system appears normal while distant galaxies show anomalous behavior: the force only manifests in low-density environments far from dense matter.\n\nIf confirmed, this would be the first new fundamental force discovered since the weak nuclear force in the 20th century. Upcoming space missions may be able to test the screening predictions precisely enough to distinguish between the two models — or rule them both out. Either way, the answer promises to reshape how we understand gravity, dark energy, and the fate of the universe.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1748187317747-58f0d740c2e2?w=800",
+        "alt": "The solar system depicted with a clear sun and orbiting planets",
+        "credit": "Photo by Anurag Sarkar on Unsplash",
+        "creditUrl": "https://unsplash.com/@vdivision?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Fifth Force in the Solar System", "url": "https://www.sciencedaily.com/releases/2026/04/260423031528.htm" }
+      ],
+      "tags": ["Space", "Physics", "Cosmology"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "NASA"]
+    },
+    {
+      "id": "2026-04-26-004",
+      "headline": "NASA's Curiosity Rover Found 20 Organic Molecules on Mars — Including One Seen in Deep Space",
+      "hook": "A molecule found only in meteorites and the interstellar medium just turned up in Martian clay — and scientists can't rule out biology.",
+      "body": "In the clay-rich sediments of Gale Crater, NASA's Curiosity rover has identified 20 distinct organic molecules — the largest such haul in a single Martian location. Among them is benzothiophene, a compound previously detected in meteorites and deep space but never before confirmed in Martian surface samples.\n\nOrganic molecules aren't themselves evidence of life — they can form through chemistry alone. But their presence in high diversity, especially in a location that ancient Mars may have kept wet for millions of years, tells researchers something important: the raw chemical building blocks for life were present on early Mars. The geological conditions that allow these molecules to persist and accumulate also happen to be the same conditions that could support microbial life.\n\nThe findings don't answer the question of whether Mars ever harbored life. But they sharpen it. The next generation of Mars missions — including sample return, which would bring Martian rock physically to Earth for laboratory analysis — are designed specifically to follow up on exactly this kind of chemical signature. The results from Curiosity are giving mission planners a much better target.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1770723963275-d7644b1e6e6e?w=800",
+        "alt": "The planet Mars against a black background",
+        "credit": "Photo by ostudio on Unsplash",
+        "creditUrl": "https://unsplash.com/@ostudio?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Time: Organic Compounds and Life on Mars", "url": "https://time.com/article/2026/04/21/organic-compounds-life-on-mars-research/" }
+      ],
+      "tags": ["Space", "Mars", "Astrobiology"],
+      "readingTime": "2 min read",
+      "sources": ["Time", "NASA"]
+    },
+    {
+      "id": "2026-04-26-005",
+      "headline": "DeepSeek's V4 Is Here, and It's Giving Silicon Valley Another Headache",
+      "hook": "One year after upending the AI industry with R1, China's DeepSeek just released a 1.6-trillion-parameter model that benchmarks near OpenAI's best — and is fully open-source.",
+      "body": "When DeepSeek released R1 in early 2025, it wiped billions from Nvidia's market cap in a single day by demonstrating that world-class AI performance didn't require world-class hardware budgets. A year later, the Chinese AI lab has done it again. DeepSeek V4-Pro packs 1.6 trillion parameters — using a Mixture of Experts architecture that activates only 49 billion parameters per token — and handles a one-million-token context window large enough to ingest entire software codebases at once.\n\nIn head-to-head benchmarks, V4-Pro performs comparably to OpenAI's frontier models on coding, reasoning, and math tasks. The flagship model is open-source. The smaller V4-Flash is optimized for speed and is already being integrated into developer workflows across Asia and Europe.\n\nThe strategic implications are significant. The U.S. has tightened export restrictions on advanced AI chips going to China, but DeepSeek has repeatedly demonstrated it can achieve top-tier results through algorithmic efficiency rather than raw compute. Whether that advantage holds at the next scale is an open question — but for now, every new DeepSeek release resets expectations about what's achievable without the most powerful hardware.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1749006590475-4592a5dbf99f?w=800",
+        "alt": "Futuristic AI microchip resting on a glossy surface with pastel reflections",
+        "credit": "Photo by Omar:. Lopez-Rincon on Unsplash",
+        "creditUrl": "https://unsplash.com/@procopiopi?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Bloomberg: DeepSeek Unveils Newest Flagship", "url": "https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough" },
+        { "title": "MIT Technology Review: Why DeepSeek V4 Matters", "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/" }
+      ],
+      "tags": ["AI", "Technology", "China"],
+      "readingTime": "2 min read",
+      "sources": ["Bloomberg", "MIT Technology Review"]
+    },
+    {
+      "id": "2026-04-26-006",
+      "headline": "The Software That Locks Your Email Is Now Quantum-Proof",
+      "hook": "GnuPG — the encryption tool that secures millions of emails and software packages — has merged post-quantum cryptography into its main codebase.",
+      "body": "Quantum computers don't exist yet at the scale needed to break encryption. But when they do, they'll be able to crack the math underlying most of the world's current cryptographic systems in minutes. That's why cryptographers have been racing to develop \"post-quantum\" algorithms — encryption schemes that remain secure even against quantum attacks.\n\nThis week, that work hit an important milestone. GnuPG, the widely-used open-source encryption tool that secures email communications and software signing for millions of developers worldwide, has merged post-quantum cryptographic algorithms into its mainline codebase. This means the software update pipeline for countless Linux distributions, software projects, and developer workflows will now have quantum-resistant protections.\n\nThe specific algorithms incorporated are among those standardized by the U.S. National Institute of Standards and Technology (NIST) in 2024. The timing matters: security experts warn that adversaries may be collecting encrypted data today to decrypt later once quantum computers mature — a strategy called \"harvest now, decrypt later.\" Upgrading encryption infrastructure before quantum computers arrive is the only defense. GnuPG's move is a quiet but significant step in that direction.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1774898989484-0b9becf69efb?w=800",
+        "alt": "A locked padlock resting on a computer keyboard, representing cybersecurity",
+        "credit": "Photo by Sasun Bughdaryan on Unsplash",
+        "creditUrl": "https://unsplash.com/@sasun1990?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "GnuPG Announcement: Post-Quantum Crypto Merged", "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html" }
+      ],
+      "tags": ["Cybersecurity", "Cryptography", "Technology"],
+      "readingTime": "2 min read",
+      "sources": ["GnuPG Project", "NIST"]
+    },
+    {
+      "id": "2026-04-26-007",
+      "headline": "The Geothermal Revolution Arrives: 150 Gigawatts of Always-On Clean Energy Could Be Unlocked Anywhere",
+      "hook": "Drilling techniques borrowed from the oil industry can now create geothermal power plants anywhere on Earth — not just where volcanoes happen to be.",
+      "body": "Traditional geothermal energy is limited to places where the Earth's heat naturally reaches close to the surface — Iceland, parts of California, a handful of other locations. Enhanced Geothermal Systems (EGS) change that equation entirely. By injecting water deep into hot rock and creating an artificial hydrothermal system, engineers can generate geothermal electricity almost anywhere on the planet.\n\nThe technology is borrowed directly from hydraulic fracturing in the oil industry — the same directional drilling and rock fracturing techniques, repurposed for clean energy. The numbers are significant: estimates suggest EGS could unlock 135–150 gigawatts of baseload generation capacity in the United States alone. Unlike solar and wind, geothermal power runs continuously, 24 hours a day, making it uniquely valuable for grid stability.\n\nCompany Fervo Energy has already leased 600,000 acres of geothermal land and filed for a Nasdaq IPO. The Trump administration, notably, has quietly allocated $171.5 million to fund field-scale EGS tests — bipartisan support reflecting how unusual this technology is politically: it creates oil-patch jobs while producing carbon-free electricity. If costs continue falling, EGS may become one of the most important energy technologies of the coming decade.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1751175092156-11d5cf10593a?w=800",
+        "alt": "Steam erupting from a geothermal area in Iceland",
+        "credit": "Photo by Matt Palmer on Unsplash",
+        "creditUrl": "https://unsplash.com/@mattpalmer?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "OilPrice.com: America's Geothermal Breakthrough", "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html" }
+      ],
+      "tags": ["Energy", "Climate", "Technology"],
+      "readingTime": "2 min read",
+      "sources": ["OilPrice.com", "Fervo Energy"]
+    },
+    {
+      "id": "2026-04-26-008",
+      "headline": "The Atlantic Ocean's Giant Heat Pump Is Twice as Likely to Collapse as We Thought",
+      "hook": "A new study doubles the estimated probability of AMOC collapse by 2100 — and if it goes, Europe's climate changes dramatically.",
+      "body": "The Atlantic Meridional Overturning Circulation — AMOC — is a massive system of ocean currents that acts as a heat pump for the Northern Hemisphere. It carries warm tropical water toward Europe, keeping the continent far milder than its latitude would otherwise suggest. It also drives rainfall patterns across the Sahel in Africa and regulates sea levels along the U.S. East Coast.\n\nA new study in Science Advances recalculates AMOC's collapse probability at 51% by 2100, up from the 32% figure used in current international climate models and policy documents. The discrepancy isn't small — it means most climate planning has been based on significantly underestimated risk. The study uses updated observational data and improved modeling of how freshwater from melting ice sheets disrupts the circulation.\n\nAn AMOC collapse wouldn't happen overnight, but it would be effectively irreversible on human timescales. Western Europe would see significant cooling, even as global temperatures rise. Rainfall in the Sahel — already fragile — could shift enough to threaten food security for hundreds of millions of people. Scientists are sounding the alarm not to cause panic, but because the updated risk assessment should change policy calculations significantly.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1772426227786-7cb47822495b?w=800",
+        "alt": "Crashing blue ocean waves with white foam",
+        "credit": "Photo by offinlew on Unsplash",
+        "creditUrl": "https://unsplash.com/@offinlew?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "CNN: Atlantic Ocean Circulation Collapse Update", "url": "https://www.cnn.com/2026/04/16/climate/atlantic-ocean-circulation-collapse-update" },
+        { "title": "Irish Times: Scientists Sound Alarm on AMOC", "url": "https://www.irishtimes.com/world/2026/04/16/scientists-sound-alarm-as-atlantic-current-system-much-more-likely-to-collapse-than-thought/" }
+      ],
+      "tags": ["Climate", "Ocean", "Environment"],
+      "readingTime": "2 min read",
+      "sources": ["Science Advances", "CNN", "Irish Times"]
+    },
+    {
+      "id": "2026-04-26-009",
+      "headline": "Africa Is Splitting Apart — and It's Happening Faster Than Scientists Realized",
+      "hook": "New surveys show the East African Rift is in a critical 'necking' phase — the geological step just before a continent tears in two.",
+      "body": "The East African Rift System is one of the most dramatic geological features on Earth — a network of valleys and faults stretching from Mozambique to the Red Sea, where the African continent is slowly pulling itself apart. Scientists have known about it for over a century, but a new survey of the Turkana Rift in Kenya and Ethiopia has revealed that the process is significantly more advanced than previous measurements showed.\n\nThe crust beneath the region is undergoing \"necking\" — a critical phase where the lithosphere has thinned enough that it begins deforming rapidly. Think of pulling a piece of taffy: at first it stretches slowly, but once it gets thin enough, it starts to snap. The necking phase is the geological equivalent of that threshold. Researchers found that parts of the rift are already in this stage, which changes timelines considerably.\n\nIn geological terms, \"faster\" still means tens of millions of years. But the implications are real: in that timeframe, eastern Africa — the Kenya highlands, the Ethiopian plateau, Somalia — will separate from the rest of the continent and a new ocean will form between them. The same region where our species evolved will eventually become an island continent. The cradle of humankind is tearing itself apart.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1535338881181-3646e5ab2ee2?w=800",
+        "alt": "Aerial view of the green hills of Africa near Lewa Conservancy, Kenya",
+        "credit": "Photo by David Clode on Unsplash",
+        "creditUrl": "https://unsplash.com/@davidclode?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Africa Rifting Faster Than Expected", "url": "https://www.sciencedaily.com/releases/2026/04/260424233204.htm" },
+        { "title": "Columbia Climate School: The Cradle of Humankind Is Tearing Apart", "url": "https://news.climate.columbia.edu/2026/04/23/in-eastern-africa-the-cradle-of-humankind-is-tearing-apart/" }
+      ],
+      "tags": ["Geology", "Africa", "Earth Science"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Columbia Climate School"]
+    },
+    {
+      "id": "2026-04-26-010",
+      "headline": "Fossils Reveal Giant 60-Foot Octopuses Were Apex Predators of the Cretaceous Seas",
+      "hook": "Hidden inside solid rocks for 100 million years, jaw fossils from ancient giant octopuses have finally been extracted — and they're enormous.",
+      "body": "Finding soft-bodied animal fossils is notoriously difficult — flesh decays, shells dissolve, and the geological record is merciless. Cephalopods (the group that includes octopuses and squids) are among the least-fossilized major animal groups for exactly this reason. But a new study has used grinding tomography and AI analysis to extract jaw fossils from rocks collected in Japan and Vancouver Island — revealing creatures up to 62 feet (19 meters) long.\n\nThe wear patterns on the jaws are telling. Unlike the smooth beaks of modern octopuses that primarily catch soft prey, these ancient jaws show heavy scarring consistent with crushing hard shells and bones. These weren't passive filter feeders — they were actively hunting large prey in the warm Cretaceous seas, making them candidates for the apex invertebrate predators of their time.\n\nThe discovery expands our understanding of Cretaceous marine ecosystems dramatically. For comparison, the largest living octopus species reaches about 14 feet in arm span. The ancient creatures the researchers found were four times that size. Whether they hunted like modern cephalopods or used entirely different strategies is now an open research question — but the image of giant, intelligent, shell-crushing octopuses stalking the Cretaceous ocean is now scientifically grounded.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1642702020632-7b15c5c67a21?w=800",
+        "alt": "Close-up of an octopus under water",
+        "credit": "Photo by Oleksandr Sushko on Unsplash",
+        "creditUrl": "https://unsplash.com/@wolfalexs?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "CNN: Giant Kraken Octopus in the Cretaceous", "url": "https://www.cnn.com/2026/04/23/science/giant-octopus-cretaceous-study-scli-intl" },
+        { "title": "NPR: Giant Octopus Discovery", "url": "https://www.npr.org/2026/04/24/nx-s1-5793988/giant-octopus-kraken-cretaceous-size" }
+      ],
+      "tags": ["Paleontology", "Ocean", "Nature"],
+      "readingTime": "2 min read",
+      "sources": ["CNN", "NPR"]
+    },
+    {
+      "id": "2026-04-26-011",
+      "headline": "Your Gut Bacteria May Be Quietly Fueling Depression — Especially If You Live Near Pollution",
+      "hook": "Harvard researchers found that a common gut bacterium, when it interacts with environmental pollutants, produces molecules that may trigger depression.",
+      "body": "The gut-brain connection is one of the most exciting frontiers in medicine, but the mechanism has often been maddeningly vague. A new Harvard study sharpens the picture considerably — and adds a disturbing environmental twist. Researchers identified a specific bacterium, Morganella morganii, that produces inflammatory molecules when it comes into contact with certain common environmental pollutants. Those molecules appear to cross the gut-brain barrier and influence brain chemistry in ways consistent with depressive episodes.\n\nThe finding bridges three previously separate fields: environmental health, microbiome research, and psychiatry. It suggests that depression — at least in some cases — may not be purely a brain disorder or a purely psychological phenomenon, but a downstream consequence of how gut bacteria interact with the chemical environment of modern life. Air pollution, industrial chemicals, and certain food additives are all candidates for the kind of pollutant that triggers the reaction.\n\nIf confirmed in larger studies, the implications are significant. It would mean that reducing pollution exposure could be a measurable mental health intervention — not just a feel-good aspiration. It would also open new paths to treatment: targeting the specific bacterial pathways rather than directly modulating brain chemistry. The researchers caution that this is early-stage work, but the mechanistic clarity is unusually strong for this type of research.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1574342117829-f44f2cd15fc4?w=800",
+        "alt": "Medical illustration of Clostridioides difficile bacteria under microscope",
+        "credit": "Photo by CDC on Unsplash",
+        "creditUrl": "https://unsplash.com/@cdc?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Gut Bacteria, Pollution, and Depression", "url": "https://www.sciencedaily.com/news/top/health/" }
+      ],
+      "tags": ["Health", "Microbiome", "Environment"],
+      "readingTime": "2 min read",
+      "sources": ["Harvard University", "ScienceDaily"]
+    },
+    {
+      "id": "2026-04-26-012",
+      "headline": "An ALS Patient Can Now Type Using Only His Thoughts",
+      "hook": "Brad Smith became the third person to receive a Neuralink implant — and despite being fully paralyzed, he can now communicate by imagining finger movements.",
+      "body": "Amyotrophic lateral sclerosis (ALS) is among the cruelest diseases. It progressively destroys the motor neurons that control voluntary movement, leaving patients fully paralyzed while cognition remains intact. Brad Smith, the latest Neuralink patient, lost the ability to speak and move his limbs years ago. This week, he began typing using only his thoughts.\n\nThe Neuralink implant sits on the surface of the motor cortex and records electrical signals produced when the brain imagines movement. Smith imagines moving his fingers — movements he can no longer physically perform — and the system translates those imagined signals into cursor movements and keystrokes. In early tests, he can communicate at rates that allow meaningful conversation.\n\nSmith is the third human to receive the device, following earlier patients who demonstrated similar capabilities. Each iteration of the surgery and software has improved speed, accuracy, and reliability. Neuralink has also filed for expanded trials, with regulators watching closely. Critics raise legitimate concerns about long-term device stability and the ethics of implanting computer hardware in human brains. But for patients like Brad Smith — who have no other means of communication — the calculus is different: any connection to the world is better than silence.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f?w=800",
+        "alt": "A computer circuit board with a brain illustration, representing brain-computer interface technology",
+        "credit": "Photo by Ecliptic Graphic on Unsplash",
+        "creditUrl": "https://unsplash.com/@eclipticgraphic?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "Neuralink: Patient Updates", "url": "https://neuralink.com/" }
+      ],
+      "tags": ["Neuroscience", "Technology", "Health"],
+      "readingTime": "2 min read",
+      "sources": ["Neuralink", "Fierce Biotech"]
+    },
+    {
+      "id": "2026-04-26-013",
+      "headline": "Storm Chasers Just Filmed Something Completely New: Electrical Glows Rising From the Treetops",
+      "hook": "Scientists recorded a faint, upward electrical glow emanating from trees during a thunderstorm — and nobody has a good explanation for what it is.",
+      "body": "Thunderstorm electricity is far stranger than most people realize. Sprites — vast red jellyfish-shaped flashes visible only from above the clouds — weren't confirmed until 1989. Elves, blue jets, and gamma-ray flashes from lightning all emerged as discoveries in the following decades. Scientists now believe there may be another phenomenon to add to the list.\n\nA team of storm chasers equipped with high-sensitivity cameras documented something new during several Texas Panhandle thunderstorms: faint electrical glows rising upward from treetops during active lightning periods. The phenomenon occurs close to the ground — within the visible range of ground-based cameras — and unlike lightning, doesn't propagate downward. It's too faint and too brief to be visible to the naked eye, which is likely why it went undocumented until researchers specifically looked for it.\n\nThe researchers have been careful not to over-interpret the data. The glows don't fit any currently recognized category of electrical atmospheric phenomenon. Whether they're a new type of corona discharge, a poorly understood interaction between ground charges and lightning channels, or something entirely different, isn't yet clear. What is clear is that even in thunderstorms — a phenomenon humans have watched for our entire existence — there are still things we've never seen before.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1612998753552-828f550c3319?w=800",
+        "alt": "Lightning strike over a city during a night thunderstorm in the Texas Panhandle",
+        "credit": "Photo by Raychel Sanner on Unsplash",
+        "creditUrl": "https://unsplash.com/@raychelsnr?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Strange Electrical Phenomena in Thunderstorms", "url": "https://www.sciencedaily.com/news/strange_offbeat/" }
+      ],
+      "tags": ["Weather", "Science", "Discovery"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily"]
+    },
+    {
+      "id": "2026-04-26-014",
+      "headline": "Ground-Penetrating Radar Has Found Two Hidden Voids Behind the Menkaure Pyramid at Giza",
+      "hook": "Researchers scanning the third and smallest Giza pyramid detected two unexplained air-filled chambers — one of which may be an undiscovered entrance corridor.",
+      "body": "The pyramids of Giza have been studied for two centuries, but modern technology keeps revealing things human eyes missed. Following the discovery of a large hidden void inside the Great Pyramid of Khufu in 2017 — found using cosmic-ray muon detectors — researchers have turned to ground-penetrating radar to examine the Menkaure pyramid, the smallest of the three main structures.\n\nScans of the eastern face detected two distinct air-filled voids beneath the surface. One is relatively shallow and may represent a structural feature of the pyramid's construction. The other is deeper and its shape suggests it could be a corridor — possibly an undiscovered entrance that was sealed or buried in antiquity. The known entrance on the north face was cut in the 9th century by Islamic-era excavators, so the existence of earlier or alternative access points is historically plausible.\n\nThe team is planning more detailed scans before any excavation decisions are made. Egypt's antiquities ministry has been cautious about invasive investigations since the muon scan controversy, and rightly so — the pyramids are irreplaceable. But non-destructive scanning continues to prove its value: three of the world's most-studied monuments are still giving up secrets after 4,500 years.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1697453809017-4f65bd6d7f45?w=800",
+        "alt": "A large pyramid in the middle of the Egyptian desert",
+        "credit": "Photo by Mohamad Sameh on Unsplash",
+        "creditUrl": "https://unsplash.com/@sameh_from_egypt?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Hidden Voids in the Menkaure Pyramid", "url": "https://www.sciencedaily.com/" }
+      ],
+      "tags": ["Archaeology", "Egypt", "History"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily", "Egyptian Ministry of Antiquities"]
+    },
+    {
+      "id": "2026-04-26-015",
+      "headline": "Gravitational Waves From the Big Bang May Have Created Dark Matter",
+      "hook": "A new theory proposes that the ancient spacetime ripples of the early universe didn't just shake reality — they may have physically manufactured dark matter.",
+      "body": "Dark matter makes up roughly 27% of the universe's total mass-energy, yet we've never directly detected a dark matter particle. Meanwhile, the early universe generated intense gravitational waves — ripples in spacetime — during the chaotic phase transitions that followed the Big Bang. Physicists have long treated these as separate mysteries. New research suggests they may be deeply connected.\n\nThe theory proposes that gravitational waves propagating through the primordial universe could have converted energy into dark matter particles through a quantum process. The math works out remarkably well: the density of dark matter we observe today is consistent with what this mechanism would have produced, given what we know about the energy scale of early-universe physics.\n\nThis is significant because it provides a production mechanism for dark matter that doesn't require the particle to interact with ordinary matter at all — which would explain why every direct detection experiment has come up empty. It's a testable prediction, too: gravitational wave observatories like LISA (launching in the 2030s) may be sensitive enough to detect the specific spectrum of primordial gravitational waves this theory predicts. If they match, it would be among the most profound discoveries in cosmology's history.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1712510795950-5ac9970da62c?w=800",
+        "alt": "A deep field view of thousands of galaxies captured by the Hubble Space Telescope",
+        "credit": "Photo by NASA Hubble Space Telescope on Unsplash",
+        "creditUrl": "https://unsplash.com/@hubblespacetelescope?utm_source=shuffle&utm_medium=referral"
+      },
+      "links": [
+        { "title": "ScienceDaily: Gravitational Waves and Dark Matter", "url": "https://www.sciencedaily.com/" }
+      ],
+      "tags": ["Cosmology", "Space", "Physics"],
+      "readingTime": "2 min read",
+      "sources": ["ScienceDaily"]
+    }
+  ]
+}
